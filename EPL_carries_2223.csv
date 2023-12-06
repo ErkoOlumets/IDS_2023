@@ -1,0 +1,761 @@
+Rk,Team,Date,Opp,Comp,Result,GF,GA,GD,Poss,G-PK,PK,PKatt,PKm,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
+1,Brentford,2023-05-28,Manchester City,eng Premier League,W 1-0,1,0,+1,35,1,0,0,0,266,1075,531,16,7,6,10,9,269,13,Match Report
+2,Wolves,2023-05-28,Arsenal,eng Premier League,L 0-5,0,5,-5,49,0,0,0,0,292,1752,865,13,7,3,10,9,400,22,Match Report
+3,Brighton,2023-05-28,Aston Villa,eng Premier League,L 1-2,1,2,-1,59,1,0,0,0,298,1563,818,19,6,9,18,9,365,33,Match Report
+4,Arsenal,2023-05-28,Wolves,eng Premier League,W 5-0,5,0,+5,51,5,0,0,0,341,1815,998,20,14,8,10,5,410,44,Match Report
+5,Southampton,2023-05-28,Liverpool,eng Premier League,D 4-4,4,4,0,31,4,0,0,0,199,1273,715,21,9,6,13,7,225,14,Match Report
+6,Fulham,2023-05-28,Manchester Utd,eng Premier League,L 1-2,1,2,-1,47,1,0,1,1,316,1978,1074,23,18,1,20,12,378,24,Match Report
+7,Manchester Utd,2023-05-28,Fulham,eng Premier League,W 2-1,2,1,+1,53,2,0,0,0,310,1369,680,16,10,8,9,4,422,45,Match Report
+8,Leicester City,2023-05-28,West Ham,eng Premier League,W 2-1,2,1,+1,48,2,0,0,0,439,2070,1025,17,12,8,11,8,492,34,Match Report
+9,West Ham,2023-05-28,Leicester City,eng Premier League,L 1-2,1,2,-1,52,1,0,0,0,455,2316,1284,25,15,11,10,7,516,54,Match Report
+10,Crystal Palace,2023-05-28,Nott'ham Forest,eng Premier League,D 1-1,1,1,0,66,1,0,0,0,498,2694,1484,29,15,6,19,11,489,51,Match Report
+11,Liverpool,2023-05-28,Southampton,eng Premier League,D 4-4,4,4,0,69,4,0,0,0,531,2580,1311,29,17,13,17,13,559,77,Match Report
+12,Tottenham,2023-05-28,Leeds United,eng Premier League,W 4-1,4,1,+3,48,4,0,0,0,323,1914,886,18,15,4,16,9,359,28,Match Report
+13,Chelsea,2023-05-28,Newcastle Utd,eng Premier League,D 1-1,1,1,0,64,0,0,0,0,549,2648,1567,36,19,7,10,5,551,54,Match Report
+14,Bournemouth,2023-05-28,Everton,eng Premier League,L 0-1,0,1,-1,62,0,0,0,0,404,2047,1091,15,6,2,20,5,474,40,Match Report
+15,Leeds United,2023-05-28,Tottenham,eng Premier League,L 1-4,1,4,-3,52,1,0,0,0,347,1739,864,21,19,1,17,19,374,57,Match Report
+16,Everton,2023-05-28,Bournemouth,eng Premier League,W 1-0,1,0,+1,38,1,0,0,0,191,1225,718,18,15,5,11,6,248,31,Match Report
+17,Aston Villa,2023-05-28,Brighton,eng Premier League,W 2-1,2,1,+1,41,2,0,0,0,236,1400,766,20,18,5,13,9,226,26,Match Report
+18,Nott'ham Forest,2023-05-28,Crystal Palace,eng Premier League,D 1-1,1,1,0,34,1,0,0,0,201,994,480,10,4,3,12,8,204,14,Match Report
+19,Manchester City,2023-05-28,Brentford,eng Premier League,L 0-1,0,1,-1,65,0,0,0,0,501,2790,1371,26,26,4,11,13,585,33,Match Report
+20,Newcastle Utd,2023-05-28,Chelsea,eng Premier League,D 1-1,1,1,0,36,1,0,0,0,292,1598,932,20,11,9,14,10,295,30,Match Report
+21,Chelsea,2023-05-25,Manchester Utd,eng Premier League,L 1-4,1,4,-3,58,1,0,0,0,400,2505,1370,29,27,14,21,7,579,56,Match Report
+22,Manchester Utd,2023-05-25,Chelsea,eng Premier League,W 4-1,4,1,+3,42,3,1,1,0,327,1777,1027,27,11,7,15,12,385,35,Match Report
+23,Brighton,2023-05-24,Manchester City,eng Premier League,D 1-1,1,1,0,40,1,0,0,0,307,1601,738,18,17,8,14,5,326,31,Match Report
+24,Manchester City,2023-05-24,Brighton,eng Premier League,D 1-1,1,1,0,60,1,0,0,0,513,2420,1214,28,19,9,12,4,544,31,Match Report
+25,Newcastle Utd,2023-05-22,Leicester City,eng Premier League,D 0-0,0,0,0,77,0,0,0,0,593,3122,1619,41,31,6,16,12,653,75,Match Report
+26,Leicester City,2023-05-22,Newcastle Utd,eng Premier League,D 0-0,0,0,0,23,0,0,0,0,149,665,337,2,2,0,6,4,131,8,Match Report
+27,Chelsea,2023-05-21,Manchester City,eng Premier League,L 0-1,0,1,-1,36,0,0,0,0,343,1752,956,21,12,6,13,1,343,31,Match Report
+28,Brighton,2023-05-21,Southampton,eng Premier League,W 3-1,3,1,+2,63,3,0,0,0,573,2456,1331,21,16,10,14,9,594,64,Match Report
+29,Leeds United,2023-05-21,West Ham,eng Premier League,L 1-3,1,3,-2,41,1,0,0,0,300,1413,792,17,11,6,9,4,275,44,Match Report
+30,West Ham,2023-05-21,Leeds United,eng Premier League,W 3-1,3,1,+2,59,3,0,0,0,380,2290,1171,22,21,6,13,8,448,41,Match Report
+31,Southampton,2023-05-21,Brighton,eng Premier League,L 1-3,1,3,-2,37,1,0,0,0,252,1452,675,16,9,1,12,7,315,11,Match Report
+32,Manchester City,2023-05-21,Chelsea,eng Premier League,W 1-0,1,0,+1,64,1,0,0,0,543,3018,1740,28,21,11,8,8,645,35,Match Report
+33,Liverpool,2023-05-20,Aston Villa,eng Premier League,D 1-1,1,1,0,66,1,0,0,0,487,2159,1166,31,17,16,17,14,460,55,Match Report
+34,Nott'ham Forest,2023-05-20,Arsenal,eng Premier League,W 1-0,1,0,+1,19,1,0,0,0,123,732,326,7,3,2,13,4,83,10,Match Report
+35,Aston Villa,2023-05-20,Liverpool,eng Premier League,D 1-1,1,1,0,34,1,0,1,1,238,1327,643,8,6,4,12,8,192,8,Match Report
+36,Crystal Palace,2023-05-20,Fulham,eng Premier League,D 2-2,2,2,0,51,2,0,0,0,300,1753,960,16,10,6,17,7,311,33,Match Report
+37,Everton,2023-05-20,Wolves,eng Premier League,D 1-1,1,1,0,48,1,0,0,0,212,1400,716,12,10,1,18,4,317,35,Match Report
+38,Bournemouth,2023-05-20,Manchester Utd,eng Premier League,L 0-1,0,1,-1,41,0,0,0,0,398,1862,964,15,16,6,15,15,403,35,Match Report
+39,Arsenal,2023-05-20,Nott'ham Forest,eng Premier League,L 0-1,0,1,-1,81,0,0,0,0,583,3252,2012,30,25,5,16,11,656,71,Match Report
+40,Wolves,2023-05-20,Everton,eng Premier League,D 1-1,1,1,0,52,1,0,0,0,237,1501,860,17,9,6,9,6,373,32,Match Report
+41,Brentford,2023-05-20,Tottenham,eng Premier League,W 3-1,3,1,+2,39,3,0,0,0,303,1580,790,15,7,5,16,7,302,28,Match Report
+42,Manchester Utd,2023-05-20,Bournemouth,eng Premier League,W 1-0,1,0,+1,59,1,0,0,0,460,2318,1275,27,14,11,15,7,584,57,Match Report
+43,Tottenham,2023-05-20,Brentford,eng Premier League,L 1-3,1,3,-2,61,1,0,0,0,458,2292,1182,22,20,7,14,6,528,42,Match Report
+44,Fulham,2023-05-20,Crystal Palace,eng Premier League,D 2-2,2,2,0,49,1,1,1,0,266,1884,1094,16,10,3,17,7,287,24,Match Report
+45,Newcastle Utd,2023-05-18,Brighton,eng Premier League,W 4-1,4,1,+3,35,3,0,0,0,207,1209,536,16,15,9,20,7,207,27,Match Report
+46,Brighton,2023-05-18,Newcastle Utd,eng Premier League,L 1-4,1,4,-3,65,1,0,0,0,317,2042,1205,19,8,3,18,2,456,33,Match Report
+47,Leicester City,2023-05-15,Liverpool,eng Premier League,L 0-3,0,3,-3,34,0,0,0,0,233,1081,467,8,3,4,17,6,257,15,Match Report
+48,Liverpool,2023-05-15,Leicester City,eng Premier League,W 3-0,3,0,+3,66,3,0,0,0,516,2541,1229,29,28,11,12,27,609,43,Match Report
+49,Everton,2023-05-14,Manchester City,eng Premier League,L 0-3,0,3,-3,37,0,0,0,0,303,1556,756,10,13,1,8,3,343,26,Match Report
+50,Brighton,2023-05-14,Arsenal,eng Premier League,W 3-0,3,0,+3,59,3,0,0,0,395,2031,887,16,15,5,8,8,446,16,Match Report
+51,Brentford,2023-05-14,West Ham,eng Premier League,W 2-0,2,0,+2,53,2,0,0,0,345,1934,1006,19,15,8,17,6,439,40,Match Report
+52,Manchester City,2023-05-14,Everton,eng Premier League,W 3-0,3,0,+3,63,3,0,0,0,520,2736,1649,21,14,4,4,10,622,51,Match Report
+53,Arsenal,2023-05-14,Brighton,eng Premier League,L 0-3,0,3,-3,41,0,0,0,0,269,1281,704,14,8,10,9,11,286,27,Match Report
+54,West Ham,2023-05-14,Brentford,eng Premier League,L 0-2,0,2,-2,47,0,0,0,0,251,1387,696,10,9,5,14,10,375,22,Match Report
+55,Tottenham,2023-05-13,Aston Villa,eng Premier League,L 1-2,1,2,-1,52,0,1,1,0,336,1722,966,9,7,2,9,4,391,26,Match Report
+56,Southampton,2023-05-13,Fulham,eng Premier League,L 0-2,0,2,-2,36,0,0,0,0,224,1421,688,17,8,2,7,5,291,23,Match Report
+57,Manchester Utd,2023-05-13,Wolves,eng Premier League,W 2-0,2,0,+2,48,2,0,0,0,340,1682,945,22,17,12,16,3,377,56,Match Report
+58,Wolves,2023-05-13,Manchester Utd,eng Premier League,L 0-2,0,2,-2,52,0,0,0,0,286,1815,1067,21,10,4,11,8,404,35,Match Report
+59,Chelsea,2023-05-13,Nott'ham Forest,eng Premier League,D 2-2,2,2,0,75,2,0,0,0,577,3214,1717,26,25,6,14,16,663,67,Match Report
+60,Newcastle Utd,2023-05-13,Leeds United,eng Premier League,D 2-2,2,2,0,64,0,2,2,0,403,2097,990,18,13,7,20,8,392,51,Match Report
+61,Fulham,2023-05-13,Southampton,eng Premier League,W 2-0,2,0,+2,64,2,0,0,0,519,2523,1185,26,14,8,10,10,571,58,Match Report
+62,Aston Villa,2023-05-13,Tottenham,eng Premier League,W 2-1,2,1,+1,48,2,0,0,0,390,2250,994,26,16,5,13,7,360,45,Match Report
+63,Leeds United,2023-05-13,Newcastle Utd,eng Premier League,D 2-2,2,2,0,36,2,0,1,1,194,1083,378,7,7,3,7,13,177,28,Match Report
+64,Crystal Palace,2023-05-13,Bournemouth,eng Premier League,W 2-0,2,0,+2,59,2,0,0,0,451,2609,1206,22,18,13,9,11,536,45,Match Report
+65,Nott'ham Forest,2023-05-13,Chelsea,eng Premier League,D 2-2,2,2,0,25,2,0,0,0,140,946,472,2,4,1,7,5,147,15,Match Report
+66,Bournemouth,2023-05-13,Crystal Palace,eng Premier League,L 0-2,0,2,-2,41,0,0,0,0,308,1144,656,6,5,1,15,15,352,21,Match Report
+67,Leicester City,2023-05-08,Fulham,eng Premier League,L 3-5,3,5,-2,43,2,1,2,1,304,1893,984,23,16,7,13,10,315,38,Match Report
+68,Fulham,2023-05-08,Leicester City,eng Premier League,W 5-3,5,3,+2,57,5,0,0,0,325,2008,1009,16,12,1,11,8,437,32,Match Report
+69,Nott'ham Forest,2023-05-08,Southampton,eng Premier League,W 4-3,4,3,+1,36,3,1,1,0,176,854,538,11,9,4,17,5,223,23,Match Report
+70,Southampton,2023-05-08,Nott'ham Forest,eng Premier League,L 3-4,3,4,-1,64,2,1,1,0,429,2284,1157,22,7,9,14,15,469,55,Match Report
+71,Brighton,2023-05-08,Everton,eng Premier League,L 1-5,1,5,-4,78,1,0,0,0,627,3466,2008,32,18,5,18,9,690,92,Match Report
+72,Everton,2023-05-08,Brighton,eng Premier League,W 5-1,5,1,+4,22,4,0,0,0,185,1047,592,13,13,6,13,6,149,13,Match Report
+73,Newcastle Utd,2023-05-07,Arsenal,eng Premier League,L 0-2,0,2,-2,55,0,0,0,0,268,1640,1053,22,12,9,13,13,346,38,Match Report
+74,West Ham,2023-05-07,Manchester Utd,eng Premier League,W 1-0,1,0,+1,35,1,0,0,0,201,1363,786,18,9,5,12,11,277,36,Match Report
+75,Manchester Utd,2023-05-07,West Ham,eng Premier League,L 0-1,0,1,-1,65,0,0,0,0,479,2233,1353,25,19,6,12,8,605,58,Match Report
+76,Arsenal,2023-05-07,Newcastle Utd,eng Premier League,W 2-0,2,0,+2,45,1,0,0,0,266,1236,563,16,12,3,20,11,286,26,Match Report
+77,Wolves,2023-05-06,Aston Villa,eng Premier League,W 1-0,1,0,+1,38,1,0,0,0,189,932,420,9,9,1,6,8,210,11,Match Report
+78,Aston Villa,2023-05-06,Wolves,eng Premier League,L 0-1,0,1,-1,62,0,0,0,0,358,2278,1270,35,21,6,17,5,392,42,Match Report
+79,Leeds United,2023-05-06,Manchester City,eng Premier League,L 1-2,1,2,-1,20,1,0,0,0,105,532,249,2,6,0,9,5,131,7,Match Report
+80,Brentford,2023-05-06,Liverpool,eng Premier League,L 0-1,0,1,-1,46,0,0,0,0,281,1264,602,10,1,2,9,5,256,24,Match Report
+81,Manchester City,2023-05-06,Leeds United,eng Premier League,W 2-1,2,1,+1,80,2,0,1,1,710,3082,1681,23,19,9,17,8,809,79,Match Report
+82,Crystal Palace,2023-05-06,Tottenham,eng Premier League,L 0-1,0,1,-1,44,0,0,0,0,252,1421,713,17,7,6,16,9,311,27,Match Report
+83,Liverpool,2023-05-06,Brentford,eng Premier League,W 1-0,1,0,+1,54,1,0,0,0,285,1542,887,12,11,2,11,7,328,37,Match Report
+84,Tottenham,2023-05-06,Crystal Palace,eng Premier League,W 1-0,1,0,+1,56,1,0,0,0,380,1861,1079,15,7,5,6,9,447,35,Match Report
+85,Chelsea,2023-05-06,Bournemouth,eng Premier League,W 3-1,3,1,+2,65,3,0,0,0,379,2233,1287,28,22,8,20,6,558,52,Match Report
+86,Bournemouth,2023-05-06,Chelsea,eng Premier League,L 1-3,1,3,-2,35,1,0,0,0,230,1451,836,16,8,7,11,6,256,22,Match Report
+87,Brighton,2023-05-04,Manchester Utd,eng Premier League,W 1-0,1,0,+1,59,0,1,1,0,390,2069,1346,27,13,13,13,8,498,49,Match Report
+88,Manchester Utd,2023-05-04,Brighton,eng Premier League,L 0-1,0,1,-1,41,0,0,0,0,254,987,490,9,8,5,9,6,304,37,Match Report
+89,West Ham,2023-05-03,Manchester City,eng Premier League,L 0-3,0,3,-3,31,0,0,0,0,267,1262,514,7,5,0,9,7,268,20,Match Report
+90,Fulham,2023-05-03,Liverpool,eng Premier League,L 0-1,0,1,-1,43,0,0,0,0,352,1995,970,19,8,4,15,9,403,35,Match Report
+91,Manchester City,2023-05-03,West Ham,eng Premier League,W 3-0,3,0,+3,69,3,0,0,0,500,3083,1775,37,33,7,11,8,669,61,Match Report
+92,Liverpool,2023-05-03,Fulham,eng Premier League,W 1-0,1,0,+1,57,0,1,1,0,429,1840,858,12,15,3,13,7,545,48,Match Report
+93,Chelsea,2023-05-02,Arsenal,eng Premier League,L 1-3,1,3,-2,45,1,0,0,0,341,1693,794,14,12,5,12,8,394,25,Match Report
+94,Arsenal,2023-05-02,Chelsea,eng Premier League,W 3-1,3,1,+2,55,3,0,0,0,415,1891,911,17,12,9,8,9,481,55,Match Report
+95,Everton,2023-05-01,Leicester City,eng Premier League,D 2-2,2,2,0,46,1,1,1,0,272,1522,796,17,17,5,16,10,278,34,Match Report
+96,Leicester City,2023-05-01,Everton,eng Premier League,D 2-2,2,2,0,54,2,0,1,1,307,1970,1079,18,10,8,16,12,363,29,Match Report
+97,Fulham,2023-04-30,Manchester City,eng Premier League,L 1-2,1,2,-1,38,1,0,0,0,267,1438,709,9,10,0,11,11,324,19,Match Report
+98,Manchester Utd,2023-04-30,Aston Villa,eng Premier League,W 1-0,1,0,+1,57,1,0,0,0,315,1474,728,11,10,7,18,8,454,35,Match Report
+99,Tottenham,2023-04-30,Liverpool,eng Premier League,L 3-4,3,4,-1,33,3,0,0,0,235,1080,436,8,2,4,11,9,270,14,Match Report
+100,Aston Villa,2023-04-30,Manchester Utd,eng Premier League,L 0-1,0,1,-1,43,0,0,0,0,304,1723,836,10,7,3,25,9,310,27,Match Report
+101,Manchester City,2023-04-30,Fulham,eng Premier League,W 2-1,2,1,+1,62,1,1,1,0,536,2562,1135,12,12,4,12,10,582,44,Match Report
+102,Newcastle Utd,2023-04-30,Southampton,eng Premier League,W 3-1,3,1,+2,63,2,0,0,0,355,1727,780,22,10,11,24,13,438,65,Match Report
+103,Southampton,2023-04-30,Newcastle Utd,eng Premier League,L 1-3,1,3,-2,37,1,0,0,0,227,1409,793,23,11,5,16,6,226,8,Match Report
+104,Bournemouth,2023-04-30,Leeds United,eng Premier League,W 4-1,4,1,+3,42,4,0,0,0,246,1478,601,10,3,4,14,9,292,19,Match Report
+105,Liverpool,2023-04-30,Tottenham,eng Premier League,W 4-3,4,3,+1,67,3,1,1,0,536,2362,1063,20,18,6,17,7,665,62,Match Report
+106,Leeds United,2023-04-30,Bournemouth,eng Premier League,L 1-4,1,4,-3,58,1,0,0,0,424,1993,858,18,15,4,16,16,432,52,Match Report
+107,Brighton,2023-04-29,Wolves,eng Premier League,W 6-0,6,0,+6,57,6,0,0,0,361,2091,1122,21,19,9,12,7,466,39,Match Report
+108,Crystal Palace,2023-04-29,West Ham,eng Premier League,W 4-3,4,3,+1,59,3,1,1,0,345,1908,992,27,16,12,17,15,412,50,Match Report
+109,Brentford,2023-04-29,Nott'ham Forest,eng Premier League,W 2-1,2,1,+1,68,2,0,0,0,480,2280,1199,8,15,3,15,7,489,54,Match Report
+110,Nott'ham Forest,2023-04-29,Brentford,eng Premier League,L 1-2,1,2,-1,32,1,0,0,0,137,701,376,4,4,0,13,7,184,22,Match Report
+111,Wolves,2023-04-29,Brighton,eng Premier League,L 0-6,0,6,-6,43,0,0,0,0,292,1543,743,12,9,5,8,7,325,19,Match Report
+112,West Ham,2023-04-29,Crystal Palace,eng Premier League,L 3-4,3,4,-1,41,3,0,0,0,251,1251,545,8,2,0,15,13,242,28,Match Report
+113,Tottenham,2023-04-27,Manchester Utd,eng Premier League,D 2-2,2,2,0,40,2,0,0,0,283,1607,854,25,19,10,9,9,332,43,Match Report
+114,Everton,2023-04-27,Newcastle Utd,eng Premier League,L 1-4,1,4,-3,40,1,0,0,0,222,1379,665,10,11,1,17,8,211,28,Match Report
+115,Bournemouth,2023-04-27,Southampton,eng Premier League,W 1-0,1,0,+1,43,1,0,0,0,257,1703,749,19,17,7,18,10,326,37,Match Report
+116,Newcastle Utd,2023-04-27,Everton,eng Premier League,W 4-1,4,1,+3,60,4,0,0,0,311,1465,686,17,11,10,26,11,379,33,Match Report
+117,Manchester Utd,2023-04-27,Tottenham,eng Premier League,D 2-2,2,2,0,60,2,0,0,0,530,2278,1162,21,15,11,11,7,535,53,Match Report
+118,Southampton,2023-04-27,Bournemouth,eng Premier League,L 0-1,0,1,-1,57,0,0,0,0,406,1666,857,19,12,3,15,13,439,49,Match Report
+119,Manchester City,2023-04-26,Arsenal,eng Premier League,W 4-1,4,1,+3,52,4,0,0,0,329,1853,1013,24,12,5,12,6,424,33,Match Report
+120,West Ham,2023-04-26,Liverpool,eng Premier League,L 1-2,1,2,-1,28,1,0,0,0,183,962,545,17,2,7,14,10,232,24,Match Report
+121,Arsenal,2023-04-26,Manchester City,eng Premier League,L 1-4,1,4,-3,48,1,0,0,0,367,1807,850,11,9,5,8,8,398,30,Match Report
+122,Liverpool,2023-04-26,West Ham,eng Premier League,W 2-1,2,1,+1,72,2,0,0,0,691,2875,1217,23,26,7,15,7,765,58,Match Report
+123,Brighton,2023-04-26,Nott'ham Forest,eng Premier League,L 1-3,1,3,-2,74,1,0,0,0,601,3385,2144,27,29,7,10,13,638,50,Match Report
+124,Chelsea,2023-04-26,Brentford,eng Premier League,L 0-2,0,2,-2,71,0,0,0,0,536,2499,1295,30,28,4,12,7,638,64,Match Report
+125,Nott'ham Forest,2023-04-26,Brighton,eng Premier League,W 3-1,3,1,+2,26,1,1,2,1,187,890,483,11,4,6,10,6,170,18,Match Report
+126,Brentford,2023-04-26,Chelsea,eng Premier League,W 2-0,2,0,+2,29,1,0,0,0,183,911,369,7,6,2,14,9,193,17,Match Report
+127,Fulham,2023-04-25,Aston Villa,eng Premier League,L 0-1,0,1,-1,49,0,0,0,0,298,1371,684,12,4,2,9,5,344,36,Match Report
+128,Crystal Palace,2023-04-25,Wolves,eng Premier League,L 0-2,0,2,-2,59,0,0,0,0,370,1898,933,19,12,8,22,14,401,38,Match Report
+129,Aston Villa,2023-04-25,Fulham,eng Premier League,W 1-0,1,0,+1,51,1,0,0,0,363,1802,789,9,8,2,12,10,371,28,Match Report
+130,Leeds United,2023-04-25,Leicester City,eng Premier League,D 1-1,1,1,0,41,1,0,0,0,222,908,399,7,7,2,17,11,226,25,Match Report
+131,Leicester City,2023-04-25,Leeds United,eng Premier League,D 1-1,1,1,0,59,1,0,0,0,292,1466,804,10,8,1,14,18,357,46,Match Report
+132,Wolves,2023-04-25,Crystal Palace,eng Premier League,W 2-0,2,0,+2,41,0,1,1,0,202,1162,579,8,5,3,11,5,253,22,Match Report
+133,Bournemouth,2023-04-23,West Ham,eng Premier League,L 0-4,0,4,-4,64,0,0,0,0,531,3069,1969,35,23,3,16,7,604,55,Match Report
+134,Tottenham,2023-04-23,Newcastle Utd,eng Premier League,L 1-6,1,6,-5,44,1,0,0,0,276,1287,595,17,8,5,10,9,338,17,Match Report
+135,Newcastle Utd,2023-04-23,Tottenham,eng Premier League,W 6-1,6,1,+5,56,6,0,0,0,465,1978,976,21,19,6,12,8,470,50,Match Report
+136,West Ham,2023-04-23,Bournemouth,eng Premier League,W 4-0,4,0,+4,36,4,0,0,0,301,1632,876,22,10,8,11,7,295,34,Match Report
+137,Brentford,2023-04-22,Aston Villa,eng Premier League,D 1-1,1,1,0,44,1,0,0,0,236,1024,547,10,9,4,8,3,223,28,Match Report
+138,Nott'ham Forest,2023-04-22,Liverpool,eng Premier League,L 2-3,2,3,-1,20,2,0,0,0,112,622,303,7,6,1,11,6,88,9,Match Report
+139,Leeds United,2023-04-22,Fulham,eng Premier League,L 1-2,1,2,-1,50,0,0,0,0,304,1569,789,13,5,3,12,12,298,35,Match Report
+140,Leicester City,2023-04-22,Wolves,eng Premier League,W 2-1,2,1,+1,42,1,1,1,0,239,1548,721,14,10,3,20,8,288,38,Match Report
+141,Liverpool,2023-04-22,Nott'ham Forest,eng Premier League,W 3-2,3,2,+1,80,3,0,0,0,534,2617,1334,24,18,4,14,7,607,58,Match Report
+142,Wolves,2023-04-22,Leicester City,eng Premier League,L 1-2,1,2,-1,58,1,0,0,0,380,1804,931,21,16,2,14,14,435,35,Match Report
+143,Fulham,2023-04-22,Leeds United,eng Premier League,W 2-1,2,1,+1,50,2,0,0,0,342,1812,895,23,8,5,17,9,302,41,Match Report
+144,Crystal Palace,2023-04-22,Everton,eng Premier League,D 0-0,0,0,0,56,0,0,0,0,329,1618,893,17,9,4,19,10,341,27,Match Report
+145,Aston Villa,2023-04-22,Brentford,eng Premier League,D 1-1,1,1,0,56,1,0,0,0,263,1606,918,17,16,1,13,9,346,36,Match Report
+146,Everton,2023-04-22,Crystal Palace,eng Premier League,D 0-0,0,0,0,44,0,0,0,0,203,1181,537,4,6,0,15,4,239,24,Match Report
+147,Southampton,2023-04-21,Arsenal,eng Premier League,D 3-3,3,3,0,26,3,0,0,0,165,979,463,8,9,1,10,11,161,8,Match Report
+148,Arsenal,2023-04-21,Southampton,eng Premier League,D 3-3,3,3,0,74,3,0,0,0,526,2958,1656,33,16,11,12,10,606,89,Match Report
+149,Leeds United,2023-04-17,Liverpool,eng Premier League,L 1-6,1,6,-5,27,1,0,0,0,233,991,394,7,4,2,14,10,225,24,Match Report
+150,Liverpool,2023-04-17,Leeds United,eng Premier League,W 6-1,6,1,+5,73,6,0,0,0,768,2559,1237,13,23,3,14,7,801,58,Match Report
+151,West Ham,2023-04-16,Arsenal,eng Premier League,D 2-2,2,2,0,30,1,1,1,0,172,948,437,11,4,5,10,5,177,20,Match Report
+152,Nott'ham Forest,2023-04-16,Manchester Utd,eng Premier League,L 0-2,0,2,-2,32,0,0,0,0,190,1128,525,12,11,1,12,5,198,13,Match Report
+153,Manchester Utd,2023-04-16,Nott'ham Forest,eng Premier League,W 2-0,2,0,+2,68,2,0,0,0,513,2387,1300,26,22,3,9,11,531,72,Match Report
+154,Arsenal,2023-04-16,West Ham,eng Premier League,D 2-2,2,2,0,70,2,0,1,1,472,2499,1373,14,19,2,10,7,544,49,Match Report
+155,Newcastle Utd,2023-04-15,Aston Villa,eng Premier League,L 0-3,0,3,-3,48,0,0,0,0,228,1273,639,15,9,3,11,7,305,34,Match Report
+156,Leicester City,2023-04-15,Manchester City,eng Premier League,L 1-3,1,3,-2,30,1,0,0,0,251,1189,513,8,5,1,9,6,273,16,Match Report
+157,Everton,2023-04-15,Fulham,eng Premier League,L 1-3,1,3,-2,46,1,0,0,0,345,1874,923,17,9,3,17,12,321,40,Match Report
+158,Brentford,2023-04-15,Wolves,eng Premier League,L 0-2,0,2,-2,50,0,0,0,0,323,1517,737,12,7,3,14,13,382,37,Match Report
+159,Manchester City,2023-04-15,Leicester City,eng Premier League,W 3-1,3,1,+2,70,2,1,1,0,578,3337,1851,29,18,7,11,5,712,57,Match Report
+160,Crystal Palace,2023-04-15,Southampton,eng Premier League,W 2-0,2,0,+2,42,2,0,0,0,251,1438,691,11,11,3,14,8,280,25,Match Report
+161,Fulham,2023-04-15,Everton,eng Premier League,W 3-1,3,1,+2,54,3,0,0,0,333,1904,837,20,17,4,7,8,376,36,Match Report
+162,Aston Villa,2023-04-15,Newcastle Utd,eng Premier League,W 3-0,3,0,+3,52,3,0,0,0,291,1771,821,23,7,7,16,10,332,25,Match Report
+163,Tottenham,2023-04-15,Bournemouth,eng Premier League,L 2-3,2,3,-1,58,2,0,0,0,326,1913,1090,24,11,12,7,7,418,40,Match Report
+164,Bournemouth,2023-04-15,Tottenham,eng Premier League,W 3-2,3,2,+1,42,3,0,0,0,294,1587,713,17,9,10,12,9,302,18,Match Report
+165,Wolves,2023-04-15,Brentford,eng Premier League,W 2-0,2,0,+2,50,2,0,0,0,392,1534,664,8,3,3,8,15,380,25,Match Report
+166,Chelsea,2023-04-15,Brighton,eng Premier League,L 1-2,1,2,-1,43,1,0,0,0,333,1656,856,21,10,4,6,13,352,21,Match Report
+167,Southampton,2023-04-15,Crystal Palace,eng Premier League,L 0-2,0,2,-2,58,0,0,0,0,371,2336,1325,15,14,4,16,14,435,46,Match Report
+168,Brighton,2023-04-15,Chelsea,eng Premier League,W 2-1,2,1,+1,57,2,0,0,0,424,2712,1369,29,25,9,11,7,495,51,Match Report
+169,Arsenal,2023-04-09,Liverpool,eng Premier League,D 2-2,2,2,0,41,2,0,0,0,265,1353,726,18,12,9,18,9,297,27,Match Report
+170,Liverpool,2023-04-09,Arsenal,eng Premier League,D 2-2,2,2,0,59,2,0,1,1,315,1706,818,20,15,10,19,13,452,53,Match Report
+171,Crystal Palace,2023-04-09,Leeds United,eng Premier League,W 5-1,5,1,+4,52,5,0,0,0,304,1536,827,15,4,9,16,21,358,37,Match Report
+172,Leeds United,2023-04-09,Crystal Palace,eng Premier League,L 1-5,1,5,-4,48,1,0,0,0,293,1432,785,11,8,1,22,17,332,44,Match Report
+173,Nott'ham Forest,2023-04-08,Aston Villa,eng Premier League,L 0-2,0,2,-2,37,0,0,0,0,151,846,508,11,5,3,4,3,168,16,Match Report
+174,Chelsea,2023-04-08,Wolves,eng Premier League,L 0-1,0,1,-1,62,0,0,0,0,396,2149,1191,19,15,4,17,13,475,64,Match Report
+175,Bournemouth,2023-04-08,Leicester City,eng Premier League,W 1-0,1,0,+1,49,1,0,0,0,305,1585,697,12,10,3,12,7,349,29,Match Report
+176,Fulham,2023-04-08,West Ham,eng Premier League,L 0-1,0,1,-1,76,0,0,0,0,592,2909,1574,22,13,3,14,9,610,72,Match Report
+177,Brentford,2023-04-08,Newcastle Utd,eng Premier League,L 1-2,1,2,-1,42,0,1,2,1,153,822,394,8,9,3,17,6,230,25,Match Report
+178,Newcastle Utd,2023-04-08,Brentford,eng Premier League,W 2-1,2,1,+1,58,1,0,0,0,302,1675,809,16,25,2,11,5,361,34,Match Report
+179,Leicester City,2023-04-08,Bournemouth,eng Premier League,L 0-1,0,1,-1,51,0,0,0,0,314,1993,944,18,4,4,9,5,351,30,Match Report
+180,West Ham,2023-04-08,Fulham,eng Premier League,W 1-0,1,0,+1,24,0,0,0,0,161,1020,518,14,6,5,16,6,142,15,Match Report
+181,Brighton,2023-04-08,Tottenham,eng Premier League,L 1-2,1,2,-1,65,1,0,0,0,354,1828,1007,18,20,7,18,11,505,60,Match Report
+182,Tottenham,2023-04-08,Brighton,eng Premier League,W 2-1,2,1,+1,35,2,0,0,0,233,1092,472,9,10,4,13,7,245,28,Match Report
+183,Manchester City,2023-04-08,Southampton,eng Premier League,W 4-1,4,1,+3,73,3,1,1,0,521,2691,1294,20,18,7,8,7,666,52,Match Report
+184,Southampton,2023-04-08,Manchester City,eng Premier League,L 1-4,1,4,-3,27,1,0,0,0,196,1128,452,10,8,3,13,3,217,13,Match Report
+185,Manchester Utd,2023-04-08,Everton,eng Premier League,W 2-0,2,0,+2,63,2,0,0,0,569,2390,1163,23,16,12,13,14,558,45,Match Report
+186,Wolves,2023-04-08,Chelsea,eng Premier League,W 1-0,1,0,+1,38,1,0,0,0,274,1563,770,11,13,3,13,15,254,29,Match Report
+187,Aston Villa,2023-04-08,Nott'ham Forest,eng Premier League,W 2-0,2,0,+2,63,2,0,0,0,327,2310,1399,21,8,9,19,7,398,37,Match Report
+188,Everton,2023-04-08,Manchester Utd,eng Premier League,L 0-2,0,2,-2,37,0,0,0,0,271,1306,660,15,9,3,11,4,255,30,Match Report
+189,Brentford,2023-04-05,Manchester Utd,eng Premier League,L 0-1,0,1,-1,36,0,0,0,0,219,1160,618,9,9,4,11,8,262,24,Match Report
+190,Newcastle Utd,2023-04-05,West Ham,eng Premier League,W 5-1,5,1,+4,58,5,0,0,0,341,1613,835,16,8,9,18,9,415,41,Match Report
+191,Manchester Utd,2023-04-05,Brentford,eng Premier League,W 1-0,1,0,+1,64,1,0,0,0,448,2158,1103,26,16,10,5,7,540,50,Match Report
+192,West Ham,2023-04-05,Newcastle Utd,eng Premier League,L 1-5,1,5,-4,42,1,0,0,0,280,1633,788,18,16,3,12,15,271,24,Match Report
+193,Liverpool,2023-04-04,Chelsea,eng Premier League,D 0-0,0,0,0,51,0,0,0,0,383,1811,873,12,14,4,19,16,470,42,Match Report
+194,Leicester City,2023-04-04,Aston Villa,eng Premier League,L 1-2,1,2,-1,36,1,0,0,0,222,1348,697,10,5,2,9,2,229,18,Match Report
+195,Nott'ham Forest,2023-04-04,Leeds United,eng Premier League,L 1-2,1,2,-1,39,1,0,0,0,196,1102,614,7,6,2,16,7,214,21,Match Report
+196,Bournemouth,2023-04-04,Brighton,eng Premier League,L 0-2,0,2,-2,37,0,0,0,0,284,1225,633,16,14,3,14,5,291,32,Match Report
+197,Leeds United,2023-04-04,Nott'ham Forest,eng Premier League,W 2-1,2,1,+1,61,2,0,0,0,362,2060,1075,21,19,9,21,7,425,62,Match Report
+198,Aston Villa,2023-04-04,Leicester City,eng Premier League,W 2-1,2,1,+1,64,2,0,0,0,442,2553,1420,25,15,4,7,14,475,49,Match Report
+199,Brighton,2023-04-04,Bournemouth,eng Premier League,W 2-0,2,0,+2,63,2,0,0,0,496,2363,1028,19,12,7,18,11,562,44,Match Report
+200,Chelsea,2023-04-04,Liverpool,eng Premier League,D 0-0,0,0,0,49,0,0,0,0,485,2013,1046,20,13,5,21,9,456,47,Match Report
+201,Tottenham,2023-04-03,Everton,eng Premier League,D 1-1,1,1,0,61,0,1,1,0,443,2141,1072,10,11,3,12,11,526,43,Match Report
+202,Everton,2023-04-03,Tottenham,eng Premier League,D 1-1,1,1,0,39,1,0,0,0,369,1643,817,19,14,7,26,3,320,36,Match Report
+203,Manchester Utd,2023-04-02,Newcastle Utd,eng Premier League,L 0-2,0,2,-2,54,0,0,0,0,374,2245,1055,20,17,4,11,7,358,35,Match Report
+204,Southampton,2023-04-02,West Ham,eng Premier League,L 0-1,0,1,-1,57,0,0,0,0,502,2431,1298,19,22,3,30,13,488,42,Match Report
+205,West Ham,2023-04-02,Southampton,eng Premier League,W 1-0,1,0,+1,43,1,0,0,0,290,1487,768,24,16,8,13,17,326,32,Match Report
+206,Newcastle Utd,2023-04-02,Manchester Utd,eng Premier League,W 2-0,2,0,+2,46,2,0,0,0,273,1732,981,26,22,10,11,9,294,40,Match Report
+207,Arsenal,2023-04-01,Leeds United,eng Premier League,W 4-1,4,1,+3,66,3,1,1,0,560,2511,1308,15,19,9,12,8,558,45,Match Report
+208,Crystal Palace,2023-04-01,Leicester City,eng Premier League,W 2-1,2,1,+1,52,1,0,0,0,349,2144,1262,22,17,7,20,14,392,58,Match Report
+209,Bournemouth,2023-04-01,Fulham,eng Premier League,W 2-1,2,1,+1,43,2,0,0,0,269,1161,558,11,7,7,14,7,300,33,Match Report
+210,Leeds United,2023-04-01,Arsenal,eng Premier League,L 1-4,1,4,-3,34,1,0,0,0,224,1182,575,9,7,4,7,9,234,26,Match Report
+211,Liverpool,2023-04-01,Manchester City,eng Premier League,L 1-4,1,4,-3,32,1,0,0,0,240,1268,695,13,7,5,8,7,297,24,Match Report
+212,Aston Villa,2023-04-01,Chelsea,eng Premier League,W 2-0,2,0,+2,31,2,0,0,0,182,1085,586,12,8,3,11,6,219,12,Match Report
+213,Wolves,2023-04-01,Nott'ham Forest,eng Premier League,D 1-1,1,1,0,71,1,0,0,0,501,2692,1427,8,10,2,11,9,573,59,Match Report
+214,Leicester City,2023-04-01,Crystal Palace,eng Premier League,L 1-2,1,2,-1,48,1,0,0,0,334,1709,908,13,10,2,18,7,359,23,Match Report
+215,Brentford,2023-04-01,Brighton,eng Premier League,D 3-3,3,3,0,28,3,0,0,0,161,670,320,4,6,0,7,7,160,16,Match Report
+216,Chelsea,2023-04-01,Aston Villa,eng Premier League,L 0-2,0,2,-2,69,0,0,0,0,588,2696,1339,27,26,7,9,5,571,77,Match Report
+217,Brighton,2023-04-01,Brentford,eng Premier League,D 3-3,3,3,0,72,2,1,1,0,510,2771,1340,32,25,5,12,8,531,42,Match Report
+218,Nott'ham Forest,2023-04-01,Wolves,eng Premier League,D 1-1,1,1,0,29,1,0,0,0,183,1198,730,21,10,8,16,3,180,32,Match Report
+219,Fulham,2023-04-01,Bournemouth,eng Premier League,L 1-2,1,2,-1,57,1,0,0,0,339,2161,1038,15,16,0,10,14,443,51,Match Report
+220,Manchester City,2023-04-01,Liverpool,eng Premier League,W 4-1,4,1,+3,68,4,0,0,0,538,2834,1423,24,14,11,9,8,708,57,Match Report
+221,Arsenal,2023-03-19,Crystal Palace,eng Premier League,W 4-1,4,1,+3,62,4,0,0,0,465,2161,1108,18,13,10,10,8,525,62,Match Report
+222,Crystal Palace,2023-03-19,Arsenal,eng Premier League,L 1-4,1,4,-3,38,1,0,0,0,321,1463,530,13,10,6,15,7,298,29,Match Report
+223,Southampton,2023-03-18,Tottenham,eng Premier League,D 3-3,3,3,0,51,2,1,1,0,336,1848,1024,24,18,7,9,11,410,44,Match Report
+224,Tottenham,2023-03-18,Southampton,eng Premier League,D 3-3,3,3,0,49,3,0,0,0,262,1390,768,10,12,3,16,9,397,33,Match Report
+225,Bournemouth,2023-03-18,Aston Villa,eng Premier League,L 0-3,0,3,-3,44,0,0,0,0,340,1601,756,8,9,7,17,6,312,26,Match Report
+226,Leeds United,2023-03-18,Wolves,eng Premier League,W 4-2,4,2,+2,35,4,0,0,0,194,1026,525,15,8,9,17,8,220,27,Match Report
+227,Aston Villa,2023-03-18,Bournemouth,eng Premier League,W 3-0,3,0,+3,56,3,0,0,0,378,2456,1261,28,16,9,14,10,393,43,Match Report
+228,Wolves,2023-03-18,Leeds United,eng Premier League,L 2-4,2,4,-2,65,2,0,0,0,386,2301,1308,23,18,8,17,12,508,54,Match Report
+229,Leicester City,2023-03-18,Brentford,eng Premier League,D 1-1,1,1,0,47,1,0,0,0,289,1206,646,14,8,6,10,12,378,39,Match Report
+230,Brentford,2023-03-18,Leicester City,eng Premier League,D 1-1,1,1,0,53,1,0,0,0,345,1367,733,11,4,3,12,7,400,39,Match Report
+231,Chelsea,2023-03-18,Everton,eng Premier League,D 2-2,2,2,0,68,1,1,1,0,492,2412,1140,27,20,7,12,12,489,48,Match Report
+232,Everton,2023-03-18,Chelsea,eng Premier League,D 2-2,2,2,0,32,2,0,0,0,144,1005,566,12,8,3,17,7,188,20,Match Report
+233,Newcastle Utd,2023-03-17,Nott'ham Forest,eng Premier League,W 2-1,2,1,+1,61,1,1,1,0,278,1738,975,14,12,4,16,5,378,53,Match Report
+234,Nott'ham Forest,2023-03-17,Newcastle Utd,eng Premier League,L 1-2,1,2,-1,39,1,0,0,0,193,813,357,5,5,1,18,7,215,22,Match Report
+235,Southampton,2023-03-15,Brentford,eng Premier League,L 0-2,0,2,-2,66,0,0,0,0,472,2212,1219,25,15,3,12,14,488,51,Match Report
+236,Crystal Palace,2023-03-15,Brighton,eng Premier League,L 0-1,0,1,-1,43,0,0,0,0,230,1237,588,8,7,3,18,11,364,26,Match Report
+237,Brentford,2023-03-15,Southampton,eng Premier League,W 2-0,2,0,+2,34,2,0,0,0,178,943,519,11,6,4,10,9,204,19,Match Report
+238,Brighton,2023-03-15,Crystal Palace,eng Premier League,W 1-0,1,0,+1,57,1,0,0,0,410,1588,850,16,9,4,16,6,505,48,Match Report
+239,Arsenal,2023-03-12,Fulham,eng Premier League,W 3-0,3,0,+3,55,3,0,0,0,493,2120,1025,17,15,4,12,10,482,47,Match Report
+240,Manchester Utd,2023-03-12,Southampton,eng Premier League,D 0-0,0,0,0,47,0,0,0,0,294,1477,823,15,9,3,16,7,336,31,Match Report
+241,Southampton,2023-03-12,Manchester Utd,eng Premier League,D 0-0,0,0,0,53,0,0,0,0,384,1896,1096,20,16,6,15,12,393,41,Match Report
+242,West Ham,2023-03-12,Aston Villa,eng Premier League,D 1-1,1,1,0,41,0,1,1,0,289,1668,887,16,9,7,6,8,316,31,Match Report
+243,Aston Villa,2023-03-12,West Ham,eng Premier League,D 1-1,1,1,0,59,1,0,0,0,454,2485,1217,26,18,10,11,8,492,40,Match Report
+244,Wolves,2023-03-12,Newcastle Utd,eng Premier League,L 1-2,1,2,-1,57,1,0,0,0,316,1727,911,11,17,1,13,5,370,35,Match Report
+245,Newcastle Utd,2023-03-12,Wolves,eng Premier League,W 2-1,2,1,+1,43,2,0,0,0,288,1628,847,16,12,10,18,12,267,48,Match Report
+246,Fulham,2023-03-12,Arsenal,eng Premier League,L 0-3,0,3,-3,45,0,0,0,0,326,1576,726,9,10,0,10,9,381,27,Match Report
+247,Tottenham,2023-03-11,Nott'ham Forest,eng Premier League,W 3-1,3,1,+2,55,2,1,1,0,387,2061,1145,20,9,5,11,3,449,46,Match Report
+248,Crystal Palace,2023-03-11,Manchester City,eng Premier League,L 0-1,0,1,-1,33,0,0,0,0,215,1019,480,8,8,1,20,9,238,26,Match Report
+249,Bournemouth,2023-03-11,Liverpool,eng Premier League,W 1-0,1,0,+1,31,1,0,0,0,194,1215,565,10,10,5,18,7,205,13,Match Report
+250,Leeds United,2023-03-11,Brighton,eng Premier League,D 2-2,2,2,0,38,2,0,0,0,309,1540,757,22,12,3,20,17,324,36,Match Report
+251,Liverpool,2023-03-11,Bournemouth,eng Premier League,L 0-1,0,1,-1,69,0,0,1,1,456,1832,1092,19,18,2,13,6,566,61,Match Report
+252,Leicester City,2023-03-11,Chelsea,eng Premier League,L 1-3,1,3,-2,48,1,0,0,0,429,2054,915,15,13,2,10,14,452,38,Match Report
+253,Brentford,2023-03-11,Everton,eng Premier League,L 0-1,0,1,-1,67,0,0,0,0,415,1598,697,10,7,1,17,12,450,51,Match Report
+254,Chelsea,2023-03-11,Leicester City,eng Premier League,W 3-1,3,1,+2,52,3,0,0,0,397,1887,997,19,15,8,12,5,486,29,Match Report
+255,Brighton,2023-03-11,Leeds United,eng Premier League,D 2-2,2,2,0,62,2,0,0,0,461,2212,1233,23,15,10,17,4,548,53,Match Report
+256,Everton,2023-03-11,Brentford,eng Premier League,W 1-0,1,0,+1,33,1,0,0,0,185,1073,510,13,6,3,18,5,173,20,Match Report
+257,Nott'ham Forest,2023-03-11,Tottenham,eng Premier League,L 1-3,1,3,-2,45,1,0,1,1,262,1580,865,17,11,5,10,5,333,30,Match Report
+258,Manchester City,2023-03-11,Crystal Palace,eng Premier League,W 1-0,1,0,+1,67,0,1,1,0,475,2837,1758,21,25,4,13,4,559,52,Match Report
+259,Brentford,2023-03-06,Fulham,eng Premier League,W 3-2,3,2,+1,37,2,1,1,0,180,760,376,9,6,3,12,7,204,27,Match Report
+260,Fulham,2023-03-06,Brentford,eng Premier League,L 2-3,2,3,-1,63,2,0,0,0,369,2354,1090,23,13,1,12,14,428,43,Match Report
+261,Manchester Utd,2023-03-05,Liverpool,eng Premier League,L 0-7,0,7,-7,41,0,0,0,0,238,1187,574,14,10,6,12,4,245,24,Match Report
+262,Liverpool,2023-03-05,Manchester Utd,eng Premier League,W 7-0,7,0,+7,59,7,0,0,0,346,1575,761,13,12,4,22,7,393,54,Match Report
+263,Everton,2023-03-05,Nott'ham Forest,eng Premier League,D 2-2,2,2,0,43,1,1,1,0,268,1384,602,12,10,4,17,13,262,29,Match Report
+264,Nott'ham Forest,2023-03-05,Everton,eng Premier League,D 2-2,2,2,0,57,2,0,0,0,357,1613,861,16,9,5,22,10,393,37,Match Report
+265,Arsenal,2023-03-04,Bournemouth,eng Premier League,W 3-2,3,2,+1,79,3,0,0,0,654,4037,2102,43,37,11,11,9,669,106,Match Report
+266,Southampton,2023-03-04,Leicester City,eng Premier League,W 1-0,1,0,+1,35,1,0,1,1,265,1324,531,10,11,3,16,15,245,24,Match Report
+267,Tottenham,2023-03-04,Wolves,eng Premier League,L 0-1,0,1,-1,54,0,0,0,0,381,1878,1030,18,8,3,9,13,430,50,Match Report
+268,Crystal Palace,2023-03-04,Aston Villa,eng Premier League,L 0-1,0,1,-1,42,0,0,0,0,257,1215,587,9,3,1,14,6,324,21,Match Report
+269,Bournemouth,2023-03-04,Arsenal,eng Premier League,L 2-3,2,3,-1,21,2,0,0,0,141,868,387,7,7,2,12,4,118,14,Match Report
+270,Leeds United,2023-03-04,Chelsea,eng Premier League,L 0-1,0,1,-1,43,0,0,0,0,333,1891,937,22,13,3,20,17,365,30,Match Report
+271,West Ham,2023-03-04,Brighton,eng Premier League,L 0-4,0,4,-4,35,0,0,0,0,265,1331,570,10,8,2,7,12,307,17,Match Report
+272,Aston Villa,2023-03-04,Crystal Palace,eng Premier League,W 1-0,1,0,+1,58,0,0,0,0,398,2440,1262,17,14,6,17,14,475,31,Match Report
+273,Wolves,2023-03-04,Tottenham,eng Premier League,W 1-0,1,0,+1,46,1,0,0,0,342,1606,832,16,6,1,10,1,358,21,Match Report
+274,Leicester City,2023-03-04,Southampton,eng Premier League,L 0-1,0,1,-1,65,0,0,0,0,509,2310,969,15,10,3,16,9,521,53,Match Report
+275,Newcastle Utd,2023-03-04,Manchester City,eng Premier League,L 0-2,0,2,-2,44,0,0,0,0,316,1533,622,9,7,4,12,9,356,26,Match Report
+276,Chelsea,2023-03-04,Leeds United,eng Premier League,W 1-0,1,0,+1,57,1,0,0,0,544,2713,1521,21,19,5,20,7,524,61,Match Report
+277,Brighton,2023-03-04,West Ham,eng Premier League,W 4-0,4,0,+4,65,3,1,1,0,612,3197,1526,32,17,9,16,4,658,62,Match Report
+278,Manchester City,2023-03-04,Newcastle Utd,eng Premier League,W 2-0,2,0,+2,56,2,0,0,0,395,2120,1148,25,10,7,9,3,481,45,Match Report
+279,Arsenal,2023-03-01,Everton,eng Premier League,W 4-0,4,0,+4,73,4,0,0,0,567,2831,1554,22,16,2,18,11,676,64,Match Report
+280,Liverpool,2023-03-01,Wolves,eng Premier League,W 2-0,2,0,+2,57,2,0,0,0,403,2238,1002,15,14,4,8,12,474,43,Match Report
+281,Wolves,2023-03-01,Liverpool,eng Premier League,L 0-2,0,2,-2,43,0,0,0,0,330,1761,893,12,9,1,23,6,350,28,Match Report
+282,Everton,2023-03-01,Arsenal,eng Premier League,L 0-4,0,4,-4,27,0,0,0,0,165,950,406,13,5,4,19,5,194,14,Match Report
+283,Tottenham,2023-02-26,Chelsea,eng Premier League,W 2-0,2,0,+2,41,2,0,0,0,354,1888,976,25,14,5,16,10,353,21,Match Report
+284,Chelsea,2023-02-26,Tottenham,eng Premier League,L 0-2,0,2,-2,59,0,0,0,0,457,2303,1091,21,20,6,11,15,551,40,Match Report
+285,Arsenal,2023-02-25,Leicester City,eng Premier League,W 1-0,1,0,+1,65,1,0,0,0,407,2129,1094,20,16,6,15,9,519,65,Match Report
+286,Southampton,2023-02-25,Leeds United,eng Premier League,L 0-1,0,1,-1,39,0,0,0,0,256,1391,653,10,8,2,19,10,284,20,Match Report
+287,Crystal Palace,2023-02-25,Liverpool,eng Premier League,D 0-0,0,0,0,37,0,0,0,0,268,1533,725,13,9,2,14,8,282,33,Match Report
+288,Bournemouth,2023-02-25,Manchester City,eng Premier League,L 1-4,1,4,-3,35,1,0,0,0,258,1401,715,19,14,4,17,15,336,33,Match Report
+289,Leeds United,2023-02-25,Southampton,eng Premier League,W 1-0,1,0,+1,61,1,0,0,0,445,2051,957,22,13,5,15,13,471,54,Match Report
+290,West Ham,2023-02-25,Nott'ham Forest,eng Premier League,W 4-0,4,0,+4,49,4,0,0,0,324,1979,879,28,14,10,13,6,338,49,Match Report
+291,Liverpool,2023-02-25,Crystal Palace,eng Premier League,D 0-0,0,0,0,63,0,0,0,0,544,2851,1367,16,12,1,16,13,569,41,Match Report
+292,Aston Villa,2023-02-25,Everton,eng Premier League,W 2-0,2,0,+2,53,1,1,1,0,302,1532,849,12,11,3,14,13,369,27,Match Report
+293,Leicester City,2023-02-25,Arsenal,eng Premier League,L 0-1,0,1,-1,35,0,0,0,0,215,1274,577,15,7,9,14,8,234,18,Match Report
+294,Everton,2023-02-25,Aston Villa,eng Premier League,L 0-2,0,2,-2,47,0,0,0,0,302,1386,621,14,9,7,18,8,307,35,Match Report
+295,Nott'ham Forest,2023-02-25,West Ham,eng Premier League,L 0-4,0,4,-4,51,0,0,0,0,329,1870,994,14,15,7,17,2,358,28,Match Report
+296,Manchester City,2023-02-25,Bournemouth,eng Premier League,W 4-1,4,1,+3,66,3,0,0,0,538,2921,1495,18,12,5,8,9,690,60,Match Report
+297,Wolves,2023-02-24,Fulham,eng Premier League,D 1-1,1,1,0,49,1,0,0,0,276,1498,704,10,4,0,15,12,364,31,Match Report
+298,Fulham,2023-02-24,Wolves,eng Premier League,D 1-1,1,1,0,51,1,0,0,0,303,1736,791,16,9,4,17,15,388,40,Match Report
+299,Manchester Utd,2023-02-19,Leicester City,eng Premier League,W 3-0,3,0,+3,57,3,0,0,0,468,1907,931,22,10,8,15,10,501,57,Match Report
+300,Tottenham,2023-02-19,West Ham,eng Premier League,W 2-0,2,0,+2,57,2,0,0,0,479,2473,1217,22,16,4,19,10,475,51,Match Report
+301,West Ham,2023-02-19,Tottenham,eng Premier League,L 0-2,0,2,-2,43,0,0,0,0,248,1394,562,14,13,2,13,13,320,32,Match Report
+302,Leicester City,2023-02-19,Manchester Utd,eng Premier League,L 0-3,0,3,-3,43,0,0,0,0,282,1869,964,30,11,11,20,9,363,45,Match Report
+303,Arsenal,2023-02-18,Aston Villa,eng Premier League,W 4-2,4,2,+2,67,3,0,0,0,414,2350,1334,36,19,9,11,11,525,68,Match Report
+304,Southampton,2023-02-18,Chelsea,eng Premier League,W 1-0,1,0,+1,38,1,0,0,0,263,1308,527,10,8,2,17,9,260,17,Match Report
+305,Crystal Palace,2023-02-18,Brentford,eng Premier League,D 1-1,1,1,0,41,1,0,0,0,252,1422,622,9,7,3,14,6,293,26,Match Report
+306,Bournemouth,2023-02-18,Wolves,eng Premier League,W 1-0,1,0,+1,32,1,0,0,0,223,1262,656,9,8,3,21,12,217,28,Match Report
+307,Leeds United,2023-02-18,Everton,eng Premier League,L 0-1,0,1,-1,49,0,0,0,0,312,1777,992,14,12,2,18,10,314,36,Match Report
+308,Liverpool,2023-02-18,Newcastle Utd,eng Premier League,W 2-0,2,0,+2,62,2,0,0,0,509,1908,1013,19,6,7,14,3,559,54,Match Report
+309,Aston Villa,2023-02-18,Arsenal,eng Premier League,L 2-4,2,4,-2,33,2,0,0,0,228,1300,706,16,8,5,14,13,235,20,Match Report
+310,Wolves,2023-02-18,Bournemouth,eng Premier League,L 0-1,0,1,-1,68,0,0,0,0,546,2736,1384,21,13,6,17,6,549,65,Match Report
+311,Newcastle Utd,2023-02-18,Liverpool,eng Premier League,L 0-2,0,2,-2,38,0,0,0,0,284,1545,768,17,13,8,18,5,311,32,Match Report
+312,Brentford,2023-02-18,Crystal Palace,eng Premier League,D 1-1,1,1,0,59,1,0,0,0,442,2078,1149,10,16,0,17,6,462,64,Match Report
+313,Chelsea,2023-02-18,Southampton,eng Premier League,L 0-1,0,1,-1,62,0,0,0,0,483,2268,1267,27,18,6,17,12,467,54,Match Report
+314,Brighton,2023-02-18,Fulham,eng Premier League,L 0-1,0,1,-1,65,0,0,0,0,394,2167,1129,22,10,8,13,6,528,54,Match Report
+315,Everton,2023-02-18,Leeds United,eng Premier League,W 1-0,1,0,+1,51,1,0,0,0,312,1673,811,13,15,5,14,11,330,43,Match Report
+316,Nott'ham Forest,2023-02-18,Manchester City,eng Premier League,D 1-1,1,1,0,27,1,0,0,0,177,998,552,8,7,4,11,8,179,13,Match Report
+317,Fulham,2023-02-18,Brighton,eng Premier League,W 1-0,1,0,+1,35,1,0,0,0,207,978,509,11,6,2,10,8,245,14,Match Report
+318,Manchester City,2023-02-18,Nott'ham Forest,eng Premier League,D 1-1,1,1,0,73,1,0,0,0,619,3677,1952,31,26,9,11,4,626,83,Match Report
+319,Arsenal,2023-02-15,Manchester City,eng Premier League,L 1-3,1,3,-2,63,0,1,1,0,411,2034,1104,17,12,3,15,10,462,46,Match Report
+320,Manchester City,2023-02-15,Arsenal,eng Premier League,W 3-1,3,1,+2,37,3,0,0,0,234,1290,560,13,12,3,13,6,234,22,Match Report
+321,Liverpool,2023-02-13,Everton,eng Premier League,W 2-0,2,0,+2,59,2,0,0,0,458,2672,1461,25,14,5,18,8,533,53,Match Report
+322,Everton,2023-02-13,Liverpool,eng Premier League,L 0-2,0,2,-2,41,0,0,0,0,328,1482,700,2,6,0,11,11,344,22,Match Report
+323,Manchester Utd,2023-02-12,Leeds United,eng Premier League,W 2-0,2,0,+2,66,2,0,0,0,413,2089,1230,15,7,6,11,8,461,34,Match Report
+324,Leeds United,2023-02-12,Manchester Utd,eng Premier League,L 0-2,0,2,-2,34,0,0,0,0,223,1158,506,13,9,2,16,21,196,24,Match Report
+325,Aston Villa,2023-02-12,Manchester City,eng Premier League,L 1-3,1,3,-2,33,1,0,0,0,205,1204,566,8,4,4,13,3,256,16,Match Report
+326,Manchester City,2023-02-12,Aston Villa,eng Premier League,W 3-1,3,1,+2,67,2,1,1,0,498,2471,1371,28,20,13,6,2,578,51,Match Report
+327,Arsenal,2023-02-11,Brentford,eng Premier League,D 1-1,1,1,0,69,1,0,0,0,477,2534,1442,32,24,13,9,8,533,89,Match Report
+328,Southampton,2023-02-11,Wolves,eng Premier League,L 1-2,1,2,-1,41,1,0,0,0,235,1257,503,9,11,2,16,11,253,35,Match Report
+329,Tottenham,2023-02-11,Leicester City,eng Premier League,L 1-4,1,4,-3,51,1,0,0,0,312,1775,821,18,12,3,19,12,404,45,Match Report
+330,Crystal Palace,2023-02-11,Brighton,eng Premier League,D 1-1,1,1,0,27,1,0,0,0,173,775,335,7,5,3,16,16,180,22,Match Report
+331,Bournemouth,2023-02-11,Newcastle Utd,eng Premier League,D 1-1,1,1,0,34,1,0,0,0,222,1229,520,10,8,3,21,10,211,23,Match Report
+332,West Ham,2023-02-11,Chelsea,eng Premier League,D 1-1,1,1,0,29,1,0,0,0,210,1260,716,19,10,4,7,16,205,30,Match Report
+333,Wolves,2023-02-11,Southampton,eng Premier League,W 2-1,2,1,+1,59,1,0,0,0,383,1617,702,15,14,6,16,9,418,23,Match Report
+334,Leicester City,2023-02-11,Tottenham,eng Premier League,W 4-1,4,1,+3,49,4,0,0,0,367,1714,755,16,15,7,16,6,382,32,Match Report
+335,Newcastle Utd,2023-02-11,Bournemouth,eng Premier League,D 1-1,1,1,0,66,1,0,0,0,422,2254,1235,25,16,11,23,14,492,57,Match Report
+336,Brentford,2023-02-11,Arsenal,eng Premier League,D 1-1,1,1,0,31,1,0,0,0,141,853,374,6,6,2,7,6,189,26,Match Report
+337,Chelsea,2023-02-11,West Ham,eng Premier League,D 1-1,1,1,0,71,1,0,0,0,514,2938,1506,27,25,3,13,14,618,51,Match Report
+338,Brighton,2023-02-11,Crystal Palace,eng Premier League,D 1-1,1,1,0,73,1,0,0,0,605,2902,1426,27,21,6,13,14,653,61,Match Report
+339,Nott'ham Forest,2023-02-11,Fulham,eng Premier League,L 0-2,0,2,-2,50,0,0,0,0,343,1841,926,6,5,2,9,6,334,24,Match Report
+340,Fulham,2023-02-11,Nott'ham Forest,eng Premier League,W 2-0,2,0,+2,50,2,0,0,0,367,2226,1168,19,16,5,6,6,339,37,Match Report
+341,Manchester Utd,2023-02-08,Leeds United,eng Premier League,D 2-2,2,2,0,66,2,0,0,0,462,2667,1426,15,16,2,18,16,539,50,Match Report
+342,Leeds United,2023-02-08,Manchester Utd,eng Premier League,D 2-2,2,2,0,34,1,0,0,0,192,942,475,14,8,4,15,10,220,22,Match Report
+343,Tottenham,2023-02-05,Manchester City,eng Premier League,W 1-0,1,0,+1,36,1,0,0,0,248,1409,657,14,11,4,10,10,240,20,Match Report
+344,Leeds United,2023-02-05,Nott'ham Forest,eng Premier League,L 0-1,0,1,-1,70,0,0,0,0,426,2121,1188,18,15,4,19,14,481,61,Match Report
+345,Nott'ham Forest,2023-02-05,Leeds United,eng Premier League,W 1-0,1,0,+1,30,1,0,0,0,152,997,458,6,4,2,33,11,145,15,Match Report
+346,Manchester City,2023-02-05,Tottenham,eng Premier League,L 0-1,0,1,-1,64,0,0,0,0,458,2913,1590,33,28,7,17,9,495,51,Match Report
+347,Arsenal,2023-02-04,Everton,eng Premier League,L 0-1,0,1,-1,70,0,0,0,0,457,2875,1537,26,22,9,18,9,574,73,Match Report
+348,Manchester Utd,2023-02-04,Crystal Palace,eng Premier League,W 2-1,2,1,+1,52,1,1,1,0,388,1822,1015,15,15,3,18,6,432,40,Match Report
+349,Southampton,2023-02-04,Brentford,eng Premier League,L 0-3,0,3,-3,51,0,0,0,0,320,1441,695,13,20,0,15,9,335,22,Match Report
+350,Crystal Palace,2023-02-04,Manchester Utd,eng Premier League,L 1-2,1,2,-1,48,1,0,0,0,270,1302,590,11,7,6,11,11,370,38,Match Report
+351,Bournemouth,2023-02-04,Brighton,eng Premier League,L 0-1,0,1,-1,29,0,0,0,0,201,1423,688,17,11,8,18,7,215,25,Match Report
+352,West Ham,2023-02-04,Newcastle Utd,eng Premier League,D 1-1,1,1,0,38,1,0,0,0,201,1018,446,12,7,3,13,9,245,27,Match Report
+353,Liverpool,2023-02-04,Wolves,eng Premier League,L 0-3,0,3,-3,59,0,0,0,0,420,2299,1278,27,22,7,17,13,494,48,Match Report
+354,Aston Villa,2023-02-04,Leicester City,eng Premier League,L 2-4,2,4,-2,62,1,0,0,0,341,1945,1103,17,13,4,19,10,496,58,Match Report
+355,Wolves,2023-02-04,Liverpool,eng Premier League,W 3-0,3,0,+3,41,2,0,0,0,252,1286,642,11,10,2,11,6,322,24,Match Report
+356,Leicester City,2023-02-04,Aston Villa,eng Premier League,W 4-2,4,2,+2,38,4,0,0,0,232,1242,636,13,8,5,10,5,267,30,Match Report
+357,Newcastle Utd,2023-02-04,West Ham,eng Premier League,D 1-1,1,1,0,62,1,0,0,0,392,2274,1148,28,22,3,13,13,474,46,Match Report
+358,Brentford,2023-02-04,Southampton,eng Premier League,W 3-0,3,0,+3,49,3,0,0,0,313,1249,575,10,6,3,10,12,301,42,Match Report
+359,Brighton,2023-02-04,Bournemouth,eng Premier League,W 1-0,1,0,+1,71,1,0,0,0,557,2914,1756,31,12,7,17,12,625,70,Match Report
+360,Everton,2023-02-04,Arsenal,eng Premier League,W 1-0,1,0,+1,30,1,0,0,0,172,1185,617,15,9,1,12,5,198,22,Match Report
+361,Chelsea,2023-02-03,Fulham,eng Premier League,D 0-0,0,0,0,66,0,0,0,0,509,2700,1537,22,5,6,21,12,595,57,Match Report
+362,Fulham,2023-02-03,Chelsea,eng Premier League,D 0-0,0,0,0,34,0,0,0,0,266,1637,798,14,12,5,17,14,247,29,Match Report
+363,Tottenham,2023-01-23,Fulham,eng Premier League,W 1-0,1,0,+1,46,1,0,0,0,342,1467,715,14,8,4,14,6,364,31,Match Report
+364,Fulham,2023-01-23,Tottenham,eng Premier League,L 0-1,0,1,-1,54,0,0,0,0,343,1991,993,18,17,5,21,17,436,44,Match Report
+365,Arsenal,2023-01-22,Manchester Utd,eng Premier League,W 3-2,3,2,+1,57,3,0,0,0,345,2530,1298,37,21,18,14,13,434,49,Match Report
+366,Manchester Utd,2023-01-22,Arsenal,eng Premier League,L 2-3,2,3,-1,43,2,0,0,0,231,1317,594,10,12,2,17,11,322,19,Match Report
+367,Leeds United,2023-01-22,Brentford,eng Premier League,D 0-0,0,0,0,58,0,0,0,0,317,2031,1219,32,24,5,15,9,398,41,Match Report
+368,Wolves,2023-01-22,Manchester City,eng Premier League,L 0-3,0,3,-3,45,0,0,0,0,341,1581,763,12,7,3,10,2,425,26,Match Report
+369,Brentford,2023-01-22,Leeds United,eng Premier League,D 0-0,0,0,0,42,0,0,0,0,189,1092,595,5,7,1,17,11,248,29,Match Report
+370,Manchester City,2023-01-22,Wolves,eng Premier League,W 3-0,3,0,+3,55,2,1,1,0,527,2799,1381,37,20,14,9,8,540,57,Match Report
+371,Southampton,2023-01-21,Aston Villa,eng Premier League,L 0-1,0,1,-1,37,0,0,0,0,276,1305,548,7,12,3,15,9,243,16,Match Report
+372,Crystal Palace,2023-01-21,Newcastle Utd,eng Premier League,D 0-0,0,0,0,40,0,0,0,0,215,1132,541,8,6,3,10,12,236,19,Match Report
+373,Bournemouth,2023-01-21,Nott'ham Forest,eng Premier League,D 1-1,1,1,0,43,1,0,0,0,204,1325,580,16,7,7,12,9,284,28,Match Report
+374,West Ham,2023-01-21,Everton,eng Premier League,W 2-0,2,0,+2,33,2,0,0,0,244,1263,665,22,12,8,13,6,291,35,Match Report
+375,Liverpool,2023-01-21,Chelsea,eng Premier League,D 0-0,0,0,0,48,0,0,0,0,352,1743,1143,20,11,6,9,10,400,43,Match Report
+376,Aston Villa,2023-01-21,Southampton,eng Premier League,W 1-0,1,0,+1,63,1,0,0,0,469,2157,1025,13,10,4,17,18,480,38,Match Report
+377,Leicester City,2023-01-21,Brighton,eng Premier League,D 2-2,2,2,0,37,2,0,0,0,261,1181,525,8,8,3,13,7,314,20,Match Report
+378,Newcastle Utd,2023-01-21,Crystal Palace,eng Premier League,D 0-0,0,0,0,60,0,0,0,0,335,1851,893,14,13,8,20,20,412,51,Match Report
+379,Chelsea,2023-01-21,Liverpool,eng Premier League,D 0-0,0,0,0,52,0,0,0,0,366,1600,848,12,12,2,14,13,464,31,Match Report
+380,Brighton,2023-01-21,Leicester City,eng Premier League,D 2-2,2,2,0,63,2,0,0,0,600,3215,1540,23,22,4,10,7,583,65,Match Report
+381,Everton,2023-01-21,West Ham,eng Premier League,L 0-2,0,2,-2,67,0,0,0,0,534,2716,1366,22,13,9,7,10,653,55,Match Report
+382,Nott'ham Forest,2023-01-21,Bournemouth,eng Premier League,D 1-1,1,1,0,57,1,0,0,0,378,1876,1093,22,17,3,13,6,415,49,Match Report
+383,Tottenham,2023-01-19,Manchester City,eng Premier League,L 2-4,2,4,-2,42,2,0,0,0,380,1725,756,13,6,4,14,10,374,28,Match Report
+384,Manchester City,2023-01-19,Tottenham,eng Premier League,W 4-2,4,2,+2,58,4,0,0,0,455,2825,1286,24,19,11,10,8,530,43,Match Report
+385,Manchester Utd,2023-01-18,Crystal Palace,eng Premier League,D 1-1,1,1,0,60,1,0,0,0,531,2971,1618,34,23,2,14,14,532,64,Match Report
+386,Crystal Palace,2023-01-18,Manchester Utd,eng Premier League,D 1-1,1,1,0,40,1,0,0,0,257,1534,894,16,19,3,22,14,316,43,Match Report
+387,Arsenal,2023-01-15,Tottenham,eng Premier League,W 2-0,2,0,+2,49,1,0,0,0,382,1969,955,27,16,8,14,7,401,46,Match Report
+388,Tottenham,2023-01-15,Arsenal,eng Premier League,L 0-2,0,2,-2,51,0,0,0,0,419,1892,936,16,9,5,16,10,411,32,Match Report
+389,Crystal Palace,2023-01-15,Chelsea,eng Premier League,L 0-1,0,1,-1,39,0,0,0,0,271,1227,534,8,10,4,13,17,277,30,Match Report
+390,Newcastle Utd,2023-01-15,Fulham,eng Premier League,W 1-0,1,0,+1,62,1,0,0,0,275,1800,992,21,8,2,10,5,390,50,Match Report
+391,Chelsea,2023-01-15,Crystal Palace,eng Premier League,W 1-0,1,0,+1,61,1,0,0,0,501,2124,1084,19,15,5,18,15,515,54,Match Report
+392,Fulham,2023-01-15,Newcastle Utd,eng Premier League,L 0-1,0,1,-1,38,0,0,1,1,235,1086,457,10,6,3,7,10,210,20,Match Report
+393,Manchester Utd,2023-01-14,Manchester City,eng Premier League,W 2-1,2,1,+1,30,2,0,0,0,178,881,447,12,7,6,7,5,246,17,Match Report
+394,Southampton,2023-01-14,Everton,eng Premier League,W 2-1,2,1,+1,48,2,0,0,0,285,1696,723,10,12,3,19,6,280,25,Match Report
+395,Bournemouth,2023-01-14,Brentford,eng Premier League,L 0-2,0,2,-2,50,0,0,0,0,375,1901,869,16,17,3,20,9,358,28,Match Report
+396,West Ham,2023-01-14,Wolves,eng Premier League,L 0-1,0,1,-1,42,0,0,0,0,274,1378,618,14,15,4,18,8,311,44,Match Report
+397,Liverpool,2023-01-14,Brighton,eng Premier League,L 0-3,0,3,-3,39,0,0,0,0,299,1619,624,6,3,5,19,11,368,28,Match Report
+398,Wolves,2023-01-14,West Ham,eng Premier League,W 1-0,1,0,+1,58,1,0,0,0,453,2500,1308,25,15,6,13,7,488,38,Match Report
+399,Leicester City,2023-01-14,Nott'ham Forest,eng Premier League,L 0-2,0,2,-2,61,0,0,0,0,316,1800,985,10,11,0,16,10,486,34,Match Report
+400,Brentford,2023-01-14,Bournemouth,eng Premier League,W 2-0,2,0,+2,50,1,1,1,0,323,1534,692,15,10,0,16,10,340,35,Match Report
+401,Brighton,2023-01-14,Liverpool,eng Premier League,W 3-0,3,0,+3,61,3,0,0,0,507,2523,1336,34,24,12,10,14,597,53,Match Report
+402,Everton,2023-01-14,Southampton,eng Premier League,L 1-2,1,2,-1,52,1,0,0,0,274,1223,608,12,8,4,15,10,307,31,Match Report
+403,Nott'ham Forest,2023-01-14,Leicester City,eng Premier League,W 2-0,2,0,+2,39,2,0,0,0,250,1459,831,16,18,2,15,9,280,27,Match Report
+404,Manchester City,2023-01-14,Manchester Utd,eng Premier League,L 1-2,1,2,-1,70,1,0,0,0,563,3775,2133,38,24,3,8,9,666,41,Match Report
+405,Leeds United,2023-01-13,Aston Villa,eng Premier League,L 1-2,1,2,-1,48,1,0,0,0,283,1472,705,20,6,8,21,14,285,37,Match Report
+406,Aston Villa,2023-01-13,Leeds United,eng Premier League,W 2-1,2,1,+1,52,2,0,0,0,309,1730,780,14,11,4,16,17,332,21,Match Report
+407,Chelsea,2023-01-12,Fulham,eng Premier League,L 1-2,1,2,-1,52,1,0,0,0,364,1593,842,16,6,4,16,6,430,33,Match Report
+408,Fulham,2023-01-12,Chelsea,eng Premier League,W 2-1,2,1,+1,48,2,0,0,0,284,1309,652,14,14,1,19,12,393,40,Match Report
+409,Chelsea,2023-01-05,Manchester City,eng Premier League,L 0-1,0,1,-1,48,0,0,0,0,488,2192,1022,20,16,2,13,12,494,23,Match Report
+410,Manchester City,2023-01-05,Chelsea,eng Premier League,W 1-0,1,0,+1,52,1,0,0,0,467,1839,1040,9,19,4,15,20,562,63,Match Report
+411,Southampton,2023-01-04,Nott'ham Forest,eng Premier League,L 0-1,0,1,-1,63,0,0,0,0,389,2208,1092,20,15,2,18,20,395,41,Match Report
+412,Tottenham,2023-01-04,Crystal Palace,eng Premier League,W 4-0,4,0,+4,53,4,0,0,0,493,2118,1100,18,12,1,16,11,496,40,Match Report
+413,Crystal Palace,2023-01-04,Tottenham,eng Premier League,L 0-4,0,4,-4,47,0,0,0,0,321,1553,771,12,11,8,21,12,404,41,Match Report
+414,Leeds United,2023-01-04,West Ham,eng Premier League,D 2-2,2,2,0,62,2,0,0,0,361,1617,730,15,9,5,20,14,409,36,Match Report
+415,West Ham,2023-01-04,Leeds United,eng Premier League,D 2-2,2,2,0,38,1,1,1,0,188,831,299,12,7,3,14,10,194,18,Match Report
+416,Aston Villa,2023-01-04,Wolves,eng Premier League,D 1-1,1,1,0,56,1,0,0,0,412,2226,1154,22,14,7,11,17,447,49,Match Report
+417,Wolves,2023-01-04,Aston Villa,eng Premier League,D 1-1,1,1,0,44,1,0,0,0,295,1964,913,15,9,5,13,7,343,23,Match Report
+418,Nott'ham Forest,2023-01-04,Southampton,eng Premier League,W 1-0,1,0,+1,37,1,0,0,0,191,1077,479,13,9,3,22,9,191,14,Match Report
+419,Arsenal,2023-01-03,Newcastle Utd,eng Premier League,D 0-0,0,0,0,66,0,0,0,0,378,2158,1126,21,11,9,10,13,472,54,Match Report
+420,Manchester Utd,2023-01-03,Bournemouth,eng Premier League,W 3-0,3,0,+3,58,3,0,0,0,434,1995,1157,17,17,8,8,12,511,48,Match Report
+421,Bournemouth,2023-01-03,Manchester Utd,eng Premier League,L 0-3,0,3,-3,42,0,0,0,0,326,1695,917,17,9,3,10,2,337,24,Match Report
+422,Leicester City,2023-01-03,Fulham,eng Premier League,L 0-1,0,1,-1,61,0,0,0,0,402,2099,1040,22,12,2,13,9,483,43,Match Report
+423,Newcastle Utd,2023-01-03,Arsenal,eng Premier League,D 0-0,0,0,0,34,0,0,0,0,196,1178,591,13,8,3,9,7,198,21,Match Report
+424,Brighton,2023-01-03,Everton,eng Premier League,W 4-1,4,1,+3,51,4,0,0,0,351,2021,1297,28,15,13,13,10,464,46,Match Report
+425,Everton,2023-01-03,Brighton,eng Premier League,L 1-4,1,4,-3,49,0,1,1,0,375,1703,840,14,5,5,12,6,441,21,Match Report
+426,Fulham,2023-01-03,Leicester City,eng Premier League,W 1-0,1,0,+1,39,1,0,0,0,296,1556,829,19,15,5,12,10,289,19,Match Report
+427,Liverpool,2023-01-02,Brentford,eng Premier League,L 1-3,1,3,-2,72,1,0,0,0,506,2976,1445,27,31,2,21,12,578,54,Match Report
+428,Brentford,2023-01-02,Liverpool,eng Premier League,W 3-1,3,1,+2,28,2,0,0,0,157,677,278,2,2,1,16,7,133,16,Match Report
+429,Tottenham,2023-01-01,Aston Villa,eng Premier League,L 0-2,0,2,-2,59,0,0,0,0,503,2528,1315,24,24,3,16,14,520,45,Match Report
+430,Aston Villa,2023-01-01,Tottenham,eng Premier League,W 2-0,2,0,+2,41,2,0,0,0,351,1913,827,12,10,5,12,9,345,18,Match Report
+431,Chelsea,2023-01-01,Nott'ham Forest,eng Premier League,D 1-1,1,1,0,71,1,0,0,0,621,3138,1771,20,18,1,17,7,648,36,Match Report
+432,Nott'ham Forest,2023-01-01,Chelsea,eng Premier League,D 1-1,1,1,0,29,1,0,0,0,201,1230,616,16,12,6,14,8,212,19,Match Report
+433,Arsenal,2022-12-31,Brighton,eng Premier League,W 4-2,4,2,+2,32,4,0,0,0,223,1128,572,16,8,9,14,3,223,29,Match Report
+434,Manchester Utd,2022-12-31,Wolves,eng Premier League,W 1-0,1,0,+1,54,1,0,0,0,383,1799,1001,16,20,7,17,4,416,51,Match Report
+435,Southampton,2022-12-31,Fulham,eng Premier League,L 1-2,1,2,-1,38,1,0,0,0,181,984,471,8,6,2,19,13,249,22,Match Report
+436,Crystal Palace,2022-12-31,Bournemouth,eng Premier League,W 2-0,2,0,+2,41,2,0,0,0,240,968,339,8,5,4,23,8,244,27,Match Report
+437,Bournemouth,2022-12-31,Crystal Palace,eng Premier League,L 0-2,0,2,-2,59,0,0,0,0,299,1746,959,8,6,0,16,18,388,30,Match Report
+438,Leeds United,2022-12-31,Newcastle Utd,eng Premier League,D 0-0,0,0,0,40,0,0,0,0,241,924,439,8,8,4,18,6,210,22,Match Report
+439,Wolves,2022-12-31,Manchester Utd,eng Premier League,L 0-1,0,1,-1,46,0,0,0,0,237,1565,839,14,14,2,16,6,329,25,Match Report
+440,Newcastle Utd,2022-12-31,Leeds United,eng Premier League,D 0-0,0,0,0,60,0,0,0,0,327,1750,850,20,14,5,16,11,360,39,Match Report
+441,Brighton,2022-12-31,Arsenal,eng Premier League,L 2-4,2,4,-2,68,2,0,0,0,450,2737,1589,27,12,6,13,16,554,51,Match Report
+442,Everton,2022-12-31,Manchester City,eng Premier League,D 1-1,1,1,0,26,1,0,0,0,217,1074,499,8,5,1,15,9,196,16,Match Report
+443,Fulham,2022-12-31,Southampton,eng Premier League,W 2-1,2,1,+1,62,1,0,1,1,420,2159,1119,8,13,1,18,14,492,42,Match Report
+444,Manchester City,2022-12-31,Everton,eng Premier League,D 1-1,1,1,0,74,1,0,0,0,532,2844,1487,33,21,8,11,7,628,71,Match Report
+445,West Ham,2022-12-30,Brentford,eng Premier League,L 0-2,0,2,-2,63,0,0,0,0,348,2473,1351,33,26,3,11,7,530,54,Match Report
+446,Liverpool,2022-12-30,Leicester City,eng Premier League,W 2-1,2,1,+1,57,0,0,0,0,384,2169,1197,25,13,4,10,8,516,54,Match Report
+447,Leicester City,2022-12-30,Liverpool,eng Premier League,L 1-2,1,2,-1,43,1,0,0,0,319,1407,676,11,10,3,18,6,375,21,Match Report
+448,Brentford,2022-12-30,West Ham,eng Premier League,W 2-0,2,0,+2,37,2,0,0,0,214,1137,460,6,5,2,15,7,278,23,Match Report
+449,Leeds United,2022-12-28,Manchester City,eng Premier League,L 1-3,1,3,-2,31,1,0,0,0,202,975,438,7,6,3,17,7,245,32,Match Report
+450,Manchester City,2022-12-28,Leeds United,eng Premier League,W 3-1,3,1,+2,69,3,0,0,0,529,2738,1411,21,19,6,13,10,637,52,Match Report
+451,Manchester Utd,2022-12-27,Nott'ham Forest,eng Premier League,W 3-0,3,0,+3,65,3,0,0,0,519,2296,1402,26,15,4,16,5,564,56,Match Report
+452,Bournemouth,2022-12-27,Chelsea,eng Premier League,L 0-2,0,2,-2,40,0,0,0,0,283,1340,702,13,11,1,22,12,309,28,Match Report
+453,Chelsea,2022-12-27,Bournemouth,eng Premier League,W 2-0,2,0,+2,60,2,0,0,0,383,1965,978,25,15,9,14,8,512,38,Match Report
+454,Nott'ham Forest,2022-12-27,Manchester Utd,eng Premier League,L 0-3,0,3,-3,35,0,0,0,0,217,1116,508,10,6,3,17,13,244,17,Match Report
+455,Arsenal,2022-12-26,West Ham,eng Premier League,W 3-1,3,1,+2,66,3,0,0,0,523,2901,1588,23,18,4,12,7,605,78,Match Report
+456,Southampton,2022-12-26,Brighton,eng Premier League,L 1-3,1,3,-2,34,1,0,1,1,231,1283,703,12,13,2,10,6,285,22,Match Report
+457,Tottenham,2022-12-26,Brentford,eng Premier League,D 2-2,2,2,0,61,2,0,0,0,437,2440,1317,24,20,3,25,12,445,52,Match Report
+458,Crystal Palace,2022-12-26,Fulham,eng Premier League,L 0-3,0,3,-3,36,0,0,0,0,250,1158,526,4,6,4,18,11,292,16,Match Report
+459,West Ham,2022-12-26,Arsenal,eng Premier League,L 1-3,1,3,-2,34,0,1,1,0,220,1120,451,11,8,5,8,8,264,18,Match Report
+460,Liverpool,2022-12-26,Aston Villa,eng Premier League,W 3-1,3,1,+2,52,3,0,0,0,352,1580,842,16,13,9,16,4,445,32,Match Report
+461,Aston Villa,2022-12-26,Liverpool,eng Premier League,L 1-3,1,3,-2,48,1,0,0,0,405,1882,858,14,12,5,15,9,402,44,Match Report
+462,Wolves,2022-12-26,Everton,eng Premier League,W 2-1,2,1,+1,42,2,0,0,0,265,1219,641,9,7,2,20,9,305,28,Match Report
+463,Leicester City,2022-12-26,Newcastle Utd,eng Premier League,L 0-3,0,3,-3,60,0,0,0,0,446,1812,898,19,9,10,26,2,502,44,Match Report
+464,Newcastle Utd,2022-12-26,Leicester City,eng Premier League,W 3-0,3,0,+3,40,2,1,1,0,233,1269,599,6,8,2,19,13,316,19,Match Report
+465,Brentford,2022-12-26,Tottenham,eng Premier League,D 2-2,2,2,0,39,2,0,0,0,209,897,361,5,8,0,12,11,225,15,Match Report
+466,Brighton,2022-12-26,Southampton,eng Premier League,W 3-1,3,1,+2,66,2,0,0,0,620,2790,1292,15,13,5,12,7,617,46,Match Report
+467,Everton,2022-12-26,Wolves,eng Premier League,L 1-2,1,2,-1,58,1,0,0,0,372,2371,1137,18,15,1,20,10,467,40,Match Report
+468,Fulham,2022-12-26,Crystal Palace,eng Premier League,W 3-0,3,0,+3,64,3,0,0,0,462,2707,1525,32,20,5,14,12,565,73,Match Report
+469,Manchester Utd,2022-11-13,Fulham,eng Premier League,W 2-1,2,1,+1,47,2,0,0,0,288,1502,775,15,11,7,16,6,356,30,Match Report
+470,Aston Villa,2022-11-13,Brighton,eng Premier League,W 2-1,2,1,+1,35,1,1,1,0,258,1030,416,12,5,4,18,9,228,15,Match Report
+471,Brighton,2022-11-13,Aston Villa,eng Premier League,L 1-2,1,2,-1,65,1,0,0,0,433,1726,1003,15,7,2,14,13,479,40,Match Report
+472,Fulham,2022-11-13,Manchester Utd,eng Premier League,L 1-2,1,2,-1,53,1,0,0,0,389,2464,1331,28,22,7,19,6,396,36,Match Report
+473,Arsenal,2022-11-12,Wolves,eng Premier League,W 2-0,2,0,+2,62,2,0,0,0,486,2800,1482,20,16,5,16,6,533,49,Match Report
+474,Southampton,2022-11-12,Liverpool,eng Premier League,L 1-3,1,3,-2,40,1,0,0,0,314,1594,676,11,11,2,20,9,381,40,Match Report
+475,Tottenham,2022-11-12,Leeds United,eng Premier League,W 4-3,4,3,+1,55,4,0,0,0,382,1825,940,26,8,9,9,8,473,48,Match Report
+476,Crystal Palace,2022-11-12,Nott'ham Forest,eng Premier League,L 0-1,0,1,-1,68,0,0,1,1,440,2098,1199,18,13,5,19,15,577,52,Match Report
+477,Bournemouth,2022-11-12,Everton,eng Premier League,W 3-0,3,0,+3,36,3,0,0,0,221,1242,603,14,12,6,18,19,240,27,Match Report
+478,Leeds United,2022-11-12,Tottenham,eng Premier League,L 3-4,3,4,-1,45,3,0,0,0,322,1317,636,16,7,6,19,7,386,26,Match Report
+479,West Ham,2022-11-12,Leicester City,eng Premier League,L 0-2,0,2,-2,54,0,0,0,0,420,1947,933,14,7,5,14,7,406,54,Match Report
+480,Liverpool,2022-11-12,Southampton,eng Premier League,W 3-1,3,1,+2,60,3,0,0,0,478,2116,1035,15,10,5,19,12,607,47,Match Report
+481,Wolves,2022-11-12,Arsenal,eng Premier League,L 0-2,0,2,-2,38,0,0,0,0,261,1725,803,24,19,3,10,5,292,26,Match Report
+482,Leicester City,2022-11-12,West Ham,eng Premier League,W 2-0,2,0,+2,46,2,0,1,1,301,1704,913,19,9,2,13,9,355,27,Match Report
+483,Newcastle Utd,2022-11-12,Chelsea,eng Premier League,W 1-0,1,0,+1,49,1,0,0,0,307,1562,834,17,12,4,16,12,403,41,Match Report
+484,Brentford,2022-11-12,Manchester City,eng Premier League,W 2-1,2,1,+1,26,2,0,0,0,129,932,465,9,6,3,13,4,134,17,Match Report
+485,Chelsea,2022-11-12,Newcastle Utd,eng Premier League,L 0-1,0,1,-1,51,0,0,0,0,373,1649,837,15,9,2,16,15,421,33,Match Report
+486,Everton,2022-11-12,Bournemouth,eng Premier League,L 0-3,0,3,-3,64,0,0,0,0,421,2251,1091,20,22,3,21,6,484,40,Match Report
+487,Nott'ham Forest,2022-11-12,Crystal Palace,eng Premier League,W 1-0,1,0,+1,32,1,0,0,0,225,1349,686,14,7,1,5,8,220,18,Match Report
+488,Manchester City,2022-11-12,Brentford,eng Premier League,L 1-2,1,2,-1,74,1,0,0,0,524,3170,2159,48,44,9,9,5,555,67,Match Report
+489,Arsenal,2022-11-06,Chelsea,eng Premier League,W 1-0,1,0,+1,55,1,0,0,0,308,1958,1023,25,9,9,20,17,379,46,Match Report
+490,Manchester Utd,2022-11-06,Aston Villa,eng Premier League,L 1-3,1,3,-2,58,0,0,0,0,435,2081,992,15,14,7,12,7,491,53,Match Report
+491,Southampton,2022-11-06,Newcastle Utd,eng Premier League,L 1-4,1,4,-3,55,1,0,0,0,344,2104,1088,30,16,9,9,7,381,53,Match Report
+492,Tottenham,2022-11-06,Liverpool,eng Premier League,L 1-2,1,2,-1,47,1,0,0,0,366,2170,1185,22,20,4,21,9,453,56,Match Report
+493,Crystal Palace,2022-11-06,West Ham,eng Premier League,W 2-1,2,1,+1,58,2,0,0,0,498,2162,1195,22,15,9,19,9,535,44,Match Report
+494,West Ham,2022-11-06,Crystal Palace,eng Premier League,L 1-2,1,2,-1,42,1,0,0,0,334,1788,869,11,6,1,16,5,360,27,Match Report
+495,Liverpool,2022-11-06,Tottenham,eng Premier League,W 2-1,2,1,+1,53,2,0,0,0,454,2019,931,17,13,7,17,6,532,29,Match Report
+496,Aston Villa,2022-11-06,Manchester Utd,eng Premier League,W 3-1,3,1,+2,42,3,0,0,0,329,1774,931,20,9,6,17,9,344,21,Match Report
+497,Newcastle Utd,2022-11-06,Southampton,eng Premier League,W 4-1,4,1,+3,45,4,0,0,0,221,1096,576,10,7,2,9,11,289,29,Match Report
+498,Chelsea,2022-11-06,Arsenal,eng Premier League,L 0-1,0,1,-1,45,0,0,0,0,304,1152,527,6,2,1,16,10,282,17,Match Report
+499,Bournemouth,2022-11-05,Leeds United,eng Premier League,L 3-4,3,4,-1,40,3,0,0,0,241,1205,601,9,9,3,15,15,233,18,Match Report
+500,Leeds United,2022-11-05,Bournemouth,eng Premier League,W 4-3,4,3,+1,60,3,1,1,0,383,1794,925,15,16,5,20,8,388,56,Match Report
+501,Wolves,2022-11-05,Brighton,eng Premier League,L 2-3,2,3,-1,29,1,1,1,0,176,1205,625,10,7,6,8,7,202,24,Match Report
+502,Leicester City,2022-11-05,Everton,eng Premier League,W 2-0,2,0,+2,51,2,0,0,0,398,2280,1245,25,10,8,12,9,468,45,Match Report
+503,Brentford,2022-11-05,Nott'ham Forest,eng Premier League,D 2-2,2,2,0,52,1,1,1,0,376,1915,993,14,7,2,11,13,389,32,Match Report
+504,Brighton,2022-11-05,Wolves,eng Premier League,W 3-2,3,2,+1,71,3,0,0,0,614,3014,1614,29,12,7,10,10,615,61,Match Report
+505,Everton,2022-11-05,Leicester City,eng Premier League,L 0-2,0,2,-2,49,0,0,0,0,343,1839,917,18,12,4,21,7,419,27,Match Report
+506,Nott'ham Forest,2022-11-05,Brentford,eng Premier League,D 2-2,2,2,0,48,1,0,0,0,315,1526,774,18,15,3,17,10,344,37,Match Report
+507,Fulham,2022-11-05,Manchester City,eng Premier League,L 1-2,1,2,-1,30,0,1,1,0,237,1323,691,12,7,2,13,4,250,17,Match Report
+508,Manchester City,2022-11-05,Fulham,eng Premier League,W 2-1,2,1,+1,70,1,1,1,0,616,3578,1847,28,20,6,17,3,670,45,Match Report
+509,Arsenal,2022-10-30,Nott'ham Forest,eng Premier League,W 5-0,5,0,+5,69,5,0,0,0,427,2592,1578,38,21,12,13,19,574,55,Match Report
+510,Manchester Utd,2022-10-30,West Ham,eng Premier League,W 1-0,1,0,+1,53,1,0,0,0,301,1698,1009,13,10,4,10,8,421,29,Match Report
+511,West Ham,2022-10-30,Manchester Utd,eng Premier League,L 0-1,0,1,-1,47,0,0,0,0,337,1699,854,20,15,3,10,7,363,42,Match Report
+512,Nott'ham Forest,2022-10-30,Arsenal,eng Premier League,L 0-5,0,5,-5,31,0,0,0,0,180,765,390,7,6,3,15,6,226,14,Match Report
+513,Southampton,2022-10-29,Crystal Palace,eng Premier League,L 0-1,0,1,-1,56,0,0,0,0,429,2038,1035,21,13,6,20,12,431,49,Match Report
+514,Tottenham,2022-10-29,Bournemouth,eng Premier League,W 3-2,3,2,+1,69,3,0,0,0,500,2907,1663,32,23,3,10,13,589,79,Match Report
+515,Crystal Palace,2022-10-29,Southampton,eng Premier League,W 1-0,1,0,+1,44,1,0,0,0,299,1576,874,18,8,9,11,12,309,44,Match Report
+516,Bournemouth,2022-10-29,Tottenham,eng Premier League,L 2-3,2,3,-1,31,2,0,0,0,256,1216,526,10,7,3,13,9,241,19,Match Report
+517,Leeds United,2022-10-29,Liverpool,eng Premier League,W 2-1,2,1,+1,32,2,0,0,0,196,1103,564,16,8,5,12,9,221,31,Match Report
+518,Liverpool,2022-10-29,Leeds United,eng Premier League,L 1-2,1,2,-1,68,1,0,0,0,459,2345,1192,20,8,7,22,12,583,76,Match Report
+519,Aston Villa,2022-10-29,Newcastle Utd,eng Premier League,L 0-4,0,4,-4,41,0,0,0,0,242,1350,610,14,6,5,15,7,277,17,Match Report
+520,Wolves,2022-10-29,Brentford,eng Premier League,D 1-1,1,1,0,42,1,0,0,0,217,1327,754,20,14,6,22,4,245,31,Match Report
+521,Leicester City,2022-10-29,Manchester City,eng Premier League,L 0-1,0,1,-1,36,0,0,0,0,240,1204,610,9,2,5,13,4,332,21,Match Report
+522,Newcastle Utd,2022-10-29,Aston Villa,eng Premier League,W 4-0,4,0,+4,59,3,1,1,0,430,2052,1111,22,16,5,8,12,441,53,Match Report
+523,Brentford,2022-10-29,Wolves,eng Premier League,D 1-1,1,1,0,58,1,0,0,0,321,1608,817,17,9,5,17,12,357,30,Match Report
+524,Chelsea,2022-10-29,Brighton,eng Premier League,L 1-4,1,4,-3,59,1,0,0,0,398,2211,1076,21,15,4,18,9,469,42,Match Report
+525,Brighton,2022-10-29,Chelsea,eng Premier League,W 4-1,4,1,+3,41,2,0,0,0,242,1240,669,14,7,6,15,5,295,22,Match Report
+526,Everton,2022-10-29,Fulham,eng Premier League,D 0-0,0,0,0,44,0,0,0,0,241,1349,741,15,7,5,9,9,319,21,Match Report
+527,Fulham,2022-10-29,Everton,eng Premier League,D 0-0,0,0,0,56,0,0,0,0,296,1990,1338,35,17,11,17,10,420,32,Match Report
+528,Manchester City,2022-10-29,Leicester City,eng Premier League,W 1-0,1,0,+1,64,1,0,0,0,456,2959,1818,25,30,5,11,6,647,63,Match Report
+529,Bournemouth,2022-10-24,West Ham,eng Premier League,L 0-2,0,2,-2,45,0,0,0,0,318,1780,823,14,12,3,19,15,372,28,Match Report
+530,West Ham,2022-10-24,Bournemouth,eng Premier League,W 2-0,2,0,+2,55,1,1,1,0,396,1839,793,13,15,2,16,16,452,47,Match Report
+531,Arsenal,2022-10-23,Southampton,eng Premier League,D 1-1,1,1,0,59,1,0,0,0,428,2026,1101,15,5,7,15,13,491,61,Match Report
+532,Southampton,2022-10-23,Arsenal,eng Premier League,D 1-1,1,1,0,41,1,0,0,0,281,1383,747,15,12,2,17,12,298,25,Match Report
+533,Tottenham,2022-10-23,Newcastle Utd,eng Premier League,L 1-2,1,2,-1,53,1,0,0,0,348,1912,1085,18,12,3,14,8,393,43,Match Report
+534,Leeds United,2022-10-23,Fulham,eng Premier League,L 2-3,2,3,-1,57,2,0,0,0,413,1783,808,12,5,3,21,8,418,54,Match Report
+535,Aston Villa,2022-10-23,Brentford,eng Premier League,W 4-0,4,0,+4,45,3,1,1,0,274,1283,604,12,12,3,13,13,265,31,Match Report
+536,Wolves,2022-10-23,Leicester City,eng Premier League,L 0-4,0,4,-4,60,0,0,0,0,377,2277,1224,24,14,4,20,12,489,40,Match Report
+537,Leicester City,2022-10-23,Wolves,eng Premier League,W 4-0,4,0,+4,40,4,0,0,0,175,1070,631,13,8,5,7,8,280,24,Match Report
+538,Newcastle Utd,2022-10-23,Tottenham,eng Premier League,W 2-1,2,1,+1,47,2,0,0,0,346,1497,646,13,11,4,18,10,361,33,Match Report
+539,Brentford,2022-10-23,Aston Villa,eng Premier League,L 0-4,0,4,-4,55,0,0,0,0,291,1514,715,15,12,1,11,10,328,41,Match Report
+540,Fulham,2022-10-23,Leeds United,eng Premier League,W 3-2,3,2,+1,43,3,0,0,0,272,1412,746,15,12,3,12,14,281,24,Match Report
+541,Manchester Utd,2022-10-22,Chelsea,eng Premier League,D 1-1,1,1,0,52,1,0,0,0,392,1953,985,20,14,7,15,3,387,43,Match Report
+542,Crystal Palace,2022-10-22,Everton,eng Premier League,L 0-3,0,3,-3,54,0,0,0,0,395,1796,869,13,8,3,20,18,414,25,Match Report
+543,Liverpool,2022-10-22,Nott'ham Forest,eng Premier League,L 0-1,0,1,-1,75,0,0,0,0,561,2658,1534,16,20,1,17,15,637,77,Match Report
+544,Chelsea,2022-10-22,Manchester Utd,eng Premier League,D 1-1,1,1,0,48,0,1,1,0,320,1668,812,17,15,5,14,5,341,37,Match Report
+545,Brighton,2022-10-22,Manchester City,eng Premier League,L 1-3,1,3,-2,52,1,0,0,0,340,1266,531,9,9,4,12,7,423,36,Match Report
+546,Everton,2022-10-22,Crystal Palace,eng Premier League,W 3-0,3,0,+3,46,3,0,0,0,269,1507,722,13,16,4,19,15,340,18,Match Report
+547,Nott'ham Forest,2022-10-22,Liverpool,eng Premier League,W 1-0,1,0,+1,25,1,0,0,0,174,966,518,9,5,3,17,9,154,11,Match Report
+548,Manchester City,2022-10-22,Brighton,eng Premier League,W 3-1,3,1,+2,48,2,1,1,0,324,1772,854,13,13,3,8,11,372,38,Match Report
+549,Leeds United,2022-10-20,Leicester City,eng Premier League,L 0-2,0,2,-2,54,0,0,0,0,365,1796,854,15,7,6,11,14,441,33,Match Report
+550,Aston Villa,2022-10-20,Fulham,eng Premier League,L 0-3,0,3,-3,40,0,0,0,0,257,1179,521,11,9,2,17,6,262,19,Match Report
+551,Leicester City,2022-10-20,Leeds United,eng Premier League,W 2-0,2,0,+2,46,1,0,0,0,307,1224,462,6,6,5,19,17,379,30,Match Report
+552,Fulham,2022-10-20,Aston Villa,eng Premier League,W 3-0,3,0,+3,60,1,1,1,0,337,1900,1156,22,15,1,13,6,436,43,Match Report
+553,Manchester Utd,2022-10-19,Tottenham,eng Premier League,W 2-0,2,0,+2,52,2,0,0,0,425,1895,988,26,17,9,17,6,518,37,Match Report
+554,Southampton,2022-10-19,Bournemouth,eng Premier League,W 1-0,1,0,+1,46,1,0,0,0,291,1579,781,15,12,4,19,7,395,18,Match Report
+555,Tottenham,2022-10-19,Manchester Utd,eng Premier League,L 0-2,0,2,-2,48,0,0,0,0,374,2023,1051,18,13,6,17,12,468,34,Match Report
+556,Bournemouth,2022-10-19,Southampton,eng Premier League,L 0-1,0,1,-1,54,0,0,0,0,377,2039,1087,18,18,5,20,14,466,49,Match Report
+557,West Ham,2022-10-19,Liverpool,eng Premier League,L 0-1,0,1,-1,46,0,0,1,1,344,1602,675,8,7,3,14,9,437,34,Match Report
+558,Liverpool,2022-10-19,West Ham,eng Premier League,W 1-0,1,0,+1,54,1,0,0,0,426,2110,1087,23,17,4,18,9,534,52,Match Report
+559,Newcastle Utd,2022-10-19,Everton,eng Premier League,W 1-0,1,0,+1,49,1,0,0,0,312,1684,948,21,11,6,16,11,332,36,Match Report
+560,Brentford,2022-10-19,Chelsea,eng Premier League,D 0-0,0,0,0,34,0,0,0,0,241,1030,510,9,5,0,13,8,250,29,Match Report
+561,Chelsea,2022-10-19,Brentford,eng Premier League,D 0-0,0,0,0,66,0,0,0,0,415,2354,1374,27,25,8,13,4,585,55,Match Report
+562,Everton,2022-10-19,Newcastle Utd,eng Premier League,L 0-1,0,1,-1,51,0,0,0,0,261,1394,589,8,11,2,18,11,347,22,Match Report
+563,Crystal Palace,2022-10-18,Wolves,eng Premier League,W 2-1,2,1,+1,51,2,0,0,0,326,1711,840,17,13,6,18,21,391,48,Match Report
+564,Wolves,2022-10-18,Crystal Palace,eng Premier League,L 1-2,1,2,-1,49,1,0,0,0,308,1794,930,15,15,2,15,17,358,40,Match Report
+565,Brighton,2022-10-18,Nott'ham Forest,eng Premier League,D 0-0,0,0,0,70,0,0,0,0,487,2180,1027,18,14,4,16,5,571,51,Match Report
+566,Nott'ham Forest,2022-10-18,Brighton,eng Premier League,D 0-0,0,0,0,30,0,0,0,0,202,1084,487,7,4,2,14,6,201,10,Match Report
+567,Arsenal,2022-10-16,Leeds United,eng Premier League,W 1-0,1,0,+1,53,1,0,0,0,365,1857,946,16,11,4,16,11,434,41,Match Report
+568,Manchester Utd,2022-10-16,Newcastle Utd,eng Premier League,D 0-0,0,0,0,63,0,0,0,0,391,2049,1072,24,13,11,14,7,435,42,Match Report
+569,Southampton,2022-10-16,West Ham,eng Premier League,D 1-1,1,1,0,39,1,0,0,0,235,1040,516,9,10,4,15,15,249,19,Match Report
+570,Leeds United,2022-10-16,Arsenal,eng Premier League,L 0-1,0,1,-1,47,0,0,1,1,372,1781,847,18,10,6,10,8,358,36,Match Report
+571,West Ham,2022-10-16,Southampton,eng Premier League,D 1-1,1,1,0,61,1,0,0,0,317,1900,929,22,17,4,15,10,417,54,Match Report
+572,Liverpool,2022-10-16,Manchester City,eng Premier League,W 1-0,1,0,+1,37,1,0,0,0,295,1484,709,12,8,9,18,15,330,36,Match Report
+573,Aston Villa,2022-10-16,Chelsea,eng Premier League,L 0-2,0,2,-2,42,0,0,0,0,310,1539,783,17,13,5,23,7,319,38,Match Report
+574,Newcastle Utd,2022-10-16,Manchester Utd,eng Premier League,D 0-0,0,0,0,37,0,0,0,0,220,1122,540,9,6,0,17,9,235,26,Match Report
+575,Chelsea,2022-10-16,Aston Villa,eng Premier League,W 2-0,2,0,+2,58,2,0,0,0,359,1839,960,17,9,5,13,18,484,26,Match Report
+576,Manchester City,2022-10-16,Liverpool,eng Premier League,L 0-1,0,1,-1,63,0,0,0,0,478,2222,1211,31,11,8,15,15,643,75,Match Report
+577,Tottenham,2022-10-15,Everton,eng Premier League,W 2-0,2,0,+2,62,1,1,1,0,439,2258,1150,22,14,5,14,10,542,47,Match Report
+578,Crystal Palace,2022-10-15,Leicester City,eng Premier League,D 0-0,0,0,0,46,0,0,0,0,399,1972,1003,16,20,3,10,20,446,37,Match Report
+579,Bournemouth,2022-10-15,Fulham,eng Premier League,D 2-2,2,2,0,31,2,0,0,0,186,1093,505,11,5,5,12,8,202,21,Match Report
+580,Wolves,2022-10-15,Nott'ham Forest,eng Premier League,W 1-0,1,0,+1,58,0,1,1,0,307,1779,1010,21,9,4,14,9,377,45,Match Report
+581,Leicester City,2022-10-15,Crystal Palace,eng Premier League,D 0-0,0,0,0,54,0,0,0,0,460,2248,1156,24,11,9,17,5,519,47,Match Report
+582,Everton,2022-10-15,Tottenham,eng Premier League,L 0-2,0,2,-2,38,0,0,0,0,307,1575,634,8,7,2,12,3,313,10,Match Report
+583,Nott'ham Forest,2022-10-15,Wolves,eng Premier League,L 0-1,0,1,-1,42,0,0,1,1,241,1244,580,11,11,4,15,11,244,18,Match Report
+584,Fulham,2022-10-15,Bournemouth,eng Premier League,D 2-2,2,2,0,69,1,1,1,0,492,2388,1373,25,14,7,15,9,529,63,Match Report
+585,Brentford,2022-10-14,Brighton,eng Premier League,W 2-0,2,0,+2,28,1,1,1,0,145,800,373,5,8,2,21,16,168,23,Match Report
+586,Brighton,2022-10-14,Brentford,eng Premier League,L 0-2,0,2,-2,72,0,0,0,0,471,2368,1177,20,20,7,14,5,548,68,Match Report
+587,Aston Villa,2022-10-10,Nott'ham Forest,eng Premier League,D 1-1,1,1,0,60,1,0,0,0,373,1828,1054,24,15,6,17,9,461,51,Match Report
+588,Nott'ham Forest,2022-10-10,Aston Villa,eng Premier League,D 1-1,1,1,0,40,1,0,0,0,244,1434,705,13,8,0,16,11,267,23,Match Report
+589,Arsenal,2022-10-09,Liverpool,eng Premier League,W 3-2,3,2,+1,43,2,1,1,0,277,1431,766,17,11,7,16,8,313,41,Match Report
+590,Manchester Utd,2022-10-09,Everton,eng Premier League,W 2-1,2,1,+1,60,2,0,0,0,441,1948,1021,19,16,5,9,4,530,47,Match Report
+591,Crystal Palace,2022-10-09,Leeds United,eng Premier League,W 2-1,2,1,+1,54,2,0,0,0,284,1488,660,17,5,6,23,18,353,31,Match Report
+592,Leeds United,2022-10-09,Crystal Palace,eng Premier League,L 1-2,1,2,-1,46,1,0,0,0,248,1035,450,5,5,2,14,10,262,31,Match Report
+593,West Ham,2022-10-09,Fulham,eng Premier League,W 3-1,3,1,+2,50,2,1,1,0,330,1740,917,24,17,6,14,14,418,39,Match Report
+594,Liverpool,2022-10-09,Arsenal,eng Premier League,L 2-3,2,3,-1,57,2,0,0,0,346,1799,954,17,16,5,11,11,424,24,Match Report
+595,Everton,2022-10-09,Manchester Utd,eng Premier League,L 1-2,1,2,-1,40,1,0,0,0,275,1758,905,10,10,0,19,3,314,20,Match Report
+596,Fulham,2022-10-09,West Ham,eng Premier League,L 1-3,1,3,-2,50,1,0,0,0,353,2015,1142,18,19,4,21,10,419,39,Match Report
+597,Southampton,2022-10-08,Manchester City,eng Premier League,L 0-4,0,4,-4,35,0,0,0,0,303,1511,581,13,8,2,14,4,332,24,Match Report
+598,Tottenham,2022-10-08,Brighton,eng Premier League,W 1-0,1,0,+1,41,1,0,0,0,319,1963,1064,16,14,4,16,9,414,33,Match Report
+599,Bournemouth,2022-10-08,Leicester City,eng Premier League,W 2-1,2,1,+1,45,2,0,0,0,322,1620,744,16,19,3,14,15,382,33,Match Report
+600,Wolves,2022-10-08,Chelsea,eng Premier League,L 0-3,0,3,-3,43,0,0,0,0,388,2006,1088,16,14,3,15,16,388,39,Match Report
+601,Leicester City,2022-10-08,Bournemouth,eng Premier League,L 1-2,1,2,-1,55,1,0,0,0,380,2294,1139,21,18,4,20,9,497,41,Match Report
+602,Newcastle Utd,2022-10-08,Brentford,eng Premier League,W 5-1,5,1,+4,54,4,0,0,0,284,1707,968,20,11,7,12,7,335,40,Match Report
+603,Brentford,2022-10-08,Newcastle Utd,eng Premier League,L 1-5,1,5,-4,46,0,1,1,0,239,1258,546,11,9,5,15,6,263,26,Match Report
+604,Chelsea,2022-10-08,Wolves,eng Premier League,W 3-0,3,0,+3,57,3,0,0,0,527,2526,1302,23,15,7,12,9,544,53,Match Report
+605,Brighton,2022-10-08,Tottenham,eng Premier League,L 0-1,0,1,-1,59,0,0,0,0,438,2196,1093,25,18,6,14,12,629,54,Match Report
+606,Manchester City,2022-10-08,Southampton,eng Premier League,W 4-0,4,0,+4,65,4,0,0,0,554,2873,1413,28,16,17,10,12,682,66,Match Report
+607,Leicester City,2022-10-03,Nott'ham Forest,eng Premier League,W 4-0,4,0,+4,51,4,0,0,0,330,1703,971,23,9,9,15,6,432,39,Match Report
+608,Nott'ham Forest,2022-10-03,Leicester City,eng Premier League,L 0-4,0,4,-4,49,0,0,0,0,321,1652,754,10,12,1,9,5,386,25,Match Report
+609,Manchester Utd,2022-10-02,Manchester City,eng Premier League,L 3-6,3,6,-3,47,2,1,1,0,329,1771,808,18,11,4,7,7,423,22,Match Report
+610,Leeds United,2022-10-02,Aston Villa,eng Premier League,D 0-0,0,0,0,44,0,0,0,0,256,1060,565,11,5,3,12,10,293,26,Match Report
+611,Aston Villa,2022-10-02,Leeds United,eng Premier League,D 0-0,0,0,0,56,0,0,0,0,304,1586,785,21,12,8,12,6,396,47,Match Report
+612,Manchester City,2022-10-02,Manchester Utd,eng Premier League,W 6-3,6,3,+3,53,6,0,0,0,444,2511,1553,27,9,10,10,13,503,49,Match Report
+613,Arsenal,2022-10-01,Tottenham,eng Premier League,W 3-1,3,1,+2,64,3,0,0,0,504,2031,1028,23,8,10,16,11,533,77,Match Report
+614,Southampton,2022-10-01,Everton,eng Premier League,L 1-2,1,2,-1,55,1,0,0,0,289,1940,1042,24,15,8,11,13,402,45,Match Report
+615,Tottenham,2022-10-01,Arsenal,eng Premier League,L 1-3,1,3,-2,36,0,1,1,0,228,1166,642,13,7,3,7,8,257,21,Match Report
+616,Crystal Palace,2022-10-01,Chelsea,eng Premier League,L 1-2,1,2,-1,36,1,0,0,0,308,1374,685,20,10,7,20,4,284,23,Match Report
+617,Bournemouth,2022-10-01,Brentford,eng Premier League,D 0-0,0,0,0,42,0,0,0,0,287,1333,629,9,7,0,14,14,310,24,Match Report
+618,West Ham,2022-10-01,Wolves,eng Premier League,W 2-0,2,0,+2,39,2,0,0,0,223,1408,761,16,9,6,11,9,311,27,Match Report
+619,Liverpool,2022-10-01,Brighton,eng Premier League,D 3-3,3,3,0,54,2,0,0,0,400,2130,1035,25,17,14,21,16,460,54,Match Report
+620,Wolves,2022-10-01,West Ham,eng Premier League,L 0-2,0,2,-2,61,0,0,0,0,469,2531,1503,24,14,8,14,11,515,73,Match Report
+621,Newcastle Utd,2022-10-01,Fulham,eng Premier League,W 4-1,4,1,+3,67,4,0,0,0,489,2321,1243,25,16,13,10,4,551,63,Match Report
+622,Brentford,2022-10-01,Bournemouth,eng Premier League,D 0-0,0,0,0,58,0,0,0,0,483,2103,1058,17,7,4,13,8,466,49,Match Report
+623,Chelsea,2022-10-01,Crystal Palace,eng Premier League,W 2-1,2,1,+1,64,2,0,0,0,510,2719,1196,15,17,7,12,10,589,47,Match Report
+624,Brighton,2022-10-01,Liverpool,eng Premier League,D 3-3,3,3,0,46,3,0,0,0,336,1519,786,11,7,5,20,6,374,27,Match Report
+625,Everton,2022-10-01,Southampton,eng Premier League,W 2-1,2,1,+1,45,2,0,0,0,268,1435,603,13,6,4,22,17,315,34,Match Report
+626,Fulham,2022-10-01,Newcastle Utd,eng Premier League,L 1-4,1,4,-3,33,1,0,0,0,174,1042,568,14,9,2,7,7,205,17,Match Report
+627,Arsenal,2022-09-18,Brentford,eng Premier League,W 3-0,3,0,+3,63,3,0,0,0,484,2241,962,13,15,2,10,13,520,41,Match Report
+628,West Ham,2022-09-18,Everton,eng Premier League,L 0-1,0,1,-1,47,0,0,0,0,276,1652,897,17,9,4,12,13,334,52,Match Report
+629,Brentford,2022-09-18,Arsenal,eng Premier League,L 0-3,0,3,-3,37,0,0,0,0,259,1012,407,7,8,1,19,9,258,22,Match Report
+630,Everton,2022-09-18,West Ham,eng Premier League,W 1-0,1,0,+1,53,1,0,0,0,416,2241,1133,20,12,7,18,7,411,37,Match Report
+631,Tottenham,2022-09-17,Leicester City,eng Premier League,W 6-2,6,2,+4,44,6,0,0,0,297,1602,759,20,10,8,14,7,430,31,Match Report
+632,Bournemouth,2022-09-17,Newcastle Utd,eng Premier League,D 1-1,1,1,0,28,1,0,0,0,143,1147,581,17,8,4,14,7,181,17,Match Report
+633,Wolves,2022-09-17,Manchester City,eng Premier League,L 0-3,0,3,-3,41,0,0,0,0,311,1513,802,17,10,6,17,10,379,29,Match Report
+634,Leicester City,2022-09-17,Tottenham,eng Premier League,L 2-6,2,6,-4,56,1,1,1,0,453,1872,984,19,15,6,15,9,566,51,Match Report
+635,Newcastle Utd,2022-09-17,Bournemouth,eng Premier League,D 1-1,1,1,0,72,0,1,1,0,486,2314,1128,21,18,5,15,15,591,71,Match Report
+636,Manchester City,2022-09-17,Wolves,eng Premier League,W 3-0,3,0,+3,59,3,0,0,0,546,2826,1470,28,18,9,13,11,585,50,Match Report
+637,Southampton,2022-09-16,Aston Villa,eng Premier League,L 0-1,0,1,-1,47,0,0,0,0,289,1751,816,13,13,1,22,12,303,20,Match Report
+638,Aston Villa,2022-09-16,Southampton,eng Premier League,W 1-0,1,0,+1,53,1,0,0,0,240,1281,548,10,13,1,18,17,340,33,Match Report
+639,Nott'ham Forest,2022-09-16,Fulham,eng Premier League,L 2-3,2,3,-1,41,2,0,0,0,289,1472,731,9,7,0,16,10,307,21,Match Report
+640,Fulham,2022-09-16,Nott'ham Forest,eng Premier League,W 3-2,3,2,+1,59,3,0,0,0,437,2425,1168,13,15,4,20,4,479,36,Match Report
+641,Arsenal,2022-09-04,Manchester Utd,eng Premier League,L 1-3,1,3,-2,60,1,0,0,0,311,1909,1016,22,10,7,18,8,414,58,Match Report
+642,Manchester Utd,2022-09-04,Arsenal,eng Premier League,W 3-1,3,1,+2,40,3,0,0,0,257,1280,665,13,7,4,13,6,259,15,Match Report
+643,Leicester City,2022-09-04,Brighton,eng Premier League,L 2-5,2,5,-3,47,2,0,0,0,338,1581,632,8,3,1,15,13,388,27,Match Report
+644,Brighton,2022-09-04,Leicester City,eng Premier League,W 5-2,5,2,+3,53,3,1,1,0,327,1968,1018,22,13,4,12,7,442,59,Match Report
+645,Southampton,2022-09-03,Wolves,eng Premier League,L 0-1,0,1,-1,49,0,0,0,0,343,1934,949,17,13,7,8,9,333,39,Match Report
+646,Tottenham,2022-09-03,Fulham,eng Premier League,W 2-1,2,1,+1,52,2,0,0,0,454,2186,1006,15,17,4,13,6,442,45,Match Report
+647,Crystal Palace,2022-09-03,Newcastle Utd,eng Premier League,D 0-0,0,0,0,48,0,0,0,0,218,1225,632,10,4,2,16,9,300,25,Match Report
+648,Bournemouth,2022-09-03,Nott'ham Forest,eng Premier League,W 3-2,3,2,+1,48,3,0,0,0,351,1964,1063,21,26,5,13,7,389,29,Match Report
+649,Leeds United,2022-09-03,Brentford,eng Premier League,L 2-5,2,5,-3,68,2,0,0,0,317,1623,818,17,14,2,20,11,427,50,Match Report
+650,West Ham,2022-09-03,Chelsea,eng Premier League,L 1-2,1,2,-1,33,1,0,0,0,213,995,374,6,4,1,15,9,248,13,Match Report
+651,Liverpool,2022-09-03,Everton,eng Premier League,D 0-0,0,0,0,61,0,0,0,0,376,1728,970,23,11,6,15,14,418,58,Match Report
+652,Aston Villa,2022-09-03,Manchester City,eng Premier League,D 1-1,1,1,0,29,1,0,0,0,168,781,409,7,4,4,7,7,217,17,Match Report
+653,Wolves,2022-09-03,Southampton,eng Premier League,W 1-0,1,0,+1,51,1,0,0,0,357,2124,1097,20,13,6,18,7,365,52,Match Report
+654,Newcastle Utd,2022-09-03,Crystal Palace,eng Premier League,D 0-0,0,0,0,52,0,0,0,0,328,1453,855,20,15,5,16,13,314,46,Match Report
+655,Brentford,2022-09-03,Leeds United,eng Premier League,W 5-2,5,2,+3,32,4,1,1,0,159,835,370,9,3,4,20,15,160,15,Match Report
+656,Chelsea,2022-09-03,West Ham,eng Premier League,W 2-1,2,1,+1,67,2,0,0,0,476,2439,1283,27,29,8,17,8,596,58,Match Report
+657,Everton,2022-09-03,Liverpool,eng Premier League,D 0-0,0,0,0,39,0,0,0,0,178,1160,630,14,13,8,14,8,237,26,Match Report
+658,Nott'ham Forest,2022-09-03,Bournemouth,eng Premier League,L 2-3,2,3,-1,52,1,1,1,0,358,1680,897,17,6,4,15,9,429,41,Match Report
+659,Fulham,2022-09-03,Tottenham,eng Premier League,L 1-2,1,2,-1,48,1,0,0,0,372,1747,937,11,14,2,10,15,397,47,Match Report
+660,Manchester City,2022-09-03,Aston Villa,eng Premier League,D 1-1,1,1,0,71,1,0,0,0,479,2607,1198,20,19,1,7,12,684,55,Match Report
+661,Manchester Utd,2022-09-01,Leicester City,eng Premier League,W 1-0,1,0,+1,47,1,0,0,0,315,1405,775,15,10,5,12,15,421,42,Match Report
+662,Leicester City,2022-09-01,Manchester Utd,eng Premier League,L 0-1,0,1,-1,53,0,0,0,0,383,1866,937,13,14,2,13,9,509,46,Match Report
+663,Arsenal,2022-08-31,Aston Villa,eng Premier League,W 2-1,2,1,+1,59,2,0,0,0,420,2049,1016,23,19,7,18,9,450,50,Match Report
+664,Tottenham,2022-08-31,West Ham,eng Premier League,D 1-1,1,1,0,61,0,0,0,0,449,2406,1275,20,13,8,12,9,581,38,Match Report
+665,Bournemouth,2022-08-31,Wolves,eng Premier League,D 0-0,0,0,0,35,0,0,0,0,201,1165,643,13,10,3,21,13,256,23,Match Report
+666,West Ham,2022-08-31,Tottenham,eng Premier League,D 1-1,1,1,0,39,1,0,0,0,309,1763,772,10,14,2,9,1,326,36,Match Report
+667,Liverpool,2022-08-31,Newcastle Utd,eng Premier League,W 2-1,2,1,+1,72,2,0,0,0,478,2489,1169,18,11,8,10,10,560,73,Match Report
+668,Aston Villa,2022-08-31,Arsenal,eng Premier League,L 1-2,1,2,-1,41,1,0,0,0,264,1155,602,10,8,2,15,6,284,25,Match Report
+669,Wolves,2022-08-31,Bournemouth,eng Premier League,D 0-0,0,0,0,65,0,0,0,0,487,2903,1603,26,18,1,13,15,564,83,Match Report
+670,Newcastle Utd,2022-08-31,Liverpool,eng Premier League,L 1-2,1,2,-1,28,1,0,0,0,191,1160,550,9,10,0,16,3,176,18,Match Report
+671,Nott'ham Forest,2022-08-31,Manchester City,eng Premier League,L 0-6,0,6,-6,26,0,0,0,0,200,1168,517,9,6,1,6,7,212,13,Match Report
+672,Manchester City,2022-08-31,Nott'ham Forest,eng Premier League,W 6-0,6,0,+6,74,6,0,0,0,508,2858,1638,26,19,6,12,4,731,61,Match Report
+673,Southampton,2022-08-30,Chelsea,eng Premier League,W 2-1,2,1,+1,33,2,0,0,0,211,1208,494,10,12,2,13,9,177,18,Match Report
+674,Crystal Palace,2022-08-30,Brentford,eng Premier League,D 1-1,1,1,0,49,1,0,0,0,355,2062,1051,18,17,9,23,9,406,33,Match Report
+675,Leeds United,2022-08-30,Everton,eng Premier League,D 1-1,1,1,0,69,1,0,0,0,488,2356,1236,21,17,5,26,14,577,73,Match Report
+676,Brentford,2022-08-30,Crystal Palace,eng Premier League,D 1-1,1,1,0,51,1,0,0,0,417,1790,853,14,15,4,22,10,407,37,Match Report
+677,Chelsea,2022-08-30,Southampton,eng Premier League,L 1-2,1,2,-1,67,1,0,0,0,418,2273,1190,19,8,8,20,9,495,59,Match Report
+678,Brighton,2022-08-30,Fulham,eng Premier League,L 1-2,1,2,-1,61,0,1,1,0,474,2135,1058,15,7,3,22,14,475,46,Match Report
+679,Everton,2022-08-30,Leeds United,eng Premier League,D 1-1,1,1,0,31,1,0,0,0,241,1125,504,8,6,2,24,10,223,21,Match Report
+680,Fulham,2022-08-30,Brighton,eng Premier League,W 2-1,2,1,+1,39,1,0,0,0,224,1477,816,17,8,5,15,14,277,17,Match Report
+681,Tottenham,2022-08-28,Nott'ham Forest,eng Premier League,W 2-0,2,0,+2,45,2,0,1,1,315,1815,976,26,14,11,12,14,394,24,Match Report
+682,West Ham,2022-08-28,Aston Villa,eng Premier League,W 1-0,1,0,+1,42,1,0,0,0,257,1508,856,19,15,4,10,10,358,27,Match Report
+683,Aston Villa,2022-08-28,West Ham,eng Premier League,L 0-1,0,1,-1,58,0,0,0,0,506,2308,1178,19,12,4,15,10,518,34,Match Report
+684,Wolves,2022-08-28,Newcastle Utd,eng Premier League,D 1-1,1,1,0,37,1,0,0,0,201,1280,763,19,9,5,16,9,204,22,Match Report
+685,Newcastle Utd,2022-08-28,Wolves,eng Premier League,D 1-1,1,1,0,63,1,0,0,0,305,1732,1035,14,8,5,10,7,400,59,Match Report
+686,Nott'ham Forest,2022-08-28,Tottenham,eng Premier League,L 0-2,0,2,-2,55,0,0,0,0,358,1638,810,14,14,2,15,4,500,60,Match Report
+687,Arsenal,2022-08-27,Fulham,eng Premier League,W 2-1,2,1,+1,71,2,0,0,0,445,2351,1277,17,18,8,15,15,529,63,Match Report
+688,Manchester Utd,2022-08-27,Southampton,eng Premier League,W 1-0,1,0,+1,51,1,0,0,0,295,1785,878,15,9,5,15,10,317,33,Match Report
+689,Southampton,2022-08-27,Manchester Utd,eng Premier League,L 0-1,0,1,-1,49,0,0,0,0,306,1573,786,17,14,5,16,8,291,32,Match Report
+690,Crystal Palace,2022-08-27,Manchester City,eng Premier League,L 2-4,2,4,-2,26,1,0,0,0,171,1036,498,11,5,1,11,7,214,10,Match Report
+691,Bournemouth,2022-08-27,Liverpool,eng Premier League,L 0-9,0,9,-9,31,0,0,0,0,136,743,329,5,3,1,16,7,227,21,Match Report
+692,Leeds United,2022-08-27,Brighton,eng Premier League,L 0-1,0,1,-1,56,0,0,0,0,327,1557,793,18,8,4,14,9,384,39,Match Report
+693,Liverpool,2022-08-27,Bournemouth,eng Premier League,W 9-0,9,0,+9,69,8,0,0,0,554,2496,1264,24,13,8,12,8,620,74,Match Report
+694,Leicester City,2022-08-27,Chelsea,eng Premier League,L 1-2,1,2,-1,55,1,0,0,0,276,1604,958,28,12,5,15,11,477,58,Match Report
+695,Brentford,2022-08-27,Everton,eng Premier League,D 1-1,1,1,0,58,1,0,0,0,474,1988,1066,19,16,2,9,14,463,39,Match Report
+696,Chelsea,2022-08-27,Leicester City,eng Premier League,W 2-1,2,1,+1,45,2,0,0,0,304,1676,782,16,10,2,15,9,390,39,Match Report
+697,Brighton,2022-08-27,Leeds United,eng Premier League,W 1-0,1,0,+1,44,1,0,0,0,233,1403,654,14,11,7,20,14,268,28,Match Report
+698,Everton,2022-08-27,Brentford,eng Premier League,D 1-1,1,1,0,42,1,0,0,0,241,1297,620,10,9,3,17,8,318,31,Match Report
+699,Fulham,2022-08-27,Arsenal,eng Premier League,L 1-2,1,2,-1,29,1,0,0,0,171,1137,646,9,6,2,11,9,162,15,Match Report
+700,Manchester City,2022-08-27,Crystal Palace,eng Premier League,W 4-2,4,2,+2,74,4,0,0,0,573,3038,1755,29,34,9,10,5,731,80,Match Report
+701,Manchester Utd,2022-08-22,Liverpool,eng Premier League,W 2-1,2,1,+1,30,2,0,0,0,179,1033,404,12,6,6,17,6,192,23,Match Report
+702,Liverpool,2022-08-22,Manchester Utd,eng Premier League,L 1-2,1,2,-1,70,1,0,0,0,494,2211,1103,21,17,12,14,21,576,57,Match Report
+703,Leeds United,2022-08-21,Chelsea,eng Premier League,W 3-0,3,0,+3,39,3,0,0,0,174,849,409,13,7,2,10,10,250,26,Match Report
+704,West Ham,2022-08-21,Brighton,eng Premier League,L 0-2,0,2,-2,50,0,0,0,0,378,1702,829,14,13,2,10,15,405,43,Match Report
+705,Newcastle Utd,2022-08-21,Manchester City,eng Premier League,D 3-3,3,3,0,31,3,0,0,0,150,1070,551,17,10,5,10,5,201,29,Match Report
+706,Chelsea,2022-08-21,Leeds United,eng Premier League,L 0-3,0,3,-3,61,0,0,0,0,296,1752,934,29,14,5,14,12,441,52,Match Report
+707,Brighton,2022-08-21,West Ham,eng Premier League,W 2-0,2,0,+2,50,1,1,1,0,303,1708,880,17,13,7,18,6,413,41,Match Report
+708,Manchester City,2022-08-21,Newcastle Utd,eng Premier League,D 3-3,3,3,0,69,3,0,0,0,394,2315,1385,26,14,8,9,6,546,59,Match Report
+709,Arsenal,2022-08-20,Bournemouth,eng Premier League,W 3-0,3,0,+3,57,3,0,0,0,526,2454,1049,14,19,3,16,9,528,35,Match Report
+710,Southampton,2022-08-20,Leicester City,eng Premier League,W 2-1,2,1,+1,38,2,0,0,0,299,1681,817,19,13,3,13,8,255,26,Match Report
+711,Tottenham,2022-08-20,Wolves,eng Premier League,W 1-0,1,0,+1,50,1,0,0,0,355,1826,1003,18,12,7,21,10,429,48,Match Report
+712,Crystal Palace,2022-08-20,Aston Villa,eng Premier League,W 3-1,3,1,+2,51,3,0,1,1,328,1571,797,16,14,10,15,18,404,27,Match Report
+713,Bournemouth,2022-08-20,Arsenal,eng Premier League,L 0-3,0,3,-3,43,0,0,0,0,351,1752,732,13,8,1,14,9,351,14,Match Report
+714,Aston Villa,2022-08-20,Crystal Palace,eng Premier League,L 1-3,1,3,-2,49,1,0,0,0,232,1324,690,12,15,3,18,12,371,25,Match Report
+715,Wolves,2022-08-20,Tottenham,eng Premier League,L 0-1,0,1,-1,50,0,0,0,0,258,1744,943,18,13,2,5,6,420,44,Match Report
+716,Leicester City,2022-08-20,Southampton,eng Premier League,L 1-2,1,2,-1,62,1,0,0,0,461,2202,1203,20,14,7,18,14,491,59,Match Report
+717,Brentford,2022-08-20,Fulham,eng Premier League,L 2-3,2,3,-1,57,2,0,0,0,293,1209,558,5,5,4,16,7,344,25,Match Report
+718,Everton,2022-08-20,Nott'ham Forest,eng Premier League,D 1-1,1,1,0,49,1,0,0,0,283,1875,1046,25,18,10,15,8,344,27,Match Report
+719,Nott'ham Forest,2022-08-20,Everton,eng Premier League,D 1-1,1,1,0,51,1,0,0,0,334,1613,910,15,7,5,14,6,353,23,Match Report
+720,Fulham,2022-08-20,Brentford,eng Premier League,W 3-2,3,2,+1,43,3,0,0,0,176,994,478,15,11,1,20,11,249,19,Match Report
+721,Crystal Palace,2022-08-15,Liverpool,eng Premier League,D 1-1,1,1,0,28,1,0,0,0,153,971,574,11,8,4,23,13,210,17,Match Report
+722,Liverpool,2022-08-15,Crystal Palace,eng Premier League,D 1-1,1,1,0,72,1,0,0,0,663,3538,1619,11,23,4,16,12,677,85,Match Report
+723,Tottenham,2022-08-14,Chelsea,eng Premier League,D 2-2,2,2,0,37,2,0,0,0,257,1544,734,14,5,3,18,14,287,22,Match Report
+724,West Ham,2022-08-14,Nott'ham Forest,eng Premier League,L 0-1,0,1,-1,57,0,0,1,1,242,1756,984,27,11,8,13,11,312,44,Match Report
+725,Chelsea,2022-08-14,Tottenham,eng Premier League,D 2-2,2,2,0,63,2,0,0,0,406,2148,1021,29,19,14,15,17,540,51,Match Report
+726,Nott'ham Forest,2022-08-14,West Ham,eng Premier League,W 1-0,1,0,+1,43,1,0,0,0,185,1205,692,18,11,6,16,12,208,29,Match Report
+727,Arsenal,2022-08-13,Leicester City,eng Premier League,W 4-2,4,2,+2,50,4,0,0,0,323,1990,1009,23,19,9,12,7,405,29,Match Report
+728,Manchester Utd,2022-08-13,Brentford,eng Premier League,L 0-4,0,4,-4,66,0,0,0,0,364,2053,967,17,28,6,13,5,468,39,Match Report
+729,Southampton,2022-08-13,Leeds United,eng Premier League,D 2-2,2,2,0,43,2,0,0,0,226,1418,619,14,6,1,12,19,253,25,Match Report
+730,Bournemouth,2022-08-13,Manchester City,eng Premier League,L 0-4,0,4,-4,33,0,0,0,0,211,845,393,5,5,1,6,4,298,8,Match Report
+731,Leeds United,2022-08-13,Southampton,eng Premier League,D 2-2,2,2,0,57,2,0,0,0,347,1258,496,8,5,1,18,10,365,38,Match Report
+732,Aston Villa,2022-08-13,Everton,eng Premier League,W 2-1,2,1,+1,57,2,0,0,0,423,1804,914,19,12,6,12,7,456,52,Match Report
+733,Wolves,2022-08-13,Fulham,eng Premier League,D 0-0,0,0,0,59,0,0,0,0,282,1504,806,14,5,4,16,8,417,29,Match Report
+734,Leicester City,2022-08-13,Arsenal,eng Premier League,L 2-4,2,4,-2,50,1,0,0,0,380,1658,734,10,5,5,8,3,400,29,Match Report
+735,Newcastle Utd,2022-08-13,Brighton,eng Premier League,D 0-0,0,0,0,46,0,0,0,0,249,1463,612,16,10,4,17,10,253,27,Match Report
+736,Brentford,2022-08-13,Manchester Utd,eng Premier League,W 4-0,4,0,+4,34,4,0,0,0,162,608,247,5,7,1,12,9,178,15,Match Report
+737,Brighton,2022-08-13,Newcastle Utd,eng Premier League,D 0-0,0,0,0,54,0,0,0,0,236,1379,766,17,11,4,18,7,304,47,Match Report
+738,Everton,2022-08-13,Aston Villa,eng Premier League,L 1-2,1,2,-1,43,0,0,0,0,242,1235,683,9,7,2,19,5,311,24,Match Report
+739,Fulham,2022-08-13,Wolves,eng Premier League,D 0-0,0,0,0,41,0,0,1,1,259,1605,770,24,16,1,18,11,257,24,Match Report
+740,Manchester City,2022-08-13,Bournemouth,eng Premier League,W 4-0,4,0,+4,67,3,0,0,0,565,2288,1263,24,19,8,10,6,668,73,Match Report
+741,Manchester Utd,2022-08-07,Brighton,eng Premier League,L 1-2,1,2,-1,62,0,0,0,0,375,2192,1288,25,13,6,15,7,471,54,Match Report
+742,West Ham,2022-08-07,Manchester City,eng Premier League,L 0-2,0,2,-2,25,0,0,0,0,160,868,386,6,10,0,9,0,219,22,Match Report
+743,Leicester City,2022-08-07,Brentford,eng Premier League,D 2-2,2,2,0,56,2,0,0,0,470,1946,979,13,20,1,24,4,532,38,Match Report
+744,Brentford,2022-08-07,Leicester City,eng Premier League,D 2-2,2,2,0,44,2,0,0,0,363,1985,1087,18,8,4,9,9,399,29,Match Report
+745,Brighton,2022-08-07,Manchester Utd,eng Premier League,W 2-1,2,1,+1,38,2,0,0,0,177,973,372,7,5,3,19,6,251,35,Match Report
+746,Manchester City,2022-08-07,West Ham,eng Premier League,W 2-0,2,0,+2,75,1,1,1,0,580,3567,1841,31,26,8,7,3,783,49,Match Report
+747,Southampton,2022-08-06,Tottenham,eng Premier League,L 1-4,1,4,-3,42,1,0,0,0,299,1714,664,12,11,1,12,17,349,30,Match Report
+748,Tottenham,2022-08-06,Southampton,eng Premier League,W 4-1,4,1,+3,58,3,0,0,0,303,1726,919,19,12,8,15,9,500,57,Match Report
+749,Bournemouth,2022-08-06,Aston Villa,eng Premier League,W 2-0,2,0,+2,35,2,0,0,0,143,860,379,7,4,2,15,5,230,14,Match Report
+750,Leeds United,2022-08-06,Wolves,eng Premier League,W 2-1,2,1,+1,40,1,0,0,0,288,1282,635,15,14,4,13,10,292,37,Match Report
+751,Liverpool,2022-08-06,Fulham,eng Premier League,D 2-2,2,2,0,67,2,0,0,0,418,2013,1012,11,7,4,15,13,510,52,Match Report
+752,Aston Villa,2022-08-06,Bournemouth,eng Premier League,L 0-2,0,2,-2,65,0,0,0,0,468,1986,1061,24,18,0,17,11,506,62,Match Report
+753,Wolves,2022-08-06,Leeds United,eng Premier League,L 1-2,1,2,-1,60,1,0,0,0,507,1844,948,20,13,7,18,7,501,44,Match Report
+754,Newcastle Utd,2022-08-06,Nott'ham Forest,eng Premier League,W 2-0,2,0,+2,61,2,0,0,0,319,1984,1015,27,13,11,16,8,412,68,Match Report
+755,Chelsea,2022-08-06,Everton,eng Premier League,W 1-0,1,0,+1,62,0,1,1,0,385,2208,1277,21,22,6,20,18,515,47,Match Report
+756,Everton,2022-08-06,Chelsea,eng Premier League,L 0-1,0,1,-1,38,0,0,0,0,272,1338,577,6,4,2,10,13,272,19,Match Report
+757,Nott'ham Forest,2022-08-06,Newcastle Utd,eng Premier League,L 0-2,0,2,-2,39,0,0,0,0,202,1132,662,12,5,2,15,8,243,16,Match Report
+758,Fulham,2022-08-06,Liverpool,eng Premier League,D 2-2,2,2,0,33,1,1,1,0,233,916,433,10,5,4,21,6,201,31,Match Report
+759,Arsenal,2022-08-05,Crystal Palace,eng Premier League,W 2-0,2,0,+2,44,1,0,0,0,359,1962,1008,15,8,5,19,15,376,39,Match Report
+760,Crystal Palace,2022-08-05,Arsenal,eng Premier League,L 0-2,0,2,-2,56,0,0,0,0,524,2702,1115,20,21,7,17,16,512,34,Match Report

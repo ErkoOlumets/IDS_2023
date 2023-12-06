@@ -1,0 +1,761 @@
+Rk,Team,Date,Opp,Comp,Result,GF,GA,GD,Poss,G-PK,PK,PKatt,PKm,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Match Report
+1,Liverpool,2019-05-12,Wolves,eng Premier League,W 2-0,2,0,+2,59,2,0,0,0,752,54,180,255,135,18,752,Match Report
+2,Wolves,2019-05-12,Liverpool,eng Premier League,L 0-2,0,2,-2,41,0,0,0,0,562,62,198,255,88,22,562,Match Report
+3,Arsenal,2019-05-12,Burnley,eng Premier League,W 3-1,3,1,+2,60,3,0,0,0,683,74,255,255,170,36,683,Match Report
+4,Tottenham,2019-05-12,Everton,eng Premier League,D 2-2,2,2,0,55,2,0,0,0,702,67,230,255,145,17,702,Match Report
+5,Burnley,2019-05-12,Arsenal,eng Premier League,L 1-3,1,3,-2,40,1,0,0,0,501,67,135,245,130,30,501,Match Report
+6,Watford,2019-05-12,West Ham,eng Premier League,L 1-4,1,4,-3,49,1,0,0,0,551,47,114,255,157,37,551,Match Report
+7,Southampton,2019-05-12,Huddersfield,eng Premier League,D 1-1,1,1,0,53,1,0,0,0,617,45,138,255,149,20,617,Match Report
+8,Manchester Utd,2019-05-12,Cardiff City,eng Premier League,L 0-2,0,2,-2,73,0,0,0,0,774,54,162,255,255,34,774,Match Report
+9,Chelsea,2019-05-12,Leicester City,eng Premier League,D 0-0,0,0,0,53,0,0,0,0,669,59,170,255,211,20,669,Match Report
+10,Crystal Palace,2019-05-12,Bournemouth,eng Premier League,W 5-3,5,3,+2,46,4,0,0,0,593,67,186,255,154,35,593,Match Report
+11,Bournemouth,2019-05-12,Crystal Palace,eng Premier League,L 3-5,3,5,-2,54,3,0,0,0,678,56,197,255,189,25,678,Match Report
+12,Manchester City,2019-05-12,Brighton,eng Premier League,W 4-1,4,1,+3,75,4,0,0,0,920,31,114,255,255,48,920,Match Report
+13,Everton,2019-05-12,Tottenham,eng Premier League,D 2-2,2,2,0,45,2,0,0,0,599,79,216,251,136,26,599,Match Report
+14,Leicester City,2019-05-12,Chelsea,eng Premier League,D 0-0,0,0,0,47,0,0,0,0,603,81,255,227,120,15,603,Match Report
+15,Newcastle Utd,2019-05-12,Fulham,eng Premier League,W 4-0,4,0,+4,33,4,0,0,0,509,77,235,198,78,18,509,Match Report
+16,Huddersfield,2019-05-12,Southampton,eng Premier League,D 1-1,1,1,0,47,1,0,0,0,543,63,207,225,116,7,543,Match Report
+17,West Ham,2019-05-12,Watford,eng Premier League,W 4-1,4,1,+3,51,3,1,1,0,621,68,148,255,131,16,620,Match Report
+18,Fulham,2019-05-12,Newcastle Utd,eng Premier League,L 0-4,0,4,-4,67,0,0,0,0,901,54,170,255,226,35,901,Match Report
+19,Brighton,2019-05-12,Manchester City,eng Premier League,L 1-4,1,4,-3,25,1,0,0,0,368,89,182,149,42,4,368,Match Report
+20,Cardiff City,2019-05-12,Manchester Utd,eng Premier League,W 2-0,2,0,+2,27,1,1,1,0,371,87,170,117,95,21,370,Match Report
+21,Manchester City,2019-05-06,Leicester City,eng Premier League,W 1-0,1,0,+1,61,1,0,0,0,786,27,103,255,255,39,786,Match Report
+22,Leicester City,2019-05-06,Manchester City,eng Premier League,L 0-1,0,1,-1,39,0,0,0,0,573,111,255,211,61,5,573,Match Report
+23,Brighton,2019-05-05,Arsenal,eng Premier League,D 1-1,1,1,0,30,0,1,1,0,428,91,205,142,83,25,427,Match Report
+24,Manchester Utd,2019-05-05,Huddersfield,eng Premier League,D 1-1,1,1,0,64,1,0,0,0,771,47,187,255,196,33,771,Match Report
+25,Arsenal,2019-05-05,Brighton,eng Premier League,D 1-1,1,1,0,70,0,1,1,0,741,49,138,255,255,37,740,Match Report
+26,Watford,2019-05-05,Chelsea,eng Premier League,L 0-3,0,3,-3,42,0,0,0,0,534,65,172,208,162,32,534,Match Report
+27,Huddersfield,2019-05-05,Manchester Utd,eng Premier League,D 1-1,1,1,0,36,1,0,0,0,476,68,173,191,118,13,476,Match Report
+28,Chelsea,2019-05-05,Watford,eng Premier League,W 3-0,3,0,+3,58,3,0,0,0,701,69,200,255,226,37,701,Match Report
+29,Fulham,2019-05-04,Wolves,eng Premier League,L 0-1,0,1,-1,60,0,0,0,0,740,73,220,255,79,9,740,Match Report
+30,Newcastle Utd,2019-05-04,Liverpool,eng Premier League,L 2-3,2,3,-1,31,2,0,0,0,444,51,166,183,100,19,444,Match Report
+31,Southampton,2019-05-04,West Ham,eng Premier League,L 0-3,0,3,-3,44,0,0,0,0,548,46,122,255,143,23,548,Match Report
+32,Crystal Palace,2019-05-04,Cardiff City,eng Premier League,W 3-2,3,2,+1,60,3,0,0,0,640,57,182,255,134,41,640,Match Report
+33,Tottenham,2019-05-04,Bournemouth,eng Premier League,L 0-1,0,1,-1,47,0,0,0,0,558,67,171,255,128,16,558,Match Report
+34,Cardiff City,2019-05-04,Crystal Palace,eng Premier League,L 2-3,2,3,-1,40,1,0,0,0,460,63,131,192,141,33,460,Match Report
+35,Wolves,2019-05-04,Fulham,eng Premier League,W 1-0,1,0,+1,40,1,0,0,0,518,27,120,246,161,24,518,Match Report
+36,Bournemouth,2019-05-04,Tottenham,eng Premier League,W 1-0,1,0,+1,53,1,0,0,0,615,63,156,255,209,34,615,Match Report
+37,Liverpool,2019-05-04,Newcastle Utd,eng Premier League,W 3-2,3,2,+1,69,3,0,0,0,817,43,177,255,142,25,817,Match Report
+38,West Ham,2019-05-04,Southampton,eng Premier League,W 3-0,3,0,+3,56,3,0,0,0,676,62,203,255,166,25,676,Match Report
+39,Burnley,2019-05-03,Everton,eng Premier League,L 0-2,0,2,-2,41,0,0,0,0,525,77,183,217,131,15,525,Match Report
+40,Everton,2019-05-03,Burnley,eng Premier League,W 2-0,2,0,+2,59,1,0,0,0,733,50,198,255,198,29,733,Match Report
+41,Manchester City,2019-04-28,Burnley,eng Premier League,W 1-0,1,0,+1,69,1,0,0,0,781,51,173,255,239,39,781,Match Report
+42,Leicester City,2019-04-28,Arsenal,eng Premier League,W 3-0,3,0,+3,66,3,0,0,0,776,52,206,255,211,40,776,Match Report
+43,Arsenal,2019-04-28,Leicester City,eng Premier League,L 0-3,0,3,-3,34,0,0,0,0,451,71,190,187,83,16,451,Match Report
+44,Manchester Utd,2019-04-28,Chelsea,eng Premier League,D 1-1,1,1,0,52,1,0,0,0,615,59,154,255,173,24,615,Match Report
+45,Burnley,2019-04-28,Manchester City,eng Premier League,L 0-1,0,1,-1,31,0,0,0,0,404,87,171,153,82,8,404,Match Report
+46,Chelsea,2019-04-28,Manchester Utd,eng Premier League,D 1-1,1,1,0,48,1,0,0,0,580,65,191,201,193,25,580,Match Report
+47,Newcastle Utd,2019-04-27,Brighton,eng Premier League,D 1-1,1,1,0,50,1,0,0,0,634,49,188,255,123,16,634,Match Report
+48,Watford,2019-04-27,Wolves,eng Premier League,L 1-2,1,2,-1,56,1,0,0,0,672,61,193,255,148,21,672,Match Report
+49,Crystal Palace,2019-04-27,Everton,eng Premier League,D 0-0,0,0,0,37,0,0,0,0,510,91,212,197,107,12,510,Match Report
+50,Tottenham,2019-04-27,West Ham,eng Premier League,L 0-1,0,1,-1,62,0,0,0,0,799,68,226,255,193,26,799,Match Report
+51,Fulham,2019-04-27,Cardiff City,eng Premier League,W 1-0,1,0,+1,71,1,0,0,0,781,68,242,255,138,18,781,Match Report
+52,Southampton,2019-04-27,Bournemouth,eng Premier League,D 3-3,3,3,0,44,3,0,0,0,547,38,96,255,172,32,547,Match Report
+53,Everton,2019-04-27,Crystal Palace,eng Premier League,D 0-0,0,0,0,63,0,0,0,0,754,53,182,255,230,40,754,Match Report
+54,West Ham,2019-04-27,Tottenham,eng Premier League,W 1-0,1,0,+1,38,1,0,0,0,547,61,169,250,136,17,547,Match Report
+55,Bournemouth,2019-04-27,Southampton,eng Premier League,D 3-3,3,3,0,56,3,0,0,0,624,78,255,251,112,17,624,Match Report
+56,Cardiff City,2019-04-27,Fulham,eng Premier League,L 0-1,0,1,-1,29,0,0,0,0,389,49,131,151,113,20,389,Match Report
+57,Wolves,2019-04-27,Watford,eng Premier League,W 2-1,2,1,+1,44,2,0,0,0,557,63,160,253,153,22,557,Match Report
+58,Brighton,2019-04-27,Newcastle Utd,eng Premier League,D 1-1,1,1,0,50,1,0,0,0,621,52,149,255,167,16,621,Match Report
+59,Liverpool,2019-04-26,Huddersfield,eng Premier League,W 5-0,5,0,+5,69,5,0,0,0,888,69,255,255,160,24,888,Match Report
+60,Huddersfield,2019-04-26,Liverpool,eng Premier League,L 0-5,0,5,-5,31,0,0,0,0,450,54,164,199,91,10,450,Match Report
+61,Manchester City,2019-04-24,Manchester Utd,eng Premier League,W 2-0,2,0,+2,63,2,0,0,0,827,76,237,255,182,30,827,Match Report
+62,Arsenal,2019-04-24,Wolves,eng Premier League,L 1-3,1,3,-2,70,1,0,0,0,804,24,113,255,255,21,804,Match Report
+63,Wolves,2019-04-24,Arsenal,eng Premier League,W 3-1,3,1,+2,30,3,0,0,0,419,58,172,168,83,12,419,Match Report
+64,Manchester Utd,2019-04-24,Manchester City,eng Premier League,L 0-2,0,2,-2,37,0,0,0,0,535,57,180,244,117,13,535,Match Report
+65,Southampton,2019-04-23,Watford,eng Premier League,D 1-1,1,1,0,38,1,0,0,0,526,62,179,233,121,14,526,Match Report
+66,Tottenham,2019-04-23,Brighton,eng Premier League,W 1-0,1,0,+1,77,1,0,0,0,869,31,108,255,255,36,869,Match Report
+67,Watford,2019-04-23,Southampton,eng Premier League,D 1-1,1,1,0,62,1,0,0,0,758,56,222,255,194,33,758,Match Report
+68,Brighton,2019-04-23,Tottenham,eng Premier League,L 0-1,0,1,-1,23,0,0,0,0,355,101,196,107,56,7,355,Match Report
+69,Burnley,2019-04-22,Chelsea,eng Premier League,D 2-2,2,2,0,25,2,0,0,0,397,112,214,132,54,7,397,Match Report
+70,Chelsea,2019-04-22,Burnley,eng Premier League,D 2-2,2,2,0,75,2,0,0,0,867,42,193,255,255,64,867,Match Report
+71,Liverpool,2019-04-21,Cardiff City,eng Premier League,W 2-0,2,0,+2,75,1,1,1,0,764,34,162,255,216,28,763,Match Report
+72,Manchester Utd,2019-04-21,Everton,eng Premier League,L 0-4,0,4,-4,52,0,0,0,0,570,64,174,255,132,12,570,Match Report
+73,Everton,2019-04-21,Manchester Utd,eng Premier League,W 4-0,4,0,+4,48,4,0,0,0,556,43,178,242,138,16,556,Match Report
+74,Arsenal,2019-04-21,Crystal Palace,eng Premier League,L 2-3,2,3,-1,72,2,0,0,0,827,30,127,255,255,29,827,Match Report
+75,Cardiff City,2019-04-21,Liverpool,eng Premier League,L 0-2,0,2,-2,25,0,0,0,0,318,65,132,127,63,10,318,Match Report
+76,Crystal Palace,2019-04-21,Arsenal,eng Premier League,W 3-2,3,2,+1,28,3,0,0,0,420,69,166,149,108,23,420,Match Report
+77,Leicester City,2019-04-20,West Ham,eng Premier League,D 2-2,2,2,0,51,2,0,0,0,596,55,170,255,144,25,596,Match Report
+78,Southampton,2019-04-20,Newcastle Utd,eng Premier League,L 1-3,1,3,-2,56,1,0,0,0,597,44,127,255,145,22,597,Match Report
+79,Wolves,2019-04-20,Brighton,eng Premier League,D 0-0,0,0,0,68,0,0,0,0,784,25,130,255,255,40,784,Match Report
+80,Fulham,2019-04-20,Bournemouth,eng Premier League,W 1-0,1,0,+1,51,0,1,1,0,605,57,138,255,150,28,604,Match Report
+81,Huddersfield,2019-04-20,Watford,eng Premier League,L 1-2,1,2,-1,46,1,0,0,0,529,50,143,255,126,12,529,Match Report
+82,West Ham,2019-04-20,Leicester City,eng Premier League,D 2-2,2,2,0,49,2,0,0,0,567,55,135,249,190,24,567,Match Report
+83,Tottenham,2019-04-20,Manchester City,eng Premier League,L 0-1,0,1,-1,39,0,0,0,0,525,96,242,207,79,13,525,Match Report
+84,Bournemouth,2019-04-20,Fulham,eng Premier League,L 0-1,0,1,-1,49,0,0,0,0,594,53,197,255,122,28,594,Match Report
+85,Brighton,2019-04-20,Wolves,eng Premier League,D 0-0,0,0,0,32,0,0,0,0,451,90,195,188,72,2,451,Match Report
+86,Watford,2019-04-20,Huddersfield,eng Premier League,W 2-1,2,1,+1,54,2,0,0,0,597,53,194,255,101,28,597,Match Report
+87,Newcastle Utd,2019-04-20,Southampton,eng Premier League,W 3-1,3,1,+2,44,3,0,0,0,492,57,187,205,103,20,492,Match Report
+88,Manchester City,2019-04-20,Tottenham,eng Premier League,W 1-0,1,0,+1,61,1,0,0,0,745,50,158,255,211,31,745,Match Report
+89,Brighton,2019-04-16,Cardiff City,eng Premier League,L 0-2,0,2,-2,64,0,0,0,0,698,39,187,255,157,21,698,Match Report
+90,Cardiff City,2019-04-16,Brighton,eng Premier League,W 2-0,2,0,+2,36,2,0,0,0,474,64,180,212,91,17,474,Match Report
+91,Arsenal,2019-04-15,Watford,eng Premier League,W 1-0,1,0,+1,65,1,0,0,0,811,64,165,255,197,44,811,Match Report
+92,Watford,2019-04-15,Arsenal,eng Premier League,L 0-1,0,1,-1,35,0,0,0,0,480,69,165,195,124,23,480,Match Report
+93,Liverpool,2019-04-14,Chelsea,eng Premier League,W 2-0,2,0,+2,62,2,0,0,0,822,57,175,255,255,37,822,Match Report
+94,Manchester City,2019-04-14,Crystal Palace,eng Premier League,W 3-1,3,1,+2,73,3,0,0,0,893,43,121,255,255,39,893,Match Report
+95,Crystal Palace,2019-04-14,Manchester City,eng Premier League,L 1-3,1,3,-2,27,1,0,0,0,439,77,196,176,73,13,439,Match Report
+96,Chelsea,2019-04-14,Liverpool,eng Premier League,L 0-2,0,2,-2,38,0,0,0,0,570,81,250,195,131,17,570,Match Report
+97,West Ham,2019-04-13,Manchester Utd,eng Premier League,L 1-2,1,2,-1,57,1,0,0,0,685,51,140,255,175,41,685,Match Report
+98,Burnley,2019-04-13,Cardiff City,eng Premier League,W 2-0,2,0,+2,47,2,0,0,0,466,52,142,187,146,22,466,Match Report
+99,Southampton,2019-04-13,Wolves,eng Premier League,W 3-1,3,1,+2,31,3,0,0,0,452,59,151,224,81,17,452,Match Report
+100,Bournemouth,2019-04-13,Brighton,eng Premier League,W 5-0,5,0,+5,49,5,0,0,0,630,56,246,255,127,31,630,Match Report
+101,Brighton,2019-04-13,Bournemouth,eng Premier League,L 0-5,0,5,-5,51,0,0,0,0,615,52,131,255,156,13,615,Match Report
+102,Manchester Utd,2019-04-13,West Ham,eng Premier League,W 2-1,2,1,+1,43,0,2,2,0,547,69,180,255,119,27,545,Match Report
+103,Tottenham,2019-04-13,Huddersfield,eng Premier League,W 4-0,4,0,+4,69,4,0,0,0,864,39,133,255,202,30,864,Match Report
+104,Fulham,2019-04-13,Everton,eng Premier League,W 2-0,2,0,+2,41,2,0,0,0,517,59,186,247,91,18,517,Match Report
+105,Everton,2019-04-13,Fulham,eng Premier League,L 0-2,0,2,-2,59,0,0,0,0,671,60,188,255,167,23,671,Match Report
+106,Wolves,2019-04-13,Southampton,eng Premier League,L 1-3,1,3,-2,69,1,0,0,0,798,43,198,255,154,24,798,Match Report
+107,Cardiff City,2019-04-13,Burnley,eng Premier League,L 0-2,0,2,-2,53,0,0,0,0,494,60,147,202,148,15,494,Match Report
+108,Huddersfield,2019-04-13,Tottenham,eng Premier League,L 0-4,0,4,-4,31,0,0,0,0,442,54,144,215,89,15,442,Match Report
+109,Leicester City,2019-04-12,Newcastle Utd,eng Premier League,L 0-1,0,1,-1,71,0,0,0,0,939,44,177,255,199,23,939,Match Report
+110,Newcastle Utd,2019-04-12,Leicester City,eng Premier League,W 1-0,1,0,+1,29,1,0,0,0,478,60,188,210,88,17,478,Match Report
+111,Chelsea,2019-04-08,West Ham,eng Premier League,W 2-0,2,0,+2,53,2,0,0,0,638,49,170,255,212,36,638,Match Report
+112,West Ham,2019-04-08,Chelsea,eng Premier League,L 0-2,0,2,-2,47,0,0,0,0,554,74,179,255,113,12,554,Match Report
+113,Arsenal,2019-04-07,Everton,eng Premier League,L 0-1,0,1,-1,57,0,0,0,0,678,80,255,255,135,19,678,Match Report
+114,Everton,2019-04-07,Arsenal,eng Premier League,W 1-0,1,0,+1,43,1,0,0,0,554,55,137,248,179,32,554,Match Report
+115,Crystal Palace,2019-04-06,Newcastle Utd,eng Premier League,W 1-0,1,0,+1,47,0,1,1,0,539,69,184,255,94,15,538,Match Report
+116,Burnley,2019-04-06,Bournemouth,eng Premier League,W 3-1,3,1,+2,41,3,0,0,0,440,53,135,190,118,20,440,Match Report
+117,Leicester City,2019-04-06,Huddersfield,eng Premier League,W 4-1,4,1,+3,55,3,1,1,0,634,62,204,255,121,25,633,Match Report
+118,Newcastle Utd,2019-04-06,Crystal Palace,eng Premier League,L 0-1,0,1,-1,53,0,0,0,0,607,34,139,255,202,26,607,Match Report
+119,Bournemouth,2019-04-06,Burnley,eng Premier League,L 1-3,1,3,-2,59,0,0,0,0,606,67,217,255,132,36,606,Match Report
+120,Huddersfield,2019-04-06,Leicester City,eng Premier League,L 1-4,1,4,-3,45,0,1,1,0,521,52,138,255,125,13,520,Match Report
+121,Liverpool,2019-04-05,Southampton,eng Premier League,W 3-1,3,1,+2,67,3,0,0,0,733,58,177,255,192,34,733,Match Report
+122,Southampton,2019-04-05,Liverpool,eng Premier League,L 1-3,1,3,-2,33,1,0,0,0,436,68,157,171,113,15,436,Match Report
+123,Chelsea,2019-04-03,Brighton,eng Premier League,W 3-0,3,0,+3,68,3,0,0,0,892,28,123,255,255,36,892,Match Report
+124,Manchester City,2019-04-03,Cardiff City,eng Premier League,W 2-0,2,0,+2,79,2,0,0,0,816,25,132,255,255,46,816,Match Report
+125,Cardiff City,2019-04-03,Manchester City,eng Premier League,L 0-2,0,2,-2,21,0,0,0,0,300,82,143,111,51,9,300,Match Report
+126,Brighton,2019-04-03,Chelsea,eng Premier League,L 0-3,0,3,-3,32,0,0,0,0,499,75,245,204,54,8,499,Match Report
+127,Tottenham,2019-04-03,Crystal Palace,eng Premier League,W 2-0,2,0,+2,65,2,0,0,0,856,48,180,255,255,32,856,Match Report
+128,Crystal Palace,2019-04-03,Tottenham,eng Premier League,L 0-2,0,2,-2,35,0,0,0,0,538,83,251,237,57,9,538,Match Report
+129,Wolves,2019-04-02,Manchester Utd,eng Premier League,W 2-1,2,1,+1,49,1,0,0,0,653,57,196,255,108,16,653,Match Report
+130,Fulham,2019-04-02,Watford,eng Premier League,L 1-4,1,4,-3,53,1,0,0,0,708,58,192,255,160,28,708,Match Report
+131,Manchester Utd,2019-04-02,Wolves,eng Premier League,L 1-2,1,2,-1,51,1,0,0,0,653,41,111,255,150,20,653,Match Report
+132,Watford,2019-04-02,Fulham,eng Premier League,W 4-1,4,1,+3,47,4,0,0,0,623,59,170,255,183,23,623,Match Report
+133,Newcastle Utd,2019-04-01,Arsenal,eng Premier League,L 0-2,0,2,-2,30,0,0,0,0,437,61,179,184,77,6,437,Match Report
+134,Arsenal,2019-04-01,Newcastle Utd,eng Premier League,W 2-0,2,0,+2,70,2,0,0,0,852,41,182,255,234,32,852,Match Report
+135,Chelsea,2019-03-31,Cardiff City,eng Premier League,W 2-1,2,1,+1,70,2,0,0,0,742,48,205,255,187,24,742,Match Report
+136,Cardiff City,2019-03-31,Chelsea,eng Premier League,L 1-2,1,2,-1,30,1,0,0,0,390,59,151,162,82,17,390,Match Report
+137,Tottenham,2019-03-31,Liverpool,eng Premier League,L 1-2,1,2,-1,52,1,0,0,0,637,98,255,255,112,17,637,Match Report
+138,Liverpool,2019-03-31,Tottenham,eng Premier League,W 2-1,2,1,+1,48,1,0,0,0,615,57,182,255,149,26,615,Match Report
+139,Watford,2019-03-30,Manchester Utd,eng Premier League,L 1-2,1,2,-1,48,1,0,0,0,560,46,130,223,212,43,560,Match Report
+140,Everton,2019-03-30,West Ham,eng Premier League,W 2-0,2,0,+2,51,2,0,0,0,612,50,188,255,174,33,612,Match Report
+141,Leicester City,2019-03-30,Bournemouth,eng Premier League,W 2-0,2,0,+2,58,2,0,0,0,768,66,216,255,208,25,768,Match Report
+142,Crystal Palace,2019-03-30,Huddersfield,eng Premier League,W 2-0,2,0,+2,49,1,1,1,0,593,58,200,255,128,27,592,Match Report
+143,Manchester Utd,2019-03-30,Watford,eng Premier League,W 2-1,2,1,+1,52,2,0,0,0,587,87,206,216,171,27,587,Match Report
+144,Southampton,2019-03-30,Brighton,eng Premier League,W 1-0,1,0,+1,40,1,0,0,0,515,59,152,247,124,18,515,Match Report
+145,Manchester City,2019-03-30,Fulham,eng Premier League,W 2-0,2,0,+2,65,2,0,0,0,839,49,154,255,255,34,839,Match Report
+146,Burnley,2019-03-30,Wolves,eng Premier League,W 2-0,2,0,+2,38,1,0,0,0,463,61,154,222,91,12,463,Match Report
+147,Huddersfield,2019-03-30,Crystal Palace,eng Premier League,L 0-2,0,2,-2,51,0,0,0,0,609,69,162,255,149,19,609,Match Report
+148,West Ham,2019-03-30,Everton,eng Premier League,L 0-2,0,2,-2,49,0,0,0,0,594,70,195,255,116,6,594,Match Report
+149,Brighton,2019-03-30,Southampton,eng Premier League,L 0-1,0,1,-1,60,0,0,0,0,710,61,237,255,180,26,710,Match Report
+150,Fulham,2019-03-30,Manchester City,eng Premier League,L 0-2,0,2,-2,35,0,0,0,0,504,76,224,220,67,7,504,Match Report
+151,Bournemouth,2019-03-30,Leicester City,eng Premier League,L 0-2,0,2,-2,42,0,0,0,0,583,70,216,255,105,8,583,Match Report
+152,Wolves,2019-03-30,Burnley,eng Premier League,L 0-2,0,2,-2,62,0,0,0,0,683,39,166,255,141,18,683,Match Report
+153,Liverpool,2019-03-17,Fulham,eng Premier League,W 2-1,2,1,+1,62,1,1,1,0,744,40,145,255,255,41,743,Match Report
+154,Everton,2019-03-17,Chelsea,eng Premier League,W 2-0,2,0,+2,33,2,0,1,1,484,74,202,178,110,20,484,Match Report
+155,Fulham,2019-03-17,Liverpool,eng Premier League,L 1-2,1,2,-1,38,1,0,0,0,499,91,205,218,82,9,499,Match Report
+156,Chelsea,2019-03-17,Everton,eng Premier League,L 0-2,0,2,-2,67,0,0,0,0,826,48,201,255,226,32,826,Match Report
+157,Leicester City,2019-03-16,Burnley,eng Premier League,W 2-1,2,1,+1,38,2,0,0,0,462,86,206,171,92,16,462,Match Report
+158,West Ham,2019-03-16,Huddersfield,eng Premier League,W 4-3,4,3,+1,64,3,1,1,0,750,45,128,255,225,32,749,Match Report
+159,Newcastle Utd,2019-03-16,Bournemouth,eng Premier League,D 2-2,2,2,0,51,2,0,0,0,577,43,189,255,139,17,577,Match Report
+160,Bournemouth,2019-03-16,Newcastle Utd,eng Premier League,D 2-2,2,2,0,49,1,1,1,0,546,60,173,255,125,15,545,Match Report
+161,Huddersfield,2019-03-16,West Ham,eng Premier League,L 3-4,3,4,-1,36,3,0,0,0,481,53,170,210,108,15,481,Match Report
+162,Burnley,2019-03-16,Leicester City,eng Premier League,L 1-2,1,2,-1,62,1,0,0,0,639,39,111,255,194,30,639,Match Report
+163,Manchester Utd,2019-03-10,Arsenal,eng Premier League,L 0-2,0,2,-2,54,0,0,0,0,620,57,184,255,126,25,620,Match Report
+164,Liverpool,2019-03-10,Burnley,eng Premier League,W 4-2,4,2,+2,67,4,0,0,0,813,51,215,255,244,39,813,Match Report
+165,Arsenal,2019-03-10,Manchester Utd,eng Premier League,W 2-0,2,0,+2,46,1,1,1,0,543,67,173,244,132,24,542,Match Report
+166,Chelsea,2019-03-10,Wolves,eng Premier League,D 1-1,1,1,0,76,1,0,0,0,992,19,129,255,255,25,992,Match Report
+167,Wolves,2019-03-10,Chelsea,eng Premier League,D 1-1,1,1,0,24,1,0,0,0,438,82,241,149,56,2,438,Match Report
+168,Burnley,2019-03-10,Liverpool,eng Premier League,L 2-4,2,4,-2,33,2,0,0,0,474,69,171,216,98,9,473,Match Report
+169,Cardiff City,2019-03-09,West Ham,eng Premier League,W 2-0,2,0,+2,30,2,0,0,0,389,43,122,137,133,26,389,Match Report
+170,Bournemouth,2019-03-09,Huddersfield,eng Premier League,W 2-0,2,0,+2,43,2,0,0,0,531,73,234,191,123,24,531,Match Report
+171,West Ham,2019-03-09,Cardiff City,eng Premier League,L 0-2,0,2,-2,70,0,0,0,0,712,60,188,255,159,13,712,Match Report
+172,Huddersfield,2019-03-09,Bournemouth,eng Premier League,L 0-2,0,2,-2,57,0,0,0,0,642,36,141,255,215,21,642,Match Report
+173,Crystal Palace,2019-03-09,Brighton,eng Premier League,L 1-2,1,2,-1,62,0,1,1,0,754,29,164,255,195,32,753,Match Report
+174,Brighton,2019-03-09,Crystal Palace,eng Premier League,W 2-1,2,1,+1,38,2,0,0,0,543,74,229,229,94,9,543,Match Report
+175,Fulham,2019-03-09,Leicester City,eng Premier League,L 1-3,1,3,-2,48,1,0,0,0,612,66,182,255,90,7,612,Match Report
+176,Southampton,2019-03-09,Tottenham,eng Premier League,W 2-1,2,1,+1,37,2,0,0,0,479,74,172,178,131,14,479,Match Report
+177,Manchester City,2019-03-09,Watford,eng Premier League,W 3-1,3,1,+2,71,3,0,0,0,855,28,87,255,255,41,855,Match Report
+178,Leicester City,2019-03-09,Fulham,eng Premier League,W 3-1,3,1,+2,52,3,0,0,0,678,42,145,255,177,27,678,Match Report
+179,Tottenham,2019-03-09,Southampton,eng Premier League,L 1-2,1,2,-1,63,1,0,0,0,661,54,192,255,159,27,661,Match Report
+180,Watford,2019-03-09,Manchester City,eng Premier League,L 1-3,1,3,-2,29,1,0,0,0,415,86,201,182,35,4,415,Match Report
+181,Everton,2019-03-09,Newcastle Utd,eng Premier League,L 2-3,2,3,-1,55,2,0,0,0,629,53,174,255,172,24,629,Match Report
+182,Newcastle Utd,2019-03-09,Everton,eng Premier League,W 3-2,3,2,+1,45,3,0,1,1,565,63,185,243,144,25,564,Match Report
+183,Everton,2019-03-03,Liverpool,eng Premier League,D 0-0,0,0,0,43,0,0,0,0,519,77,195,203,127,16,519,Match Report
+184,Liverpool,2019-03-03,Everton,eng Premier League,D 0-0,0,0,0,57,0,0,0,0,648,62,242,255,127,25,648,Match Report
+185,Chelsea,2019-03-03,Fulham,eng Premier League,W 2-1,2,1,+1,63,2,0,0,0,828,69,219,255,199,30,828,Match Report
+186,Leicester City,2019-03-03,Watford,eng Premier League,L 1-2,1,2,-1,61,1,0,0,0,721,48,202,255,192,23,721,Match Report
+187,Watford,2019-03-03,Leicester City,eng Premier League,W 2-1,2,1,+1,39,2,0,0,0,531,58,185,254,98,18,531,Match Report
+188,Fulham,2019-03-03,Chelsea,eng Premier League,L 1-2,1,2,-1,37,1,0,0,0,526,63,177,242,118,16,526,Match Report
+189,Newcastle Utd,2019-03-02,West Ham,eng Premier League,L 0-2,0,2,-2,44,0,0,0,0,577,43,140,255,140,16,577,Match Report
+190,Brighton,2019-03-02,Huddersfield,eng Premier League,W 1-0,1,0,+1,54,1,0,0,0,664,48,154,255,183,32,664,Match Report
+191,Wolves,2019-03-02,Cardiff City,eng Premier League,W 2-0,2,0,+2,56,2,0,0,0,659,66,220,255,115,23,659,Match Report
+192,Southampton,2019-03-02,Manchester Utd,eng Premier League,L 2-3,2,3,-1,36,2,0,0,0,443,59,145,168,135,15,443,Match Report
+193,Crystal Palace,2019-03-02,Burnley,eng Premier League,W 3-1,3,1,+2,43,2,0,0,0,519,79,204,217,105,22,519,Match Report
+194,Huddersfield,2019-03-02,Brighton,eng Premier League,L 0-1,0,1,-1,46,0,0,0,0,580,58,225,255,89,8,580,Match Report
+195,Arsenal,2019-03-02,Tottenham,eng Premier League,D 1-1,1,1,0,40,1,0,1,1,481,54,183,202,100,15,480,Match Report
+196,Manchester City,2019-03-02,Bournemouth,eng Premier League,W 1-0,1,0,+1,81,1,0,0,0,949,21,90,255,255,42,949,Match Report
+197,Cardiff City,2019-03-02,Wolves,eng Premier League,L 0-2,0,2,-2,44,0,0,0,0,522,34,100,249,183,24,522,Match Report
+198,West Ham,2019-03-02,Newcastle Utd,eng Premier League,W 2-0,2,0,+2,56,1,1,1,0,695,58,166,255,151,20,694,Match Report
+199,Bournemouth,2019-03-02,Manchester City,eng Premier League,L 0-1,0,1,-1,19,0,0,0,0,323,92,200,94,33,4,323,Match Report
+200,Burnley,2019-03-02,Crystal Palace,eng Premier League,L 1-3,1,3,-2,57,1,0,0,0,617,49,126,255,192,28,617,Match Report
+201,Brighton,2019-03-02,Huddersfield,eng Premier League,W 1-0,1,0,+1,54,1,0,0,0,664,48,154,255,183,32,664,Match Report
+202,Bournemouth,2019-03-02,Manchester City,eng Premier League,L 0-1,0,1,-1,19,0,0,0,0,323,92,200,94,33,4,323,Match Report
+203,Bournemouth,2019-02-27,Arsenal,eng Premier League,L 1-5,1,5,-4,36,1,0,0,0,492,55,153,228,115,17,492,Match Report
+204,Crystal Palace,2019-02-27,Manchester Utd,eng Premier League,L 1-3,1,3,-2,46,1,0,0,0,532,44,151,255,136,25,532,Match Report
+205,Liverpool,2019-02-27,Watford,eng Premier League,W 5-0,5,0,+5,62,5,0,0,0,805,48,171,255,229,37,805,Match Report
+206,Fulham,2019-02-27,Southampton,eng Premier League,L 0-2,0,2,-2,59,0,0,0,0,702,49,230,255,103,11,702,Match Report
+207,Chelsea,2019-02-27,Tottenham,eng Premier League,W 2-0,2,0,+2,46,1,0,0,0,633,56,210,255,166,11,633,Match Report
+208,Manchester Utd,2019-02-27,Crystal Palace,eng Premier League,W 3-1,3,1,+2,54,3,0,0,0,602,53,135,255,143,20,602,Match Report
+209,Arsenal,2019-02-27,Bournemouth,eng Premier League,W 5-1,5,1,+4,64,5,0,0,0,788,59,235,255,219,32,788,Match Report
+210,Manchester City,2019-02-27,West Ham,eng Premier League,W 1-0,1,0,+1,75,0,1,1,0,937,43,171,255,255,57,936,Match Report
+211,Watford,2019-02-27,Liverpool,eng Premier League,L 0-5,0,5,-5,38,0,0,0,0,567,76,208,255,93,11,567,Match Report
+212,Tottenham,2019-02-27,Chelsea,eng Premier League,L 0-2,0,2,-2,54,0,0,0,0,726,70,209,255,181,17,726,Match Report
+213,Southampton,2019-02-27,Fulham,eng Premier League,W 2-0,2,0,+2,41,2,0,0,0,557,40,126,255,165,20,557,Match Report
+214,West Ham,2019-02-27,Manchester City,eng Premier League,L 0-1,0,1,-1,25,0,0,0,0,415,87,196,167,57,6,415,Match Report
+215,Everton,2019-02-26,Cardiff City,eng Premier League,W 3-0,3,0,+3,66,3,0,0,0,703,65,197,255,177,27,703,Match Report
+216,Huddersfield,2019-02-26,Wolves,eng Premier League,W 1-0,1,0,+1,50,1,0,0,0,624,41,198,255,159,14,624,Match Report
+217,Newcastle Utd,2019-02-26,Burnley,eng Premier League,W 2-0,2,0,+2,54,2,0,0,0,628,63,185,255,123,13,628,Match Report
+218,Brighton,2019-02-26,Leicester City,eng Premier League,L 1-2,1,2,-1,51,1,0,0,0,604,53,141,255,165,20,604,Match Report
+219,Burnley,2019-02-26,Newcastle Utd,eng Premier League,L 0-2,0,2,-2,46,0,0,0,0,535,47,161,255,111,28,535,Match Report
+220,Leicester City,2019-02-26,Brighton,eng Premier League,W 2-1,2,1,+1,49,2,0,0,0,604,61,204,255,143,30,604,Match Report
+221,Cardiff City,2019-02-26,Everton,eng Premier League,L 0-3,0,3,-3,34,0,0,0,0,409,49,137,169,111,21,409,Match Report
+222,Wolves,2019-02-26,Huddersfield,eng Premier League,L 0-1,0,1,-1,50,0,0,0,0,630,47,164,255,161,13,630,Match Report
+223,Southampton,2019-02-24,Arsenal,eng Premier League,L 0-2,0,2,-2,38,0,0,0,0,538,64,119,255,156,18,538,Match Report
+224,Liverpool,2019-02-24,Manchester Utd,eng Premier League,D 0-0,0,0,0,64,0,0,0,0,708,38,163,255,206,28,708,Match Report
+225,Arsenal,2019-02-24,Southampton,eng Premier League,W 2-0,2,0,+2,62,2,0,0,0,778,69,250,255,180,46,778,Match Report
+226,Manchester Utd,2019-02-24,Liverpool,eng Premier League,D 0-0,0,0,0,36,0,0,0,0,448,79,214,181,58,9,448,Match Report
+227,Burnley,2019-02-23,Tottenham,eng Premier League,W 2-1,2,1,+1,32,2,0,0,0,405,63,143,148,116,16,405,Match Report
+228,Leicester City,2019-02-23,Crystal Palace,eng Premier League,L 1-4,1,4,-3,64,1,0,0,0,699,23,122,255,253,30,699,Match Report
+229,Wolves,2019-02-23,Bournemouth,eng Premier League,D 1-1,1,1,0,55,0,1,1,0,631,55,170,255,157,16,630,Match Report
+230,Bournemouth,2019-02-23,Wolves,eng Premier League,D 1-1,1,1,0,45,0,1,2,1,557,64,186,225,156,23,555,Match Report
+231,Tottenham,2019-02-23,Burnley,eng Premier League,L 1-2,1,2,-1,68,1,0,0,0,684,64,199,255,198,29,684,Match Report
+232,Crystal Palace,2019-02-23,Leicester City,eng Premier League,W 4-1,4,1,+3,36,3,1,1,0,456,79,196,198,71,11,455,Match Report
+233,Huddersfield,2019-02-23,Newcastle Utd,eng Premier League,L 0-2,0,2,-2,46,0,0,0,0,651,95,232,255,100,7,651,Match Report
+234,Newcastle Utd,2019-02-23,Huddersfield,eng Premier League,W 2-0,2,0,+2,54,2,0,0,0,722,33,155,255,212,47,722,Match Report
+235,Cardiff City,2019-02-22,Watford,eng Premier League,L 1-5,1,5,-4,37,1,0,0,0,482,44,146,202,142,20,482,Match Report
+236,Watford,2019-02-22,Cardiff City,eng Premier League,W 5-1,5,1,+4,63,5,0,0,0,742,66,197,255,123,20,742,Match Report
+237,Fulham,2019-02-22,West Ham,eng Premier League,L 1-3,1,3,-2,45,1,0,0,0,627,77,193,255,82,10,627,Match Report
+238,West Ham,2019-02-22,Fulham,eng Premier League,W 3-1,3,1,+2,55,3,0,0,0,721,40,123,255,216,50,721,Match Report
+239,Newcastle Utd,2019-02-11,Wolves,eng Premier League,D 1-1,1,1,0,41,1,0,0,0,600,76,197,255,103,12,600,Match Report
+240,Wolves,2019-02-11,Newcastle Utd,eng Premier League,D 1-1,1,1,0,59,1,0,0,0,788,55,204,255,178,35,788,Match Report
+241,Leicester City,2019-02-10,Tottenham,eng Premier League,L 1-3,1,3,-2,47,1,0,1,1,592,51,149,255,189,35,591,Match Report
+242,Tottenham,2019-02-10,Leicester City,eng Premier League,W 3-1,3,1,+2,53,3,0,0,0,636,77,196,255,124,13,636,Match Report
+243,Manchester City,2019-02-10,Chelsea,eng Premier League,W 6-0,6,0,+6,56,5,1,1,0,814,97,255,255,161,25,813,Match Report
+244,Chelsea,2019-02-10,Manchester City,eng Premier League,L 0-6,0,6,-6,44,0,0,0,0,651,63,210,255,169,19,651,Match Report
+245,Huddersfield,2019-02-09,Arsenal,eng Premier League,L 1-2,1,2,-1,55,1,0,0,0,668,38,113,255,201,14,668,Match Report
+246,Fulham,2019-02-09,Manchester Utd,eng Premier League,L 0-3,0,3,-3,51,0,0,0,0,676,60,177,255,163,19,676,Match Report
+247,Everton,2019-02-09,Watford,eng Premier League,L 0-1,0,1,-1,56,0,0,0,0,611,58,209,255,120,21,611,Match Report
+248,Cardiff City,2019-02-09,Southampton,eng Premier League,W 2-1,2,1,+1,34,2,0,0,0,420,68,156,171,95,21,420,Match Report
+249,West Ham,2019-02-09,Crystal Palace,eng Premier League,D 1-1,1,1,0,42,0,1,1,0,545,82,171,240,142,19,544,Match Report
+250,Liverpool,2019-02-09,Bournemouth,eng Premier League,W 3-0,3,0,+3,65,3,0,0,0,884,62,210,255,254,40,884,Match Report
+251,Southampton,2019-02-09,Cardiff City,eng Premier League,L 1-2,1,2,-1,66,1,0,0,0,702,41,152,255,178,26,702,Match Report
+252,Crystal Palace,2019-02-09,West Ham,eng Premier League,D 1-1,1,1,0,58,1,0,0,0,670,57,177,255,204,43,670,Match Report
+253,Bournemouth,2019-02-09,Liverpool,eng Premier League,L 0-3,0,3,-3,35,0,0,0,0,537,85,249,178,115,22,537,Match Report
+254,Brighton,2019-02-09,Burnley,eng Premier League,L 1-3,1,3,-2,68,1,0,0,0,704,50,180,255,212,35,704,Match Report
+255,Burnley,2019-02-09,Brighton,eng Premier League,W 3-1,3,1,+2,32,2,1,1,0,428,80,197,168,72,12,427,Match Report
+256,Watford,2019-02-09,Everton,eng Premier League,W 1-0,1,0,+1,44,1,0,0,0,488,56,157,194,140,24,488,Match Report
+257,Arsenal,2019-02-09,Huddersfield,eng Premier League,W 2-1,2,1,+1,45,2,0,0,0,586,72,247,255,77,21,586,Match Report
+258,Manchester Utd,2019-02-09,Fulham,eng Premier League,W 3-0,3,0,+3,49,2,1,1,0,644,68,175,255,181,41,643,Match Report
+259,Manchester City,2019-02-06,Everton,eng Premier League,W 2-0,2,0,+2,61,2,0,0,0,722,60,205,255,180,40,722,Match Report
+260,Everton,2019-02-06,Manchester City,eng Premier League,L 0-2,0,2,-2,39,0,0,0,0,504,65,179,199,138,15,504,Match Report
+261,Liverpool,2019-02-04,West Ham,eng Premier League,D 1-1,1,1,0,73,1,0,0,0,845,45,143,255,218,22,845,Match Report
+262,West Ham,2019-02-04,Liverpool,eng Premier League,D 1-1,1,1,0,27,1,0,0,0,420,67,156,182,86,17,420,Match Report
+263,Manchester City,2019-02-03,Arsenal,eng Premier League,W 3-1,3,1,+2,59,3,0,0,0,764,29,127,255,244,44,764,Match Report
+264,Leicester City,2019-02-03,Manchester Utd,eng Premier League,L 0-1,0,1,-1,45,0,0,0,0,575,39,149,234,195,32,575,Match Report
+265,Manchester Utd,2019-02-03,Leicester City,eng Premier League,W 1-0,1,0,+1,55,1,0,0,0,690,60,169,255,165,15,690,Match Report
+266,Arsenal,2019-02-03,Manchester City,eng Premier League,L 1-3,1,3,-2,41,1,0,0,0,559,84,214,255,79,8,559,Match Report
+267,Brighton,2019-02-02,Watford,eng Premier League,D 0-0,0,0,0,55,0,0,0,0,647,38,137,255,185,28,647,Match Report
+268,Burnley,2019-02-02,Southampton,eng Premier League,D 1-1,1,1,0,55,0,1,1,0,633,56,171,255,161,27,632,Match Report
+269,Newcastle Utd,2019-02-02,Tottenham,eng Premier League,L 0-1,0,1,-1,29,0,0,0,0,472,97,215,190,72,11,472,Match Report
+270,Fulham,2019-02-02,Crystal Palace,eng Premier League,L 0-2,0,2,-2,62,0,0,0,0,767,61,180,255,143,10,767,Match Report
+271,Cardiff City,2019-02-02,Bournemouth,eng Premier League,W 2-0,2,0,+2,27,1,1,1,0,367,65,154,125,92,20,366,Match Report
+272,Bournemouth,2019-02-02,Cardiff City,eng Premier League,L 0-2,0,2,-2,73,0,0,0,0,769,48,164,255,219,31,769,Match Report
+273,Everton,2019-02-02,Wolves,eng Premier League,L 1-3,1,3,-2,64,1,0,0,0,686,30,159,255,167,18,686,Match Report
+274,Southampton,2019-02-02,Burnley,eng Premier League,D 1-1,1,1,0,45,1,0,0,0,562,82,175,255,107,17,562,Match Report
+275,Tottenham,2019-02-02,Newcastle Utd,eng Premier League,W 1-0,1,0,+1,71,1,0,0,0,927,42,154,255,255,46,927,Match Report
+276,Huddersfield,2019-02-02,Chelsea,eng Premier League,L 0-5,0,5,-5,35,0,0,0,0,539,83,255,188,92,10,539,Match Report
+277,Watford,2019-02-02,Brighton,eng Premier League,D 0-0,0,0,0,45,0,0,0,0,563,76,206,255,96,11,563,Match Report
+278,Wolves,2019-02-02,Everton,eng Premier League,W 3-1,3,1,+2,36,2,1,1,0,458,54,182,195,88,10,457,Match Report
+279,Chelsea,2019-02-02,Huddersfield,eng Premier League,W 5-0,5,0,+5,65,4,1,1,0,883,47,233,255,255,39,882,Match Report
+280,Crystal Palace,2019-02-02,Fulham,eng Premier League,W 2-0,2,0,+2,38,1,1,1,0,519,46,141,229,155,27,518,Match Report
+281,Tottenham,2019-01-30,Watford,eng Premier League,W 2-1,2,1,+1,68,2,0,0,0,762,58,169,255,240,32,762,Match Report
+282,Crystal Palace,2019-01-30,Southampton,eng Premier League,D 1-1,1,1,0,42,1,0,0,0,542,50,216,213,120,23,542,Match Report
+283,Watford,2019-01-30,Tottenham,eng Premier League,L 1-2,1,2,-1,32,1,0,0,0,447,99,203,149,100,16,447,Match Report
+284,Southampton,2019-01-30,Crystal Palace,eng Premier League,D 1-1,1,1,0,58,1,0,0,0,710,49,150,255,179,16,710,Match Report
+285,Chelsea,2019-01-30,Bournemouth,eng Premier League,L 0-4,0,4,-4,68,0,0,0,0,873,40,170,255,255,29,873,Match Report
+286,Leicester City,2019-01-30,Liverpool,eng Premier League,D 1-1,1,1,0,28,1,0,0,0,460,81,186,209,73,15,460,Match Report
+287,Liverpool,2019-01-30,Leicester City,eng Premier League,D 1-1,1,1,0,72,1,0,0,0,958,45,171,255,255,34,958,Match Report
+288,Bournemouth,2019-01-30,Chelsea,eng Premier League,W 4-0,4,0,+4,32,4,0,0,0,498,89,255,159,93,19,498,Match Report
+289,Cardiff City,2019-01-29,Arsenal,eng Premier League,L 1-2,1,2,-1,30,1,0,0,0,406,63,159,134,117,18,406,Match Report
+290,Burnley,2019-01-29,Manchester Utd,eng Premier League,D 2-2,2,2,0,27,2,0,0,0,404,106,181,158,66,7,404,Match Report
+291,Arsenal,2019-01-29,Cardiff City,eng Premier League,W 2-1,2,1,+1,70,1,1,1,0,748,65,177,255,245,37,747,Match Report
+292,Wolves,2019-01-29,West Ham,eng Premier League,W 3-0,3,0,+3,55,3,0,0,0,635,45,162,255,152,26,635,Match Report
+293,West Ham,2019-01-29,Wolves,eng Premier League,L 0-3,0,3,-3,45,0,0,0,0,555,64,142,255,98,6,555,Match Report
+294,Manchester Utd,2019-01-29,Burnley,eng Premier League,D 2-2,2,2,0,73,1,1,1,0,810,44,214,255,255,36,809,Match Report
+295,Manchester City,2019-01-29,Newcastle Utd,eng Premier League,L 1-2,1,2,-1,75,1,0,0,0,918,43,163,255,249,30,918,Match Report
+296,Fulham,2019-01-29,Brighton,eng Premier League,W 4-2,4,2,+2,61,4,0,0,0,813,76,226,255,208,32,813,Match Report
+297,Huddersfield,2019-01-29,Everton,eng Premier League,L 0-1,0,1,-1,58,0,0,0,0,706,40,150,255,174,17,706,Match Report
+298,Everton,2019-01-29,Huddersfield,eng Premier League,W 1-0,1,0,+1,42,1,0,0,0,565,64,182,255,82,12,565,Match Report
+299,Brighton,2019-01-29,Fulham,eng Premier League,L 2-4,2,4,-2,39,2,0,0,0,575,68,178,255,143,25,575,Match Report
+300,Newcastle Utd,2019-01-29,Manchester City,eng Premier League,W 2-1,2,1,+1,25,1,1,1,0,385,72,177,152,61,7,384,Match Report
+301,Fulham,2019-01-20,Tottenham,eng Premier League,L 1-2,1,2,-1,28,0,0,0,0,431,74,181,176,80,19,431,Match Report
+302,Manchester City,2019-01-20,Huddersfield,eng Premier League,W 3-0,3,0,+3,67,3,0,0,0,874,54,167,255,206,23,874,Match Report
+303,Tottenham,2019-01-20,Fulham,eng Premier League,W 2-1,2,1,+1,72,2,0,0,0,851,62,188,255,254,23,851,Match Report
+304,Huddersfield,2019-01-20,Manchester City,eng Premier League,L 0-3,0,3,-3,33,0,0,0,0,493,51,181,222,97,10,493,Match Report
+305,Chelsea,2019-01-19,Arsenal,eng Premier League,L 0-2,0,2,-2,64,0,0,0,0,810,57,204,255,255,39,810,Match Report
+306,Brighton,2019-01-19,Manchester Utd,eng Premier League,L 1-2,1,2,-1,44,1,0,0,0,546,65,175,243,132,16,546,Match Report
+307,Burnley,2019-01-19,Watford,eng Premier League,D 0-0,0,0,0,46,0,0,0,0,487,42,130,219,139,20,487,Match Report
+308,Everton,2019-01-19,Southampton,eng Premier League,L 1-2,1,2,-1,61,1,0,0,0,652,60,193,255,157,21,652,Match Report
+309,Liverpool,2019-01-19,Crystal Palace,eng Premier League,W 4-3,4,3,+1,70,4,0,0,0,900,31,114,255,255,51,900,Match Report
+310,West Ham,2019-01-19,Bournemouth,eng Premier League,L 0-2,0,2,-2,61,0,0,0,0,739,66,174,255,194,21,739,Match Report
+311,Newcastle Utd,2019-01-19,Cardiff City,eng Premier League,W 3-0,3,0,+3,54,3,0,0,0,578,60,192,235,158,24,578,Match Report
+312,Bournemouth,2019-01-19,West Ham,eng Premier League,W 2-0,2,0,+2,39,2,0,0,0,525,67,196,207,134,22,525,Match Report
+313,Crystal Palace,2019-01-19,Liverpool,eng Premier League,L 3-4,3,4,-1,30,3,0,0,0,481,103,231,189,64,16,481,Match Report
+314,Leicester City,2019-01-19,Wolves,eng Premier League,L 3-4,3,4,-1,54,2,0,0,0,628,47,154,255,177,31,628,Match Report
+315,Watford,2019-01-19,Burnley,eng Premier League,D 0-0,0,0,0,54,0,0,0,0,576,62,197,255,103,14,576,Match Report
+316,Wolves,2019-01-19,Leicester City,eng Premier League,W 4-3,4,3,+1,46,4,0,0,0,553,66,187,255,103,22,553,Match Report
+317,Cardiff City,2019-01-19,Newcastle Utd,eng Premier League,L 0-3,0,3,-3,46,0,0,0,0,505,59,143,224,144,18,505,Match Report
+318,Arsenal,2019-01-19,Chelsea,eng Premier League,W 2-0,2,0,+2,36,2,0,0,0,546,91,255,154,133,22,546,Match Report
+319,Manchester Utd,2019-01-19,Brighton,eng Premier League,W 2-1,2,1,+1,56,1,1,1,0,650,47,157,255,165,19,649,Match Report
+320,Southampton,2019-01-19,Everton,eng Premier League,W 2-1,2,1,+1,39,1,0,0,0,504,51,168,228,117,16,504,Match Report
+321,Manchester City,2019-01-14,Wolves,eng Premier League,W 3-0,3,0,+3,76,1,1,1,0,1028,29,84,255,255,56,1027,Match Report
+322,Wolves,2019-01-14,Manchester City,eng Premier League,L 0-3,0,3,-3,24,0,0,0,0,408,109,239,142,31,6,408,Match Report
+323,Tottenham,2019-01-13,Manchester Utd,eng Premier League,L 0-1,0,1,-1,61,0,0,0,0,736,55,204,255,206,39,736,Match Report
+324,Manchester Utd,2019-01-13,Tottenham,eng Premier League,W 1-0,1,0,+1,39,1,0,0,0,517,84,175,232,116,16,517,Match Report
+325,Everton,2019-01-13,Bournemouth,eng Premier League,W 2-0,2,0,+2,51,2,0,0,0,590,72,215,228,153,27,590,Match Report
+326,Bournemouth,2019-01-13,Everton,eng Premier League,L 0-2,0,2,-2,49,0,0,0,0,550,62,155,244,153,30,550,Match Report
+327,West Ham,2019-01-12,Arsenal,eng Premier League,W 1-0,1,0,+1,42,1,0,0,0,507,57,122,241,148,23,507,Match Report
+328,Crystal Palace,2019-01-12,Watford,eng Premier League,L 1-2,1,2,-1,55,0,0,0,0,591,56,157,249,191,34,591,Match Report
+329,Leicester City,2019-01-12,Southampton,eng Premier League,L 1-2,1,2,-1,71,1,0,0,0,761,32,126,255,255,35,761,Match Report
+330,Watford,2019-01-12,Crystal Palace,eng Premier League,W 2-1,2,1,+1,45,2,0,0,0,524,70,155,232,145,16,524,Match Report
+331,Huddersfield,2019-01-12,Cardiff City,eng Premier League,D 0-0,0,0,0,61,0,0,0,0,599,51,161,255,184,23,599,Match Report
+332,Arsenal,2019-01-12,West Ham,eng Premier League,L 0-1,0,1,-1,58,0,0,0,0,678,69,227,255,142,19,678,Match Report
+333,Brighton,2019-01-12,Liverpool,eng Premier League,L 0-1,0,1,-1,30,0,0,0,0,436,63,187,172,80,12,436,Match Report
+334,Fulham,2019-01-12,Burnley,eng Premier League,L 1-2,1,2,-1,58,1,0,0,0,754,75,227,255,160,17,754,Match Report
+335,Southampton,2019-01-12,Leicester City,eng Premier League,W 2-1,2,1,+1,29,1,1,1,0,431,99,205,170,58,16,430,Match Report
+336,Chelsea,2019-01-12,Newcastle Utd,eng Premier League,W 2-1,2,1,+1,65,2,0,0,0,849,51,203,255,222,20,849,Match Report
+337,Newcastle Utd,2019-01-12,Chelsea,eng Premier League,L 1-2,1,2,-1,35,1,0,0,0,527,59,197,220,113,12,527,Match Report
+338,Liverpool,2019-01-12,Brighton,eng Premier League,W 1-0,1,0,+1,70,0,1,1,0,871,43,183,255,183,31,870,Match Report
+339,Cardiff City,2019-01-12,Huddersfield,eng Premier League,D 0-0,0,0,0,39,0,0,0,0,430,71,161,181,92,11,430,Match Report
+340,Burnley,2019-01-12,Fulham,eng Premier League,W 2-1,2,1,+1,42,1,0,0,0,578,59,159,255,118,16,578,Match Report
+341,Manchester City,2019-01-03,Liverpool,eng Premier League,W 2-1,2,1,+1,49,2,0,0,0,733,66,228,255,123,23,733,Match Report
+342,Liverpool,2019-01-03,Manchester City,eng Premier League,L 1-2,1,2,-1,51,1,0,0,0,725,79,255,255,115,19,725,Match Report
+343,Newcastle Utd,2019-01-02,Manchester Utd,eng Premier League,L 0-2,0,2,-2,36,0,0,0,0,527,57,196,213,124,21,527,Match Report
+344,Bournemouth,2019-01-02,Watford,eng Premier League,D 3-3,3,3,0,57,3,0,0,0,640,52,211,255,161,36,640,Match Report
+345,Chelsea,2019-01-02,Southampton,eng Premier League,D 0-0,0,0,0,71,0,0,0,0,934,64,231,255,255,26,934,Match Report
+346,Wolves,2019-01-02,Crystal Palace,eng Premier League,L 0-2,0,2,-2,52,0,0,0,0,701,80,207,255,133,11,701,Match Report
+347,Watford,2019-01-02,Bournemouth,eng Premier League,D 3-3,3,3,0,43,3,0,0,0,523,58,169,244,114,16,523,Match Report
+348,Brighton,2019-01-02,West Ham,eng Premier League,D 2-2,2,2,0,45,2,0,0,0,552,41,153,255,114,13,552,Match Report
+349,Crystal Palace,2019-01-02,Wolves,eng Premier League,W 2-0,2,0,+2,48,1,1,1,0,654,41,152,255,175,33,653,Match Report
+350,Huddersfield,2019-01-02,Burnley,eng Premier League,L 1-2,1,2,-1,43,1,0,0,0,513,57,179,210,128,15,513,Match Report
+351,Manchester Utd,2019-01-02,Newcastle Utd,eng Premier League,W 2-0,2,0,+2,64,2,0,0,0,834,57,176,255,146,28,834,Match Report
+352,Southampton,2019-01-02,Chelsea,eng Premier League,D 0-0,0,0,0,29,0,0,0,0,493,73,187,195,112,6,493,Match Report
+353,West Ham,2019-01-02,Brighton,eng Premier League,D 2-2,2,2,0,55,2,0,0,0,642,44,135,255,128,14,642,Match Report
+354,Burnley,2019-01-02,Huddersfield,eng Premier League,W 2-1,2,1,+1,57,2,0,0,0,657,61,167,255,167,20,657,Match Report
+355,Fulham,2019-01-01,Arsenal,eng Premier League,L 1-4,1,4,-3,40,1,0,0,0,548,76,197,255,101,14,548,Match Report
+356,Cardiff City,2019-01-01,Tottenham,eng Premier League,L 0-3,0,3,-3,28,0,0,0,0,411,49,120,189,106,16,411,Match Report
+357,Tottenham,2019-01-01,Cardiff City,eng Premier League,W 3-0,3,0,+3,72,3,0,0,0,953,74,255,255,129,25,953,Match Report
+358,Everton,2019-01-01,Leicester City,eng Premier League,L 0-1,0,1,-1,59,0,0,0,0,716,47,161,255,224,29,716,Match Report
+359,Leicester City,2019-01-01,Everton,eng Premier League,W 1-0,1,0,+1,41,1,0,0,0,570,73,232,225,123,15,570,Match Report
+360,Arsenal,2019-01-01,Fulham,eng Premier League,W 4-1,4,1,+3,60,4,0,0,0,702,61,221,255,194,44,702,Match Report
+361,Bournemouth,2018-12-30,Manchester Utd,eng Premier League,L 1-4,1,4,-3,35,1,0,0,0,491,56,198,192,104,13,491,Match Report
+362,Manchester City,2018-12-30,Southampton,eng Premier League,W 3-1,3,1,+2,76,2,0,0,0,931,55,168,255,249,35,931,Match Report
+363,Chelsea,2018-12-30,Crystal Palace,eng Premier League,W 1-0,1,0,+1,65,1,0,0,0,915,48,150,255,255,17,915,Match Report
+364,Manchester Utd,2018-12-30,Bournemouth,eng Premier League,W 4-1,4,1,+3,65,4,0,0,0,827,54,199,255,185,26,827,Match Report
+365,Burnley,2018-12-30,West Ham,eng Premier League,W 2-0,2,0,+2,43,2,0,0,0,523,60,150,247,134,35,523,Match Report
+366,West Ham,2018-12-30,Burnley,eng Premier League,L 0-2,0,2,-2,57,0,0,0,0,609,61,188,255,137,14,609,Match Report
+367,Crystal Palace,2018-12-30,Chelsea,eng Premier League,L 0-1,0,1,-1,35,0,0,0,0,545,67,221,239,90,14,545,Match Report
+368,Southampton,2018-12-30,Manchester City,eng Premier League,L 1-3,1,3,-2,24,1,0,0,0,384,72,192,141,57,8,384,Match Report
+369,Liverpool,2018-12-29,Arsenal,eng Premier League,W 5-1,5,1,+4,48,3,2,2,0,643,62,206,255,154,26,641,Match Report
+370,Newcastle Utd,2018-12-29,Watford,eng Premier League,D 1-1,1,1,0,37,1,0,0,0,490,69,167,204,124,13,490,Match Report
+371,Wolves,2018-12-29,Tottenham,eng Premier League,W 3-1,3,1,+2,40,3,0,0,0,565,51,169,255,134,19,565,Match Report
+372,Leicester City,2018-12-29,Cardiff City,eng Premier League,L 0-1,0,1,-1,62,0,0,1,1,633,60,202,255,147,18,632,Match Report
+373,Arsenal,2018-12-29,Liverpool,eng Premier League,L 1-5,1,5,-4,52,1,0,0,0,681,73,223,255,117,17,681,Match Report
+374,Tottenham,2018-12-29,Wolves,eng Premier League,L 1-3,1,3,-2,60,1,0,0,0,812,60,197,255,170,9,812,Match Report
+375,Cardiff City,2018-12-29,Leicester City,eng Premier League,W 1-0,1,0,+1,38,1,0,0,0,453,59,141,170,148,16,453,Match Report
+376,Watford,2018-12-29,Newcastle Utd,eng Premier League,D 1-1,1,1,0,63,1,0,0,0,741,52,195,255,187,21,741,Match Report
+377,Everton,2018-12-29,Brighton,eng Premier League,L 0-1,0,1,-1,54,0,0,0,0,609,65,200,255,141,22,609,Match Report
+378,Brighton,2018-12-29,Everton,eng Premier League,W 1-0,1,0,+1,46,1,0,0,0,549,58,177,237,140,23,549,Match Report
+379,Fulham,2018-12-29,Huddersfield,eng Premier League,W 1-0,1,0,+1,44,1,0,1,1,559,56,157,255,143,18,558,Match Report
+380,Huddersfield,2018-12-29,Fulham,eng Premier League,L 0-1,0,1,-1,56,0,0,0,0,673,78,255,255,103,14,673,Match Report
+381,West Ham,2018-12-27,Southampton,eng Premier League,W 2-1,2,1,+1,54,2,0,0,0,690,65,161,255,173,22,690,Match Report
+382,Southampton,2018-12-27,West Ham,eng Premier League,L 1-2,1,2,-1,46,1,0,0,0,601,54,205,255,144,20,601,Match Report
+383,Brighton,2018-12-26,Arsenal,eng Premier League,D 1-1,1,1,0,33,1,0,0,0,459,57,152,202,113,24,459,Match Report
+384,Huddersfield,2018-12-26,Manchester Utd,eng Premier League,L 1-3,1,3,-2,36,1,0,0,0,510,54,200,202,113,17,510,Match Report
+385,Chelsea,2018-12-26,Watford,eng Premier League,W 2-1,2,1,+1,65,1,1,1,0,866,59,220,255,251,24,865,Match Report
+386,Bournemouth,2018-12-26,Tottenham,eng Premier League,L 0-5,0,5,-5,44,0,0,0,0,581,45,163,255,142,22,581,Match Report
+387,Cardiff City,2018-12-26,Crystal Palace,eng Premier League,D 0-0,0,0,0,38,0,0,0,0,479,90,185,178,119,15,479,Match Report
+388,Tottenham,2018-12-26,Bournemouth,eng Premier League,W 5-0,5,0,+5,56,5,0,0,0,729,75,220,255,100,14,729,Match Report
+389,Crystal Palace,2018-12-26,Cardiff City,eng Premier League,D 0-0,0,0,0,62,0,0,0,0,690,42,186,255,251,56,690,Match Report
+390,Newcastle Utd,2018-12-26,Liverpool,eng Premier League,L 0-4,0,4,-4,26,0,0,0,0,402,88,180,156,72,5,402,Match Report
+391,Fulham,2018-12-26,Wolves,eng Premier League,D 1-1,1,1,0,30,1,0,0,0,464,73,186,193,87,15,464,Match Report
+392,Everton,2018-12-26,Burnley,eng Premier League,W 5-1,5,1,+4,51,4,1,1,0,578,71,219,255,99,20,577,Match Report
+393,Manchester City,2018-12-26,Leicester City,eng Premier League,L 1-2,1,2,-1,66,1,0,0,0,781,43,131,255,255,37,781,Match Report
+394,Liverpool,2018-12-26,Newcastle Utd,eng Premier League,W 4-0,4,0,+4,74,3,1,1,0,878,41,126,255,232,39,877,Match Report
+395,Watford,2018-12-26,Chelsea,eng Premier League,L 1-2,1,2,-1,35,1,0,0,0,523,63,159,224,143,23,523,Match Report
+396,Arsenal,2018-12-26,Brighton,eng Premier League,D 1-1,1,1,0,67,1,0,0,0,832,64,199,255,173,21,832,Match Report
+397,Burnley,2018-12-26,Everton,eng Premier League,L 1-5,1,5,-4,49,1,0,0,0,554,42,133,255,133,16,554,Match Report
+398,Manchester Utd,2018-12-26,Huddersfield,eng Premier League,W 3-1,3,1,+2,64,3,0,0,0,793,62,153,255,201,23,793,Match Report
+399,Wolves,2018-12-26,Fulham,eng Premier League,D 1-1,1,1,0,70,1,0,0,0,840,37,177,255,181,13,840,Match Report
+400,Leicester City,2018-12-26,Manchester City,eng Premier League,W 2-1,2,1,+1,34,2,0,0,0,492,89,228,176,94,17,492,Match Report
+401,Everton,2018-12-23,Tottenham,eng Premier League,L 2-6,2,6,-4,42,2,0,0,0,548,41,128,255,154,14,548,Match Report
+402,Tottenham,2018-12-23,Everton,eng Premier League,W 6-2,6,2,+4,58,6,0,0,0,755,96,255,255,87,19,755,Match Report
+403,Burnley,2018-12-22,Arsenal,eng Premier League,L 1-3,1,3,-2,40,1,0,0,0,483,49,140,231,118,17,483,Match Report
+404,Cardiff City,2018-12-22,Manchester Utd,eng Premier League,L 1-5,1,5,-4,27,0,1,1,0,356,45,131,138,93,12,355,Match Report
+405,West Ham,2018-12-22,Watford,eng Premier League,L 0-2,0,2,-2,52,0,0,0,0,607,53,176,255,169,28,607,Match Report
+406,Huddersfield,2018-12-22,Southampton,eng Premier League,L 1-3,1,3,-2,62,1,0,0,0,688,56,211,255,146,23,688,Match Report
+407,Manchester City,2018-12-22,Crystal Palace,eng Premier League,L 2-3,2,3,-1,78,2,0,0,0,912,16,72,255,255,42,912,Match Report
+408,Brighton,2018-12-22,Bournemouth,eng Premier League,L 0-2,0,2,-2,43,0,0,0,0,547,58,175,248,129,11,547,Match Report
+409,Manchester Utd,2018-12-22,Cardiff City,eng Premier League,W 5-1,5,1,+4,73,4,1,1,0,765,53,187,255,180,22,764,Match Report
+410,Watford,2018-12-22,West Ham,eng Premier League,W 2-0,2,0,+2,48,1,1,1,0,572,73,178,231,167,24,571,Match Report
+411,Arsenal,2018-12-22,Burnley,eng Premier League,W 3-1,3,1,+2,60,3,0,0,0,681,62,193,255,140,26,681,Match Report
+412,Chelsea,2018-12-22,Leicester City,eng Premier League,L 0-1,0,1,-1,72,0,0,0,0,870,49,179,255,255,31,870,Match Report
+413,Fulham,2018-12-22,Newcastle Utd,eng Premier League,D 0-0,0,0,0,47,0,0,0,0,614,78,204,255,88,8,614,Match Report
+414,Leicester City,2018-12-22,Chelsea,eng Premier League,W 1-0,1,0,+1,28,1,0,0,0,458,87,215,142,112,15,458,Match Report
+415,Bournemouth,2018-12-22,Brighton,eng Premier League,W 2-0,2,0,+2,57,2,0,0,0,688,48,207,255,167,25,688,Match Report
+416,Southampton,2018-12-22,Huddersfield,eng Premier League,W 3-1,3,1,+2,38,2,1,1,0,514,68,167,250,101,20,513,Match Report
+417,Newcastle Utd,2018-12-22,Fulham,eng Premier League,D 0-0,0,0,0,53,0,0,0,0,671,50,176,255,191,24,671,Match Report
+418,Crystal Palace,2018-12-22,Manchester City,eng Premier League,W 3-2,3,2,+1,22,2,1,1,0,372,104,210,125,44,5,371,Match Report
+419,Wolves,2018-12-21,Liverpool,eng Premier League,L 0-2,0,2,-2,39,0,0,0,0,586,53,184,255,96,19,586,Match Report
+420,Liverpool,2018-12-21,Wolves,eng Premier League,W 2-0,2,0,+2,61,2,0,0,0,844,59,200,255,233,24,844,Match Report
+421,Southampton,2018-12-16,Arsenal,eng Premier League,W 3-2,3,2,+1,34,3,0,0,0,487,43,148,231,117,15,487,Match Report
+422,Liverpool,2018-12-16,Manchester Utd,eng Premier League,W 3-1,3,1,+2,64,3,0,0,0,738,36,142,255,255,39,738,Match Report
+423,Arsenal,2018-12-16,Southampton,eng Premier League,L 2-3,2,3,-1,66,2,0,0,0,810,56,243,255,158,19,810,Match Report
+424,Manchester Utd,2018-12-16,Liverpool,eng Premier League,L 1-3,1,3,-2,36,1,0,0,0,512,101,225,207,84,11,512,Match Report
+425,Brighton,2018-12-16,Chelsea,eng Premier League,L 1-2,1,2,-1,43,1,0,0,0,610,42,227,255,105,7,610,Match Report
+426,Chelsea,2018-12-16,Brighton,eng Premier League,W 2-1,2,1,+1,57,2,0,0,0,783,44,201,255,175,19,783,Match Report
+427,Cardiff City,2018-12-15,Watford,eng Premier League,L 2-3,2,3,-1,29,2,0,0,0,415,67,160,161,102,16,415,Match Report
+428,Burnley,2018-12-15,Tottenham,eng Premier League,L 0-1,0,1,-1,30,0,0,0,0,419,72,188,148,85,9,419,Match Report
+429,Leicester City,2018-12-15,Crystal Palace,eng Premier League,L 0-1,0,1,-1,56,0,0,0,0,679,44,184,255,140,16,679,Match Report
+430,Wolves,2018-12-15,Bournemouth,eng Premier League,W 2-0,2,0,+2,38,2,0,0,0,537,65,201,248,94,18,537,Match Report
+431,Watford,2018-12-15,Cardiff City,eng Premier League,W 3-2,3,2,+1,71,3,0,0,0,809,42,149,255,204,26,809,Match Report
+432,Fulham,2018-12-15,West Ham,eng Premier League,L 0-2,0,2,-2,56,0,0,0,0,661,43,131,255,189,22,661,Match Report
+433,Bournemouth,2018-12-15,Wolves,eng Premier League,L 0-2,0,2,-2,62,0,0,0,0,793,55,202,255,184,14,793,Match Report
+434,Tottenham,2018-12-15,Burnley,eng Premier League,W 1-0,1,0,+1,70,1,0,0,0,778,46,163,255,225,33,778,Match Report
+435,Crystal Palace,2018-12-15,Leicester City,eng Premier League,W 1-0,1,0,+1,44,1,0,0,0,575,60,183,255,124,11,575,Match Report
+436,Huddersfield,2018-12-15,Newcastle Utd,eng Premier League,L 0-1,0,1,-1,72,0,0,0,0,820,40,145,255,255,33,820,Match Report
+437,Manchester City,2018-12-15,Everton,eng Premier League,W 3-1,3,1,+2,67,3,0,0,0,832,56,173,255,196,24,832,Match Report
+438,Newcastle Utd,2018-12-15,Huddersfield,eng Premier League,W 1-0,1,0,+1,28,1,0,0,0,442,90,225,156,64,8,442,Match Report
+439,West Ham,2018-12-15,Fulham,eng Premier League,W 2-0,2,0,+2,44,2,0,0,0,557,82,227,213,125,14,557,Match Report
+440,Everton,2018-12-15,Manchester City,eng Premier League,L 1-3,1,3,-2,33,1,0,0,0,473,77,205,192,82,12,473,Match Report
+441,Everton,2018-12-10,Watford,eng Premier League,D 2-2,2,2,0,56,2,0,1,1,608,72,211,244,158,30,607,Match Report
+442,Watford,2018-12-10,Everton,eng Premier League,D 2-2,2,2,0,44,1,0,0,0,496,52,155,204,141,24,496,Match Report
+443,Newcastle Utd,2018-12-09,Wolves,eng Premier League,L 1-2,1,2,-1,51,1,0,0,0,575,60,190,255,117,16,575,Match Report
+444,Wolves,2018-12-09,Newcastle Utd,eng Premier League,W 2-1,2,1,+1,49,2,0,0,0,590,60,190,255,121,20,590,Match Report
+445,Huddersfield,2018-12-08,Arsenal,eng Premier League,L 0-1,0,1,-1,38,0,0,0,0,467,54,161,206,105,13,467,Match Report
+446,Fulham,2018-12-08,Manchester Utd,eng Premier League,L 1-4,1,4,-3,38,0,1,1,0,527,65,160,240,131,14,526,Match Report
+447,Cardiff City,2018-12-08,Southampton,eng Premier League,W 1-0,1,0,+1,37,1,0,0,0,420,61,143,168,115,29,420,Match Report
+448,Leicester City,2018-12-08,Tottenham,eng Premier League,L 0-2,0,2,-2,43,0,0,0,0,599,54,192,245,170,16,599,Match Report
+449,West Ham,2018-12-08,Crystal Palace,eng Premier League,W 3-2,3,2,+1,49,3,0,0,0,607,58,161,255,161,27,607,Match Report
+450,Liverpool,2018-12-08,Bournemouth,eng Premier League,W 4-0,4,0,+4,59,3,0,0,0,775,54,192,255,215,22,775,Match Report
+451,Southampton,2018-12-08,Cardiff City,eng Premier League,L 0-1,0,1,-1,63,0,0,0,0,624,48,168,255,149,18,624,Match Report
+452,Crystal Palace,2018-12-08,West Ham,eng Premier League,L 2-3,2,3,-1,51,2,0,0,0,624,57,161,255,154,23,624,Match Report
+453,Bournemouth,2018-12-08,Liverpool,eng Premier League,L 0-4,0,4,-4,41,0,0,0,0,585,49,168,255,135,9,585,Match Report
+454,Brighton,2018-12-08,Burnley,eng Premier League,L 0-1,0,1,-1,62,0,0,0,0,669,62,222,255,130,16,669,Match Report
+455,Tottenham,2018-12-08,Leicester City,eng Premier League,W 2-0,2,0,+2,57,2,0,0,0,723,70,217,255,127,21,723,Match Report
+456,Manchester City,2018-12-08,Chelsea,eng Premier League,L 0-2,0,2,-2,61,0,0,0,0,791,47,192,255,201,31,791,Match Report
+457,Burnley,2018-12-08,Brighton,eng Premier League,W 1-0,1,0,+1,38,1,0,0,0,465,55,127,248,96,19,465,Match Report
+458,Arsenal,2018-12-08,Huddersfield,eng Premier League,W 1-0,1,0,+1,62,1,0,0,0,679,56,228,255,147,16,679,Match Report
+459,Manchester Utd,2018-12-08,Fulham,eng Premier League,W 4-1,4,1,+3,62,4,0,0,0,799,61,241,255,197,34,799,Match Report
+460,Chelsea,2018-12-08,Manchester City,eng Premier League,W 2-0,2,0,+2,39,2,0,0,0,568,94,255,226,59,11,568,Match Report
+461,Manchester Utd,2018-12-05,Arsenal,eng Premier League,D 2-2,2,2,0,45,2,0,0,0,601,63,158,255,133,14,601,Match Report
+462,Arsenal,2018-12-05,Manchester Utd,eng Premier League,D 2-2,2,2,0,55,1,0,0,0,688,67,231,255,163,27,688,Match Report
+463,Tottenham,2018-12-05,Southampton,eng Premier League,W 3-1,3,1,+2,52,3,0,0,0,681,73,249,255,129,20,681,Match Report
+464,Southampton,2018-12-05,Tottenham,eng Premier League,L 1-3,1,3,-2,48,1,0,0,0,632,42,132,255,184,30,632,Match Report
+465,Burnley,2018-12-05,Liverpool,eng Premier League,L 1-3,1,3,-2,27,1,0,0,0,382,66,142,147,98,18,382,Match Report
+466,Chelsea,2018-12-05,Wolves,eng Premier League,L 1-2,1,2,-1,70,1,0,0,0,834,54,200,255,187,17,834,Match Report
+467,Liverpool,2018-12-05,Burnley,eng Premier League,W 3-1,3,1,+2,73,3,0,0,0,825,63,249,255,174,31,825,Match Report
+468,Fulham,2018-12-05,Leicester City,eng Premier League,D 1-1,1,1,0,46,1,0,0,0,501,53,136,206,161,21,501,Match Report
+469,Everton,2018-12-05,Newcastle Utd,eng Premier League,D 1-1,1,1,0,75,1,0,0,0,828,29,134,255,255,33,828,Match Report
+470,Wolves,2018-12-05,Chelsea,eng Premier League,W 2-1,2,1,+1,30,2,0,0,0,434,48,147,218,76,10,434,Match Report
+471,Newcastle Utd,2018-12-05,Everton,eng Premier League,D 1-1,1,1,0,25,1,0,0,0,415,97,234,126,60,11,415,Match Report
+472,Leicester City,2018-12-05,Fulham,eng Premier League,D 1-1,1,1,0,54,1,0,0,0,555,74,207,253,98,15,555,Match Report
+473,Manchester City,2018-12-04,Watford,eng Premier League,W 2-1,2,1,+1,70,2,0,0,0,869,65,206,255,246,43,869,Match Report
+474,Brighton,2018-12-04,Crystal Palace,eng Premier League,W 3-1,3,1,+2,32,2,1,1,0,454,63,178,191,91,13,453,Match Report
+475,Huddersfield,2018-12-04,Bournemouth,eng Premier League,L 1-2,1,2,-1,67,1,0,0,0,792,41,174,255,255,36,792,Match Report
+476,West Ham,2018-12-04,Cardiff City,eng Premier League,W 3-1,3,1,+2,60,3,0,0,0,624,42,148,255,127,29,624,Match Report
+477,Cardiff City,2018-12-04,West Ham,eng Premier League,L 1-3,1,3,-2,40,1,0,1,1,459,59,142,202,120,10,458,Match Report
+478,Crystal Palace,2018-12-04,Brighton,eng Premier League,L 1-3,1,3,-2,68,0,1,1,0,770,33,148,255,243,30,769,Match Report
+479,Bournemouth,2018-12-04,Huddersfield,eng Premier League,W 2-1,2,1,+1,33,2,0,0,0,508,107,235,171,106,12,508,Match Report
+480,Watford,2018-12-04,Manchester City,eng Premier League,L 1-2,1,2,-1,30,1,0,0,0,463,70,178,183,103,25,463,Match Report
+481,Tottenham,2018-12-02,Arsenal,eng Premier League,L 2-4,2,4,-2,41,1,1,1,0,490,68,180,219,98,10,489,Match Report
+482,Arsenal,2018-12-02,Tottenham,eng Premier League,W 4-2,4,2,+2,59,3,1,1,0,662,54,252,255,155,30,661,Match Report
+483,Everton,2018-12-02,Liverpool,eng Premier League,L 0-1,0,1,-1,42,0,0,0,0,552,92,229,228,100,16,552,Match Report
+484,Fulham,2018-12-02,Chelsea,eng Premier League,L 0-2,0,2,-2,35,0,0,0,0,515,67,177,231,111,12,515,Match Report
+485,Liverpool,2018-12-02,Everton,eng Premier League,W 1-0,1,0,+1,58,1,0,0,0,688,44,141,255,178,23,688,Match Report
+486,Chelsea,2018-12-02,Fulham,eng Premier League,W 2-0,2,0,+2,65,2,0,0,0,876,79,255,255,188,25,876,Match Report
+487,Southampton,2018-12-01,Manchester Utd,eng Premier League,D 2-2,2,2,0,40,2,0,0,0,513,51,131,238,151,20,513,Match Report
+488,Leicester City,2018-12-01,Watford,eng Premier League,W 2-0,2,0,+2,38,1,1,1,0,474,78,190,189,105,8,473,Match Report
+489,Manchester Utd,2018-12-01,Southampton,eng Premier League,D 2-2,2,2,0,60,2,0,0,0,686,52,175,255,111,19,686,Match Report
+490,Burnley,2018-12-01,Crystal Palace,eng Premier League,L 0-2,0,2,-2,42,0,0,0,0,533,81,176,231,131,9,533,Match Report
+491,Manchester City,2018-12-01,Bournemouth,eng Premier League,W 3-1,3,1,+2,72,3,0,0,0,927,53,183,255,231,33,927,Match Report
+492,Newcastle Utd,2018-12-01,West Ham,eng Premier League,L 0-3,0,3,-3,59,0,0,0,0,665,47,166,255,200,19,665,Match Report
+493,Crystal Palace,2018-12-01,Burnley,eng Premier League,W 2-0,2,0,+2,58,2,0,0,0,679,53,197,255,224,42,679,Match Report
+494,Watford,2018-12-01,Leicester City,eng Premier League,L 0-2,0,2,-2,62,0,0,0,0,665,36,152,255,187,31,665,Match Report
+495,West Ham,2018-12-01,Newcastle Utd,eng Premier League,W 3-0,3,0,+3,41,3,0,0,0,516,66,182,255,80,14,516,Match Report
+496,Huddersfield,2018-12-01,Brighton,eng Premier League,L 1-2,1,2,-1,33,1,0,0,0,409,47,144,172,98,11,409,Match Report
+497,Brighton,2018-12-01,Huddersfield,eng Premier League,W 2-1,2,1,+1,67,2,0,0,0,728,50,174,255,168,21,728,Match Report
+498,Bournemouth,2018-12-01,Manchester City,eng Premier League,L 1-3,1,3,-2,28,1,0,0,0,413,62,171,146,101,17,413,Match Report
+499,Wolves,2018-11-30,Cardiff City,eng Premier League,L 1-2,1,2,-1,52,1,0,0,0,549,66,189,247,117,17,549,Match Report
+500,Cardiff City,2018-11-30,Wolves,eng Premier League,W 2-1,2,1,+1,48,2,0,0,0,505,56,142,227,141,25,505,Match Report
+501,Newcastle Utd,2018-11-26,Burnley,eng Premier League,W 2-1,2,1,+1,43,1,0,0,0,621,73,232,255,125,16,621,Match Report
+502,Burnley,2018-11-26,Newcastle Utd,eng Premier League,L 1-2,1,2,-1,57,1,0,0,0,746,53,152,255,143,20,746,Match Report
+503,Bournemouth,2018-11-25,Arsenal,eng Premier League,L 1-2,1,2,-1,42,1,0,0,0,575,73,187,248,146,21,575,Match Report
+504,Arsenal,2018-11-25,Bournemouth,eng Premier League,W 2-1,2,1,+1,58,1,0,0,0,737,70,200,255,223,36,737,Match Report
+505,Huddersfield,2018-11-25,Wolves,eng Premier League,W 2-0,2,0,+2,54,2,0,0,0,719,58,193,255,154,16,719,Match Report
+506,Wolves,2018-11-25,Huddersfield,eng Premier League,L 0-2,0,2,-2,46,0,0,0,0,621,64,178,255,132,16,621,Match Report
+507,Crystal Palace,2018-11-24,Manchester Utd,eng Premier League,D 0-0,0,0,0,41,0,0,0,0,517,80,181,211,131,20,517,Match Report
+508,Liverpool,2018-11-24,Watford,eng Premier League,W 3-0,3,0,+3,63,3,0,0,0,782,42,176,255,158,22,782,Match Report
+509,Fulham,2018-11-24,Southampton,eng Premier League,W 3-2,3,2,+1,38,3,0,0,0,546,84,219,221,111,19,546,Match Report
+510,Chelsea,2018-11-24,Tottenham,eng Premier League,L 1-3,1,3,-2,60,1,0,0,0,705,51,181,255,189,25,705,Match Report
+511,Manchester Utd,2018-11-24,Crystal Palace,eng Premier League,D 0-0,0,0,0,59,0,0,0,0,683,50,137,255,209,27,683,Match Report
+512,Everton,2018-11-24,Cardiff City,eng Premier League,W 1-0,1,0,+1,70,1,0,0,0,692,56,181,255,214,28,692,Match Report
+513,Manchester City,2018-11-24,West Ham,eng Premier League,W 4-0,4,0,+4,69,4,0,0,0,978,73,223,255,183,31,978,Match Report
+514,Watford,2018-11-24,Liverpool,eng Premier League,L 0-3,0,3,-3,37,0,0,0,0,496,52,165,226,107,9,496,Match Report
+515,Brighton,2018-11-24,Leicester City,eng Premier League,D 1-1,1,1,0,54,1,0,0,0,596,68,193,255,151,20,596,Match Report
+516,Tottenham,2018-11-24,Chelsea,eng Premier League,W 3-1,3,1,+2,40,3,0,0,0,527,66,179,209,148,20,527,Match Report
+517,Leicester City,2018-11-24,Brighton,eng Premier League,D 1-1,1,1,0,46,0,1,1,0,548,57,164,255,129,18,547,Match Report
+518,Cardiff City,2018-11-24,Everton,eng Premier League,L 0-1,0,1,-1,30,0,0,0,0,384,63,178,134,78,17,384,Match Report
+519,Southampton,2018-11-24,Fulham,eng Premier League,L 2-3,2,3,-1,62,2,0,0,0,778,52,205,255,197,28,778,Match Report
+520,West Ham,2018-11-24,Manchester City,eng Premier League,L 0-4,0,4,-4,31,0,0,0,0,489,50,148,228,121,15,489,Match Report
+521,Wolves,2018-11-11,Arsenal,eng Premier League,D 1-1,1,1,0,29,1,0,0,0,463,71,224,165,82,18,463,Match Report
+522,Manchester City,2018-11-11,Manchester Utd,eng Premier League,W 3-1,3,1,+2,65,3,0,0,0,849,42,148,255,255,34,849,Match Report
+523,Fulham,2018-11-11,Liverpool,eng Premier League,L 0-2,0,2,-2,29,0,0,0,0,438,75,181,181,78,6,438,Match Report
+524,Arsenal,2018-11-11,Wolves,eng Premier League,D 1-1,1,1,0,71,1,0,0,0,881,46,133,255,248,25,881,Match Report
+525,Everton,2018-11-11,Chelsea,eng Premier League,D 0-0,0,0,0,32,0,0,0,0,459,65,204,186,74,7,459,Match Report
+526,Chelsea,2018-11-11,Everton,eng Premier League,D 0-0,0,0,0,68,0,0,0,0,835,44,178,255,192,18,835,Match Report
+527,Liverpool,2018-11-11,Fulham,eng Premier League,W 2-0,2,0,+2,71,2,0,0,0,884,56,192,255,198,31,884,Match Report
+528,Manchester Utd,2018-11-11,Manchester City,eng Premier League,L 1-3,1,3,-2,35,0,1,1,0,530,73,182,249,104,16,529,Match Report
+529,Southampton,2018-11-10,Watford,eng Premier League,D 1-1,1,1,0,42,1,0,0,0,487,52,166,211,114,18,487,Match Report
+530,Watford,2018-11-10,Southampton,eng Premier League,D 1-1,1,1,0,58,1,0,0,0,559,61,166,230,167,26,559,Match Report
+531,Crystal Palace,2018-11-10,Tottenham,eng Premier League,L 0-1,0,1,-1,36,0,0,0,0,495,59,174,194,133,20,495,Match Report
+532,Tottenham,2018-11-10,Crystal Palace,eng Premier League,W 1-0,1,0,+1,64,1,0,0,0,763,80,212,255,169,14,763,Match Report
+533,Newcastle Utd,2018-11-10,Bournemouth,eng Premier League,W 2-1,2,1,+1,40,2,0,0,0,517,67,164,217,147,23,517,Match Report
+534,Brighton,2018-11-10,Cardiff City,eng Premier League,L 1-2,1,2,-1,40,1,0,0,0,449,87,237,169,51,6,449,Match Report
+535,Huddersfield,2018-11-10,West Ham,eng Premier League,D 1-1,1,1,0,44,1,0,0,0,518,56,162,213,149,17,518,Match Report
+536,Leicester City,2018-11-10,Burnley,eng Premier League,D 0-0,0,0,0,62,0,0,0,0,666,40,188,255,191,29,666,Match Report
+537,Burnley,2018-11-10,Leicester City,eng Premier League,D 0-0,0,0,0,38,0,0,0,0,465,80,167,218,85,9,465,Match Report
+538,Bournemouth,2018-11-10,Newcastle Utd,eng Premier League,L 1-2,1,2,-1,60,1,0,0,0,705,77,217,255,162,30,705,Match Report
+539,Cardiff City,2018-11-10,Brighton,eng Premier League,W 2-1,2,1,+1,60,2,0,0,0,610,24,113,255,211,28,610,Match Report
+540,West Ham,2018-11-10,Huddersfield,eng Premier League,D 1-1,1,1,0,56,1,0,0,0,623,72,209,255,120,21,623,Match Report
+541,Fulham,2018-11-05,Huddersfield,eng Premier League,L 0-1,0,1,-1,56,0,0,0,0,666,70,205,255,110,12,666,Match Report
+542,Huddersfield,2018-11-05,Fulham,eng Premier League,W 1-0,1,0,+1,44,0,0,0,0,557,43,130,255,165,14,557,Match Report
+543,Manchester City,2018-11-04,Southampton,eng Premier League,W 6-1,6,1,+5,66,5,0,0,0,874,61,202,255,255,57,874,Match Report
+544,Chelsea,2018-11-04,Crystal Palace,eng Premier League,W 3-1,3,1,+2,73,3,0,0,0,1018,55,226,255,255,26,1018,Match Report
+545,Crystal Palace,2018-11-04,Chelsea,eng Premier League,L 1-3,1,3,-2,27,1,0,0,0,455,58,180,207,75,13,455,Match Report
+546,Southampton,2018-11-04,Manchester City,eng Premier League,L 1-6,1,6,-5,34,0,1,1,0,495,60,164,213,119,18,494,Match Report
+547,Liverpool,2018-11-03,Arsenal,eng Premier League,D 1-1,1,1,0,39,1,0,0,0,521,64,181,221,122,24,521,Match Report
+548,Bournemouth,2018-11-03,Manchester Utd,eng Premier League,L 1-2,1,2,-1,49,1,0,0,0,586,71,204,247,146,31,586,Match Report
+549,Newcastle Utd,2018-11-03,Watford,eng Premier League,W 1-0,1,0,+1,42,1,0,0,0,502,56,184,229,96,18,502,Match Report
+550,Wolves,2018-11-03,Tottenham,eng Premier League,L 2-3,2,3,-1,49,0,2,2,0,615,42,163,255,171,19,613,Match Report
+551,Manchester Utd,2018-11-03,Bournemouth,eng Premier League,W 2-1,2,1,+1,51,2,0,0,0,619,70,179,255,152,31,619,Match Report
+552,Leicester City,2018-11-03,Cardiff City,eng Premier League,W 1-0,1,0,+1,59,1,0,0,0,590,69,181,255,151,28,590,Match Report
+553,Burnley,2018-11-03,West Ham,eng Premier League,L 2-4,2,4,-2,37,2,0,0,0,466,78,195,200,73,6,466,Match Report
+554,Arsenal,2018-11-03,Liverpool,eng Premier League,D 1-1,1,1,0,61,1,0,0,0,762,61,226,255,180,26,762,Match Report
+555,Tottenham,2018-11-03,Wolves,eng Premier League,W 3-2,3,2,+1,51,3,0,0,0,650,75,207,255,107,18,650,Match Report
+556,West Ham,2018-11-03,Burnley,eng Premier League,W 4-2,4,2,+2,63,4,0,0,0,701,37,155,255,232,34,701,Match Report
+557,Cardiff City,2018-11-03,Leicester City,eng Premier League,L 0-1,0,1,-1,41,0,0,0,0,435,64,142,170,127,28,435,Match Report
+558,Watford,2018-11-03,Newcastle Utd,eng Premier League,L 0-1,0,1,-1,58,0,0,0,0,634,54,172,255,157,34,634,Match Report
+559,Everton,2018-11-03,Brighton,eng Premier League,W 3-1,3,1,+2,61,3,0,0,0,662,33,147,255,185,35,662,Match Report
+560,Brighton,2018-11-03,Everton,eng Premier League,L 1-3,1,3,-2,39,1,0,0,0,473,73,214,195,69,7,473,Match Report
+561,Manchester City,2018-10-29,Tottenham,eng Premier League,W 1-0,1,0,+1,51,1,0,0,0,660,66,183,255,174,35,660,Match Report
+562,Tottenham,2018-10-29,Manchester City,eng Premier League,L 0-1,0,1,-1,49,0,0,0,0,609,86,237,255,105,12,609,Match Report
+563,Crystal Palace,2018-10-28,Arsenal,eng Premier League,D 2-2,2,2,0,43,0,2,2,0,568,33,131,255,144,26,566,Match Report
+564,Everton,2018-10-28,Manchester Utd,eng Premier League,L 1-2,1,2,-1,46,0,1,1,0,589,64,183,255,122,17,588,Match Report
+565,Arsenal,2018-10-28,Crystal Palace,eng Premier League,D 2-2,2,2,0,57,2,0,0,0,719,65,219,255,120,12,719,Match Report
+566,Chelsea,2018-10-28,Burnley,eng Premier League,W 4-0,4,0,+4,69,4,0,0,0,928,57,255,255,159,25,928,Match Report
+567,Burnley,2018-10-28,Chelsea,eng Premier League,L 0-4,0,4,-4,31,0,0,0,0,472,58,138,237,101,11,472,Match Report
+568,Manchester Utd,2018-10-28,Everton,eng Premier League,W 2-1,2,1,+1,54,2,0,1,1,620,48,143,255,135,25,619,Match Report
+569,Huddersfield,2018-10-27,Watford,eng Premier League,L 0-3,0,3,-3,52,0,0,0,0,668,39,200,255,134,18,668,Match Report
+570,Newcastle Utd,2018-10-27,Southampton,eng Premier League,D 0-0,0,0,0,50,0,0,0,0,602,80,236,255,115,11,602,Match Report
+571,Fulham,2018-10-27,Bournemouth,eng Premier League,L 0-3,0,3,-3,51,0,0,0,0,681,73,177,255,126,10,681,Match Report
+572,Liverpool,2018-10-27,Cardiff City,eng Premier League,W 4-1,4,1,+3,78,4,0,0,0,977,35,163,255,255,36,977,Match Report
+573,Leicester City,2018-10-27,West Ham,eng Premier League,D 1-1,1,1,0,64,1,0,0,0,727,30,139,255,255,30,727,Match Report
+574,Cardiff City,2018-10-27,Liverpool,eng Premier League,L 1-4,1,4,-3,22,1,0,0,0,357,82,165,125,74,2,357,Match Report
+575,Brighton,2018-10-27,Wolves,eng Premier League,W 1-0,1,0,+1,40,1,0,0,0,516,76,217,213,93,10,516,Match Report
+576,West Ham,2018-10-27,Leicester City,eng Premier League,D 1-1,1,1,0,36,1,0,0,0,501,109,197,231,78,13,501,Match Report
+577,Southampton,2018-10-27,Newcastle Utd,eng Premier League,D 0-0,0,0,0,50,0,0,0,0,600,45,134,255,194,27,600,Match Report
+578,Wolves,2018-10-27,Brighton,eng Premier League,L 0-1,0,1,-1,60,0,0,0,0,704,24,122,255,244,27,704,Match Report
+579,Watford,2018-10-27,Huddersfield,eng Premier League,W 3-0,3,0,+3,48,3,0,0,0,639,44,189,255,165,19,639,Match Report
+580,Bournemouth,2018-10-27,Fulham,eng Premier League,W 3-0,3,0,+3,49,2,1,1,0,656,50,176,255,168,28,655,Match Report
+581,Leicester City,2018-10-22,Arsenal,eng Premier League,L 1-3,1,3,-2,32,0,0,0,0,467,54,168,206,100,20,467,Match Report
+582,Arsenal,2018-10-22,Leicester City,eng Premier League,W 3-1,3,1,+2,68,3,0,0,0,853,70,244,255,237,31,853,Match Report
+583,Everton,2018-10-21,Crystal Palace,eng Premier League,W 2-0,2,0,+2,59,2,0,0,0,692,52,186,255,230,30,692,Match Report
+584,Crystal Palace,2018-10-21,Everton,eng Premier League,L 0-2,0,2,-2,41,0,0,1,1,512,58,183,216,121,19,511,Match Report
+585,Chelsea,2018-10-20,Manchester Utd,eng Premier League,D 2-2,2,2,0,62,2,0,0,0,782,68,194,255,234,33,782,Match Report
+586,Wolves,2018-10-20,Watford,eng Premier League,L 0-2,0,2,-2,45,0,0,0,0,557,36,158,255,137,17,557,Match Report
+587,Bournemouth,2018-10-20,Southampton,eng Premier League,D 0-0,0,0,0,58,0,0,0,0,629,71,243,255,128,17,629,Match Report
+588,West Ham,2018-10-20,Tottenham,eng Premier League,L 0-1,0,1,-1,44,0,0,0,0,554,45,113,255,158,28,554,Match Report
+589,Southampton,2018-10-20,Bournemouth,eng Premier League,D 0-0,0,0,0,42,0,0,0,0,500,48,141,253,114,11,500,Match Report
+590,Fulham,2018-10-20,Cardiff City,eng Premier League,L 2-4,2,4,-2,59,2,0,0,0,627,71,211,255,114,10,627,Match Report
+591,Tottenham,2018-10-20,West Ham,eng Premier League,W 1-0,1,0,+1,56,1,0,0,0,663,66,185,255,121,20,663,Match Report
+592,Huddersfield,2018-10-20,Liverpool,eng Premier League,L 0-1,0,1,-1,48,0,0,0,0,705,56,255,255,126,19,705,Match Report
+593,Watford,2018-10-20,Wolves,eng Premier League,W 2-0,2,0,+2,55,2,0,0,0,695,57,172,255,155,17,695,Match Report
+594,Manchester City,2018-10-20,Burnley,eng Premier League,W 5-0,5,0,+5,69,5,0,0,0,805,59,219,255,241,49,805,Match Report
+595,Brighton,2018-10-20,Newcastle Utd,eng Premier League,W 1-0,1,0,+1,33,1,0,0,0,438,96,187,153,100,14,438,Match Report
+596,Manchester Utd,2018-10-20,Chelsea,eng Premier League,D 2-2,2,2,0,38,2,0,0,0,512,73,189,218,116,24,512,Match Report
+597,Newcastle Utd,2018-10-20,Brighton,eng Premier League,L 0-1,0,1,-1,67,0,0,0,0,704,42,143,255,241,31,704,Match Report
+598,Liverpool,2018-10-20,Huddersfield,eng Premier League,W 1-0,1,0,+1,52,1,0,0,0,754,74,193,255,178,23,754,Match Report
+599,Cardiff City,2018-10-20,Fulham,eng Premier League,W 4-2,4,2,+2,41,4,0,0,0,478,38,104,197,183,32,478,Match Report
+600,Burnley,2018-10-20,Manchester City,eng Premier League,L 0-5,0,5,-5,31,0,0,0,0,425,72,169,202,57,9,425,Match Report
+601,Fulham,2018-10-07,Arsenal,eng Premier League,L 1-5,1,5,-4,48,1,0,0,0,627,58,145,255,146,15,627,Match Report
+602,Chelsea,2018-10-07,Southampton,eng Premier League,W 3-0,3,0,+3,65,3,0,0,0,807,51,153,255,255,41,807,Match Report
+603,Manchester City,2018-10-07,Liverpool,eng Premier League,D 0-0,0,0,0,51,0,0,1,1,672,82,224,255,122,17,671,Match Report
+604,Southampton,2018-10-07,Chelsea,eng Premier League,L 0-3,0,3,-3,35,0,0,0,0,515,76,182,249,91,14,515,Match Report
+605,Arsenal,2018-10-07,Fulham,eng Premier League,W 5-1,5,1,+4,52,5,0,0,0,664,77,249,255,118,31,664,Match Report
+606,Liverpool,2018-10-07,Manchester City,eng Premier League,D 0-0,0,0,0,49,0,0,0,0,648,72,238,255,109,18,648,Match Report
+607,Newcastle Utd,2018-10-06,Manchester Utd,eng Premier League,L 2-3,2,3,-1,28,2,0,0,0,421,73,193,136,97,22,421,Match Report
+608,Bournemouth,2018-10-06,Watford,eng Premier League,W 4-0,4,0,+4,52,3,1,1,0,588,62,228,227,138,16,587,Match Report
+609,Cardiff City,2018-10-06,Tottenham,eng Premier League,L 0-1,0,1,-1,25,0,0,0,0,388,63,145,128,121,11,388,Match Report
+610,Wolves,2018-10-06,Crystal Palace,eng Premier League,W 1-0,1,0,+1,33,1,0,0,0,472,54,165,217,95,8,472,Match Report
+611,Watford,2018-10-06,Bournemouth,eng Premier League,L 0-4,0,4,-4,48,0,0,0,0,520,41,129,248,148,23,520,Match Report
+612,Tottenham,2018-10-06,Cardiff City,eng Premier League,W 1-0,1,0,+1,75,1,0,0,0,867,64,255,255,255,39,867,Match Report
+613,Crystal Palace,2018-10-06,Wolves,eng Premier League,L 0-1,0,1,-1,67,0,0,0,0,792,41,204,255,170,21,792,Match Report
+614,Huddersfield,2018-10-06,Burnley,eng Premier League,D 1-1,1,1,0,67,1,0,0,0,743,45,236,255,203,24,743,Match Report
+615,Everton,2018-10-06,Leicester City,eng Premier League,W 2-1,2,1,+1,48,2,0,0,0,580,37,154,255,158,22,580,Match Report
+616,Manchester Utd,2018-10-06,Newcastle Utd,eng Premier League,W 3-2,3,2,+1,72,3,0,0,0,800,47,182,255,232,42,800,Match Report
+617,Leicester City,2018-10-06,Everton,eng Premier League,L 1-2,1,2,-1,52,1,0,0,0,621,64,207,255,110,11,621,Match Report
+618,Burnley,2018-10-06,Huddersfield,eng Premier League,D 1-1,1,1,0,33,1,0,0,0,446,86,181,185,85,11,446,Match Report
+619,Brighton,2018-10-05,West Ham,eng Premier League,W 1-0,1,0,+1,36,1,0,0,0,438,75,159,172,110,11,438,Match Report
+620,West Ham,2018-10-05,Brighton,eng Premier League,L 0-1,0,1,-1,64,0,0,0,0,657,43,169,255,189,36,657,Match Report
+621,Bournemouth,2018-10-01,Crystal Palace,eng Premier League,W 2-1,2,1,+1,45,1,1,1,0,579,59,178,255,137,21,578,Match Report
+622,Crystal Palace,2018-10-01,Bournemouth,eng Premier League,L 1-2,1,2,-1,55,1,0,0,0,682,55,193,255,161,25,682,Match Report
+623,Burnley,2018-09-30,Cardiff City,eng Premier League,W 2-1,2,1,+1,46,2,0,0,0,463,97,208,177,81,12,463,Match Report
+624,Cardiff City,2018-09-30,Burnley,eng Premier League,L 1-2,1,2,-1,54,1,0,0,0,490,25,99,201,194,47,490,Match Report
+625,Watford,2018-09-29,Arsenal,eng Premier League,L 0-2,0,2,-2,37,0,0,0,0,463,52,147,203,121,26,463,Match Report
+626,West Ham,2018-09-29,Manchester Utd,eng Premier League,W 3-1,3,1,+2,48,2,0,0,0,601,67,177,255,144,20,601,Match Report
+627,Arsenal,2018-09-29,Watford,eng Premier League,W 2-0,2,0,+2,63,1,0,0,0,693,82,222,255,182,20,693,Match Report
+628,Wolves,2018-09-29,Southampton,eng Premier League,W 2-0,2,0,+2,49,2,0,0,0,593,57,167,255,137,21,593,Match Report
+629,Huddersfield,2018-09-29,Tottenham,eng Premier League,L 0-2,0,2,-2,53,0,0,0,0,586,47,158,255,145,10,586,Match Report
+630,Manchester Utd,2018-09-29,West Ham,eng Premier League,L 1-3,1,3,-2,52,1,0,0,0,624,40,113,255,180,21,624,Match Report
+631,Chelsea,2018-09-29,Liverpool,eng Premier League,D 1-1,1,1,0,47,1,0,0,0,701,86,255,255,114,16,701,Match Report
+632,Southampton,2018-09-29,Wolves,eng Premier League,L 0-2,0,2,-2,51,0,0,0,0,602,39,140,255,140,23,602,Match Report
+633,Newcastle Utd,2018-09-29,Leicester City,eng Premier League,L 0-2,0,2,-2,41,0,0,0,0,536,48,170,255,83,10,536,Match Report
+634,Leicester City,2018-09-29,Newcastle Utd,eng Premier League,W 2-0,2,0,+2,59,1,1,1,0,693,49,174,255,136,15,692,Match Report
+635,Liverpool,2018-09-29,Chelsea,eng Premier League,D 1-1,1,1,0,53,1,0,0,0,773,48,177,255,189,25,773,Match Report
+636,Manchester City,2018-09-29,Brighton,eng Premier League,W 2-0,2,0,+2,79,2,0,0,0,1002,28,94,255,255,56,1002,Match Report
+637,Fulham,2018-09-29,Everton,eng Premier League,L 0-3,0,3,-3,49,0,0,0,0,549,64,174,255,112,10,549,Match Report
+638,Tottenham,2018-09-29,Huddersfield,eng Premier League,W 2-0,2,0,+2,47,1,1,1,0,566,64,217,255,96,23,565,Match Report
+639,Everton,2018-09-29,Fulham,eng Premier League,W 3-0,3,0,+3,51,3,0,1,1,566,42,186,233,154,28,565,Match Report
+640,Brighton,2018-09-29,Manchester City,eng Premier League,L 0-2,0,2,-2,21,0,0,0,0,346,98,197,113,41,6,346,Match Report
+641,Everton,2018-09-23,Arsenal,eng Premier League,L 0-2,0,2,-2,38,0,0,0,0,499,51,157,198,152,17,499,Match Report
+642,Chelsea,2018-09-23,West Ham,eng Premier League,D 0-0,0,0,0,71,0,0,0,0,900,38,122,255,255,30,900,Match Report
+643,West Ham,2018-09-23,Chelsea,eng Premier League,D 0-0,0,0,0,29,0,0,0,0,471,81,213,187,77,8,471,Match Report
+644,Arsenal,2018-09-23,Everton,eng Premier League,W 2-0,2,0,+2,62,2,0,0,0,719,68,221,255,186,24,719,Match Report
+645,Wolves,2018-09-22,Manchester Utd,eng Premier League,D 1-1,1,1,0,36,1,0,0,0,535,78,196,222,128,19,535,Match Report
+646,Fulham,2018-09-22,Watford,eng Premier League,D 1-1,1,1,0,60,1,0,0,0,702,75,239,255,125,19,702,Match Report
+647,Liverpool,2018-09-22,Southampton,eng Premier League,W 3-0,3,0,+3,61,2,0,0,0,874,48,168,255,194,35,874,Match Report
+648,Brighton,2018-09-22,Tottenham,eng Premier League,L 1-2,1,2,-1,30,1,0,0,0,389,60,155,162,77,15,389,Match Report
+649,Newcastle Utd,2018-09-22,Crystal Palace,eng Premier League,D 0-0,0,0,0,39,0,0,0,0,494,66,192,201,106,10,494,Match Report
+650,Burnley,2018-09-22,Bournemouth,eng Premier League,W 4-0,4,0,+4,38,4,0,0,0,530,79,168,228,141,25,530,Match Report
+651,Manchester City,2018-09-22,Cardiff City,eng Premier League,W 5-0,5,0,+5,78,5,0,0,0,933,39,148,255,210,50,933,Match Report
+652,Southampton,2018-09-22,Liverpool,eng Premier League,L 0-3,0,3,-3,39,0,0,0,0,619,77,199,255,121,15,619,Match Report
+653,Manchester Utd,2018-09-22,Wolves,eng Premier League,D 1-1,1,1,0,64,1,0,0,0,824,57,168,255,207,25,824,Match Report
+654,Bournemouth,2018-09-22,Burnley,eng Premier League,L 0-4,0,4,-4,62,0,0,0,0,767,55,219,255,203,31,767,Match Report
+655,Huddersfield,2018-09-22,Leicester City,eng Premier League,L 1-3,1,3,-2,39,1,0,0,0,498,53,165,234,108,17,498,Match Report
+656,Crystal Palace,2018-09-22,Newcastle Utd,eng Premier League,D 0-0,0,0,0,61,0,0,0,0,667,42,194,255,191,19,667,Match Report
+657,Tottenham,2018-09-22,Brighton,eng Premier League,W 2-1,2,1,+1,70,1,1,1,0,787,52,183,255,181,25,786,Match Report
+658,Leicester City,2018-09-22,Huddersfield,eng Premier League,W 3-1,3,1,+2,61,3,0,0,0,747,49,182,255,164,13,747,Match Report
+659,Watford,2018-09-22,Fulham,eng Premier League,D 1-1,1,1,0,40,1,0,0,0,504,67,147,221,141,21,504,Match Report
+660,Cardiff City,2018-09-22,Manchester City,eng Premier League,L 0-5,0,5,-5,22,0,0,0,0,342,79,164,128,53,4,342,Match Report
+661,Brighton,2018-09-17,Southampton,eng Premier League,D 2-2,2,2,0,49,1,1,1,0,597,57,192,255,122,14,596,Match Report
+662,Southampton,2018-09-17,Brighton,eng Premier League,D 2-2,2,2,0,51,1,1,1,0,616,42,177,255,119,16,615,Match Report
+663,Everton,2018-09-16,West Ham,eng Premier League,L 1-3,1,3,-2,56,1,0,0,0,627,47,150,255,169,21,627,Match Report
+664,Burnley,2018-09-16,Wolves,eng Premier League,L 0-1,0,1,-1,41,0,0,0,0,545,85,203,255,86,8,545,Match Report
+665,Wolves,2018-09-16,Burnley,eng Premier League,W 1-0,1,0,+1,59,1,0,0,0,715,30,149,255,225,40,715,Match Report
+666,West Ham,2018-09-16,Everton,eng Premier League,W 3-1,3,1,+2,44,3,0,0,0,543,64,171,253,124,19,543,Match Report
+667,Newcastle Utd,2018-09-15,Arsenal,eng Premier League,L 1-2,1,2,-1,37,1,0,0,0,464,47,137,229,103,18,464,Match Report
+668,Watford,2018-09-15,Manchester Utd,eng Premier League,L 1-2,1,2,-1,43,1,0,0,0,547,46,149,248,160,21,547,Match Report
+669,Manchester Utd,2018-09-15,Watford,eng Premier League,W 2-1,2,1,+1,57,2,0,0,0,667,63,195,255,157,21,667,Match Report
+670,Liverpool,2018-09-15,Tottenham,eng Premier League,W 2-1,2,1,+1,40,2,0,0,0,497,48,155,247,103,27,497,Match Report
+671,Huddersfield,2018-09-15,Crystal Palace,eng Premier League,L 0-1,0,1,-1,59,0,0,0,0,638,44,186,255,179,29,638,Match Report
+672,Leicester City,2018-09-15,Bournemouth,eng Premier League,L 2-4,2,4,-2,53,1,1,1,0,578,48,148,255,143,22,577,Match Report
+673,Chelsea,2018-09-15,Cardiff City,eng Premier League,W 4-1,4,1,+3,76,3,1,1,0,880,49,177,255,220,22,879,Match Report
+674,Tottenham,2018-09-15,Liverpool,eng Premier League,L 1-2,1,2,-1,60,1,0,0,0,682,71,210,255,102,19,682,Match Report
+675,Bournemouth,2018-09-15,Leicester City,eng Premier League,W 4-2,4,2,+2,47,3,1,1,0,515,68,212,212,96,19,514,Match Report
+676,Arsenal,2018-09-15,Newcastle Utd,eng Premier League,W 2-1,2,1,+1,63,2,0,0,0,742,71,219,255,158,23,742,Match Report
+677,Cardiff City,2018-09-15,Chelsea,eng Premier League,L 1-4,1,4,-3,24,1,0,0,0,347,55,126,139,84,12,347,Match Report
+678,Crystal Palace,2018-09-15,Huddersfield,eng Premier League,W 1-0,1,0,+1,41,1,0,0,0,493,64,184,245,71,12,493,Match Report
+679,Manchester City,2018-09-15,Fulham,eng Premier League,W 3-0,3,0,+3,64,3,0,0,0,898,49,161,255,255,50,898,Match Report
+680,Fulham,2018-09-15,Manchester City,eng Premier League,L 0-3,0,3,-3,36,0,0,0,0,541,85,209,243,95,9,541,Match Report
+681,Cardiff City,2018-09-02,Arsenal,eng Premier League,L 2-3,2,3,-1,28,2,0,0,0,387,66,134,145,112,21,387,Match Report
+682,Burnley,2018-09-02,Manchester Utd,eng Premier League,L 0-2,0,2,-2,47,0,0,0,0,572,70,127,255,152,13,572,Match Report
+683,Tottenham,2018-09-02,Watford,eng Premier League,L 1-2,1,2,-1,66,0,0,0,0,713,48,155,255,192,24,713,Match Report
+684,Watford,2018-09-02,Tottenham,eng Premier League,W 2-1,2,1,+1,34,2,0,0,0,473,79,203,172,103,20,473,Match Report
+685,Arsenal,2018-09-02,Cardiff City,eng Premier League,W 3-2,3,2,+1,72,3,0,0,0,786,63,192,255,204,36,786,Match Report
+686,Manchester Utd,2018-09-02,Burnley,eng Premier League,W 2-0,2,0,+2,53,2,0,1,1,656,55,165,255,171,38,655,Match Report
+687,Crystal Palace,2018-09-01,Southampton,eng Premier League,L 0-2,0,2,-2,50,0,0,0,0,624,56,184,255,179,37,624,Match Report
+688,Southampton,2018-09-01,Crystal Palace,eng Premier League,W 2-0,2,0,+2,50,2,0,1,1,608,68,174,255,158,23,607,Match Report
+689,Chelsea,2018-09-01,Bournemouth,eng Premier League,W 2-0,2,0,+2,72,2,0,0,0,858,59,199,255,255,40,858,Match Report
+690,Wolves,2018-09-01,West Ham,eng Premier League,W 1-0,1,0,+1,52,1,0,0,0,649,63,162,255,137,15,649,Match Report
+691,Leicester City,2018-09-01,Liverpool,eng Premier League,L 1-2,1,2,-1,51,1,0,0,0,654,46,178,255,149,14,654,Match Report
+692,West Ham,2018-09-01,Wolves,eng Premier League,L 0-1,0,1,-1,48,0,0,0,0,601,50,157,255,135,23,601,Match Report
+693,Liverpool,2018-09-01,Leicester City,eng Premier League,W 2-1,2,1,+1,49,2,0,0,0,631,51,177,255,118,18,631,Match Report
+694,Manchester City,2018-09-01,Newcastle Utd,eng Premier League,W 2-1,2,1,+1,78,2,0,0,0,915,27,115,255,255,35,915,Match Report
+695,Bournemouth,2018-09-01,Chelsea,eng Premier League,L 0-2,0,2,-2,28,0,0,0,0,431,86,177,128,132,17,431,Match Report
+696,Fulham,2018-09-01,Brighton,eng Premier League,D 2-2,2,2,0,58,2,0,0,0,697,61,186,255,125,12,697,Match Report
+697,Huddersfield,2018-09-01,Everton,eng Premier League,D 1-1,1,1,0,43,1,0,0,0,506,41,190,220,109,14,506,Match Report
+698,Everton,2018-09-01,Huddersfield,eng Premier League,D 1-1,1,1,0,57,1,0,0,0,621,55,151,255,124,12,621,Match Report
+699,Brighton,2018-09-01,Fulham,eng Premier League,D 2-2,2,2,0,42,1,1,2,1,520,44,130,239,158,22,519,Match Report
+700,Newcastle Utd,2018-09-01,Manchester City,eng Premier League,L 1-2,1,2,-1,22,1,0,0,0,367,87,188,131,51,8,367,Match Report
+701,Tottenham,2018-08-27,Manchester Utd,eng Premier League,W 3-0,3,0,+3,43,3,0,0,0,543,70,195,255,78,16,543,Match Report
+702,Manchester Utd,2018-08-27,Tottenham,eng Premier League,L 0-3,0,3,-3,57,0,0,0,0,656,50,174,255,166,30,656,Match Report
+703,Crystal Palace,2018-08-26,Watford,eng Premier League,L 1-2,1,2,-1,57,1,0,0,0,608,62,186,255,136,15,608,Match Report
+704,Watford,2018-08-26,Crystal Palace,eng Premier League,W 2-1,2,1,+1,43,2,0,0,0,491,44,150,206,135,22,491,Match Report
+705,Fulham,2018-08-26,Burnley,eng Premier League,W 4-2,4,2,+2,63,4,0,0,0,706,70,210,255,168,22,706,Match Report
+706,Chelsea,2018-08-26,Newcastle Utd,eng Premier League,W 2-1,2,1,+1,80,0,1,1,0,1053,44,163,255,255,39,1052,Match Report
+707,Newcastle Utd,2018-08-26,Chelsea,eng Premier League,L 1-2,1,2,-1,20,1,0,0,0,368,64,160,122,89,14,368,Match Report
+708,Burnley,2018-08-26,Fulham,eng Premier League,L 2-4,2,4,-2,37,2,0,0,0,457,70,156,192,109,20,457,Match Report
+709,West Ham,2018-08-25,Arsenal,eng Premier League,L 1-3,1,3,-2,39,1,0,0,0,499,71,162,213,133,26,499,Match Report
+710,Leicester City,2018-08-25,Southampton,eng Premier League,W 2-1,2,1,+1,48,2,0,0,0,575,70,200,255,110,14,575,Match Report
+711,Everton,2018-08-25,Bournemouth,eng Premier League,D 2-2,2,2,0,50,2,0,0,0,557,64,160,255,133,19,557,Match Report
+712,Huddersfield,2018-08-25,Cardiff City,eng Premier League,D 0-0,0,0,0,57,0,0,0,0,543,66,190,227,129,8,543,Match Report
+713,Arsenal,2018-08-25,West Ham,eng Premier League,W 3-1,3,1,+2,61,2,0,0,0,695,59,177,255,185,28,695,Match Report
+714,Brighton,2018-08-25,Liverpool,eng Premier League,L 0-1,0,1,-1,31,0,0,0,0,497,75,222,202,79,10,497,Match Report
+715,Manchester City,2018-08-25,Wolves,eng Premier League,D 1-1,1,1,0,71,1,0,0,0,794,39,127,255,231,32,794,Match Report
+716,Southampton,2018-08-25,Leicester City,eng Premier League,L 1-2,1,2,-1,52,1,0,0,0,597,42,112,255,191,22,597,Match Report
+717,Liverpool,2018-08-25,Brighton,eng Premier League,W 1-0,1,0,+1,69,1,0,0,0,919,31,149,255,254,36,919,Match Report
+718,Bournemouth,2018-08-25,Everton,eng Premier League,D 2-2,2,2,0,50,1,1,1,0,540,44,174,234,138,25,539,Match Report
+719,Cardiff City,2018-08-25,Huddersfield,eng Premier League,D 0-0,0,0,0,43,0,0,0,0,469,47,142,188,145,16,469,Match Report
+720,Wolves,2018-08-25,Manchester City,eng Premier League,D 1-1,1,1,0,29,1,0,0,0,410,86,176,158,77,11,410,Match Report
+721,Liverpool,2018-08-20,Crystal Palace,eng Premier League,W 2-0,2,0,+2,63,1,1,1,0,783,48,159,255,215,33,782,Match Report
+722,Crystal Palace,2018-08-20,Liverpool,eng Premier League,L 0-2,0,2,-2,37,0,0,0,0,507,73,197,219,98,16,507,Match Report
+723,Brighton,2018-08-19,Manchester Utd,eng Premier League,W 3-2,3,2,+1,34,2,1,1,0,426,43,140,211,83,9,425,Match Report
+724,Burnley,2018-08-19,Watford,eng Premier League,L 1-3,1,3,-2,58,1,0,0,0,622,51,190,255,146,19,622,Match Report
+725,Watford,2018-08-19,Burnley,eng Premier League,W 3-1,3,1,+2,42,3,0,0,0,501,64,160,218,129,17,501,Match Report
+726,Manchester Utd,2018-08-19,Brighton,eng Premier League,L 2-3,2,3,-1,66,1,1,1,0,729,43,215,255,115,12,728,Match Report
+727,Manchester City,2018-08-19,Huddersfield,eng Premier League,W 6-1,6,1,+5,76,5,0,0,0,924,36,137,255,255,50,924,Match Report
+728,Huddersfield,2018-08-19,Manchester City,eng Premier League,L 1-6,1,6,-5,24,1,0,0,0,352,93,176,113,66,12,352,Match Report
+729,Chelsea,2018-08-18,Arsenal,eng Premier League,W 3-2,3,2,+1,62,3,0,0,0,851,48,210,255,213,24,851,Match Report
+730,Everton,2018-08-18,Southampton,eng Premier League,W 2-1,2,1,+1,57,2,0,0,0,575,50,163,255,144,26,575,Match Report
+731,Fulham,2018-08-18,Tottenham,eng Premier League,L 1-3,1,3,-2,40,1,0,0,0,578,91,233,255,83,13,578,Match Report
+732,West Ham,2018-08-18,Bournemouth,eng Premier League,L 1-2,1,2,-1,61,0,1,1,0,637,53,160,255,175,19,636,Match Report
+733,Newcastle Utd,2018-08-18,Cardiff City,eng Premier League,D 0-0,0,0,0,49,0,0,1,1,465,48,187,192,91,17,464,Match Report
+734,Bournemouth,2018-08-18,West Ham,eng Premier League,W 2-1,2,1,+1,39,2,0,0,0,473,65,162,204,114,23,473,Match Report
+735,Leicester City,2018-08-18,Wolves,eng Premier League,W 2-0,2,0,+2,43,1,0,0,0,560,87,197,255,97,14,560,Match Report
+736,Wolves,2018-08-18,Leicester City,eng Premier League,L 0-2,0,2,-2,57,0,0,0,0,664,44,138,255,182,24,664,Match Report
+737,Cardiff City,2018-08-18,Newcastle Utd,eng Premier League,D 0-0,0,0,0,51,0,0,0,0,494,51,154,207,140,13,494,Match Report
+738,Arsenal,2018-08-18,Chelsea,eng Premier League,L 2-3,2,3,-1,38,2,0,0,0,571,76,239,224,115,19,571,Match Report
+739,Southampton,2018-08-18,Everton,eng Premier League,L 1-2,1,2,-1,43,1,0,0,0,447,61,167,192,93,17,447,Match Report
+740,Tottenham,2018-08-18,Fulham,eng Premier League,W 3-1,3,1,+2,60,3,0,0,0,780,48,149,255,228,44,780,Match Report
+741,Manchester City,2018-08-12,Arsenal,eng Premier League,W 2-0,2,0,+2,58,2,0,0,0,690,67,191,255,173,30,690,Match Report
+742,Burnley,2018-08-12,Southampton,eng Premier League,D 0-0,0,0,0,52,0,0,0,0,568,58,143,255,155,21,568,Match Report
+743,Liverpool,2018-08-12,West Ham,eng Premier League,W 4-0,4,0,+4,64,4,0,0,0,802,46,175,255,219,33,802,Match Report
+744,West Ham,2018-08-12,Liverpool,eng Premier League,L 0-4,0,4,-4,36,0,0,0,0,509,70,194,255,61,10,509,Match Report
+745,Southampton,2018-08-12,Burnley,eng Premier League,D 0-0,0,0,0,48,0,0,0,0,536,57,159,235,147,21,536,Match Report
+746,Arsenal,2018-08-12,Manchester City,eng Premier League,L 0-2,0,2,-2,42,0,0,0,0,559,93,241,212,111,15,559,Match Report
+747,Brighton,2018-08-11,Watford,eng Premier League,L 0-2,0,2,-2,47,0,0,0,0,537,72,221,238,81,10,537,Match Report
+748,Newcastle Utd,2018-08-11,Tottenham,eng Premier League,L 1-2,1,2,-1,42,1,0,0,0,568,53,191,255,126,20,568,Match Report
+749,Fulham,2018-08-11,Crystal Palace,eng Premier League,L 0-2,0,2,-2,65,0,0,0,0,847,62,200,255,199,18,847,Match Report
+750,Cardiff City,2018-08-11,Bournemouth,eng Premier League,L 0-2,0,2,-2,37,0,0,0,0,456,60,159,188,111,22,456,Match Report
+751,Bournemouth,2018-08-11,Cardiff City,eng Premier League,W 2-0,2,0,+2,63,2,0,1,1,678,44,171,255,187,34,678,Match Report
+752,Everton,2018-08-11,Wolves,eng Premier League,D 2-2,2,2,0,42,2,0,0,0,562,57,186,255,127,18,562,Match Report
+753,Tottenham,2018-08-11,Newcastle Utd,eng Premier League,W 2-1,2,1,+1,58,2,0,0,0,776,76,203,255,146,22,776,Match Report
+754,Huddersfield,2018-08-11,Chelsea,eng Premier League,L 0-3,0,3,-3,38,0,0,0,0,519,55,171,221,129,12,519,Match Report
+755,Watford,2018-08-11,Brighton,eng Premier League,W 2-0,2,0,+2,53,2,0,0,0,566,40,151,255,155,26,566,Match Report
+756,Wolves,2018-08-11,Everton,eng Premier League,D 2-2,2,2,0,58,2,0,0,0,710,31,171,255,175,12,710,Match Report
+757,Chelsea,2018-08-11,Huddersfield,eng Premier League,W 3-0,3,0,+3,62,2,1,1,0,806,73,203,255,177,17,805,Match Report
+758,Crystal Palace,2018-08-11,Fulham,eng Premier League,W 2-0,2,0,+2,35,2,0,0,0,514,71,216,208,101,24,514,Match Report
+759,Leicester City,2018-08-10,Manchester Utd,eng Premier League,L 1-2,1,2,-1,53,1,0,0,0,702,39,125,255,210,24,702,Match Report
+760,Manchester Utd,2018-08-10,Leicester City,eng Premier League,W 2-1,2,1,+1,47,1,1,1,0,648,70,222,255,103,9,647,Match Report

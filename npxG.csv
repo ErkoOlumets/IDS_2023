@@ -1,0 +1,1801 @@
+Rk,Team,Date,npxG,Opp
+1,Manchester Utd,2023-05-25,4.4,Chelsea
+2,Manchester Utd,2023-02-19,4.4,Leicester City
+3,Manchester City,2021-08-28,4.4,Arsenal
+4,Newcastle Utd,2023-04-30,4.3,Southampton
+5,Manchester City,2022-12-28,4.3,Leeds United
+6,Liverpool,2022-02-23,4.3,Leeds United
+7,Liverpool,2021-11-20,4.3,Arsenal
+8,Liverpool,2021-09-12,4.3,Leeds United
+9,Chelsea,2022-04-09,4.2,Southampton
+10,Liverpool,2023-05-28,4.0,Southampton
+11,Newcastle Utd,2023-09-24,3.9,Sheffield Utd
+12,Manchester City,2021-10-23,3.8,Brighton
+13,Newcastle Utd,2023-04-23,3.7,Tottenham
+14,Newcastle Utd,2023-04-02,3.7,Manchester Utd
+15,Manchester City,2022-02-12,3.7,Norwich City
+16,Watford,2021-10-23,3.7,Everton
+17,Manchester City,2023-09-16,3.6,West Ham
+18,Newcastle Utd,2023-05-18,3.6,Brighton
+19,Brighton,2023-04-01,3.6,Brentford
+20,Liverpool,2022-02-19,3.6,Norwich City
+21,Manchester Utd,2023-04-16,3.5,Nott'ham Forest
+22,Aston Villa,2023-03-18,3.5,Bournemouth
+23,Arsenal,2022-05-22,3.5,Everton
+24,Arsenal,2021-12-18,3.5,Leeds United
+25,Brentford,2023-05-14,3.4,West Ham
+26,Manchester Utd,2023-04-08,3.4,Everton
+27,Tottenham,2022-05-22,3.4,Norwich City
+28,Manchester City,2022-05-22,3.4,Aston Villa
+29,Leicester City,2022-05-22,3.4,Southampton
+30,Liverpool,2021-10-24,3.4,Manchester Utd
+31,Chelsea,2023-11-06,3.3,Tottenham
+32,Newcastle Utd,2023-08-12,3.3,Aston Villa
+33,Brighton,2023-04-29,3.3,Wolves
+34,Newcastle Utd,2023-04-05,3.3,West Ham
+35,Newcastle Utd,2022-10-01,3.3,Fulham
+36,Manchester City,2022-08-31,3.3,Nott'ham Forest
+37,Liverpool,2022-08-27,3.3,Bournemouth
+38,Liverpool,2021-10-16,3.3,Watford
+39,Chelsea,2021-10-02,3.3,Southampton
+40,Manchester City,2023-10-29,3.2,Manchester Utd
+41,Liverpool,2023-10-29,3.2,Nott'ham Forest
+42,Brighton,2023-08-12,3.2,Luton Town
+43,Manchester Utd,2023-05-13,3.2,Wolves
+44,Brighton,2023-05-08,3.2,Everton
+45,Arsenal,2023-02-18,3.2,Aston Villa
+46,Manchester City,2022-10-02,3.2,Manchester Utd
+47,Brentford,2023-12-02,3.1,Luton Town
+48,Brentford,2023-10-21,3.1,Burnley
+49,Brentford,2023-08-19,3.1,Fulham
+50,Liverpool,2023-04-09,3.1,Arsenal
+51,Arsenal,2023-01-22,3.1,Manchester Utd
+52,Manchester City,2022-05-08,3.1,Newcastle Utd
+53,Tottenham,2022-04-03,3.1,Newcastle Utd
+54,Arsenal,2022-02-24,3.1,Wolves
+55,Tottenham,2022-01-19,3.1,Leicester City
+56,Manchester City,2021-12-14,3.1,Leeds United
+57,Manchester City,2021-12-04,3.1,Watford
+58,Liverpool,2021-09-18,3.1,Crystal Palace
+59,Chelsea,2021-08-22,3.1,Arsenal
+60,Aston Villa,2023-11-12,3.0,Fulham
+61,West Ham,2023-08-26,3.0,Brighton
+62,Crystal Palace,2023-04-09,3.0,Leeds United
+63,Arsenal,2023-04-01,3.0,Leeds United
+64,Tottenham,2022-03-20,3.0,West Ham
+65,Tottenham,2021-12-19,3.0,Liverpool
+66,Bournemouth,2023-11-25,2.9,Sheffield Utd
+67,Nott'ham Forest,2023-10-21,2.9,Luton Town
+68,Everton,2023-09-30,2.9,Luton Town
+69,Brentford,2023-09-02,2.9,Bournemouth
+70,Manchester Utd,2023-05-28,2.9,Fulham
+71,Brighton,2023-04-15,2.9,Chelsea
+72,Manchester City,2023-04-01,2.9,Liverpool
+73,Arsenal,2022-12-31,2.9,Brighton
+74,Tottenham,2022-09-03,2.9,Fulham
+75,Manchester City,2022-04-23,2.9,Watford
+76,Manchester City,2021-12-19,2.9,Newcastle Utd
+77,Chelsea,2021-12-16,2.9,Everton
+78,Liverpool,2021-11-27,2.9,Southampton
+79,Southampton,2021-08-28,2.9,Newcastle Utd
+80,Arsenal,2023-12-02,2.8,Wolves
+81,Manchester City,2023-08-27,2.8,Sheffield Utd
+82,Aston Villa,2023-05-28,2.8,Brighton
+83,Arsenal,2023-05-28,2.8,Wolves
+84,Liverpool,2023-04-22,2.8,Nott'ham Forest
+85,Liverpool,2023-03-05,2.8,Manchester Utd
+86,Newcastle Utd,2022-09-03,2.8,Crystal Palace
+87,Manchester City,2022-03-14,2.8,Crystal Palace
+88,Manchester Utd,2022-02-26,2.8,Watford
+89,West Ham,2021-12-28,2.8,Watford
+90,Liverpool,2021-09-25,2.8,Brentford
+91,Manchester City,2021-09-11,2.8,Leicester City
+92,Everton,2023-08-12,2.7,Fulham
+93,Brentford,2023-04-22,2.7,Aston Villa
+94,Liverpool,2023-04-17,2.7,Leeds United
+95,Brighton,2023-04-04,2.7,Bournemouth
+96,Wolves,2023-03-18,2.7,Leeds United
+97,Brighton,2023-03-11,2.7,Leeds United
+98,Brighton,2023-03-04,2.7,West Ham
+99,West Ham,2023-02-25,2.7,Nott'ham Forest
+100,Liverpool,2022-12-26,2.7,Aston Villa
+101,Arsenal,2022-08-13,2.7,Leicester City
+102,Liverpool,2022-05-22,2.7,Wolves
+103,Manchester City,2022-03-06,2.7,Manchester Utd
+104,Newcastle Utd,2022-02-26,2.7,Brentford
+105,Everton,2022-02-12,2.7,Leeds United
+106,Liverpool,2022-01-16,2.7,Brentford
+107,Leicester City,2021-12-26,2.7,Manchester City
+108,Liverpool,2021-12-16,2.7,Newcastle Utd
+109,Liverpool,2021-12-04,2.7,Wolves
+110,Arsenal,2021-09-11,2.7,Norwich City
+111,Liverpool,2021-08-21,2.7,Burnley
+112,Manchester City,2023-12-03,2.6,Tottenham
+113,Liverpool,2023-11-05,2.6,Luton Town
+114,Leicester City,2023-05-01,2.6,Everton
+115,Bournemouth,2023-04-01,2.6,Fulham
+116,Arsenal,2023-03-01,2.6,Everton
+117,Liverpool,2023-03-01,2.6,Wolves
+118,Manchester City,2023-02-12,2.6,Aston Villa
+119,Leicester City,2023-02-04,2.6,Aston Villa
+120,Newcastle Utd,2022-10-29,2.6,Aston Villa
+121,Arsenal,2022-08-27,2.6,Fulham
+122,Brentford,2022-05-07,2.6,Southampton
+123,Southampton,2022-02-25,2.6,Norwich City
+124,Chelsea,2021-10-23,2.6,Norwich City
+125,Manchester City,2021-08-21,2.6,Norwich City
+126,Liverpool,2023-09-16,2.5,Wolves
+127,Liverpool,2023-09-03,2.5,Aston Villa
+128,Everton,2023-09-02,2.5,Sheffield Utd
+129,Aston Villa,2023-08-27,2.5,Burnley
+130,Brighton,2023-05-21,2.5,Southampton
+131,Tottenham,2023-04-27,2.5,Manchester Utd
+132,Manchester City,2023-04-26,2.5,Arsenal
+133,Arsenal,2023-04-21,2.5,Southampton
+134,Brighton,2023-02-11,2.5,Crystal Palace
+135,Fulham,2022-12-26,2.5,Crystal Palace
+136,Manchester Utd,2022-11-13,2.5,Fulham
+137,Leicester City,2022-08-27,2.5,Chelsea
+138,Leicester City,2022-05-15,2.5,Watford
+139,Leeds United,2022-03-13,2.5,Norwich City
+140,Tottenham,2022-03-07,2.5,Everton
+141,Aston Villa,2022-03-05,2.5,Southampton
+142,Southampton,2022-02-19,2.5,Everton
+143,West Ham,2022-01-12,2.5,Norwich City
+144,Arsenal,2021-11-27,2.5,Newcastle Utd
+145,Manchester City,2021-11-21,2.5,Everton
+146,Brentford,2021-11-06,2.5,Norwich City
+147,Manchester Utd,2021-09-11,2.5,Newcastle Utd
+148,Newcastle Utd,2023-12-02,2.4,Manchester Utd
+149,Everton,2023-11-26,2.4,Manchester Utd
+150,Newcastle Utd,2023-11-25,2.4,Chelsea
+151,Bournemouth,2023-11-11,2.4,Newcastle Utd
+152,Newcastle Utd,2023-10-21,2.4,Crystal Palace
+153,Wolves,2023-10-21,2.4,Bournemouth
+154,Everton,2023-10-07,2.4,Bournemouth
+155,Newcastle Utd,2023-09-30,2.4,Burnley
+156,Arsenal,2023-08-26,2.4,Fulham
+157,Southampton,2023-05-08,2.4,Nott'ham Forest
+158,Newcastle Utd,2023-04-27,2.4,Everton
+159,West Ham,2023-04-23,2.4,Bournemouth
+160,Leicester City,2023-03-11,2.4,Chelsea
+161,Manchester City,2023-02-25,2.4,Bournemouth
+162,Manchester City,2023-02-18,2.4,Nott'ham Forest
+163,Nott'ham Forest,2023-01-14,2.4,Leicester City
+164,Leeds United,2023-01-13,2.4,Aston Villa
+165,Manchester Utd,2022-12-27,2.4,Nott'ham Forest
+166,Bournemouth,2022-11-12,2.4,Everton
+167,Brighton,2022-10-29,2.4,Chelsea
+168,Manchester City,2022-10-08,2.4,Southampton
+169,Arsenal,2022-10-01,2.4,Tottenham
+170,Arsenal,2022-08-31,2.4,Aston Villa
+171,Fulham,2022-08-20,2.4,Brentford
+172,Manchester City,2022-04-30,2.4,Leeds United
+173,Liverpool,2022-03-05,2.4,West Ham
+174,West Ham,2022-01-16,2.4,Leeds United
+175,Crystal Palace,2022-01-01,2.4,West Ham
+176,Manchester Utd,2021-12-30,2.4,Burnley
+177,Manchester City,2021-12-11,2.4,Wolves
+178,Liverpool,2021-12-01,2.4,Everton
+179,Leicester City,2021-10-16,2.4,Manchester Utd
+180,Leicester City,2021-09-25,2.4,Burnley
+181,Watford,2021-09-18,2.4,Norwich City
+182,Everton,2021-08-14,2.4,Southampton
+183,Tottenham,2023-11-26,2.3,Aston Villa
+184,Aston Villa,2023-10-29,2.3,Luton Town
+185,Brighton,2023-10-08,2.3,Liverpool
+186,Aston Villa,2023-09-16,2.3,Crystal Palace
+187,Arsenal,2023-09-03,2.3,Manchester Utd
+188,Chelsea,2023-09-02,2.3,Nott'ham Forest
+189,Everton,2023-05-08,2.3,Brighton
+190,Manchester City,2023-05-03,2.3,West Ham
+191,Everton,2023-05-01,2.3,Leicester City
+192,Brighton,2023-04-26,2.3,Nott'ham Forest
+193,Leicester City,2023-04-15,2.3,Manchester City
+194,Crystal Palace,2023-04-01,2.3,Leicester City
+195,Tottenham,2023-03-18,2.3,Southampton
+196,Arsenal,2023-03-12,2.3,Fulham
+197,Liverpool,2023-02-13,2.3,Everton
+198,Manchester City,2023-01-19,2.3,Tottenham
+199,Leicester City,2022-11-05,2.3,Everton
+200,Arsenal,2022-10-30,2.3,Nott'ham Forest
+201,Arsenal,2022-10-09,2.3,Liverpool
+202,Aston Villa,2022-08-13,2.3,Everton
+203,Manchester City,2022-05-11,2.3,Wolves
+204,West Ham,2022-05-08,2.3,Norwich City
+205,Brighton,2022-05-07,2.3,Manchester Utd
+206,Liverpool,2022-04-30,2.3,Newcastle Utd
+207,Arsenal,2022-03-13,2.3,Leicester City
+208,Chelsea,2022-03-05,2.3,Burnley
+209,Manchester Utd,2022-01-19,2.3,Brentford
+210,Brentford,2022-01-19,2.3,Manchester Utd
+211,Tottenham,2021-12-26,2.3,Crystal Palace
+212,West Ham,2021-10-31,2.3,Aston Villa
+213,Burnley,2021-10-30,2.3,Brentford
+214,West Ham,2021-08-23,2.3,Leicester City
+215,Chelsea,2023-11-12,2.2,Manchester City
+216,Manchester Utd,2023-11-11,2.2,Luton Town
+217,Brentford,2023-10-28,2.2,Chelsea
+218,Fulham,2023-10-07,2.2,Sheffield Utd
+219,Tottenham,2023-09-30,2.2,Liverpool
+220,Liverpool,2023-09-24,2.2,West Ham
+221,Tottenham,2023-09-02,2.2,Burnley
+222,Chelsea,2023-08-25,2.2,Luton Town
+223,Aston Villa,2023-08-20,2.2,Everton
+224,Brighton,2023-08-19,2.2,Wolves
+225,Manchester Utd,2023-08-14,2.2,Wolves
+226,Wolves,2023-08-14,2.2,Manchester Utd
+227,Tottenham,2023-05-28,2.2,Leeds United
+228,Chelsea,2023-05-28,2.2,Newcastle Utd
+229,Brighton,2023-05-24,2.2,Manchester City
+230,Liverpool,2023-05-15,2.2,Leicester City
+231,Liverpool,2023-05-06,2.2,Brentford
+232,Tottenham,2023-04-15,2.2,Bournemouth
+233,Chelsea,2023-04-04,2.2,Liverpool
+234,Brighton,2023-02-18,2.2,Fulham
+235,Brentford,2023-02-04,2.2,Southampton
+236,Brighton,2023-02-04,2.2,Bournemouth
+237,West Ham,2023-01-21,2.2,Everton
+238,Newcastle Utd,2023-01-15,2.2,Fulham
+239,Manchester Utd,2023-01-03,2.2,Bournemouth
+240,Brighton,2023-01-03,2.2,Everton
+241,Newcastle Utd,2022-12-31,2.2,Leeds United
+242,Liverpool,2022-12-30,2.2,Leicester City
+243,West Ham,2022-10-09,2.2,Fulham
+244,Aston Villa,2022-10-02,2.2,Leeds United
+245,Tottenham,2022-09-17,2.2,Leicester City
+246,Manchester City,2022-08-27,2.2,Crystal Palace
+247,Chelsea,2022-05-22,2.2,Watford
+248,Brighton,2022-05-15,2.2,Leeds United
+249,Chelsea,2022-04-24,2.2,West Ham
+250,West Ham,2022-04-17,2.2,Burnley
+251,Tottenham,2022-03-16,2.2,Brighton
+252,Manchester Utd,2022-02-20,2.2,Leeds United
+253,Southampton,2022-02-09,2.2,Tottenham
+254,Crystal Palace,2022-01-23,2.2,Liverpool
+255,Leeds United,2022-01-16,2.2,West Ham
+256,Tottenham,2022-01-01,2.2,Watford
+257,Wolves,2021-09-11,2.2,Watford
+258,Liverpool,2023-12-03,2.1,Fulham
+259,Manchester City,2023-11-12,2.1,Chelsea
+260,Wolves,2023-11-11,2.1,Tottenham
+261,West Ham,2023-09-30,2.1,Sheffield Utd
+262,Tottenham,2023-09-16,2.1,Sheffield Utd
+263,Crystal Palace,2023-09-03,2.1,Wolves
+264,Bournemouth,2023-09-02,2.1,Brentford
+265,Tottenham,2023-08-26,2.1,Bournemouth
+266,Manchester Utd,2023-08-19,2.1,Tottenham
+267,Liverpool,2023-08-19,2.1,Bournemouth
+268,Wolves,2023-08-19,2.1,Brighton
+269,Newcastle Utd,2023-05-22,2.1,Leicester City
+270,West Ham,2023-05-21,2.1,Leeds United
+271,Leicester City,2023-04-25,2.1,Leeds United
+272,Manchester City,2023-04-08,2.1,Southampton
+273,Chelsea,2023-04-01,2.1,Aston Villa
+274,Arsenal,2023-03-04,2.1,Bournemouth
+275,Manchester Utd,2023-01-18,2.1,Crystal Palace
+276,Chelsea,2023-01-12,2.1,Fulham
+277,Arsenal,2022-12-26,2.1,West Ham
+278,Arsenal,2022-11-12,2.1,Wolves
+279,Arsenal,2022-11-06,2.1,Chelsea
+280,Aston Villa,2022-10-23,2.1,Brentford
+281,Wolves,2022-10-23,2.1,Leicester City
+282,Liverpool,2022-10-16,2.1,Manchester City
+283,Liverpool,2022-09-03,2.1,Everton
+284,Manchester City,2022-09-03,2.1,Aston Villa
+285,Brentford,2022-08-27,2.1,Everton
+286,Leeds United,2022-08-21,2.1,Chelsea
+287,Manchester City,2022-08-21,2.1,Newcastle Utd
+288,Aston Villa,2022-05-07,2.1,Burnley
+289,Manchester Utd,2022-02-12,2.1,Southampton
+290,Aston Villa,2021-12-05,2.1,Leicester City
+291,Manchester City,2021-11-28,2.1,West Ham
+292,Leicester City,2021-11-28,2.1,Watford
+293,Brighton,2021-11-27,2.1,Leeds United
+294,Tottenham,2021-11-21,2.1,Leeds United
+295,Manchester City,2021-10-16,2.1,Burnley
+296,Brentford,2021-09-25,2.1,Liverpool
+297,Chelsea,2021-09-19,2.1,Tottenham
+298,Wolves,2021-08-29,2.1,Manchester Utd
+299,Liverpool,2021-08-28,2.1,Chelsea
+300,Bournemouth,2023-12-03,2.0,Aston Villa
+301,Arsenal,2023-10-28,2.0,Sheffield Utd
+302,Newcastle Utd,2023-10-08,2.0,West Ham
+303,Newcastle Utd,2023-08-27,2.0,Liverpool
+304,Manchester Utd,2023-08-26,2.0,Nott'ham Forest
+305,Everton,2023-05-20,2.0,Wolves
+306,Tottenham,2023-04-30,2.0,Liverpool
+307,Manchester Utd,2023-04-27,2.0,Tottenham
+308,Arsenal,2023-04-16,2.0,West Ham
+309,Bournemouth,2023-04-08,2.0,Leicester City
+310,Brentford,2023-03-11,2.0,Everton
+311,Newcastle Utd,2023-02-18,2.0,Liverpool
+312,Brentford,2023-02-11,2.0,Arsenal
+313,Manchester Utd,2023-02-08,2.0,Leeds United
+314,Wolves,2023-02-04,2.0,Liverpool
+315,Manchester City,2023-01-22,2.0,Wolves
+316,Manchester City,2023-01-05,2.0,Chelsea
+317,Liverpool,2023-01-02,2.0,Brentford
+318,Manchester Utd,2022-12-31,2.0,Wolves
+319,Brentford,2022-12-26,2.0,Tottenham
+320,Tottenham,2022-10-29,2.0,Bournemouth
+321,Everton,2022-10-01,2.0,Southampton
+322,Brighton,2022-09-04,2.0,Leicester City
+323,Brighton,2022-08-27,2.0,Leeds United
+324,Liverpool,2022-08-15,2.0,Crystal Palace
+325,Tottenham,2022-05-12,2.0,Arsenal
+326,Leicester City,2022-05-11,2.0,Norwich City
+327,Arsenal,2022-05-08,2.0,Leeds United
+328,Wolves,2022-05-07,2.0,Chelsea
+329,Liverpool,2022-04-19,2.0,Manchester Utd
+330,Burnley,2022-04-06,2.0,Everton
+331,Brighton,2022-04-02,2.0,Norwich City
+332,Leeds United,2022-03-18,2.0,Wolves
+333,Crystal Palace,2022-03-05,2.0,Wolves
+334,Manchester City,2021-12-26,2.0,Leicester City
+335,Arsenal,2021-12-15,2.0,West Ham
+336,Aston Villa,2021-12-14,2.0,Norwich City
+337,Watford,2021-11-28,2.0,Leicester City
+338,Chelsea,2021-11-20,2.0,Leicester City
+339,Wolves,2021-10-16,2.0,Aston Villa
+340,Manchester Utd,2021-09-19,2.0,West Ham
+341,West Ham,2021-08-15,2.0,Newcastle Utd
+342,Manchester City,2023-11-04,1.9,Bournemouth
+343,Chelsea,2023-10-28,1.9,Brentford
+344,Tottenham,2023-10-07,1.9,Luton Town
+345,Arsenal,2023-09-30,1.9,Bournemouth
+346,Brighton,2023-09-24,1.9,Bournemouth
+347,Everton,2023-09-23,1.9,Brentford
+348,Crystal Palace,2023-08-12,1.9,Sheffield Utd
+349,Manchester City,2023-08-11,1.9,Burnley
+350,Chelsea,2023-05-25,1.9,Manchester Utd
+351,Bournemouth,2023-04-30,1.9,Leeds United
+352,Liverpool,2023-04-26,1.9,West Ham
+353,Aston Villa,2023-04-15,1.9,Newcastle Utd
+354,Brentford,2023-03-15,1.9,Southampton
+355,Leicester City,2023-03-04,1.9,Southampton
+356,Liverpool,2023-02-18,1.9,Newcastle Utd
+357,Nott'ham Forest,2023-01-21,1.9,Bournemouth
+358,Brighton,2023-01-14,1.9,Liverpool
+359,Liverpool,2022-11-12,1.9,Southampton
+360,Fulham,2022-10-29,1.9,Everton
+361,Nott'ham Forest,2022-10-22,1.9,Liverpool
+362,Brighton,2022-10-14,1.9,Brentford
+363,Chelsea,2022-10-08,1.9,Wolves
+364,Burnley,2022-05-07,1.9,Aston Villa
+365,Chelsea,2022-04-28,1.9,Manchester Utd
+366,Crystal Palace,2022-04-25,1.9,Leeds United
+367,Newcastle Utd,2022-04-23,1.9,Norwich City
+368,Brentford,2022-04-16,1.9,Watford
+369,Manchester Utd,2022-04-16,1.9,Norwich City
+370,Arsenal,2022-04-09,1.9,Brighton
+371,Tottenham,2022-02-26,1.9,Leeds United
+372,Newcastle Utd,2022-02-08,1.9,Everton
+373,Manchester Utd,2022-01-22,1.9,West Ham
+374,Aston Villa,2022-01-15,1.9,Manchester Utd
+375,Leeds United,2022-01-02,1.9,Burnley
+376,Tottenham,2021-12-02,1.9,Brentford
+377,Chelsea,2021-11-28,1.9,Manchester Utd
+378,Watford,2021-11-20,1.9,Manchester Utd
+379,Crystal Palace,2021-11-20,1.9,Burnley
+380,Crystal Palace,2021-11-06,1.9,Wolves
+381,Crystal Palace,2021-10-23,1.9,Newcastle Utd
+382,Southampton,2021-10-16,1.9,Leeds United
+383,Newcastle Utd,2021-09-25,1.9,Watford
+384,Burnley,2023-12-02,1.8,Sheffield Utd
+385,West Ham,2023-11-12,1.8,Nott'ham Forest
+386,Arsenal,2023-11-11,1.8,Burnley
+387,West Ham,2023-11-04,1.8,Brentford
+388,Chelsea,2023-09-17,1.8,Bournemouth
+389,Aston Villa,2023-08-12,1.8,Newcastle Utd
+390,Southampton,2023-05-28,1.8,Liverpool
+391,Manchester City,2023-05-24,1.8,Brighton
+392,Tottenham,2023-05-20,1.8,Brentford
+393,Manchester City,2023-05-06,1.8,Leeds United
+394,Fulham,2023-04-15,1.8,Everton
+395,Leeds United,2023-04-04,1.8,Nott'ham Forest
+396,Newcastle Utd,2023-03-12,1.8,Wolves
+397,Manchester City,2023-02-15,1.8,Arsenal
+398,Leeds United,2023-02-12,1.8,Manchester Utd
+399,Liverpool,2023-02-04,1.8,Wolves
+400,Arsenal,2023-01-15,1.8,Tottenham
+401,Aston Villa,2023-01-04,1.8,Wolves
+402,Chelsea,2022-12-27,1.8,Bournemouth
+403,Tottenham,2022-11-12,1.8,Leeds United
+404,Leeds United,2022-10-29,1.8,Liverpool
+405,Fulham,2022-10-23,1.8,Leeds United
+406,Aston Villa,2022-10-16,1.8,Chelsea
+407,Leeds United,2022-08-27,1.8,Brighton
+408,Chelsea,2022-08-27,1.8,Leicester City
+409,Manchester Utd,2022-08-22,1.8,Liverpool
+410,Newcastle Utd,2022-08-21,1.8,Manchester City
+411,Crystal Palace,2022-08-20,1.8,Aston Villa
+412,Brentford,2022-08-20,1.8,Fulham
+413,Leeds United,2022-08-13,1.8,Southampton
+414,Liverpool,2022-05-10,1.8,Aston Villa
+415,Aston Villa,2022-04-30,1.8,Norwich City
+416,Arsenal,2022-04-23,1.8,Manchester Utd
+417,Everton,2022-04-20,1.8,Leicester City
+418,Newcastle Utd,2022-04-17,1.8,Leicester City
+419,Manchester City,2022-04-02,1.8,Burnley
+420,Brentford,2022-04-02,1.8,Chelsea
+421,Chelsea,2022-03-10,1.8,Norwich City
+422,West Ham,2022-02-27,1.8,Wolves
+423,Manchester City,2022-02-26,1.8,Everton
+424,Leeds United,2022-02-20,1.8,Manchester Utd
+425,Arsenal,2022-02-10,1.8,Wolves
+426,Liverpool,2022-02-10,1.8,Leicester City
+427,Leeds United,2022-02-09,1.8,Aston Villa
+428,Manchester Utd,2022-02-08,1.8,Burnley
+429,Manchester City,2022-01-22,1.8,Southampton
+430,Wolves,2022-01-15,1.8,Southampton
+431,Crystal Palace,2021-12-12,1.8,Everton
+432,Leicester City,2021-12-12,1.8,Newcastle Utd
+433,Arsenal,2021-12-11,1.8,Southampton
+434,Chelsea,2021-11-06,1.8,Burnley
+435,Southampton,2021-10-30,1.8,Watford
+436,Arsenal,2021-10-22,1.8,Aston Villa
+437,Manchester Utd,2021-08-22,1.8,Southampton
+438,Newcastle Utd,2021-08-15,1.8,West Ham
+439,Manchester City,2021-08-15,1.8,Tottenham
+440,Aston Villa,2023-11-26,1.7,Tottenham
+441,Liverpool,2023-11-12,1.7,Brentford
+442,Nott'ham Forest,2023-11-12,1.7,West Ham
+443,Luton Town,2023-10-21,1.7,Nott'ham Forest
+444,Wolves,2023-10-08,1.7,Aston Villa
+445,Chelsea,2023-10-02,1.7,Fulham
+446,Brighton,2023-09-30,1.7,Aston Villa
+447,Brighton,2023-09-16,1.7,Manchester Utd
+448,Chelsea,2023-08-20,1.7,West Ham
+449,Tottenham,2023-08-19,1.7,Manchester Utd
+450,Newcastle Utd,2023-05-28,1.7,Chelsea
+451,Brighton,2023-05-14,1.7,Arsenal
+452,Arsenal,2023-05-02,1.7,Chelsea
+453,Manchester City,2023-04-30,1.7,Fulham
+454,West Ham,2023-04-29,1.7,Crystal Palace
+455,Fulham,2023-04-22,1.7,Leeds United
+456,Bournemouth,2023-04-04,1.7,Brighton
+457,Newcastle Utd,2023-03-17,1.7,Nott'ham Forest
+458,Leicester City,2023-02-11,1.7,Tottenham
+459,Everton,2023-02-04,1.7,Arsenal
+460,Aston Villa,2023-02-04,1.7,Leicester City
+461,Brighton,2023-01-21,1.7,Leicester City
+462,Manchester Utd,2023-01-14,1.7,Manchester City
+463,Fulham,2023-01-03,1.7,Leicester City
+464,Leicester City,2023-01-03,1.7,Fulham
+465,Brentford,2023-01-02,1.7,Liverpool
+466,Manchester City,2022-12-31,1.7,Everton
+467,Everton,2022-12-26,1.7,Wolves
+468,Southampton,2022-11-06,1.7,Newcastle Utd
+469,Liverpool,2022-10-29,1.7,Leeds United
+470,Liverpool,2022-10-19,1.7,West Ham
+471,Brighton,2022-10-18,1.7,Nott'ham Forest
+472,West Ham,2022-10-16,1.7,Southampton
+473,Southampton,2022-10-01,1.7,Everton
+474,Leeds United,2022-09-03,1.7,Brentford
+475,Everton,2022-09-03,1.7,Liverpool
+476,Newcastle Utd,2022-08-28,1.7,Wolves
+477,Tottenham,2022-08-20,1.7,Wolves
+478,Manchester City,2022-08-13,1.7,Bournemouth
+479,Newcastle Utd,2022-08-06,1.7,Nott'ham Forest
+480,Liverpool,2022-04-24,1.7,Everton
+481,Brighton,2022-04-24,1.7,Southampton
+482,Watford,2022-04-16,1.7,Brentford
+483,Arsenal,2022-04-16,1.7,Southampton
+484,Burnley,2022-04-10,1.7,Norwich City
+485,Norwich City,2022-04-10,1.7,Burnley
+486,Watford,2022-03-13,1.7,Southampton
+487,Leeds United,2022-03-05,1.7,Leicester City
+488,Newcastle Utd,2022-03-05,1.7,Brighton
+489,Leicester City,2022-02-20,1.7,Wolves
+490,Arsenal,2022-02-19,1.7,Brentford
+491,Manchester Utd,2022-02-15,1.7,Brighton
+492,Liverpool,2022-02-13,1.7,Burnley
+493,Brighton,2022-01-02,1.7,Everton
+494,Arsenal,2021-12-26,1.7,Norwich City
+495,Wolves,2021-11-01,1.7,Everton
+496,Arsenal,2021-10-18,1.7,Crystal Palace
+497,Tottenham,2021-10-17,1.7,Newcastle Utd
+498,Manchester City,2021-09-25,1.7,Chelsea
+499,Brentford,2021-09-18,1.7,Wolves
+500,Wolves,2021-08-22,1.7,Tottenham
+501,Crystal Palace,2023-11-25,1.6,Luton Town
+502,Arsenal,2023-11-25,1.6,Brentford
+503,Brentford,2023-11-12,1.6,Liverpool
+504,Aston Villa,2023-10-08,1.6,Wolves
+505,Liverpool,2023-10-08,1.6,Brighton
+506,Brentford,2023-10-01,1.6,Nott'ham Forest
+507,Aston Villa,2023-09-30,1.6,Brighton
+508,Manchester City,2023-05-28,1.6,Brentford
+509,Crystal Palace,2023-05-20,1.6,Fulham
+510,Wolves,2023-05-20,1.6,Everton
+511,Everton,2023-05-14,1.6,Manchester City
+512,Fulham,2023-05-08,1.6,Leicester City
+513,Leeds United,2023-04-30,1.6,Bournemouth
+514,Brentford,2023-04-29,1.6,Nott'ham Forest
+515,Leicester City,2023-04-22,1.6,Wolves
+516,Brentford,2023-04-01,1.6,Brighton
+517,Arsenal,2023-03-19,1.6,Crystal Palace
+518,Southampton,2023-03-18,1.6,Tottenham
+519,Leeds United,2023-03-18,1.6,Wolves
+520,Chelsea,2023-03-11,1.6,Leicester City
+521,Everton,2023-02-25,1.6,Aston Villa
+522,Leicester City,2023-02-19,1.6,Manchester Utd
+523,Chelsea,2023-02-18,1.6,Southampton
+524,Arsenal,2023-02-11,1.6,Brentford
+525,Chelsea,2023-01-21,1.6,Liverpool
+526,Tottenham,2023-01-15,1.6,Arsenal
+527,Leeds United,2023-01-04,1.6,West Ham
+528,Crystal Palace,2022-12-31,1.6,Bournemouth
+529,Brentford,2022-12-30,1.6,West Ham
+530,Manchester City,2022-11-12,1.6,Brentford
+531,Tottenham,2022-10-23,1.6,Newcastle Utd
+532,Leeds United,2022-10-23,1.6,Fulham
+533,Liverpool,2022-10-22,1.6,Nott'ham Forest
+534,Brentford,2022-09-03,1.6,Leeds United
+535,Tottenham,2022-08-28,1.6,Nott'ham Forest
+536,Chelsea,2022-08-14,1.6,Tottenham
+537,Everton,2022-08-13,1.6,Aston Villa
+538,Brentford,2022-08-13,1.6,Manchester Utd
+539,Brighton,2022-05-22,1.6,West Ham
+540,Burnley,2022-05-22,1.6,Newcastle Utd
+541,Chelsea,2022-05-19,1.6,Leicester City
+542,Newcastle Utd,2022-05-16,1.6,Arsenal
+543,Leeds United,2022-05-15,1.6,Brighton
+544,Manchester City,2022-05-15,1.6,West Ham
+545,Burnley,2022-04-30,1.6,Watford
+546,Aston Villa,2022-04-09,1.6,Tottenham
+547,Brighton,2022-02-12,1.6,Watford
+548,Brentford,2022-02-12,1.6,Crystal Palace
+549,Aston Villa,2022-02-09,1.6,Leeds United
+550,Everton,2022-01-22,1.6,Aston Villa
+551,Watford,2021-12-28,1.6,West Ham
+552,Manchester Utd,2021-12-27,1.6,Newcastle Utd
+553,West Ham,2021-12-26,1.6,Southampton
+554,Tottenham,2021-12-05,1.6,Norwich City
+555,Southampton,2021-12-04,1.6,Brighton
+556,Brighton,2021-12-04,1.6,Southampton
+557,Norwich City,2021-11-27,1.6,Wolves
+558,Manchester City,2021-11-06,1.6,Manchester Utd
+559,Manchester Utd,2021-10-24,1.6,Liverpool
+560,Southampton,2021-10-23,1.6,Burnley
+561,West Ham,2021-09-25,1.6,Leeds United
+562,Leicester City,2021-09-19,1.6,Brighton
+563,Liverpool,2021-08-14,1.6,Norwich City
+564,Brighton,2023-11-12,1.5,Sheffield Utd
+565,Everton,2023-11-11,1.5,Crystal Palace
+566,Brentford,2023-11-04,1.5,West Ham
+567,Tottenham,2023-10-23,1.5,Fulham
+568,Brighton,2023-08-26,1.5,West Ham
+569,Fulham,2023-08-12,1.5,Everton
+570,Leeds United,2023-05-28,1.5,Tottenham
+571,Crystal Palace,2023-05-13,1.5,Bournemouth
+572,Aston Villa,2023-05-06,1.5,Wolves
+573,Brighton,2023-05-04,1.5,Manchester Utd
+574,Leeds United,2023-04-25,1.5,Leicester City
+575,Bournemouth,2023-04-23,1.5,West Ham
+576,Aston Villa,2023-04-22,1.5,Brentford
+577,Chelsea,2023-03-18,1.5,Everton
+578,Aston Villa,2023-03-12,1.5,West Ham
+579,Chelsea,2023-03-04,1.5,Leeds United
+580,Tottenham,2023-02-19,1.5,West Ham
+581,Bournemouth,2023-02-11,1.5,Newcastle Utd
+582,Fulham,2023-02-11,1.5,Nott'ham Forest
+583,Chelsea,2023-01-15,1.5,Crystal Palace
+584,Brighton,2022-11-05,1.5,Wolves
+585,Nott'ham Forest,2022-11-05,1.5,Brentford
+586,Bournemouth,2022-11-05,1.5,Leeds United
+587,Manchester Utd,2022-10-19,1.5,Tottenham
+588,Newcastle Utd,2022-10-19,1.5,Everton
+589,Tottenham,2022-10-15,1.5,Everton
+590,Newcastle Utd,2022-10-08,1.5,Brentford
+591,Liverpool,2022-10-01,1.5,Brighton
+592,Arsenal,2022-09-18,1.5,Brentford
+593,Aston Villa,2022-09-16,1.5,Southampton
+594,Manchester Utd,2022-09-04,1.5,Arsenal
+595,Manchester Utd,2022-09-01,1.5,Leicester City
+596,Wolves,2022-08-31,1.5,Bournemouth
+597,Liverpool,2022-08-31,1.5,Newcastle Utd
+598,Everton,2022-08-20,1.5,Nott'ham Forest
+599,West Ham,2022-08-14,1.5,Nott'ham Forest
+600,Brighton,2022-08-13,1.5,Newcastle Utd
+601,Brighton,2022-08-07,1.5,Manchester Utd
+602,Tottenham,2022-08-06,1.5,Southampton
+603,Aston Villa,2022-05-19,1.5,Burnley
+604,Leicester City,2022-05-08,1.5,Everton
+605,Burnley,2022-04-21,1.5,Southampton
+606,Norwich City,2022-04-16,1.5,Manchester Utd
+607,Aston Villa,2022-04-02,1.5,Wolves
+608,Norwich City,2022-03-13,1.5,Leeds United
+609,Liverpool,2022-03-12,1.5,Brighton
+610,Aston Villa,2022-03-10,1.5,Leeds United
+611,Brighton,2022-03-05,1.5,Newcastle Utd
+612,Leicester City,2022-03-01,1.5,Burnley
+613,Leeds United,2022-02-26,1.5,Tottenham
+614,Burnley,2022-02-13,1.5,Liverpool
+615,Tottenham,2021-12-28,1.5,Southampton
+616,Leicester City,2021-12-01,1.5,Southampton
+617,Southampton,2021-12-01,1.5,Leicester City
+618,Newcastle Utd,2021-11-20,1.5,Brentford
+619,Burnley,2021-11-20,1.5,Crystal Palace
+620,Everton,2021-11-01,1.5,Wolves
+621,Manchester Utd,2021-10-30,1.5,Tottenham
+622,Liverpool,2021-10-30,1.5,Brighton
+623,Leicester City,2021-10-24,1.5,Brentford
+624,Everton,2021-10-23,1.5,Watford
+625,Crystal Palace,2021-10-03,1.5,Leicester City
+626,West Ham,2021-10-03,1.5,Brentford
+627,Leeds United,2021-09-17,1.5,Newcastle Utd
+628,Leicester City,2021-08-28,1.5,Norwich City
+629,Burnley,2021-08-14,1.5,Brighton
+630,Manchester Utd,2021-08-14,1.5,Leeds United
+631,Manchester Utd,2023-11-26,1.4,Everton
+632,Crystal Palace,2023-11-11,1.4,Everton
+633,Brighton,2023-10-29,1.4,Fulham
+634,Newcastle Utd,2023-10-28,1.4,Wolves
+635,Liverpool,2023-10-21,1.4,Everton
+636,Manchester Utd,2023-10-07,1.4,Brentford
+637,Tottenham,2023-09-24,1.4,Arsenal
+638,Luton Town,2023-09-23,1.4,Wolves
+639,Fulham,2023-09-02,1.4,Manchester City
+640,Manchester City,2023-09-02,1.4,Fulham
+641,Luton Town,2023-09-01,1.4,West Ham
+642,Nott'ham Forest,2023-08-18,1.4,Sheffield Utd
+643,Chelsea,2023-08-13,1.4,Liverpool
+644,Brentford,2023-08-13,1.4,Tottenham
+645,Crystal Palace,2023-05-28,1.4,Nott'ham Forest
+646,West Ham,2023-05-28,1.4,Leicester City
+647,Brighton,2023-05-28,1.4,Aston Villa
+648,Leicester City,2023-05-28,1.4,West Ham
+649,Manchester Utd,2023-05-20,1.4,Bournemouth
+650,Fulham,2023-05-13,1.4,Southampton
+651,Manchester Utd,2023-05-04,1.4,Brighton
+652,Liverpool,2023-04-30,1.4,Tottenham
+653,Leeds United,2023-04-17,1.4,Liverpool
+654,Everton,2023-04-15,1.4,Fulham
+655,Arsenal,2023-04-09,1.4,Liverpool
+656,Brighton,2023-04-08,1.4,Tottenham
+657,West Ham,2023-04-02,1.4,Southampton
+658,West Ham,2023-03-12,1.4,Aston Villa
+659,Brentford,2023-03-06,1.4,Fulham
+660,Fulham,2023-03-06,1.4,Brentford
+661,Everton,2023-02-18,1.4,Leeds United
+662,Tottenham,2023-02-05,1.4,Manchester City
+663,Bournemouth,2023-01-21,1.4,Nott'ham Forest
+664,Liverpool,2023-01-21,1.4,Chelsea
+665,Aston Villa,2023-01-21,1.4,Southampton
+666,Everton,2023-01-14,1.4,Southampton
+667,Tottenham,2023-01-04,1.4,Crystal Palace
+668,Nott'ham Forest,2023-01-04,1.4,Southampton
+669,Nott'ham Forest,2023-01-01,1.4,Chelsea
+670,Aston Villa,2022-12-26,1.4,Liverpool
+671,Fulham,2022-11-13,1.4,Manchester Utd
+672,West Ham,2022-11-12,1.4,Leicester City
+673,Leeds United,2022-11-05,1.4,Bournemouth
+674,Chelsea,2022-10-29,1.4,Brighton
+675,Brentford,2022-10-29,1.4,Wolves
+676,Everton,2022-10-22,1.4,Crystal Palace
+677,Manchester Utd,2022-10-09,1.4,Everton
+678,Brighton,2022-10-01,1.4,Liverpool
+679,Nott'ham Forest,2022-09-16,1.4,Fulham
+680,Leicester City,2022-09-04,1.4,Brighton
+681,Brentford,2022-08-30,1.4,Crystal Palace
+682,Southampton,2022-08-27,1.4,Manchester Utd
+683,Manchester Utd,2022-08-07,1.4,Brighton
+684,Manchester City,2022-08-07,1.4,West Ham
+685,Crystal Palace,2022-05-15,1.4,Aston Villa
+686,Tottenham,2022-05-15,1.4,Burnley
+687,Watford,2022-05-15,1.4,Leicester City
+688,Brentford,2022-05-15,1.4,Everton
+689,Aston Villa,2022-05-10,1.4,Liverpool
+690,Crystal Palace,2022-05-07,1.4,Watford
+691,Southampton,2022-05-07,1.4,Brentford
+692,Burnley,2022-04-24,1.4,Wolves
+693,Brentford,2022-04-10,1.4,West Ham
+694,Liverpool,2022-04-02,1.4,Watford
+695,Southampton,2022-04-02,1.4,Leeds United
+696,Southampton,2022-03-13,1.4,Watford
+697,Watford,2022-02-23,1.4,Crystal Palace
+698,Tottenham,2022-02-19,1.4,Manchester City
+699,Tottenham,2022-02-09,1.4,Southampton
+700,Leicester City,2022-01-23,1.4,Brighton
+701,Watford,2022-01-15,1.4,Newcastle Utd
+702,Southampton,2022-01-11,1.4,Brentford
+703,West Ham,2022-01-01,1.4,Crystal Palace
+704,Liverpool,2021-12-28,1.4,Leicester City
+705,Liverpool,2021-12-11,1.4,Aston Villa
+706,Arsenal,2021-12-02,1.4,Manchester Utd
+707,Leeds United,2021-11-21,1.4,Tottenham
+708,Manchester Utd,2021-11-20,1.4,Watford
+709,Wolves,2021-11-20,1.4,West Ham
+710,Chelsea,2021-10-30,1.4,Newcastle Utd
+711,Aston Villa,2021-10-22,1.4,Arsenal
+712,Brentford,2021-10-16,1.4,Chelsea
+713,Manchester Utd,2021-09-25,1.4,Aston Villa
+714,Everton,2021-09-13,1.4,Burnley
+715,Norwich City,2021-08-14,1.4,Liverpool
+716,West Ham,2023-12-03,1.3,Crystal Palace
+717,Fulham,2023-11-27,1.3,Wolves
+718,Manchester City,2023-11-25,1.3,Liverpool
+719,Crystal Palace,2023-11-04,1.3,Burnley
+720,Luton Town,2023-10-03,1.3,Burnley
+721,Manchester Utd,2023-09-30,1.3,Crystal Palace
+722,Liverpool,2023-09-30,1.3,Tottenham
+723,Chelsea,2023-09-24,1.3,Aston Villa
+724,Manchester City,2023-09-23,1.3,Nott'ham Forest
+725,Brighton,2023-09-02,1.3,Newcastle Utd
+726,Burnley,2023-09-02,1.3,Tottenham
+727,Everton,2023-08-26,1.3,Wolves
+728,Bournemouth,2023-08-19,1.3,Liverpool
+729,Tottenham,2023-08-13,1.3,Brentford
+730,Liverpool,2023-08-13,1.3,Chelsea
+731,Bournemouth,2023-08-12,1.3,West Ham
+732,Brentford,2023-05-28,1.3,Manchester City
+733,Brentford,2023-05-20,1.3,Tottenham
+734,Nott'ham Forest,2023-05-13,1.3,Chelsea
+735,Leeds United,2023-05-13,1.3,Newcastle Utd
+736,Arsenal,2023-05-07,1.3,Newcastle Utd
+737,West Ham,2023-05-07,1.3,Manchester Utd
+738,Newcastle Utd,2023-05-07,1.3,Arsenal
+739,Chelsea,2023-05-06,1.3,Bournemouth
+740,Crystal Palace,2023-04-29,1.3,West Ham
+741,Chelsea,2023-04-26,1.3,Brentford
+742,Southampton,2023-04-21,1.3,Arsenal
+743,Bournemouth,2023-04-15,1.3,Tottenham
+744,Aston Villa,2023-04-08,1.3,Nott'ham Forest
+745,Newcastle Utd,2023-04-08,1.3,Brentford
+746,Nott'ham Forest,2023-04-01,1.3,Wolves
+747,Leicester City,2023-03-18,1.3,Brentford
+748,Bournemouth,2023-03-18,1.3,Aston Villa
+749,Manchester City,2023-03-11,1.3,Crystal Palace
+750,Manchester City,2023-03-04,1.3,Newcastle Utd
+751,Bournemouth,2023-03-04,1.3,Arsenal
+752,Wolves,2023-02-18,1.3,Bournemouth
+753,West Ham,2023-02-11,1.3,Chelsea
+754,Tottenham,2023-02-11,1.3,Leicester City
+755,Newcastle Utd,2023-02-11,1.3,Bournemouth
+756,Manchester City,2023-02-05,1.3,Tottenham
+757,Crystal Palace,2023-02-04,1.3,Manchester Utd
+758,Chelsea,2023-02-03,1.3,Fulham
+759,West Ham,2022-12-30,1.3,Brentford
+760,Brentford,2022-11-12,1.3,Manchester City
+761,Manchester City,2022-11-05,1.3,Fulham
+762,Southampton,2022-10-29,1.3,Crystal Palace
+763,Leeds United,2022-10-20,1.3,Leicester City
+764,Fulham,2022-10-20,1.3,Aston Villa
+765,Brentford,2022-10-19,1.3,Chelsea
+766,Fulham,2022-10-15,1.3,Bournemouth
+767,Leicester City,2022-10-03,1.3,Nott'ham Forest
+768,Arsenal,2022-09-04,1.3,Manchester Utd
+769,Liverpool,2022-08-22,1.3,Manchester Utd
+770,Arsenal,2022-08-20,1.3,Bournemouth
+771,Nott'ham Forest,2022-08-14,1.3,West Ham
+772,Wolves,2022-08-06,1.3,Leeds United
+773,Wolves,2022-05-22,1.3,Liverpool
+774,Liverpool,2022-05-17,1.3,Southampton
+775,Everton,2022-05-15,1.3,Brentford
+776,Chelsea,2022-05-11,1.3,Leeds United
+777,Liverpool,2022-05-07,1.3,Tottenham
+778,Leeds United,2022-04-30,1.3,Manchester City
+779,Manchester City,2022-04-20,1.3,Brighton
+780,Manchester City,2022-04-10,1.3,Liverpool
+781,Liverpool,2022-04-10,1.3,Manchester City
+782,Wolves,2022-04-02,1.3,Aston Villa
+783,Chelsea,2022-04-02,1.3,Brentford
+784,Brentford,2022-03-20,1.3,Leicester City
+785,Arsenal,2022-03-19,1.3,Aston Villa
+786,West Ham,2022-03-05,1.3,Liverpool
+787,Aston Villa,2022-02-19,1.3,Watford
+788,Manchester City,2022-02-19,1.3,Tottenham
+789,Wolves,2022-02-13,1.3,Tottenham
+790,Liverpool,2022-01-02,1.3,Chelsea
+791,Newcastle Utd,2021-12-27,1.3,Manchester Utd
+792,West Ham,2021-12-01,1.3,Brighton
+793,Brighton,2021-12-01,1.3,West Ham
+794,Leeds United,2021-11-07,1.3,Leicester City
+795,Leicester City,2021-10-30,1.3,Arsenal
+796,West Ham,2021-10-24,1.3,Tottenham
+797,Tottenham,2021-10-03,1.3,Aston Villa
+798,Everton,2021-10-02,1.3,Manchester Utd
+799,Leeds United,2021-10-02,1.3,Watford
+800,Newcastle Utd,2021-09-17,1.3,Leeds United
+801,Crystal Palace,2021-09-11,1.3,Tottenham
+802,Chelsea,2021-09-11,1.3,Aston Villa
+803,West Ham,2021-08-28,1.3,Crystal Palace
+804,Brighton,2021-08-21,1.3,Watford
+805,Wolves,2021-08-14,1.3,Leicester City
+806,Arsenal,2021-08-13,1.3,Brentford
+807,Fulham,2023-12-03,1.2,Liverpool
+808,Aston Villa,2023-11-05,1.2,Nott'ham Forest
+809,Wolves,2023-11-04,1.2,Sheffield Utd
+810,Crystal Palace,2023-10-21,1.2,Newcastle Utd
+811,West Ham,2023-10-08,1.2,Newcastle Utd
+812,Arsenal,2023-09-24,1.2,Tottenham
+813,Crystal Palace,2023-09-16,1.2,Aston Villa
+814,Wolves,2023-09-03,1.2,Crystal Palace
+815,Sheffield Utd,2023-09-02,1.2,Everton
+816,Newcastle Utd,2023-09-02,1.2,Brighton
+817,Nott'ham Forest,2023-08-26,1.2,Manchester Utd
+818,Arsenal,2023-08-21,1.2,Crystal Palace
+819,Nott'ham Forest,2023-08-12,1.2,Arsenal
+820,Chelsea,2023-05-21,1.2,Manchester City
+821,Manchester City,2023-05-21,1.2,Chelsea
+822,Aston Villa,2023-05-13,1.2,Tottenham
+823,Chelsea,2023-05-13,1.2,Nott'ham Forest
+824,Leicester City,2023-05-08,1.2,Fulham
+825,Manchester Utd,2023-05-07,1.2,West Ham
+826,Bournemouth,2023-05-06,1.2,Chelsea
+827,Manchester Utd,2023-04-30,1.2,Aston Villa
+828,Manchester City,2023-04-15,1.2,Leicester City
+829,Manchester Utd,2023-04-05,1.2,Brentford
+830,Everton,2023-03-18,1.2,Chelsea
+831,Tottenham,2023-03-11,1.2,Nott'ham Forest
+832,Tottenham,2023-03-04,1.2,Wolves
+833,Aston Villa,2023-03-04,1.2,Crystal Palace
+834,Everton,2023-03-01,1.2,Arsenal
+835,Manchester Utd,2023-02-04,1.2,Crystal Palace
+836,Newcastle Utd,2023-01-21,1.2,Crystal Palace
+837,Southampton,2023-01-14,1.2,Everton
+838,Aston Villa,2023-01-13,1.2,Leeds United
+839,Brighton,2022-12-31,1.2,Arsenal
+840,Tottenham,2022-11-06,1.2,Liverpool
+841,Liverpool,2022-11-06,1.2,Tottenham
+842,Everton,2022-11-05,1.2,Leicester City
+843,Manchester Utd,2022-10-30,1.2,West Ham
+844,Newcastle Utd,2022-10-23,1.2,Tottenham
+845,Aston Villa,2022-10-20,1.2,Fulham
+846,Crystal Palace,2022-10-18,1.2,Wolves
+847,Southampton,2022-09-03,1.2,Wolves
+848,West Ham,2022-08-31,1.2,Tottenham
+849,Southampton,2022-08-13,1.2,Leeds United
+850,Liverpool,2022-08-06,1.2,Fulham
+851,Crystal Palace,2022-08-05,1.2,Arsenal
+852,Manchester Utd,2022-05-02,1.2,Brentford
+853,Tottenham,2022-05-01,1.2,Leicester City
+854,Arsenal,2022-04-20,1.2,Chelsea
+855,West Ham,2022-04-03,1.2,Everton
+856,Leeds United,2022-04-02,1.2,Southampton
+857,Wolves,2022-03-18,1.2,Leeds United
+858,West Ham,2022-03-13,1.2,Aston Villa
+859,Watford,2022-02-19,1.2,Aston Villa
+860,Tottenham,2022-02-13,1.2,Wolves
+861,Arsenal,2022-01-23,1.2,Burnley
+862,Chelsea,2022-01-23,1.2,Tottenham
+863,Watford,2022-01-21,1.2,Norwich City
+864,Leicester City,2022-01-19,1.2,Tottenham
+865,Newcastle Utd,2022-01-15,1.2,Watford
+866,Brighton,2022-01-14,1.2,Crystal Palace
+867,Chelsea,2022-01-02,1.2,Liverpool
+868,Manchester City,2022-01-01,1.2,Arsenal
+869,Crystal Palace,2021-12-28,1.2,Norwich City
+870,Crystal Palace,2021-12-15,1.2,Southampton
+871,Brighton,2021-12-15,1.2,Wolves
+872,Manchester Utd,2021-12-11,1.2,Norwich City
+873,Norwich City,2021-12-11,1.2,Manchester Utd
+874,Norwich City,2021-12-05,1.2,Tottenham
+875,Leeds United,2021-12-05,1.2,Brentford
+876,Manchester Utd,2021-12-02,1.2,Arsenal
+877,Norwich City,2021-11-30,1.2,Newcastle Utd
+878,Liverpool,2021-11-07,1.2,West Ham
+879,West Ham,2021-10-17,1.2,Everton
+880,Manchester Utd,2021-10-16,1.2,Leicester City
+881,Norwich City,2021-10-16,1.2,Brighton
+882,Aston Villa,2021-10-03,1.2,Tottenham
+883,Leicester City,2021-10-03,1.2,Crystal Palace
+884,Brentford,2021-10-03,1.2,West Ham
+885,Manchester City,2021-10-03,1.2,Liverpool
+886,Burnley,2021-10-02,1.2,Norwich City
+887,Leeds United,2021-09-25,1.2,West Ham
+888,Leeds United,2021-09-12,1.2,Liverpool
+889,Aston Villa,2021-09-11,1.2,Chelsea
+890,Leeds United,2021-08-29,1.2,Burnley
+891,Leeds United,2021-08-21,1.2,Everton
+892,Watford,2021-08-14,1.2,Aston Villa
+893,Brentford,2021-08-13,1.2,Arsenal
+894,Chelsea,2023-12-03,1.1,Brighton
+895,Brentford,2023-11-25,1.1,Arsenal
+896,Nott'ham Forest,2023-11-25,1.1,Brighton
+897,Sheffield Utd,2023-11-12,1.1,Brighton
+898,Burnley,2023-11-04,1.1,Crystal Palace
+899,Bournemouth,2023-10-28,1.1,Burnley
+900,Tottenham,2023-10-27,1.1,Crystal Palace
+901,West Ham,2023-10-22,1.1,Aston Villa
+902,Aston Villa,2023-10-22,1.1,West Ham
+903,Manchester Utd,2023-10-21,1.1,Sheffield Utd
+904,Burnley,2023-10-21,1.1,Brentford
+905,Chelsea,2023-10-07,1.1,Burnley
+906,Burnley,2023-10-03,1.1,Luton Town
+907,Fulham,2023-10-02,1.1,Chelsea
+908,Sheffield Utd,2023-09-30,1.1,West Ham
+909,Bournemouth,2023-09-24,1.1,Brighton
+910,West Ham,2023-09-24,1.1,Liverpool
+911,Burnley,2023-09-23,1.1,Manchester Utd
+912,Luton Town,2023-09-16,1.1,Fulham
+913,Wolves,2023-08-26,1.1,Everton
+914,West Ham,2023-08-12,1.1,Bournemouth
+915,Brentford,2023-04-26,1.1,Chelsea
+916,Brentford,2023-04-15,1.1,Wolves
+917,West Ham,2023-04-08,1.1,Fulham
+918,Chelsea,2023-04-08,1.1,Wolves
+919,Crystal Palace,2023-03-15,1.1,Brighton
+920,Wolves,2023-03-12,1.1,Newcastle Utd
+921,Aston Villa,2023-02-25,1.1,Everton
+922,Crystal Palace,2023-02-18,1.1,Brentford
+923,Bournemouth,2023-02-18,1.1,Wolves
+924,Manchester Utd,2023-02-12,1.1,Leeds United
+925,Southampton,2023-02-11,1.1,Wolves
+926,Crystal Palace,2023-02-11,1.1,Brighton
+927,Chelsea,2023-02-11,1.1,West Ham
+928,Bournemouth,2023-02-04,1.1,Brighton
+929,West Ham,2023-01-14,1.1,Wolves
+930,Arsenal,2023-01-03,1.1,Newcastle Utd
+931,Tottenham,2022-12-26,1.1,Brentford
+932,Newcastle Utd,2022-12-26,1.1,Leicester City
+933,Southampton,2022-11-12,1.1,Liverpool
+934,Leeds United,2022-11-12,1.1,Tottenham
+935,Nott'ham Forest,2022-11-12,1.1,Crystal Palace
+936,West Ham,2022-10-30,1.1,Manchester Utd
+937,West Ham,2022-10-24,1.1,Bournemouth
+938,Leeds United,2022-10-16,1.1,Arsenal
+939,Crystal Palace,2022-10-09,1.1,Leeds United
+940,Liverpool,2022-10-09,1.1,Arsenal
+941,Bournemouth,2022-10-08,1.1,Leicester City
+942,Wolves,2022-10-08,1.1,Chelsea
+943,Nott'ham Forest,2022-10-03,1.1,Leicester City
+944,Chelsea,2022-10-01,1.1,Crystal Palace
+945,Newcastle Utd,2022-09-17,1.1,Bournemouth
+946,Manchester City,2022-09-17,1.1,Wolves
+947,West Ham,2022-09-03,1.1,Chelsea
+948,Nott'ham Forest,2022-09-03,1.1,Bournemouth
+949,Southampton,2022-08-30,1.1,Chelsea
+950,Chelsea,2022-08-30,1.1,Southampton
+951,Manchester Utd,2022-08-27,1.1,Southampton
+952,Everton,2022-08-27,1.1,Brentford
+953,Everton,2022-05-22,1.1,Arsenal
+954,Crystal Palace,2022-05-19,1.1,Everton
+955,Norwich City,2022-05-15,1.1,Wolves
+956,West Ham,2022-05-15,1.1,Manchester City
+957,Norwich City,2022-05-11,1.1,Leicester City
+958,Everton,2022-05-08,1.1,Leicester City
+959,Crystal Palace,2022-04-30,1.1,Southampton
+960,Brighton,2022-04-30,1.1,Wolves
+961,Watford,2022-04-09,1.1,Leeds United
+962,Tottenham,2022-04-09,1.1,Aston Villa
+963,Aston Villa,2022-03-13,1.1,West Ham
+964,Chelsea,2022-03-13,1.1,Newcastle Utd
+965,Brentford,2022-03-12,1.1,Burnley
+966,Southampton,2022-03-10,1.1,Newcastle Utd
+967,Southampton,2022-03-05,1.1,Aston Villa
+968,Crystal Palace,2022-02-23,1.1,Watford
+969,West Ham,2022-02-13,1.1,Leicester City
+970,Manchester City,2022-02-09,1.1,Brentford
+971,Liverpool,2022-01-23,1.1,Crystal Palace
+972,Brighton,2022-01-23,1.1,Leicester City
+973,Brentford,2022-01-22,1.1,Wolves
+974,Norwich City,2022-01-21,1.1,Watford
+975,Burnley,2021-12-30,1.1,Manchester Utd
+976,Manchester City,2021-12-29,1.1,Brentford
+977,Chelsea,2021-12-26,1.1,Aston Villa
+978,Liverpool,2021-12-19,1.1,Tottenham
+979,Leicester City,2021-12-05,1.1,Aston Villa
+980,Chelsea,2021-12-04,1.1,West Ham
+981,Crystal Palace,2021-11-30,1.1,Leeds United
+982,Brighton,2021-10-02,1.1,Arsenal
+983,Arsenal,2021-09-26,1.1,Tottenham
+984,Everton,2021-09-25,1.1,Norwich City
+985,Arsenal,2021-09-18,1.1,Burnley
+986,Crystal Palace,2021-08-28,1.1,West Ham
+987,Brighton,2023-12-03,1.0,Chelsea
+988,Newcastle Utd,2023-11-04,1.0,Arsenal
+989,Fulham,2023-11-04,1.0,Manchester Utd
+990,Fulham,2023-10-23,1.0,Tottenham
+991,Arsenal,2023-10-21,1.0,Chelsea
+992,Nott'ham Forest,2023-10-07,1.0,Crystal Palace
+993,Aston Villa,2023-09-24,1.0,Chelsea
+994,Manchester Utd,2023-09-23,1.0,Burnley
+995,Brentford,2023-09-23,1.0,Everton
+996,Nott'ham Forest,2023-09-23,1.0,Manchester City
+997,Arsenal,2023-09-17,1.0,Everton
+998,Bournemouth,2023-09-17,1.0,Chelsea
+999,Manchester Utd,2023-09-16,1.0,Brighton
+1000,Fulham,2023-09-16,1.0,Luton Town
+1001,West Ham,2023-09-01,1.0,Luton Town
+1002,Brentford,2023-08-26,1.0,Crystal Palace
+1003,Crystal Palace,2023-08-21,1.0,Arsenal
+1004,West Ham,2023-08-20,1.0,Chelsea
+1005,Manchester City,2023-08-19,1.0,Newcastle Utd
+1006,Everton,2023-05-28,1.0,Bournemouth
+1007,Fulham,2023-05-28,1.0,Manchester Utd
+1008,Bournemouth,2023-05-20,1.0,Manchester Utd
+1009,Nott'ham Forest,2023-05-08,1.0,Southampton
+1010,Liverpool,2023-05-03,1.0,Fulham
+1011,Aston Villa,2023-04-25,1.0,Fulham
+1012,Tottenham,2023-04-23,1.0,Newcastle Utd
+1013,West Ham,2023-04-16,1.0,Arsenal
+1014,Brentford,2023-04-08,1.0,Newcastle Utd
+1015,Everton,2023-04-08,1.0,Manchester Utd
+1016,West Ham,2023-04-05,1.0,Newcastle Utd
+1017,Aston Villa,2023-04-04,1.0,Leicester City
+1018,Southampton,2023-03-12,1.0,Manchester Utd
+1019,Liverpool,2023-03-11,1.0,Bournemouth
+1020,Everton,2023-03-11,1.0,Brentford
+1021,Leeds United,2023-03-04,1.0,Chelsea
+1022,Bournemouth,2023-02-25,1.0,Manchester City
+1023,West Ham,2023-02-04,1.0,Newcastle Utd
+1024,Newcastle Utd,2023-02-04,1.0,West Ham
+1025,Fulham,2023-01-23,1.0,Tottenham
+1026,Liverpool,2023-01-14,1.0,Brighton
+1027,Leicester City,2023-01-14,1.0,Nott'ham Forest
+1028,Fulham,2023-01-12,1.0,Chelsea
+1029,Newcastle Utd,2023-01-03,1.0,Arsenal
+1030,Aston Villa,2023-01-01,1.0,Tottenham
+1031,Leicester City,2022-12-30,1.0,Liverpool
+1032,Southampton,2022-12-26,1.0,Brighton
+1033,Leicester City,2022-11-12,1.0,West Ham
+1034,Newcastle Utd,2022-11-12,1.0,Chelsea
+1035,Crystal Palace,2022-11-06,1.0,West Ham
+1036,Manchester City,2022-10-29,1.0,Leicester City
+1037,Arsenal,2022-10-23,1.0,Southampton
+1038,Southampton,2022-10-19,1.0,Bournemouth
+1039,Bournemouth,2022-10-19,1.0,Southampton
+1040,West Ham,2022-10-19,1.0,Liverpool
+1041,Manchester City,2022-10-16,1.0,Liverpool
+1042,Bournemouth,2022-10-15,1.0,Fulham
+1043,Leicester City,2022-10-15,1.0,Crystal Palace
+1044,Leeds United,2022-10-09,1.0,Crystal Palace
+1045,Leicester City,2022-10-08,1.0,Bournemouth
+1046,West Ham,2022-09-18,1.0,Everton
+1047,Leicester City,2022-09-17,1.0,Tottenham
+1048,Crystal Palace,2022-09-03,1.0,Newcastle Utd
+1049,Crystal Palace,2022-08-30,1.0,Brentford
+1050,Leeds United,2022-08-30,1.0,Everton
+1051,Everton,2022-08-30,1.0,Leeds United
+1052,Nott'ham Forest,2022-08-20,1.0,Everton
+1053,Crystal Palace,2022-08-15,1.0,Liverpool
+1054,Tottenham,2022-08-14,1.0,Chelsea
+1055,Arsenal,2022-08-05,1.0,Crystal Palace
+1056,Newcastle Utd,2022-05-22,1.0,Burnley
+1057,Aston Villa,2022-05-15,1.0,Crystal Palace
+1058,Watford,2022-04-30,1.0,Burnley
+1059,Manchester Utd,2022-04-23,1.0,Arsenal
+1060,Burnley,2022-04-17,1.0,West Ham
+1061,Leicester City,2022-04-10,1.0,Crystal Palace
+1062,Leicester City,2022-03-20,1.0,Brentford
+1063,Manchester Utd,2022-03-12,1.0,Tottenham
+1064,Arsenal,2022-03-06,1.0,Watford
+1065,Watford,2022-03-06,1.0,Arsenal
+1066,Norwich City,2022-03-05,1.0,Brentford
+1067,Crystal Palace,2022-02-26,1.0,Burnley
+1068,Aston Villa,2022-02-26,1.0,Brighton
+1069,Wolves,2022-02-24,1.0,Arsenal
+1070,Manchester Utd,2022-01-15,1.0,Aston Villa
+1071,Norwich City,2022-01-15,1.0,Everton
+1072,Manchester City,2022-01-15,1.0,Chelsea
+1073,Burnley,2022-01-02,1.0,Leeds United
+1074,Wolves,2021-12-15,1.0,Brighton
+1075,Newcastle Utd,2021-12-12,1.0,Leicester City
+1076,Everton,2021-12-12,1.0,Crystal Palace
+1077,Arsenal,2021-12-06,1.0,Everton
+1078,Brentford,2021-12-05,1.0,Leeds United
+1079,West Ham,2021-12-04,1.0,Chelsea
+1080,Newcastle Utd,2021-12-04,1.0,Burnley
+1081,Watford,2021-12-01,1.0,Chelsea
+1082,Manchester City,2021-12-01,1.0,Aston Villa
+1083,Everton,2021-11-28,1.0,Brentford
+1084,Southampton,2021-11-27,1.0,Liverpool
+1085,Crystal Palace,2021-11-27,1.0,Aston Villa
+1086,Southampton,2021-11-20,1.0,Norwich City
+1087,West Ham,2021-11-07,1.0,Liverpool
+1088,Watford,2021-10-30,1.0,Southampton
+1089,Tottenham,2021-10-30,1.0,Manchester Utd
+1090,Brighton,2021-10-30,1.0,Liverpool
+1091,Brentford,2021-10-24,1.0,Leicester City
+1092,Aston Villa,2021-10-16,1.0,Wolves
+1093,Manchester Utd,2021-10-02,1.0,Everton
+1094,Wolves,2021-10-02,1.0,Newcastle Utd
+1095,Southampton,2021-09-26,1.0,Wolves
+1096,Tottenham,2021-09-26,1.0,Arsenal
+1097,Wolves,2021-09-26,1.0,Southampton
+1098,Aston Villa,2021-09-25,1.0,Manchester Utd
+1099,Norwich City,2021-09-18,1.0,Watford
+1100,Burnley,2021-09-18,1.0,Arsenal
+1101,Manchester City,2021-09-18,1.0,Southampton
+1102,Burnley,2021-09-13,1.0,Everton
+1103,Tottenham,2021-08-29,1.0,Watford
+1104,Burnley,2021-08-29,1.0,Leeds United
+1105,Newcastle Utd,2021-08-28,1.0,Southampton
+1106,Everton,2021-08-21,1.0,Leeds United
+1107,Tottenham,2021-08-15,1.0,Manchester City
+1108,Brighton,2021-08-14,1.0,Burnley
+1109,West Ham,2023-11-25,0.9,Burnley
+1110,Luton Town,2023-11-25,0.9,Crystal Palace
+1111,Fulham,2023-11-12,0.9,Aston Villa
+1112,Tottenham,2023-11-06,0.9,Chelsea
+1113,Bournemouth,2023-11-04,0.9,Manchester City
+1114,Manchester Utd,2023-10-29,0.9,Manchester City
+1115,Wolves,2023-10-28,0.9,Newcastle Utd
+1116,Brentford,2023-10-07,0.9,Manchester Utd
+1117,Crystal Palace,2023-09-30,0.9,Manchester Utd
+1118,Manchester City,2023-09-30,0.9,Wolves
+1119,Luton Town,2023-09-30,0.9,Everton
+1120,Sheffield Utd,2023-09-24,0.9,Newcastle Utd
+1121,West Ham,2023-09-16,0.9,Manchester City
+1122,Manchester Utd,2023-09-03,0.9,Arsenal
+1123,Liverpool,2023-08-27,0.9,Newcastle Utd
+1124,Leeds United,2023-05-21,0.9,West Ham
+1125,Fulham,2023-05-20,0.9,Crystal Palace
+1126,Arsenal,2023-05-14,0.9,Brighton
+1127,Tottenham,2023-05-06,0.9,Crystal Palace
+1128,Fulham,2023-05-03,0.9,Liverpool
+1129,Bournemouth,2023-04-27,0.9,Southampton
+1130,Everton,2023-04-27,0.9,Newcastle Utd
+1131,Wolves,2023-04-22,0.9,Leicester City
+1132,Nott'ham Forest,2023-04-22,0.9,Liverpool
+1133,Crystal Palace,2023-04-15,0.9,Southampton
+1134,Leeds United,2023-04-09,0.9,Crystal Palace
+1135,Everton,2023-04-03,0.9,Tottenham
+1136,Aston Villa,2023-04-01,0.9,Chelsea
+1137,Bournemouth,2023-03-11,0.9,Liverpool
+1138,Leeds United,2023-03-11,0.9,Brighton
+1139,Everton,2023-03-05,0.9,Nott'ham Forest
+1140,Leeds United,2023-02-25,0.9,Southampton
+1141,Liverpool,2023-02-25,0.9,Crystal Palace
+1142,Brentford,2023-02-18,0.9,Crystal Palace
+1143,Nott'ham Forest,2023-02-18,0.9,Manchester City
+1144,Arsenal,2023-02-15,0.9,Manchester City
+1145,Leeds United,2023-02-05,0.9,Nott'ham Forest
+1146,Arsenal,2023-02-04,0.9,Everton
+1147,Tottenham,2023-01-23,0.9,Fulham
+1148,Leicester City,2023-01-21,0.9,Brighton
+1149,Wolves,2023-01-14,0.9,West Ham
+1150,Wolves,2023-01-04,0.9,Aston Villa
+1151,Chelsea,2023-01-01,0.9,Nott'ham Forest
+1152,Newcastle Utd,2022-11-06,0.9,Southampton
+1153,Crystal Palace,2022-10-29,0.9,Southampton
+1154,Everton,2022-10-29,0.9,Fulham
+1155,Leicester City,2022-10-23,0.9,Wolves
+1156,Brentford,2022-10-23,0.9,Aston Villa
+1157,Crystal Palace,2022-10-22,0.9,Everton
+1158,Chelsea,2022-10-19,0.9,Brentford
+1159,Chelsea,2022-10-16,0.9,Aston Villa
+1160,Manchester Utd,2022-10-02,0.9,Manchester City
+1161,West Ham,2022-10-01,0.9,Wolves
+1162,Brentford,2022-10-01,0.9,Bournemouth
+1163,Fulham,2022-09-16,0.9,Nott'ham Forest
+1164,Chelsea,2022-09-03,0.9,West Ham
+1165,Nott'ham Forest,2022-08-28,0.9,Tottenham
+1166,Chelsea,2022-08-21,0.9,Leeds United
+1167,Brighton,2022-08-21,0.9,West Ham
+1168,Southampton,2022-08-20,0.9,Leicester City
+1169,Aston Villa,2022-08-20,0.9,Crystal Palace
+1170,Manchester Utd,2022-08-13,0.9,Brentford
+1171,Wolves,2022-08-13,0.9,Fulham
+1172,Wolves,2022-05-15,0.9,Norwich City
+1173,Manchester Utd,2022-05-07,0.9,Brighton
+1174,Tottenham,2022-05-07,0.9,Liverpool
+1175,Chelsea,2022-05-07,0.9,Wolves
+1176,Arsenal,2022-05-01,0.9,West Ham
+1177,Southampton,2022-04-24,0.9,Brighton
+1178,Aston Villa,2022-04-23,0.9,Leicester City
+1179,Brentford,2022-04-23,0.9,Tottenham
+1180,Southampton,2022-04-21,0.9,Burnley
+1181,Leicester City,2022-04-20,0.9,Everton
+1182,Newcastle Utd,2022-04-20,0.9,Crystal Palace
+1183,Manchester Utd,2022-04-02,0.9,Leicester City
+1184,Newcastle Utd,2022-03-17,0.9,Everton
+1185,Burnley,2022-03-01,0.9,Leicester City
+1186,Burnley,2022-02-23,0.9,Tottenham
+1187,Chelsea,2022-02-19,0.9,Crystal Palace
+1188,Newcastle Utd,2022-01-22,0.9,Leeds United
+1189,Everton,2022-01-02,0.9,Brighton
+1190,Brighton,2021-12-29,0.9,Chelsea
+1191,Norwich City,2021-12-28,0.9,Crystal Palace
+1192,Chelsea,2021-12-19,0.9,Wolves
+1193,Chelsea,2021-12-11,0.9,Leeds United
+1194,Everton,2021-12-06,0.9,Arsenal
+1195,Manchester Utd,2021-12-05,0.9,Crystal Palace
+1196,Chelsea,2021-12-01,0.9,Watford
+1197,Manchester Utd,2021-11-28,0.9,Chelsea
+1198,Brentford,2021-11-20,0.9,Newcastle Utd
+1199,Manchester Utd,2021-11-06,0.9,Manchester City
+1200,Wolves,2021-10-23,0.9,Leeds United
+1201,Everton,2021-10-17,0.9,West Ham
+1202,Burnley,2021-10-16,0.9,Manchester City
+1203,Liverpool,2021-10-03,0.9,Manchester City
+1204,Watford,2021-09-25,0.9,Newcastle Utd
+1205,Brighton,2021-09-19,0.9,Leicester City
+1206,Brentford,2021-08-28,0.9,Aston Villa
+1207,Tottenham,2021-08-22,0.9,Wolves
+1208,Burnley,2021-08-21,0.9,Liverpool
+1209,Brentford,2021-08-21,0.9,Crystal Palace
+1210,Crystal Palace,2023-12-03,0.8,West Ham
+1211,Sheffield Utd,2023-11-25,0.8,Bournemouth
+1212,Luton Town,2023-11-05,0.8,Liverpool
+1213,Everton,2023-10-29,0.8,West Ham
+1214,Burnley,2023-10-28,0.8,Bournemouth
+1215,Manchester City,2023-10-21,0.8,Brighton
+1216,Brighton,2023-10-21,0.8,Manchester City
+1217,Crystal Palace,2023-10-07,0.8,Nott'ham Forest
+1218,Luton Town,2023-10-07,0.8,Tottenham
+1219,Nott'ham Forest,2023-09-02,0.8,Chelsea
+1220,Crystal Palace,2023-08-26,0.8,Brentford
+1221,Arsenal,2023-08-12,0.8,Nott'ham Forest
+1222,Manchester City,2023-05-14,0.8,Everton
+1223,Newcastle Utd,2023-05-13,0.8,Leeds United
+1224,Wolves,2023-05-06,0.8,Aston Villa
+1225,Chelsea,2023-05-02,0.8,Arsenal
+1226,Southampton,2023-04-30,0.8,Newcastle Utd
+1227,Wolves,2023-04-29,0.8,Brighton
+1228,West Ham,2023-04-26,0.8,Liverpool
+1229,Nott'ham Forest,2023-04-26,0.8,Brighton
+1230,Crystal Palace,2023-04-25,0.8,Wolves
+1231,Leeds United,2023-04-22,0.8,Fulham
+1232,Southampton,2023-04-15,0.8,Crystal Palace
+1233,Wolves,2023-04-15,0.8,Brentford
+1234,Tottenham,2023-04-08,0.8,Brighton
+1235,Nott'ham Forest,2023-04-04,0.8,Leeds United
+1236,Fulham,2023-04-01,0.8,Bournemouth
+1237,Crystal Palace,2023-03-19,0.8,Arsenal
+1238,Manchester Utd,2023-03-12,0.8,Southampton
+1239,Fulham,2023-03-12,0.8,Arsenal
+1240,Manchester Utd,2023-03-05,0.8,Liverpool
+1241,Nott'ham Forest,2023-03-05,0.8,Everton
+1242,Wolves,2023-03-01,0.8,Liverpool
+1243,Tottenham,2023-02-26,0.8,Chelsea
+1244,Wolves,2023-02-24,0.8,Fulham
+1245,Wolves,2023-02-11,0.8,Southampton
+1246,Wolves,2023-01-22,0.8,Manchester City
+1247,Tottenham,2023-01-19,0.8,Manchester City
+1248,Crystal Palace,2023-01-04,0.8,Tottenham
+1249,Southampton,2022-12-31,0.8,Fulham
+1250,Wolves,2022-12-26,0.8,Everton
+1251,Everton,2022-11-12,0.8,Bournemouth
+1252,Manchester Utd,2022-10-22,0.8,Chelsea
+1253,Manchester City,2022-10-22,0.8,Brighton
+1254,Leicester City,2022-10-20,0.8,Leeds United
+1255,Wolves,2022-10-18,0.8,Crystal Palace
+1256,Manchester Utd,2022-10-16,0.8,Newcastle Utd
+1257,Newcastle Utd,2022-10-16,0.8,Manchester Utd
+1258,Tottenham,2022-10-08,0.8,Brighton
+1259,Tottenham,2022-10-01,0.8,Arsenal
+1260,Bournemouth,2022-09-03,0.8,Nott'ham Forest
+1261,Wolves,2022-09-03,0.8,Southampton
+1262,Fulham,2022-08-27,0.8,Arsenal
+1263,West Ham,2022-08-21,0.8,Brighton
+1264,Brentford,2022-08-07,0.8,Leicester City
+1265,Leeds United,2022-08-06,0.8,Wolves
+1266,Chelsea,2022-08-06,0.8,Everton
+1267,Brentford,2022-05-22,0.8,Leeds United
+1268,Burnley,2022-05-19,0.8,Aston Villa
+1269,Everton,2022-05-19,0.8,Crystal Palace
+1270,Norwich City,2022-05-08,0.8,West Ham
+1271,Newcastle Utd,2022-05-08,0.8,Manchester City
+1272,Chelsea,2022-05-01,0.8,Everton
+1273,Everton,2022-05-01,0.8,Chelsea
+1274,Southampton,2022-04-16,0.8,Arsenal
+1275,Manchester Utd,2022-04-09,0.8,Everton
+1276,Everton,2022-04-06,0.8,Burnley
+1277,Arsenal,2022-04-04,0.8,Crystal Palace
+1278,Leicester City,2022-04-02,0.8,Manchester Utd
+1279,Liverpool,2022-03-16,0.8,Arsenal
+1280,Wolves,2022-03-13,0.8,Everton
+1281,Tottenham,2022-03-12,0.8,Manchester Utd
+1282,Newcastle Utd,2022-02-19,0.8,West Ham
+1283,Southampton,2022-02-12,0.8,Manchester Utd
+1284,Wolves,2022-02-10,0.8,Arsenal
+1285,West Ham,2022-02-08,0.8,Watford
+1286,Watford,2022-02-05,0.8,Burnley
+1287,Southampton,2022-01-22,0.8,Manchester City
+1288,Aston Villa,2022-01-22,0.8,Everton
+1289,Southampton,2022-01-15,0.8,Wolves
+1290,Manchester Utd,2022-01-03,0.8,Wolves
+1291,Aston Villa,2022-01-02,0.8,Brentford
+1292,Arsenal,2022-01-01,0.8,Manchester City
+1293,Brighton,2021-12-26,0.8,Brentford
+1294,Leeds United,2021-12-18,0.8,Arsenal
+1295,West Ham,2021-12-12,0.8,Burnley
+1296,Burnley,2021-12-12,0.8,West Ham
+1297,Brentford,2021-12-10,0.8,Watford
+1298,Watford,2021-12-04,0.8,Manchester City
+1299,Aston Villa,2021-12-01,0.8,Manchester City
+1300,Arsenal,2021-11-07,0.8,Watford
+1301,Norwich City,2021-10-31,0.8,Leeds United
+1302,Brentford,2021-10-30,0.8,Burnley
+1303,Leeds United,2021-10-23,0.8,Wolves
+1304,Brighton,2021-10-16,0.8,Norwich City
+1305,Brighton,2021-09-27,0.8,Crystal Palace
+1306,West Ham,2021-09-19,0.8,Manchester Utd
+1307,Aston Villa,2021-09-18,0.8,Everton
+1308,Watford,2021-08-29,0.8,Tottenham
+1309,Southampton,2021-08-14,0.8,Everton
+1310,Aston Villa,2023-12-03,0.7,Bournemouth
+1311,Wolves,2023-12-02,0.7,Arsenal
+1312,Everton,2023-12-02,0.7,Nott'ham Forest
+1313,Nott'ham Forest,2023-12-02,0.7,Everton
+1314,Brighton,2023-11-25,0.7,Nott'ham Forest
+1315,Tottenham,2023-11-11,0.7,Wolves
+1316,Manchester Utd,2023-11-04,0.7,Fulham
+1317,Everton,2023-11-04,0.7,Brighton
+1318,West Ham,2023-10-29,0.7,Everton
+1319,Fulham,2023-10-29,0.7,Brighton
+1320,Bournemouth,2023-10-07,0.7,Everton
+1321,Burnley,2023-10-07,0.7,Chelsea
+1322,Nott'ham Forest,2023-09-18,0.7,Burnley
+1323,Sheffield Utd,2023-09-16,0.7,Tottenham
+1324,Aston Villa,2023-09-03,0.7,Liverpool
+1325,Sheffield Utd,2023-08-27,0.7,Manchester City
+1326,Burnley,2023-08-27,0.7,Aston Villa
+1327,Bournemouth,2023-08-26,0.7,Tottenham
+1328,Luton Town,2023-08-12,0.7,Brighton
+1329,Liverpool,2023-05-20,0.7,Aston Villa
+1330,Nott'ham Forest,2023-04-29,0.7,Brentford
+1331,Nott'ham Forest,2023-04-16,0.7,Manchester Utd
+1332,Leicester City,2023-04-08,0.7,Bournemouth
+1333,Fulham,2023-04-08,0.7,West Ham
+1334,Brentford,2023-04-05,0.7,Manchester Utd
+1335,Leeds United,2023-04-01,0.7,Arsenal
+1336,Nott'ham Forest,2023-03-11,0.7,Tottenham
+1337,Arsenal,2023-02-25,0.7,Leicester City
+1338,Crystal Palace,2023-02-25,0.7,Liverpool
+1339,Nott'ham Forest,2023-02-11,0.7,Fulham
+1340,Southampton,2023-02-04,0.7,Brentford
+1341,Crystal Palace,2023-01-15,0.7,Chelsea
+1342,Tottenham,2023-01-01,0.7,Aston Villa
+1343,Wolves,2022-12-31,0.7,Manchester Utd
+1344,Fulham,2022-12-31,0.7,Southampton
+1345,Nott'ham Forest,2022-12-27,0.7,Manchester Utd
+1346,Aston Villa,2022-11-13,0.7,Brighton
+1347,Wolves,2022-11-12,0.7,Arsenal
+1348,Brentford,2022-11-05,0.7,Nott'ham Forest
+1349,Leicester City,2022-10-29,0.7,Manchester City
+1350,Southampton,2022-10-23,0.7,Arsenal
+1351,Nott'ham Forest,2022-10-15,0.7,Wolves
+1352,Brentford,2022-10-14,0.7,Brighton
+1353,Aston Villa,2022-10-10,0.7,Nott'ham Forest
+1354,Fulham,2022-10-09,0.7,West Ham
+1355,Brighton,2022-10-08,0.7,Tottenham
+1356,Wolves,2022-10-01,0.7,West Ham
+1357,Bournemouth,2022-09-17,0.7,Newcastle Utd
+1358,Fulham,2022-09-03,0.7,Tottenham
+1359,Leicester City,2022-09-01,0.7,Manchester Utd
+1360,Newcastle Utd,2022-08-31,0.7,Liverpool
+1361,Nott'ham Forest,2022-08-31,0.7,Manchester City
+1362,Fulham,2022-08-30,0.7,Brighton
+1363,Wolves,2022-08-28,0.7,Newcastle Utd
+1364,Wolves,2022-08-20,0.7,Tottenham
+1365,Fulham,2022-08-13,0.7,Wolves
+1366,Aston Villa,2022-08-06,0.7,Bournemouth
+1367,Everton,2022-08-06,0.7,Chelsea
+1368,Manchester Utd,2022-05-22,0.7,Crystal Palace
+1369,Burnley,2022-05-15,0.7,Tottenham
+1370,Everton,2022-05-11,0.7,Watford
+1371,Wolves,2022-04-30,0.7,Brighton
+1372,Chelsea,2022-04-20,0.7,Arsenal
+1373,Leeds United,2022-04-09,0.7,Watford
+1374,Newcastle Utd,2022-04-08,0.7,Wolves
+1375,Crystal Palace,2022-04-04,0.7,Arsenal
+1376,Everton,2022-04-03,0.7,West Ham
+1377,Everton,2022-03-17,0.7,Newcastle Utd
+1378,Brighton,2022-03-16,0.7,Tottenham
+1379,Burnley,2022-03-12,0.7,Brentford
+1380,Wolves,2022-03-10,0.7,Watford
+1381,Wolves,2022-03-05,0.7,Crystal Palace
+1382,Burnley,2022-03-05,0.7,Chelsea
+1383,Wolves,2022-02-27,0.7,West Ham
+1384,Brighton,2022-02-26,0.7,Aston Villa
+1385,Tottenham,2022-02-23,0.7,Burnley
+1386,Burnley,2022-02-19,0.7,Brighton
+1387,Brighton,2022-02-15,0.7,Manchester Utd
+1388,Everton,2022-02-08,0.7,Newcastle Utd
+1389,Leeds United,2022-01-22,0.7,Newcastle Utd
+1390,Chelsea,2022-01-18,0.7,Brighton
+1391,Brighton,2022-01-18,0.7,Chelsea
+1392,Brentford,2022-01-16,0.7,Liverpool
+1393,Wolves,2022-01-03,0.7,Manchester Utd
+1394,Chelsea,2021-12-29,0.7,Brighton
+1395,Brentford,2021-12-26,0.7,Brighton
+1396,Leeds United,2021-12-11,0.7,Chelsea
+1397,Wolves,2021-12-01,0.7,Burnley
+1398,Everton,2021-12-01,0.7,Liverpool
+1399,Aston Villa,2021-11-20,0.7,Brighton
+1400,Tottenham,2021-11-07,0.7,Everton
+1401,Tottenham,2021-11-07,0.7,Everton
+1402,Brighton,2021-11-06,0.7,Newcastle Utd
+1403,Burnley,2021-11-06,0.7,Chelsea
+1404,Leeds United,2021-10-31,0.7,Norwich City
+1405,Aston Villa,2021-10-31,0.7,West Ham
+1406,Manchester City,2021-10-30,0.7,Crystal Palace
+1407,Arsenal,2021-10-30,0.7,Leicester City
+1408,Crystal Palace,2021-10-30,0.7,Manchester City
+1409,Tottenham,2021-10-24,0.7,West Ham
+1410,Burnley,2021-10-23,0.7,Southampton
+1411,Crystal Palace,2021-10-18,0.7,Arsenal
+1412,Everton,2021-09-18,0.7,Aston Villa
+1413,Norwich City,2021-09-11,0.7,Arsenal
+1414,West Ham,2021-09-11,0.7,Southampton
+1415,Southampton,2021-09-11,0.7,West Ham
+1416,Norwich City,2021-08-28,0.7,Leicester City
+1417,Aston Villa,2021-08-28,0.7,Brentford
+1418,Brighton,2021-08-28,0.7,Everton
+1419,Southampton,2021-08-22,0.7,Manchester Utd
+1420,Newcastle Utd,2021-08-21,0.7,Aston Villa
+1421,Chelsea,2021-08-14,0.7,Crystal Palace
+1422,Wolves,2023-11-27,0.6,Fulham
+1423,Liverpool,2023-11-25,0.6,Manchester City
+1424,Arsenal,2023-11-04,0.6,Newcastle Utd
+1425,Crystal Palace,2023-10-27,0.6,Tottenham
+1426,Chelsea,2023-10-21,0.6,Arsenal
+1427,Sheffield Utd,2023-10-21,0.6,Manchester Utd
+1428,Bournemouth,2023-10-21,0.6,Wolves
+1429,Sheffield Utd,2023-10-07,0.6,Fulham
+1430,Bournemouth,2023-09-30,0.6,Arsenal
+1431,Burnley,2023-09-30,0.6,Newcastle Utd
+1432,Fulham,2023-09-23,0.6,Crystal Palace
+1433,Wolves,2023-09-23,0.6,Luton Town
+1434,Wolves,2023-09-16,0.6,Liverpool
+1435,Newcastle Utd,2023-09-16,0.6,Brentford
+1436,Fulham,2023-08-26,0.6,Arsenal
+1437,Everton,2023-08-20,0.6,Aston Villa
+1438,Southampton,2023-05-21,0.6,Brighton
+1439,Nott'ham Forest,2023-05-20,0.6,Arsenal
+1440,Aston Villa,2023-05-20,0.6,Liverpool
+1441,Arsenal,2023-05-20,0.6,Nott'ham Forest
+1442,Tottenham,2023-05-13,0.6,Aston Villa
+1443,Aston Villa,2023-04-30,0.6,Manchester Utd
+1444,Wolves,2023-04-25,0.6,Crystal Palace
+1445,Wolves,2023-04-08,0.6,Chelsea
+1446,Tottenham,2023-04-03,0.6,Everton
+1447,Brentford,2023-03-18,0.6,Leicester City
+1448,Brighton,2023-03-15,0.6,Crystal Palace
+1449,Southampton,2023-03-04,0.6,Leicester City
+1450,Southampton,2023-02-18,0.6,Chelsea
+1451,Leeds United,2023-02-08,0.6,Manchester Utd
+1452,Fulham,2023-02-03,0.6,Chelsea
+1453,Southampton,2023-01-21,0.6,Aston Villa
+1454,Manchester City,2023-01-14,0.6,Manchester Utd
+1455,Brentford,2023-01-14,0.6,Bournemouth
+1456,Bournemouth,2023-01-14,0.6,Brentford
+1457,West Ham,2023-01-04,0.6,Leeds United
+1458,Bournemouth,2023-01-03,0.6,Manchester Utd
+1459,Bournemouth,2022-12-31,0.6,Crystal Palace
+1460,Leeds United,2022-12-28,0.6,Manchester City
+1461,Brighton,2022-12-26,0.6,Southampton
+1462,Brighton,2022-11-13,0.6,Aston Villa
+1463,Aston Villa,2022-11-06,0.6,Manchester Utd
+1464,Wolves,2022-10-29,0.6,Brentford
+1465,Tottenham,2022-10-19,0.6,Manchester Utd
+1466,Everton,2022-10-09,0.6,Manchester Utd
+1467,Tottenham,2022-08-31,0.6,West Ham
+1468,Brighton,2022-08-30,0.6,Fulham
+1469,West Ham,2022-08-28,0.6,Aston Villa
+1470,Leicester City,2022-08-07,0.6,Brentford
+1471,Bournemouth,2022-08-06,0.6,Aston Villa
+1472,Crystal Palace,2022-05-22,0.6,Manchester Utd
+1473,Watford,2022-05-22,0.6,Chelsea
+1474,Arsenal,2022-05-16,0.6,Newcastle Utd
+1475,Brentford,2022-05-02,0.6,Manchester Utd
+1476,Southampton,2022-04-30,0.6,Crystal Palace
+1477,Wolves,2022-04-24,0.6,Burnley
+1478,Norwich City,2022-04-23,0.6,Newcastle Utd
+1479,Tottenham,2022-04-23,0.6,Brentford
+1480,Leicester City,2022-04-17,0.6,Newcastle Utd
+1481,Brighton,2022-04-16,0.6,Tottenham
+1482,Crystal Palace,2022-04-10,0.6,Leicester City
+1483,Brighton,2022-04-09,0.6,Arsenal
+1484,Watford,2022-04-02,0.6,Liverpool
+1485,West Ham,2022-03-20,0.6,Tottenham
+1486,Crystal Palace,2022-03-14,0.6,Manchester City
+1487,Newcastle Utd,2022-03-10,0.6,Southampton
+1488,Watford,2022-03-10,0.6,Wolves
+1489,Watford,2022-02-26,0.6,Manchester Utd
+1490,Norwich City,2022-02-25,0.6,Southampton
+1491,Brentford,2022-02-19,0.6,Arsenal
+1492,Norwich City,2022-02-19,0.6,Liverpool
+1493,Brighton,2022-02-19,0.6,Burnley
+1494,West Ham,2022-02-19,0.6,Newcastle Utd
+1495,Leicester City,2022-02-13,0.6,West Ham
+1496,Aston Villa,2022-02-13,0.6,Newcastle Utd
+1497,Burnley,2022-02-05,0.6,Watford
+1498,Everton,2022-01-15,0.6,Norwich City
+1499,Brentford,2022-01-02,0.6,Aston Villa
+1500,Everton,2021-12-16,0.6,Chelsea
+1501,Southampton,2021-12-15,0.6,Crystal Palace
+1502,Southampton,2021-12-11,0.6,Arsenal
+1503,Burnley,2021-12-04,0.6,Newcastle Utd
+1504,Leeds United,2021-11-30,0.6,Crystal Palace
+1505,Leeds United,2021-11-27,0.6,Brighton
+1506,Everton,2021-11-07,0.6,Tottenham
+1507,Aston Villa,2021-11-05,0.6,Southampton
+1508,Southampton,2021-11-05,0.6,Aston Villa
+1509,Newcastle Utd,2021-10-02,0.6,Wolves
+1510,Norwich City,2021-10-02,0.6,Burnley
+1511,Southampton,2021-10-02,0.6,Chelsea
+1512,Crystal Palace,2021-09-27,0.6,Brighton
+1513,Crystal Palace,2021-09-18,0.6,Liverpool
+1514,Wolves,2021-09-18,0.6,Brentford
+1515,Leicester City,2021-09-11,0.6,Manchester City
+1516,Manchester Utd,2021-08-29,0.6,Wolves
+1517,Chelsea,2021-08-28,0.6,Liverpool
+1518,Everton,2021-08-28,0.6,Brighton
+1519,Leicester City,2021-08-23,0.6,West Ham
+1520,Aston Villa,2021-08-21,0.6,Newcastle Utd
+1521,Tottenham,2023-12-03,0.5,Manchester City
+1522,Manchester Utd,2023-12-02,0.5,Newcastle Utd
+1523,Burnley,2023-11-25,0.5,West Ham
+1524,Chelsea,2023-11-25,0.5,Newcastle Utd
+1525,Newcastle Utd,2023-11-11,0.5,Bournemouth
+1526,Brighton,2023-11-04,0.5,Everton
+1527,Luton Town,2023-10-29,0.5,Aston Villa
+1528,Manchester City,2023-10-08,0.5,Arsenal
+1529,Nott'ham Forest,2023-10-01,0.5,Brentford
+1530,Burnley,2023-09-18,0.5,Nott'ham Forest
+1531,Brentford,2023-09-16,0.5,Newcastle Utd
+1532,Fulham,2023-08-19,0.5,Brentford
+1533,Sheffield Utd,2023-08-18,0.5,Nott'ham Forest
+1534,Sheffield Utd,2023-08-12,0.5,Crystal Palace
+1535,Wolves,2023-05-28,0.5,Arsenal
+1536,Nott'ham Forest,2023-05-28,0.5,Crystal Palace
+1537,Bournemouth,2023-05-28,0.5,Everton
+1538,Brighton,2023-05-18,0.5,Newcastle Utd
+1539,Southampton,2023-04-27,0.5,Bournemouth
+1540,Arsenal,2023-04-26,0.5,Manchester City
+1541,Crystal Palace,2023-04-22,0.5,Everton
+1542,Newcastle Utd,2023-04-15,0.5,Aston Villa
+1543,Chelsea,2023-04-15,0.5,Brighton
+1544,Leicester City,2023-04-04,0.5,Aston Villa
+1545,Wolves,2023-04-01,0.5,Nott'ham Forest
+1546,Southampton,2023-03-15,0.5,Brentford
+1547,Wolves,2023-03-04,0.5,Tottenham
+1548,Fulham,2023-02-24,0.5,Wolves
+1549,West Ham,2023-02-19,0.5,Tottenham
+1550,Aston Villa,2023-02-18,0.5,Arsenal
+1551,Leeds United,2023-02-18,0.5,Everton
+1552,Leeds United,2023-01-22,0.5,Brentford
+1553,Everton,2023-01-21,0.5,West Ham
+1554,Crystal Palace,2023-01-18,0.5,Manchester Utd
+1555,Southampton,2023-01-04,0.5,Nott'ham Forest
+1556,Everton,2023-01-03,0.5,Brighton
+1557,Bournemouth,2022-12-27,0.5,Chelsea
+1558,Leicester City,2022-12-26,0.5,Newcastle Utd
+1559,Manchester Utd,2022-11-06,0.5,Aston Villa
+1560,Bournemouth,2022-10-29,0.5,Tottenham
+1561,Brighton,2022-10-22,0.5,Manchester City
+1562,Arsenal,2022-10-16,0.5,Leeds United
+1563,Southampton,2022-10-16,0.5,West Ham
+1564,Wolves,2022-10-15,0.5,Nott'ham Forest
+1565,Fulham,2022-10-01,0.5,Newcastle Utd
+1566,Brentford,2022-09-18,0.5,Arsenal
+1567,Aston Villa,2022-08-28,0.5,West Ham
+1568,Leicester City,2022-08-13,0.5,Arsenal
+1569,West Ham,2022-08-07,0.5,Manchester City
+1570,Southampton,2022-08-06,0.5,Tottenham
+1571,Fulham,2022-08-06,0.5,Liverpool
+1572,Norwich City,2022-05-22,0.5,Tottenham
+1573,Leeds United,2022-05-22,0.5,Brentford
+1574,Arsenal,2022-05-12,0.5,Tottenham
+1575,Wolves,2022-05-11,0.5,Manchester City
+1576,West Ham,2022-05-01,0.5,Arsenal
+1577,Leicester City,2022-05-01,0.5,Tottenham
+1578,Norwich City,2022-04-30,0.5,Aston Villa
+1579,Manchester Utd,2022-04-28,0.5,Chelsea
+1580,Leeds United,2022-04-25,0.5,Crystal Palace
+1581,West Ham,2022-04-24,0.5,Chelsea
+1582,Watford,2022-04-23,0.5,Manchester City
+1583,Crystal Palace,2022-04-20,0.5,Newcastle Utd
+1584,Tottenham,2022-04-16,0.5,Brighton
+1585,Southampton,2022-04-09,0.5,Chelsea
+1586,Newcastle Utd,2022-04-03,0.5,Tottenham
+1587,Aston Villa,2022-03-19,0.5,Arsenal
+1588,Arsenal,2022-03-16,0.5,Liverpool
+1589,Brighton,2022-03-12,0.5,Liverpool
+1590,Manchester Utd,2022-03-06,0.5,Manchester City
+1591,Everton,2022-02-26,0.5,Manchester City
+1592,Wolves,2022-02-20,0.5,Leicester City
+1593,Crystal Palace,2022-02-19,0.5,Chelsea
+1594,Newcastle Utd,2022-02-13,0.5,Aston Villa
+1595,Watford,2022-02-12,0.5,Brighton
+1596,Leicester City,2022-02-10,0.5,Liverpool
+1597,Crystal Palace,2022-02-09,0.5,Norwich City
+1598,Tottenham,2022-01-23,0.5,Chelsea
+1599,Brentford,2022-01-11,0.5,Southampton
+1600,Norwich City,2021-12-14,0.5,Aston Villa
+1601,Watford,2021-12-10,0.5,Brentford
+1602,Crystal Palace,2021-12-05,0.5,Manchester Utd
+1603,Aston Villa,2021-11-27,0.5,Crystal Palace
+1604,Norwich City,2021-11-20,0.5,Southampton
+1605,Watford,2021-11-07,0.5,Arsenal
+1606,Brighton,2021-10-23,0.5,Manchester City
+1607,Watford,2021-10-16,0.5,Liverpool
+1608,Burnley,2021-09-25,0.5,Leicester City
+1609,Norwich City,2021-09-25,0.5,Everton
+1610,Tottenham,2021-09-19,0.5,Chelsea
+1611,Crystal Palace,2021-08-21,0.5,Brentford
+1612,Watford,2021-08-21,0.5,Brighton
+1613,Leeds United,2021-08-14,0.5,Manchester Utd
+1614,Leicester City,2021-08-14,0.5,Wolves
+1615,Sheffield Utd,2023-12-02,0.4,Burnley
+1616,Luton Town,2023-11-11,0.4,Manchester Utd
+1617,Nott'ham Forest,2023-11-05,0.4,Aston Villa
+1618,Nott'ham Forest,2023-10-29,0.4,Liverpool
+1619,Arsenal,2023-10-08,0.4,Manchester City
+1620,Wolves,2023-09-30,0.4,Manchester City
+1621,Luton Town,2023-08-25,0.4,Chelsea
+1622,Leicester City,2023-05-15,0.4,Liverpool
+1623,Southampton,2023-05-13,0.4,Fulham
+1624,Crystal Palace,2023-05-06,0.4,Tottenham
+1625,West Ham,2023-05-03,0.4,Manchester City
+1626,Everton,2023-04-22,0.4,Crystal Palace
+1627,Southampton,2023-04-08,0.4,Manchester City
+1628,Manchester Utd,2023-04-02,0.4,Newcastle Utd
+1629,Nott'ham Forest,2023-03-17,0.4,Newcastle Utd
+1630,Newcastle Utd,2023-03-04,0.4,Manchester City
+1631,Chelsea,2023-02-26,0.4,Tottenham
+1632,Southampton,2023-02-25,0.4,Leeds United
+1633,Nott'ham Forest,2023-02-25,0.4,West Ham
+1634,Everton,2023-02-13,0.4,Liverpool
+1635,Nott'ham Forest,2023-02-05,0.4,Leeds United
+1636,Manchester Utd,2023-01-22,0.4,Arsenal
+1637,Brentford,2023-01-22,0.4,Leeds United
+1638,Chelsea,2023-01-05,0.4,Manchester City
+1639,Leeds United,2022-12-31,0.4,Newcastle Utd
+1640,Crystal Palace,2022-12-26,0.4,Fulham
+1641,Crystal Palace,2022-11-12,0.4,Nott'ham Forest
+1642,Wolves,2022-11-05,0.4,Brighton
+1643,Nott'ham Forest,2022-10-30,0.4,Arsenal
+1644,Aston Villa,2022-10-29,0.4,Newcastle Utd
+1645,Bournemouth,2022-10-24,0.4,West Ham
+1646,Everton,2022-10-15,0.4,Tottenham
+1647,Crystal Palace,2022-10-15,0.4,Leicester City
+1648,Brentford,2022-10-08,0.4,Newcastle Utd
+1649,Leeds United,2022-10-02,0.4,Aston Villa
+1650,Bournemouth,2022-10-01,0.4,Brentford
+1651,Crystal Palace,2022-10-01,0.4,Chelsea
+1652,Everton,2022-09-18,0.4,West Ham
+1653,Wolves,2022-09-17,0.4,Manchester City
+1654,Aston Villa,2022-08-31,0.4,Arsenal
+1655,Bournemouth,2022-08-31,0.4,Wolves
+1656,Southampton,2022-05-22,0.4,Leicester City
+1657,Leeds United,2022-05-11,0.4,Chelsea
+1658,Watford,2022-05-07,0.4,Crystal Palace
+1659,Everton,2022-04-24,0.4,Liverpool
+1660,Everton,2022-04-09,0.4,Manchester Utd
+1661,Wolves,2022-04-08,0.4,Newcastle Utd
+1662,Norwich City,2022-04-02,0.4,Brighton
+1663,Leicester City,2022-03-13,0.4,Arsenal
+1664,Everton,2022-03-13,0.4,Wolves
+1665,Brentford,2022-03-05,0.4,Norwich City
+1666,Leicester City,2022-03-05,0.4,Leeds United
+1667,Brentford,2022-02-26,0.4,Newcastle Utd
+1668,Norwich City,2022-02-12,0.4,Manchester City
+1669,Norwich City,2022-02-09,0.4,Crystal Palace
+1670,Brentford,2022-02-09,0.4,Manchester City
+1671,Burnley,2022-02-08,0.4,Manchester Utd
+1672,Burnley,2022-01-23,0.4,Arsenal
+1673,Brentford,2021-12-29,0.4,Manchester City
+1674,Southampton,2021-12-28,0.4,Tottenham
+1675,Leicester City,2021-12-28,0.4,Liverpool
+1676,Southampton,2021-12-26,0.4,West Ham
+1677,Aston Villa,2021-12-26,0.4,Chelsea
+1678,West Ham,2021-12-15,0.4,Arsenal
+1679,Newcastle Utd,2021-11-30,0.4,Norwich City
+1680,Brentford,2021-11-28,0.4,Everton
+1681,Arsenal,2021-11-20,0.4,Liverpool
+1682,Brighton,2021-11-20,0.4,Aston Villa
+1683,West Ham,2021-11-20,0.4,Wolves
+1684,Leicester City,2021-11-20,0.4,Chelsea
+1685,Norwich City,2021-11-06,0.4,Brentford
+1686,Newcastle Utd,2021-10-17,0.4,Tottenham
+1687,Arsenal,2021-10-02,0.4,Brighton
+1688,Southampton,2021-09-18,0.4,Manchester City
+1689,Newcastle Utd,2021-09-11,0.4,Manchester Utd
+1690,Brentford,2021-09-11,0.4,Brighton
+1691,Aston Villa,2021-08-14,0.4,Watford
+1692,Burnley,2023-11-11,0.3,Arsenal
+1693,Sheffield Utd,2023-11-04,0.3,Wolves
+1694,Crystal Palace,2023-09-23,0.3,Fulham
+1695,Everton,2023-09-17,0.3,Arsenal
+1696,Newcastle Utd,2023-08-19,0.3,Manchester City
+1697,Burnley,2023-08-11,0.3,Manchester City
+1698,Wolves,2023-05-13,0.3,Manchester Utd
+1699,Bournemouth,2023-05-13,0.3,Crystal Palace
+1700,Liverpool,2023-04-04,0.3,Chelsea
+1701,Southampton,2023-04-02,0.3,West Ham
+1702,Liverpool,2023-04-01,0.3,Manchester City
+1703,West Ham,2023-03-04,0.3,Brighton
+1704,Fulham,2023-02-18,0.3,Brighton
+1705,Aston Villa,2023-02-12,0.3,Manchester City
+1706,Crystal Palace,2023-01-21,0.3,Newcastle Utd
+1707,Fulham,2023-01-15,0.3,Newcastle Utd
+1708,Chelsea,2022-11-12,0.3,Newcastle Utd
+1709,Chelsea,2022-11-06,0.3,Arsenal
+1710,West Ham,2022-11-06,0.3,Crystal Palace
+1711,Chelsea,2022-10-22,0.3,Manchester Utd
+1712,Nott'ham Forest,2022-10-10,0.3,Aston Villa
+1713,Southampton,2022-09-16,0.3,Aston Villa
+1714,Aston Villa,2022-09-03,0.3,Manchester City
+1715,Bournemouth,2022-08-27,0.3,Liverpool
+1716,Bournemouth,2022-08-20,0.3,Arsenal
+1717,Leicester City,2022-08-20,0.3,Southampton
+1718,Nott'ham Forest,2022-08-06,0.3,Newcastle Utd
+1719,Watford,2022-05-11,0.3,Everton
+1720,Leeds United,2022-05-08,0.3,Arsenal
+1721,Leicester City,2022-04-23,0.3,Aston Villa
+1722,West Ham,2022-04-10,0.3,Brentford
+1723,Newcastle Utd,2022-03-13,0.3,Chelsea
+1724,Everton,2022-02-19,0.3,Southampton
+1725,Crystal Palace,2022-02-12,0.3,Brentford
+1726,Leeds United,2022-02-12,0.3,Everton
+1727,Watford,2022-02-08,0.3,West Ham
+1728,West Ham,2022-01-22,0.3,Manchester Utd
+1729,Chelsea,2022-01-15,0.3,Manchester City
+1730,Norwich City,2022-01-12,0.3,West Ham
+1731,Watford,2022-01-01,0.3,Tottenham
+1732,Newcastle Utd,2021-12-19,0.3,Manchester City
+1733,Newcastle Utd,2021-12-16,0.3,Liverpool
+1734,Leeds United,2021-12-14,0.3,Manchester City
+1735,Brentford,2021-12-02,0.3,Tottenham
+1736,Newcastle Utd,2021-11-27,0.3,Arsenal
+1737,Wolves,2021-11-27,0.3,Norwich City
+1738,Wolves,2021-11-06,0.3,Crystal Palace
+1739,Newcastle Utd,2021-11-06,0.3,Brighton
+1740,Newcastle Utd,2021-10-23,0.3,Crystal Palace
+1741,Chelsea,2021-10-16,0.3,Brentford
+1742,Brighton,2021-09-11,0.3,Brentford
+1743,Arsenal,2021-08-22,0.3,Chelsea
+1744,Luton Town,2023-12-02,0.2,Brentford
+1745,West Ham,2023-05-14,0.2,Brentford
+1746,Brentford,2023-05-06,0.2,Liverpool
+1747,Leeds United,2023-05-06,0.2,Manchester City
+1748,Fulham,2023-04-30,0.2,Manchester City
+1749,Nott'ham Forest,2023-04-08,0.2,Aston Villa
+1750,Leicester City,2023-04-01,0.2,Crystal Palace
+1751,Crystal Palace,2023-03-11,0.2,Manchester City
+1752,Crystal Palace,2023-03-04,0.2,Aston Villa
+1753,West Ham,2022-12-26,0.2,Arsenal
+1754,Fulham,2022-11-05,0.2,Manchester City
+1755,Everton,2022-10-19,0.2,Newcastle Utd
+1756,Southampton,2022-10-08,0.2,Manchester City
+1757,Newcastle Utd,2022-08-13,0.2,Brighton
+1758,West Ham,2022-05-22,0.2,Brighton
+1759,Aston Villa,2022-05-22,0.2,Manchester City
+1760,Newcastle Utd,2022-04-30,0.2,Liverpool
+1761,Brighton,2022-04-20,0.2,Manchester City
+1762,Leeds United,2022-03-10,0.2,Aston Villa
+1763,Norwich City,2022-03-10,0.2,Chelsea
+1764,Everton,2022-03-07,0.2,Tottenham
+1765,Burnley,2022-02-26,0.2,Crystal Palace
+1766,Leeds United,2022-02-23,0.2,Liverpool
+1767,Wolves,2022-01-22,0.2,Brentford
+1768,Crystal Palace,2022-01-14,0.2,Brighton
+1769,Crystal Palace,2021-12-26,0.2,Tottenham
+1770,Wolves,2021-12-19,0.2,Chelsea
+1771,Aston Villa,2021-12-11,0.2,Liverpool
+1772,Wolves,2021-12-11,0.2,Manchester City
+1773,Burnley,2021-12-01,0.2,Wolves
+1774,West Ham,2021-11-28,0.2,Manchester City
+1775,Everton,2021-11-21,0.2,Manchester City
+1776,Newcastle Utd,2021-10-30,0.2,Chelsea
+1777,Leeds United,2021-10-16,0.2,Southampton
+1778,Watford,2021-10-02,0.2,Leeds United
+1779,Chelsea,2021-09-25,0.2,Manchester City
+1780,Watford,2021-09-11,0.2,Wolves
+1781,Arsenal,2021-08-28,0.2,Manchester City
+1782,Crystal Palace,2021-08-14,0.2,Chelsea
+1783,Everton,2023-10-21,0.1,Liverpool
+1784,Leicester City,2023-05-22,0.1,Newcastle Utd
+1785,Fulham,2023-04-25,0.1,Aston Villa
+1786,Everton,2022-12-31,0.1,Manchester City
+1787,Nott'ham Forest,2022-10-18,0.1,Brighton
+1788,Crystal Palace,2022-08-27,0.1,Manchester City
+1789,Bournemouth,2022-08-13,0.1,Manchester City
+1790,Leicester City,2022-05-19,0.1,Chelsea
+1791,Southampton,2022-05-17,0.1,Liverpool
+1792,Manchester Utd,2022-04-19,0.1,Liverpool
+1793,Burnley,2022-04-02,0.1,Manchester City
+1794,Norwich City,2021-12-26,0.1,Arsenal
+1795,Wolves,2021-12-04,0.1,Liverpool
+1796,Norwich City,2021-10-23,0.1,Chelsea
+1797,Tottenham,2021-09-11,0.1,Crystal Palace
+1798,Norwich City,2021-08-21,0.1,Manchester City
+1799,Sheffield Utd,2023-10-28,0.0,Arsenal
+1800,Leicester City,2023-02-25,0.0,Arsenal
