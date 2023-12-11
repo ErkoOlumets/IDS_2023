@@ -1,0 +1,89 @@
+GF: Goals For
+GA: Goals Against
+GD: Goal Difference
+Poss: Possession
+G-PG: Goals minus Penalty Goals
+PG: Penalty Goals
+PKatt: Penalty Kicks attempted
+PKm: Penalty Kicks missed
+OPcmp: Overall Passes completed
+OPatt: Overall Passes attempted
+OP%: Overall Pass completion rate
+KP: Key Passes (passes leading to a shot)
+OP2fin: Overall Passes to final third (completed)
+OP2pa: Overall Passes to penalty area (completed)
+C2pa: Crosses to penalty area (completed)
+OPprg: Overall progressive Passes
+OPdist: Overall Passes (total) distance
+OPprgdist: Overall progressive Passes (total) distance
+SPcmp: Short Passes completed (short pass: 5 to 15 yards)
+SPatt: Short Passes attempted
+SP%: Short Passes percentage
+MPcmp: Mid Passes completed (mid pass: 15 to 30 yards)
+MPatt: Mid Passes attempted
+MP%: Mid Passes percentage
+LPcmp: Long Passes completed (long pass: over 30 yards)
+LPatt: Long Passes attempted
+LP%: Long Passes percentage
+xG: expected Goals
+npxG: non-penalty expected Goals
+xGD: expected Goal Difference
+npxGD: non-penalty expected Goal Difference
+xAG: expected Assisted Goals
+xA: expected Assists
+G-xG: Goals minus expected Goals
+npG-npxG: non-penalty Goals minus non-penalty expected Goals
+A-xAG: Assists minus expected Assisted Goals
+npxG/S: non-penalty expected Goals per Shot
+TotS: Total Shots
+G/S: Goals per Shot
+G/SoT: Goals per Shot on Target
+SoT: Shots on Target
+SoT%: Shots on Target percentage
+Sdist: average Shot distance
+FK: shots from Free Kicks
+SCA: Shot-Creating Actions
+SCApasslive: Shot-Creating liveball passes
+SCApassdead: Shot-Creating deadball passes
+SCAtakeon: Shot-Creating take-ons
+SCAshot: Shot-Creating shots
+SCAfoul: Shot-Creating fouls drawn
+SCAdef: Shot-Creating defensive actions
+Carr: Carries
+CarrDist: Carries total Distance
+CarrPrgDist: Carries Progressive Distance
+CarrPrg: Progressive Carries
+Carr2fin: Carries to final third
+Carr2pa: Carries to penalty area
+CarrF: Carries Failed
+CarrD: Carries Dispossesed
+Rec: total passes Received
+PrgR: Progressive passes Received
+Touches: total Touches
+Tdefpa: Touches in defensive penalty area
+Tdef: Touches in defensive third
+Tmid: Touches in middle third
+Toff: Touches in offensive third
+Toffpa: Touches in offensive penalty area
+Tlive: liveball Touches
+Tkl: total Tackles
+TklW: Tackles Won
+Tkldef:Tackles in defensive third
+Tklmid: Tackles in middle third
+Tkloff: Tackles in offensive third
+DTkl: Dribblers Tackled
+DTkl%: Dribblers Tackled percentage
+LostTkl: unsuccessful Tackles (against dribblers)
+Blocks: total Blocks
+BS: Blocked Shots
+BP: Blocked Pass
+Int: Interceptions
+TklInt: Tackles plus Interceptions
+Clr: Clearances
+Err: Errors
+SoTA: Shots on Target Against
+Saves: total Saves
+Save%: (Shots on Target Against - Goals Against)/Shots on Target Against
+PSxG: Post-Shot Expected Goals
+PSxG/SoT: Post-Shot Expected Goals per Shot on Target
+PSxG-GA: Post-Shot Expected Goals minus Goals Allowed
