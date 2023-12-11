@@ -1,0 +1,761 @@
+Rk,Team,Date,Opp,Result,GF,GA,GD,Poss,G-PK,PK,PKatt,PKm,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
+1,Aston Villa,2022-05-22,Manchester City,L 2-3,2,3,-1,29,2,0,0,0,179,820,381,7,8,4,13,7,178,11,Match Report
+2,Everton,2022-05-22,Arsenal,L 1-5,1,5,-4,27,1,0,0,0,152,802,352,4,5,1,7,8,161,10,Match Report
+3,Arsenal,2022-05-22,Everton,W 5-1,5,1,+4,73,4,1,1,0,544,2459,1424,26,14,10,7,11,600,76,Match Report
+4,West Ham,2022-05-22,Brighton,L 1-3,1,3,-2,50,1,0,0,0,345,1624,903,13,12,2,9,9,411,43,Match Report
+5,Watford,2022-05-22,Chelsea,L 1-2,1,2,-1,29,1,0,0,0,254,1294,518,8,9,2,3,18,222,21,Match Report
+6,Crystal Palace,2022-05-22,Manchester Utd,W 1-0,1,0,+1,39,1,0,0,0,255,1402,619,13,7,4,17,5,260,15,Match Report
+7,Leeds United,2022-05-22,Brentford,W 2-1,2,1,+1,51,1,1,1,0,341,1647,803,14,14,8,13,6,344,42,Match Report
+8,Burnley,2022-05-22,Newcastle Utd,L 1-2,1,2,-1,52,1,0,0,0,187,927,442,13,9,1,13,9,271,30,Match Report
+9,Southampton,2022-05-22,Leicester City,L 1-4,1,4,-3,49,0,1,1,0,309,1729,827,20,15,5,14,10,345,34,Match Report
+10,Tottenham,2022-05-22,Norwich City,W 5-0,5,0,+5,59,5,0,0,0,574,2496,1186,15,13,7,12,6,570,48,Match Report
+11,Newcastle Utd,2022-05-22,Burnley,W 2-1,2,1,+1,48,1,1,1,0,224,1149,579,16,5,5,20,10,259,23,Match Report
+12,Liverpool,2022-05-22,Wolves,W 3-1,3,1,+2,63,3,0,0,0,534,3156,1822,36,27,11,14,12,626,74,Match Report
+13,Manchester City,2022-05-22,Aston Villa,W 3-2,3,2,+1,71,3,0,0,0,519,2659,1534,37,25,14,17,12,565,76,Match Report
+14,Wolves,2022-05-22,Liverpool,L 1-3,1,3,-2,37,1,0,0,0,342,1708,848,13,15,8,15,10,338,20,Match Report
+15,Chelsea,2022-05-22,Watford,W 2-1,2,1,+1,71,2,0,0,0,604,2980,1676,28,22,6,11,14,686,64,Match Report
+16,Brighton,2022-05-22,West Ham,W 3-1,3,1,+2,50,3,0,0,0,458,1997,1062,18,15,5,11,13,418,45,Match Report
+17,Leicester City,2022-05-22,Southampton,W 4-1,4,1,+3,51,4,0,0,0,376,1578,730,13,15,5,17,9,373,28,Match Report
+18,Brentford,2022-05-22,Leeds United,L 1-2,1,2,-1,49,1,0,0,0,349,1733,937,15,10,3,16,7,344,30,Match Report
+19,Manchester Utd,2022-05-22,Crystal Palace,L 0-1,0,1,-1,61,0,0,0,0,415,2253,1245,19,22,2,16,6,464,35,Match Report
+20,Norwich City,2022-05-22,Tottenham,L 0-5,0,5,-5,41,0,0,0,0,327,1638,757,17,6,4,11,4,347,37,Match Report
+21,Crystal Palace,2022-05-19,Everton,L 2-3,2,3,-1,57,2,0,0,0,365,1488,701,11,13,1,14,19,380,31,Match Report
+22,Leicester City,2022-05-19,Chelsea,D 1-1,1,1,0,33,1,0,0,0,274,1532,720,14,6,1,12,7,309,15,Match Report
+23,Chelsea,2022-05-19,Leicester City,D 1-1,1,1,0,67,1,0,0,0,642,3080,1598,21,22,4,19,13,717,67,Match Report
+24,Aston Villa,2022-05-19,Burnley,D 1-1,1,1,0,71,1,0,0,0,556,2885,1616,30,25,3,7,7,557,50,Match Report
+25,Burnley,2022-05-19,Aston Villa,D 1-1,1,1,0,29,0,1,1,0,127,695,323,5,2,1,7,9,174,15,Match Report
+26,Everton,2022-05-19,Crystal Palace,W 3-2,3,2,+1,43,3,0,0,0,193,1057,514,9,7,2,20,9,258,30,Match Report
+27,Southampton,2022-05-17,Liverpool,L 1-2,1,2,-1,30,1,0,0,0,246,1009,414,6,5,2,17,8,243,23,Match Report
+28,Liverpool,2022-05-17,Southampton,W 2-1,2,1,+1,70,2,0,0,0,554,2967,1565,33,19,9,13,10,687,74,Match Report
+29,Newcastle Utd,2022-05-16,Arsenal,W 2-0,2,0,+2,51,1,0,0,0,266,1384,535,16,7,3,11,10,288,26,Match Report
+30,Arsenal,2022-05-16,Newcastle Utd,L 0-2,0,2,-2,49,0,0,0,0,205,1094,531,14,6,2,15,10,278,32,Match Report
+31,West Ham,2022-05-15,Manchester City,D 2-2,2,2,0,22,2,0,0,0,129,752,361,8,4,4,14,5,138,12,Match Report
+32,Brentford,2022-05-15,Everton,W 3-2,3,2,+1,72,2,0,0,0,411,2307,1546,30,24,5,15,5,531,68,Match Report
+33,Leeds United,2022-05-15,Brighton,D 1-1,1,1,0,50,1,0,0,0,253,1286,712,20,8,6,14,11,303,30,Match Report
+34,Everton,2022-05-15,Brentford,L 2-3,2,3,-1,28,1,1,1,0,152,985,427,5,7,2,15,3,154,13,Match Report
+35,Watford,2022-05-15,Leicester City,L 1-5,1,5,-4,41,1,0,0,0,252,1360,671,18,9,8,12,18,298,29,Match Report
+36,Wolves,2022-05-15,Norwich City,D 1-1,1,1,0,64,1,0,0,0,501,2937,1542,27,27,7,18,14,573,54,Match Report
+37,Tottenham,2022-05-15,Burnley,W 1-0,1,0,+1,68,0,1,1,0,551,2751,1464,21,17,6,12,12,594,54,Match Report
+38,Norwich City,2022-05-15,Wolves,D 1-1,1,1,0,36,1,0,0,0,269,1707,976,19,7,6,8,4,286,19,Match Report
+39,Crystal Palace,2022-05-15,Aston Villa,D 1-1,1,1,0,51,1,0,0,0,437,2115,1061,16,10,2,16,10,441,28,Match Report
+40,Leicester City,2022-05-15,Watford,W 5-1,5,1,+4,59,5,0,0,0,453,2368,1295,19,19,2,12,11,481,40,Match Report
+41,Manchester City,2022-05-15,West Ham,D 2-2,2,2,0,78,1,0,1,1,626,3857,2304,45,52,14,10,6,655,86,Match Report
+42,Brighton,2022-05-15,Leeds United,D 1-1,1,1,0,50,1,0,0,0,209,1311,652,17,11,5,21,10,327,40,Match Report
+43,Aston Villa,2022-05-15,Crystal Palace,D 1-1,1,1,0,49,1,0,0,0,384,1631,880,16,14,6,17,9,408,33,Match Report
+44,Burnley,2022-05-15,Tottenham,L 0-1,0,1,-1,32,0,0,0,0,235,1213,585,6,4,0,11,5,239,22,Match Report
+45,Tottenham,2022-05-12,Arsenal,W 3-0,3,0,+3,57,2,1,1,0,404,1778,1018,7,9,1,15,5,518,30,Match Report
+46,Arsenal,2022-05-12,Tottenham,L 0-3,0,3,-3,43,0,0,0,0,275,1570,780,10,11,6,10,4,364,20,Match Report
+47,Wolves,2022-05-11,Manchester City,L 1-5,1,5,-4,34,1,0,0,0,342,1561,677,13,8,6,10,12,340,21,Match Report
+48,Watford,2022-05-11,Everton,D 0-0,0,0,0,48,0,0,0,0,350,1782,913,16,12,1,18,14,396,29,Match Report
+49,Leeds United,2022-05-11,Chelsea,L 0-3,0,3,-3,33,0,0,0,0,287,1382,564,6,7,0,19,11,322,16,Match Report
+50,Leicester City,2022-05-11,Norwich City,W 3-0,3,0,+3,65,3,0,0,0,575,2945,1630,24,26,8,17,7,603,70,Match Report
+51,Norwich City,2022-05-11,Leicester City,L 0-3,0,3,-3,35,0,0,0,0,329,1960,897,18,11,2,15,10,308,22,Match Report
+52,Manchester City,2022-05-11,Wolves,W 5-1,5,1,+4,66,5,0,0,0,583,2914,1442,26,16,10,4,12,737,52,Match Report
+53,Everton,2022-05-11,Watford,D 0-0,0,0,0,52,0,0,0,0,374,1919,913,17,13,8,9,8,412,34,Match Report
+54,Chelsea,2022-05-11,Leeds United,W 3-0,3,0,+3,67,3,0,0,0,594,2443,1278,27,26,6,11,9,752,67,Match Report
+55,Liverpool,2022-05-10,Aston Villa,W 2-1,2,1,+1,60,2,0,0,0,385,2358,1261,31,16,8,13,2,462,49,Match Report
+56,Aston Villa,2022-05-10,Liverpool,L 1-2,1,2,-1,40,1,0,0,0,275,1187,507,8,6,5,18,9,282,27,Match Report
+57,Newcastle Utd,2022-05-08,Manchester City,L 0-5,0,5,-5,29,0,0,0,0,191,940,415,13,5,6,11,3,227,13,Match Report
+58,Leicester City,2022-05-08,Everton,L 1-2,1,2,-1,66,1,0,0,0,480,2872,1667,20,26,0,14,11,574,57,Match Report
+59,Leeds United,2022-05-08,Arsenal,L 1-2,1,2,-1,36,1,0,0,0,225,1126,477,6,4,2,6,7,299,12,Match Report
+60,Manchester City,2022-05-08,Newcastle Utd,W 5-0,5,0,+5,71,5,0,0,0,504,2592,1583,35,19,14,8,12,659,61,Match Report
+61,Everton,2022-05-08,Leicester City,W 2-1,2,1,+1,34,2,0,0,0,227,1341,721,13,11,7,14,9,250,17,Match Report
+62,West Ham,2022-05-08,Norwich City,W 4-0,4,0,+4,63,3,1,1,0,539,2433,1280,13,18,1,8,9,640,44,Match Report
+63,Norwich City,2022-05-08,West Ham,L 0-4,0,4,-4,37,0,0,0,0,310,1970,1081,27,12,6,8,11,337,28,Match Report
+64,Arsenal,2022-05-08,Leeds United,W 2-1,2,1,+1,64,2,0,0,0,498,2123,1046,18,12,7,13,12,594,69,Match Report
+65,Manchester Utd,2022-05-07,Brighton,L 0-4,0,4,-4,58,0,0,0,0,370,1480,732,12,7,3,11,10,459,38,Match Report
+66,Wolves,2022-05-07,Chelsea,D 2-2,2,2,0,41,2,0,0,0,250,1455,741,11,14,3,16,15,283,22,Match Report
+67,Southampton,2022-05-07,Brentford,L 0-3,0,3,-3,59,0,0,0,0,365,1918,1005,17,19,5,11,6,392,41,Match Report
+68,Brighton,2022-05-07,Manchester Utd,W 4-0,4,0,+4,42,4,0,0,0,221,1202,725,21,12,4,11,7,315,41,Match Report
+69,Aston Villa,2022-05-07,Burnley,W 3-1,3,1,+2,51,3,0,0,0,322,1448,781,19,10,9,17,6,380,37,Match Report
+70,Chelsea,2022-05-07,Wolves,D 2-2,2,2,0,59,1,1,1,0,362,2109,1242,24,18,8,12,10,445,41,Match Report
+71,Crystal Palace,2022-05-07,Watford,W 1-0,1,0,+1,67,0,1,1,0,417,2205,1235,15,13,7,10,8,485,40,Match Report
+72,Burnley,2022-05-07,Aston Villa,L 1-3,1,3,-2,49,1,0,0,0,333,1751,839,14,10,3,14,9,354,39,Match Report
+73,Tottenham,2022-05-07,Liverpool,D 1-1,1,1,0,36,1,0,0,0,302,1537,815,20,11,4,15,8,281,29,Match Report
+74,Brentford,2022-05-07,Southampton,W 3-0,3,0,+3,41,3,0,0,0,216,1016,506,10,6,8,11,6,249,34,Match Report
+75,Watford,2022-05-07,Crystal Palace,L 0-1,0,1,-1,33,0,0,0,0,212,995,457,8,4,1,14,7,192,11,Match Report
+76,Liverpool,2022-05-07,Tottenham,D 1-1,1,1,0,64,1,0,0,0,511,2211,1205,18,23,6,10,15,560,75,Match Report
+77,Manchester Utd,2022-05-02,Brentford,W 3-0,3,0,+3,63,2,1,1,0,584,2569,1214,20,20,3,11,5,665,29,Match Report
+78,Brentford,2022-05-02,Manchester Utd,L 0-3,0,3,-3,37,0,0,0,0,269,1567,687,16,12,2,11,5,328,38,Match Report
+79,West Ham,2022-05-01,Arsenal,L 1-2,1,2,-1,57,1,0,0,0,513,2756,1134,22,23,4,5,8,532,38,Match Report
+80,Chelsea,2022-05-01,Everton,L 0-1,0,1,-1,77,0,0,0,0,532,2857,1682,28,29,3,19,8,663,64,Match Report
+81,Everton,2022-05-01,Chelsea,W 1-0,1,0,+1,23,1,0,0,0,140,932,509,15,6,5,13,12,129,17,Match Report
+82,Tottenham,2022-05-01,Leicester City,W 3-1,3,1,+2,40,3,0,0,0,355,2103,1006,26,13,9,12,6,348,31,Match Report
+83,Arsenal,2022-05-01,West Ham,W 2-1,2,1,+1,43,2,0,0,0,338,2062,1115,24,19,5,17,6,392,19,Match Report
+84,Leicester City,2022-05-01,Tottenham,L 1-3,1,3,-2,60,1,0,0,0,563,2359,1064,16,18,2,18,12,569,38,Match Report
+85,Leeds United,2022-04-30,Manchester City,L 0-4,0,4,-4,42,0,0,0,0,282,1439,778,15,6,6,11,6,361,35,Match Report
+86,Wolves,2022-04-30,Brighton,L 0-3,0,3,-3,49,0,0,0,0,371,1996,1054,24,13,7,9,11,390,33,Match Report
+87,Liverpool,2022-04-30,Newcastle Utd,W 1-0,1,0,+1,64,1,0,0,0,375,2003,1060,16,15,7,16,12,463,39,Match Report
+88,Watford,2022-04-30,Burnley,L 1-2,1,2,-1,47,0,0,0,0,256,1490,716,21,13,6,18,11,242,26,Match Report
+89,Aston Villa,2022-04-30,Norwich City,W 2-0,2,0,+2,45,2,0,0,0,347,2177,1353,36,18,12,12,6,347,33,Match Report
+90,Brighton,2022-04-30,Wolves,W 3-0,3,0,+3,51,2,1,2,1,425,2509,1230,29,29,8,14,8,418,27,Match Report
+91,Norwich City,2022-04-30,Aston Villa,L 0-2,0,2,-2,55,0,0,0,0,399,2089,892,20,12,5,15,18,430,26,Match Report
+92,Newcastle Utd,2022-04-30,Liverpool,L 0-1,0,1,-1,36,0,0,0,0,196,1061,424,6,7,1,17,11,199,14,Match Report
+93,Burnley,2022-04-30,Watford,W 2-1,2,1,+1,53,2,0,0,0,256,1421,572,9,11,3,16,8,294,24,Match Report
+94,Manchester City,2022-04-30,Leeds United,W 4-0,4,0,+4,58,4,0,0,0,454,2622,1326,26,18,6,14,11,566,49,Match Report
+95,Southampton,2022-04-30,Crystal Palace,L 1-2,1,2,-1,38,1,0,0,0,236,1128,558,12,7,2,17,6,235,21,Match Report
+96,Crystal Palace,2022-04-30,Southampton,W 2-1,2,1,+1,62,2,0,0,0,397,1898,823,19,12,5,18,18,465,42,Match Report
+97,Chelsea,2022-04-28,Manchester Utd,D 1-1,1,1,0,64,1,0,0,0,468,2254,1156,30,20,9,14,12,582,70,Match Report
+98,Manchester Utd,2022-04-28,Chelsea,D 1-1,1,1,0,36,1,0,0,0,291,1292,641,12,8,3,14,7,284,31,Match Report
+99,Crystal Palace,2022-04-25,Leeds United,D 0-0,0,0,0,53,0,0,0,0,344,1737,899,19,10,5,19,14,366,41,Match Report
+100,Leeds United,2022-04-25,Crystal Palace,D 0-0,0,0,0,47,0,0,0,0,286,1461,908,14,9,2,20,6,304,39,Match Report
+101,Liverpool,2022-04-24,Everton,W 2-0,2,0,+2,82,2,0,0,0,582,2713,1530,21,36,8,20,8,736,84,Match Report
+102,Southampton,2022-04-24,Brighton,D 2-2,2,2,0,52,2,0,0,0,275,1315,645,14,19,5,13,16,287,37,Match Report
+103,West Ham,2022-04-24,Chelsea,L 0-1,0,1,-1,34,0,0,0,0,192,1198,595,9,10,4,13,8,280,22,Match Report
+104,Wolves,2022-04-24,Burnley,L 0-1,0,1,-1,64,0,0,0,0,413,2245,1145,30,24,7,18,13,516,42,Match Report
+105,Burnley,2022-04-24,Wolves,W 1-0,1,0,+1,36,1,0,0,0,278,1727,880,14,13,2,13,16,256,28,Match Report
+106,Everton,2022-04-24,Liverpool,L 0-2,0,2,-2,18,0,0,0,0,113,826,361,6,6,6,24,3,104,13,Match Report
+107,Chelsea,2022-04-24,West Ham,W 1-0,1,0,+1,66,1,0,1,1,575,3069,1840,44,34,14,16,7,649,73,Match Report
+108,Brighton,2022-04-24,Southampton,D 2-2,2,2,0,48,1,0,0,0,233,1141,586,17,8,5,20,10,253,22,Match Report
+109,Watford,2022-04-23,Manchester City,L 1-5,1,5,-4,27,1,0,0,0,218,1071,457,10,11,4,16,11,191,12,Match Report
+110,Manchester Utd,2022-04-23,Arsenal,L 1-3,1,3,-2,46,1,0,1,1,306,1727,748,16,11,1,14,6,355,29,Match Report
+111,Tottenham,2022-04-23,Brentford,D 0-0,0,0,0,56,0,0,0,0,385,2181,1191,29,22,5,24,9,453,49,Match Report
+112,Norwich City,2022-04-23,Newcastle Utd,L 0-3,0,3,-3,46,0,0,0,0,310,1598,818,14,12,1,14,9,342,33,Match Report
+113,Arsenal,2022-04-23,Manchester Utd,W 3-1,3,1,+2,54,2,1,1,0,395,1820,816,11,7,1,11,8,450,46,Match Report
+114,Aston Villa,2022-04-23,Leicester City,D 0-0,0,0,0,36,0,0,0,0,207,1139,595,16,4,7,9,9,220,26,Match Report
+115,Newcastle Utd,2022-04-23,Norwich City,W 3-0,3,0,+3,54,3,0,0,0,312,1496,643,12,10,5,15,13,449,39,Match Report
+116,Leicester City,2022-04-23,Aston Villa,D 0-0,0,0,0,64,0,0,0,0,455,2422,1202,24,18,4,19,10,474,53,Match Report
+117,Manchester City,2022-04-23,Watford,W 5-1,5,1,+4,73,4,1,1,0,549,2629,1595,26,21,7,15,6,636,65,Match Report
+118,Brentford,2022-04-23,Tottenham,D 0-0,0,0,0,44,0,0,0,0,303,1297,625,10,6,2,8,5,319,30,Match Report
+119,Southampton,2022-04-21,Burnley,L 0-2,0,2,-2,56,0,0,0,0,377,1872,874,15,14,6,13,7,414,41,Match Report
+120,Burnley,2022-04-21,Southampton,W 2-0,2,0,+2,44,2,0,0,0,208,1249,602,12,9,2,7,10,276,28,Match Report
+121,Brighton,2022-04-20,Manchester City,L 0-3,0,3,-3,35,0,0,0,0,263,1185,665,13,6,2,15,6,274,24,Match Report
+122,Leicester City,2022-04-20,Everton,D 1-1,1,1,0,63,1,0,0,0,304,1801,1009,17,10,4,10,6,539,38,Match Report
+123,Chelsea,2022-04-20,Arsenal,L 2-4,2,4,-2,67,2,0,0,0,578,2810,1295,23,21,5,14,14,629,43,Match Report
+124,Manchester City,2022-04-20,Brighton,W 3-0,3,0,+3,65,3,0,0,0,550,2634,1451,20,12,7,15,10,602,66,Match Report
+125,Arsenal,2022-04-20,Chelsea,W 4-2,4,2,+2,33,3,1,1,0,227,1369,690,22,11,10,11,12,267,26,Match Report
+126,Crystal Palace,2022-04-20,Newcastle Utd,L 0-1,0,1,-1,63,0,0,0,0,463,2121,1112,6,15,0,11,9,520,26,Match Report
+127,Everton,2022-04-20,Leicester City,D 1-1,1,1,0,37,1,0,0,0,251,1439,648,15,8,2,15,7,287,26,Match Report
+128,Newcastle Utd,2022-04-20,Crystal Palace,W 1-0,1,0,+1,37,1,0,0,0,248,1484,582,14,12,6,18,9,278,18,Match Report
+129,Liverpool,2022-04-19,Manchester Utd,W 4-0,4,0,+4,71,4,0,0,0,629,2729,1446,22,21,7,14,16,846,59,Match Report
+130,Manchester Utd,2022-04-19,Liverpool,L 0-4,0,4,-4,29,0,0,0,0,283,1337,648,12,11,5,18,11,276,18,Match Report
+131,Leicester City,2022-04-17,Newcastle Utd,L 1-2,1,2,-1,68,1,0,0,0,391,2172,1169,19,16,3,22,13,514,43,Match Report
+132,Newcastle Utd,2022-04-17,Leicester City,W 2-1,2,1,+1,32,2,0,0,0,179,1213,555,14,9,2,15,14,191,22,Match Report
+133,West Ham,2022-04-17,Burnley,D 1-1,1,1,0,61,1,0,0,0,383,2348,1191,24,20,8,12,10,461,59,Match Report
+134,Burnley,2022-04-17,West Ham,D 1-1,1,1,0,39,1,0,1,1,227,1192,539,10,8,2,16,3,251,25,Match Report
+135,Southampton,2022-04-16,Arsenal,W 1-0,1,0,+1,25,1,0,0,0,167,904,357,10,6,2,12,5,138,14,Match Report
+136,Tottenham,2022-04-16,Brighton,L 0-1,0,1,-1,49,0,0,0,0,331,1722,1011,9,10,4,12,11,415,31,Match Report
+137,Norwich City,2022-04-16,Manchester Utd,L 2-3,2,3,-1,39,2,0,0,0,333,1993,1132,22,13,6,11,6,334,35,Match Report
+138,Watford,2022-04-16,Brentford,L 1-2,1,2,-1,50,1,0,0,0,249,1536,633,14,11,1,22,13,324,43,Match Report
+139,Manchester Utd,2022-04-16,Norwich City,W 3-2,3,2,+1,61,3,0,0,0,522,3018,1812,32,34,11,9,6,579,54,Match Report
+140,Brentford,2022-04-16,Watford,W 2-1,2,1,+1,50,2,0,0,0,253,1441,832,16,13,2,22,4,319,30,Match Report
+141,Arsenal,2022-04-16,Southampton,L 0-1,0,1,-1,75,0,0,0,0,543,3421,1886,30,26,3,14,8,613,78,Match Report
+142,Brighton,2022-04-16,Tottenham,W 1-0,1,0,+1,51,1,0,0,0,358,2183,975,16,13,1,9,12,435,31,Match Report
+143,Liverpool,2022-04-10,Manchester City,D 2-2,2,2,0,45,2,0,0,0,292,1296,705,10,11,3,14,12,393,39,Match Report
+144,West Ham,2022-04-10,Brentford,L 0-2,0,2,-2,53,0,0,0,0,386,1753,892,11,9,2,11,3,477,38,Match Report
+145,Crystal Palace,2022-04-10,Leicester City,L 1-2,1,2,-1,49,1,0,1,1,361,1986,921,20,12,9,18,13,437,27,Match Report
+146,Burnley,2022-04-10,Norwich City,L 0-2,0,2,-2,55,0,0,0,0,269,1342,571,14,13,6,12,5,316,50,Match Report
+147,Norwich City,2022-04-10,Burnley,W 2-0,2,0,+2,45,2,0,0,0,225,1555,915,24,15,8,10,11,244,29,Match Report
+148,Manchester City,2022-04-10,Liverpool,D 2-2,2,2,0,55,2,0,0,0,504,2034,1013,14,10,5,11,4,507,35,Match Report
+149,Brentford,2022-04-10,West Ham,W 2-0,2,0,+2,47,2,0,0,0,321,1415,866,12,12,3,13,3,417,39,Match Report
+150,Leicester City,2022-04-10,Crystal Palace,W 2-1,2,1,+1,51,2,0,0,0,407,1655,780,8,5,3,16,15,446,33,Match Report
+151,Brighton,2022-04-09,Arsenal,W 2-1,2,1,+1,36,2,0,0,0,206,977,529,11,12,0,18,6,216,19,Match Report
+152,Manchester Utd,2022-04-09,Everton,L 0-1,0,1,-1,67,0,0,0,0,543,2871,1660,28,18,9,24,8,560,56,Match Report
+153,Arsenal,2022-04-09,Brighton,L 1-2,1,2,-1,64,1,0,0,0,421,2173,1291,19,14,5,11,15,447,53,Match Report
+154,Southampton,2022-04-09,Chelsea,L 0-6,0,6,-6,30,0,0,0,0,254,1322,488,11,8,0,18,18,236,23,Match Report
+155,Everton,2022-04-09,Manchester Utd,W 1-0,1,0,+1,33,1,0,0,0,234,1197,459,12,5,4,26,11,230,20,Match Report
+156,Tottenham,2022-04-09,Aston Villa,W 4-0,4,0,+4,48,4,0,0,0,331,2104,1134,18,13,8,9,7,422,24,Match Report
+157,Leeds United,2022-04-09,Watford,W 3-0,3,0,+3,51,3,0,0,0,236,1119,474,10,6,2,22,12,288,24,Match Report
+158,Watford,2022-04-09,Leeds United,L 0-3,0,3,-3,49,0,0,0,0,293,1677,718,17,18,3,23,14,294,39,Match Report
+159,Chelsea,2022-04-09,Southampton,W 6-0,6,0,+6,70,6,0,0,0,516,2896,1583,29,21,7,12,11,679,63,Match Report
+160,Aston Villa,2022-04-09,Tottenham,L 0-4,0,4,-4,52,0,0,0,0,391,2131,1112,25,17,4,15,11,443,40,Match Report
+161,Wolves,2022-04-08,Newcastle Utd,L 0-1,0,1,-1,58,0,0,0,0,297,2014,1140,19,9,1,9,2,477,31,Match Report
+162,Newcastle Utd,2022-04-08,Wolves,W 1-0,1,0,+1,42,0,1,1,0,267,1688,736,20,12,5,12,18,323,28,Match Report
+163,Burnley,2022-04-06,Everton,W 3-2,3,2,+1,52,3,0,0,0,254,1060,495,16,9,8,17,5,255,17,Match Report
+164,Everton,2022-04-06,Burnley,L 2-3,2,3,-1,48,0,2,2,0,250,1478,699,20,15,10,17,6,229,31,Match Report
+165,Crystal Palace,2022-04-04,Arsenal,W 3-0,3,0,+3,32,2,1,1,0,248,1251,461,7,8,1,24,10,221,15,Match Report
+166,Arsenal,2022-04-04,Crystal Palace,L 0-3,0,3,-3,68,0,0,0,0,476,2802,1549,13,13,1,23,11,586,58,Match Report
+167,West Ham,2022-04-03,Everton,W 2-1,2,1,+1,55,2,0,0,0,393,2132,1178,18,13,5,16,5,460,41,Match Report
+168,Tottenham,2022-04-03,Newcastle Utd,W 5-1,5,1,+4,60,5,0,0,0,439,2408,1255,23,19,8,6,8,564,43,Match Report
+169,Everton,2022-04-03,West Ham,L 1-2,1,2,-1,45,1,0,0,0,334,1796,893,13,18,3,11,6,355,36,Match Report
+170,Newcastle Utd,2022-04-03,Tottenham,L 1-5,1,5,-4,40,1,0,0,0,319,1407,717,16,15,2,10,9,339,35,Match Report
+171,Burnley,2022-04-02,Manchester City,L 0-2,0,2,-2,24,0,0,0,0,150,650,312,4,2,2,15,6,171,14,Match Report
+172,Norwich City,2022-04-02,Brighton,D 0-0,0,0,0,37,0,0,0,0,219,1214,591,11,6,4,13,8,214,16,Match Report
+173,Leicester City,2022-04-02,Manchester Utd,D 1-1,1,1,0,46,1,0,0,0,444,2238,1032,16,11,5,8,9,440,35,Match Report
+174,Brentford,2022-04-02,Chelsea,W 4-1,4,1,+3,30,4,0,0,0,213,1097,548,10,9,2,14,7,209,25,Match Report
+175,Chelsea,2022-04-02,Brentford,L 1-4,1,4,-3,70,1,0,0,0,560,2479,1219,24,35,5,16,12,608,46,Match Report
+176,Manchester Utd,2022-04-02,Leicester City,D 1-1,1,1,0,54,1,0,0,0,479,2125,1076,26,14,8,11,6,523,63,Match Report
+177,Manchester City,2022-04-02,Burnley,W 2-0,2,0,+2,76,2,0,0,0,667,3040,1540,29,11,12,4,7,714,61,Match Report
+178,Brighton,2022-04-02,Norwich City,D 0-0,0,0,0,63,0,0,1,1,446,1822,927,22,20,5,18,9,421,59,Match Report
+179,Aston Villa,2022-04-02,Wolves,L 1-2,1,2,-1,51,0,1,1,0,345,1919,914,21,12,7,16,18,387,34,Match Report
+180,Wolves,2022-04-02,Aston Villa,W 2-1,2,1,+1,49,1,0,0,0,265,1552,915,19,12,5,17,9,358,24,Match Report
+181,Watford,2022-04-02,Liverpool,L 0-2,0,2,-2,27,0,0,0,0,153,959,457,9,6,1,15,14,178,12,Match Report
+182,Liverpool,2022-04-02,Watford,W 2-0,2,0,+2,73,1,1,1,0,532,2539,1403,21,18,5,13,11,643,69,Match Report
+183,Southampton,2022-04-02,Leeds United,D 1-1,1,1,0,44,1,0,0,0,179,1148,532,16,10,2,26,6,247,34,Match Report
+184,Leeds United,2022-04-02,Southampton,D 1-1,1,1,0,56,1,0,0,0,225,1410,780,20,15,6,25,5,358,59,Match Report
+185,Leicester City,2022-03-20,Brentford,W 2-1,2,1,+1,52,2,0,0,0,378,2018,1043,15,14,3,17,4,454,35,Match Report
+186,Brentford,2022-03-20,Leicester City,L 1-2,1,2,-1,48,1,0,0,0,292,1677,1002,17,12,4,17,9,399,51,Match Report
+187,Tottenham,2022-03-20,West Ham,W 3-1,3,1,+2,53,2,0,0,0,560,2911,1425,31,17,10,12,5,557,31,Match Report
+188,West Ham,2022-03-20,Tottenham,L 1-3,1,3,-2,47,1,0,0,0,450,2064,893,8,10,0,13,6,499,29,Match Report
+189,Aston Villa,2022-03-19,Arsenal,L 0-1,0,1,-1,47,0,0,0,0,378,2174,1075,20,14,3,12,8,401,35,Match Report
+190,Arsenal,2022-03-19,Aston Villa,W 1-0,1,0,+1,53,1,0,0,0,401,2097,1088,21,9,8,13,6,467,50,Match Report
+191,Wolves,2022-03-18,Leeds United,L 2-3,2,3,-1,48,2,0,0,0,286,1507,688,9,7,3,20,9,358,30,Match Report
+192,Leeds United,2022-03-18,Wolves,W 3-2,3,2,+1,52,3,0,0,0,335,1425,794,18,6,4,13,8,380,36,Match Report
+193,Everton,2022-03-17,Newcastle Utd,W 1-0,1,0,+1,39,1,0,0,0,154,1101,503,7,9,1,22,6,204,27,Match Report
+194,Newcastle Utd,2022-03-17,Everton,L 0-1,0,1,-1,61,0,0,0,0,294,1762,975,19,16,2,24,6,377,42,Match Report
+195,Arsenal,2022-03-16,Liverpool,L 0-2,0,2,-2,49,0,0,0,0,395,1703,738,11,6,3,21,14,432,36,Match Report
+196,Liverpool,2022-03-16,Arsenal,W 2-0,2,0,+2,51,2,0,0,0,377,1594,838,15,12,5,17,11,456,33,Match Report
+197,Brighton,2022-03-16,Tottenham,L 0-2,0,2,-2,48,0,0,0,0,355,1849,848,15,19,5,18,10,445,45,Match Report
+198,Tottenham,2022-03-16,Brighton,W 2-0,2,0,+2,52,2,0,0,0,429,2395,1233,25,17,8,17,7,498,28,Match Report
+199,Crystal Palace,2022-03-14,Manchester City,D 0-0,0,0,0,27,0,0,0,0,210,1146,609,9,5,4,9,10,188,12,Match Report
+200,Manchester City,2022-03-14,Crystal Palace,D 0-0,0,0,0,73,0,0,0,0,684,3777,2215,40,33,13,18,7,693,81,Match Report
+201,Leicester City,2022-03-13,Arsenal,L 0-2,0,2,-2,54,0,0,0,0,490,2435,919,12,11,1,17,11,517,34,Match Report
+202,Leeds United,2022-03-13,Norwich City,W 2-1,2,1,+1,52,2,0,0,0,314,1695,871,25,11,7,27,5,343,48,Match Report
+203,Southampton,2022-03-13,Watford,L 1-2,1,2,-1,63,1,0,0,0,329,2073,1245,30,18,4,18,11,421,54,Match Report
+204,Watford,2022-03-13,Southampton,W 2-1,2,1,+1,37,2,0,0,0,181,1183,525,17,10,7,21,7,217,26,Match Report
+205,Norwich City,2022-03-13,Leeds United,L 1-2,1,2,-1,48,1,0,0,0,258,1656,909,14,9,2,24,10,308,31,Match Report
+206,Aston Villa,2022-03-13,West Ham,L 1-2,1,2,-1,53,1,0,0,0,374,2401,1343,24,17,3,15,7,440,38,Match Report
+207,West Ham,2022-03-13,Aston Villa,W 2-1,2,1,+1,47,2,0,0,0,356,1946,1146,28,16,4,19,7,389,56,Match Report
+208,Everton,2022-03-13,Wolves,L 0-1,0,1,-1,39,0,0,0,0,285,1702,929,15,11,1,11,8,294,15,Match Report
+209,Arsenal,2022-03-13,Leicester City,W 2-0,2,0,+2,46,1,1,1,0,361,1709,1009,24,6,10,13,6,433,39,Match Report
+210,Chelsea,2022-03-13,Newcastle Utd,W 1-0,1,0,+1,71,1,0,0,0,437,2159,1189,21,19,6,25,13,505,42,Match Report
+211,Newcastle Utd,2022-03-13,Chelsea,L 0-1,0,1,-1,29,0,0,0,0,141,640,316,5,4,3,18,4,145,9,Match Report
+212,Wolves,2022-03-13,Everton,W 1-0,1,0,+1,61,1,0,0,0,478,2277,1332,26,18,8,14,14,538,39,Match Report
+213,Tottenham,2022-03-12,Manchester Utd,L 2-3,2,3,-1,57,0,1,1,0,511,2974,1590,27,15,6,10,8,543,48,Match Report
+214,Manchester Utd,2022-03-12,Tottenham,W 3-2,3,2,+1,43,3,0,0,0,341,1925,946,16,15,5,11,11,404,30,Match Report
+215,Brighton,2022-03-12,Liverpool,L 0-2,0,2,-2,52,0,0,0,0,370,1769,896,13,12,3,20,11,371,21,Match Report
+216,Brentford,2022-03-12,Burnley,W 2-0,2,0,+2,55,1,1,1,0,380,1704,875,18,7,5,14,5,360,28,Match Report
+217,Burnley,2022-03-12,Brentford,L 0-2,0,2,-2,45,0,0,0,0,252,1314,506,13,9,3,13,6,245,32,Match Report
+218,Liverpool,2022-03-12,Brighton,W 2-0,2,0,+2,48,1,1,1,0,292,1447,740,17,12,6,20,10,336,40,Match Report
+219,Chelsea,2022-03-10,Norwich City,W 3-1,3,1,+2,66,3,0,0,0,507,2711,1495,30,25,9,10,7,668,47,Match Report
+220,Wolves,2022-03-10,Watford,W 4-0,4,0,+4,66,3,0,0,0,489,2229,1141,21,13,6,20,5,621,50,Match Report
+221,Newcastle Utd,2022-03-10,Southampton,W 2-1,2,1,+1,33,2,0,0,0,196,1096,501,11,8,2,21,9,231,25,Match Report
+222,Aston Villa,2022-03-10,Leeds United,W 3-0,3,0,+3,49,3,0,0,0,340,1928,964,19,10,5,12,14,359,26,Match Report
+223,Leeds United,2022-03-10,Aston Villa,L 0-3,0,3,-3,51,0,0,0,0,236,1539,905,13,9,5,18,4,350,37,Match Report
+224,Watford,2022-03-10,Wolves,L 0-4,0,4,-4,34,0,0,0,0,296,1315,569,10,9,2,13,5,289,17,Match Report
+225,Southampton,2022-03-10,Newcastle Utd,L 1-2,1,2,-1,67,1,0,0,0,581,2847,1450,29,26,5,16,12,576,64,Match Report
+226,Norwich City,2022-03-10,Chelsea,L 1-3,1,3,-2,34,0,1,1,0,212,1471,647,13,5,2,12,11,307,22,Match Report
+227,Everton,2022-03-07,Tottenham,L 0-5,0,5,-5,45,0,0,0,0,412,2070,959,14,14,2,18,13,479,38,Match Report
+228,Tottenham,2022-03-07,Everton,W 5-0,5,0,+5,55,4,0,0,0,460,1855,1001,19,11,3,24,14,600,48,Match Report
+229,Watford,2022-03-06,Arsenal,L 2-3,2,3,-1,44,2,0,0,0,281,1377,679,18,7,7,12,12,363,37,Match Report
+230,Manchester City,2022-03-06,Manchester Utd,W 4-1,4,1,+3,69,4,0,0,0,720,3389,1805,33,22,9,9,4,712,65,Match Report
+231,Arsenal,2022-03-06,Watford,W 3-2,3,2,+1,56,3,0,0,0,404,2112,1222,13,13,5,12,11,484,51,Match Report
+232,Manchester Utd,2022-03-06,Manchester City,L 1-4,1,4,-3,31,1,0,0,0,270,1301,607,12,6,4,12,4,285,25,Match Report
+233,Brentford,2022-03-05,Norwich City,W 3-1,3,1,+2,40,1,2,2,0,188,1000,432,5,9,1,18,6,234,24,Match Report
+234,Aston Villa,2022-03-05,Southampton,W 4-0,4,0,+4,38,4,0,0,0,259,1137,441,11,8,4,17,6,272,27,Match Report
+235,Wolves,2022-03-05,Crystal Palace,L 0-2,0,2,-2,63,0,0,0,0,401,2085,1005,19,19,5,20,8,476,54,Match Report
+236,Leicester City,2022-03-05,Leeds United,W 1-0,1,0,+1,51,1,0,0,0,295,1663,927,22,13,5,19,7,399,29,Match Report
+237,Liverpool,2022-03-05,West Ham,W 1-0,1,0,+1,68,1,0,0,0,534,2820,1493,26,27,9,19,10,643,57,Match Report
+238,West Ham,2022-03-05,Liverpool,L 0-1,0,1,-1,32,0,0,0,0,281,1350,557,12,5,4,17,3,246,31,Match Report
+239,Southampton,2022-03-05,Aston Villa,L 0-4,0,4,-4,62,0,0,0,0,422,1957,973,15,16,6,21,8,490,45,Match Report
+240,Crystal Palace,2022-03-05,Wolves,W 2-0,2,0,+2,37,1,1,1,0,189,1239,752,16,12,6,9,15,242,20,Match Report
+241,Chelsea,2022-03-05,Burnley,W 4-0,4,0,+4,72,4,0,0,0,506,2611,1367,21,20,5,19,13,730,53,Match Report
+242,Leeds United,2022-03-05,Leicester City,L 0-1,0,1,-1,49,0,0,0,0,309,1857,1014,21,10,3,18,9,394,49,Match Report
+243,Brighton,2022-03-05,Newcastle Utd,L 1-2,1,2,-1,68,1,0,0,0,443,1748,871,20,14,1,17,5,553,77,Match Report
+244,Norwich City,2022-03-05,Brentford,L 1-3,1,3,-2,60,1,0,0,0,400,1648,656,13,12,1,12,10,382,22,Match Report
+245,Burnley,2022-03-05,Chelsea,L 0-4,0,4,-4,28,0,0,0,0,147,766,322,5,5,4,13,6,210,25,Match Report
+246,Newcastle Utd,2022-03-05,Brighton,W 2-1,2,1,+1,32,2,0,0,0,223,1107,561,15,13,4,21,4,205,19,Match Report
+247,Leicester City,2022-03-01,Burnley,W 2-0,2,0,+2,55,2,0,0,0,297,1490,745,18,9,7,12,13,345,27,Match Report
+248,Burnley,2022-03-01,Leicester City,L 0-2,0,2,-2,45,0,0,0,0,206,1280,588,17,13,7,20,7,253,23,Match Report
+249,Wolves,2022-02-27,West Ham,L 0-1,0,1,-1,61,0,0,0,0,374,2153,1148,19,15,2,12,8,556,44,Match Report
+250,West Ham,2022-02-27,Wolves,W 1-0,1,0,+1,39,1,0,0,0,337,1786,845,15,16,3,10,5,334,32,Match Report
+251,Watford,2022-02-26,Manchester Utd,D 0-0,0,0,0,33,0,0,0,0,214,1165,533,11,10,2,20,11,249,20,Match Report
+252,Manchester Utd,2022-02-26,Watford,D 0-0,0,0,0,67,0,0,0,0,498,2762,1652,30,30,6,19,13,611,79,Match Report
+253,Leeds United,2022-02-26,Tottenham,L 0-4,0,4,-4,50,0,0,0,0,282,1740,988,16,11,5,14,6,410,50,Match Report
+254,Burnley,2022-02-26,Crystal Palace,D 1-1,1,1,0,41,0,0,0,0,195,992,380,8,4,1,14,9,267,19,Match Report
+255,Tottenham,2022-02-26,Leeds United,W 4-0,4,0,+4,50,4,0,0,0,359,2266,1190,26,10,10,14,8,434,28,Match Report
+256,Brighton,2022-02-26,Aston Villa,L 0-2,0,2,-2,66,0,0,0,0,451,2412,1211,30,15,6,12,11,523,39,Match Report
+257,Crystal Palace,2022-02-26,Burnley,D 1-1,1,1,0,59,1,0,0,0,311,1849,883,20,16,4,15,10,433,38,Match Report
+258,Brentford,2022-02-26,Newcastle Utd,L 0-2,0,2,-2,37,0,0,0,0,179,884,457,7,5,1,20,5,221,25,Match Report
+259,Newcastle Utd,2022-02-26,Brentford,W 2-0,2,0,+2,63,2,0,0,0,435,2262,1062,27,18,6,15,5,449,58,Match Report
+260,Aston Villa,2022-02-26,Brighton,W 2-0,2,0,+2,34,2,0,0,0,256,1327,647,14,7,4,20,12,246,21,Match Report
+261,Manchester City,2022-02-26,Everton,W 1-0,1,0,+1,67,1,0,0,0,563,3454,2154,40,23,10,10,18,612,56,Match Report
+262,Everton,2022-02-26,Manchester City,L 0-1,0,1,-1,33,0,0,0,0,273,1575,663,11,10,4,16,13,262,21,Match Report
+263,Southampton,2022-02-25,Norwich City,W 2-0,2,0,+2,58,2,0,0,0,296,1678,889,26,13,15,14,9,431,35,Match Report
+264,Norwich City,2022-02-25,Southampton,L 0-2,0,2,-2,42,0,0,0,0,241,1138,562,9,7,1,19,3,294,22,Match Report
+265,Wolves,2022-02-24,Arsenal,L 1-2,1,2,-1,44,1,0,0,0,336,1722,868,13,13,4,14,6,326,15,Match Report
+266,Arsenal,2022-02-24,Wolves,W 2-1,2,1,+1,56,1,0,0,0,417,2313,1278,25,12,12,11,12,443,61,Match Report
+267,Crystal Palace,2022-02-23,Watford,W 4-1,4,1,+3,54,4,0,0,0,425,2252,1081,9,9,3,20,6,488,31,Match Report
+268,Burnley,2022-02-23,Tottenham,W 1-0,1,0,+1,34,1,0,0,0,281,1426,638,13,12,2,14,7,275,21,Match Report
+269,Watford,2022-02-23,Crystal Palace,L 1-4,1,4,-3,46,1,0,0,0,289,1828,896,17,9,1,16,9,389,25,Match Report
+270,Liverpool,2022-02-23,Leeds United,W 6-0,6,0,+6,63,4,2,2,0,606,2971,1631,27,19,11,17,9,611,60,Match Report
+271,Leeds United,2022-02-23,Liverpool,L 0-6,0,6,-6,37,0,0,0,0,328,1414,723,9,11,0,18,7,300,18,Match Report
+272,Tottenham,2022-02-23,Burnley,L 0-1,0,1,-1,66,0,0,0,0,546,3064,1622,33,17,8,20,7,584,48,Match Report
+273,Leeds United,2022-02-20,Manchester Utd,L 2-4,2,4,-2,54,2,0,0,0,364,2209,1175,30,10,8,22,8,342,39,Match Report
+274,Manchester Utd,2022-02-20,Leeds United,W 4-2,4,2,+2,46,4,0,0,0,229,1468,914,22,12,5,19,14,274,29,Match Report
+275,Leicester City,2022-02-20,Wolves,L 1-2,1,2,-1,63,1,0,0,0,452,2251,1315,31,19,9,13,16,526,43,Match Report
+276,Wolves,2022-02-20,Leicester City,W 2-1,2,1,+1,37,2,0,0,0,193,1502,776,18,10,3,13,14,279,18,Match Report
+277,Brentford,2022-02-19,Arsenal,L 1-2,1,2,-1,34,1,0,0,0,256,1069,495,7,2,2,10,9,231,17,Match Report
+278,Liverpool,2022-02-19,Norwich City,W 3-1,3,1,+2,69,3,0,0,0,498,2935,1725,43,19,16,11,7,639,88,Match Report
+279,Aston Villa,2022-02-19,Watford,L 0-1,0,1,-1,59,0,0,0,0,424,2442,1448,25,16,3,24,9,492,69,Match Report
+280,Everton,2022-02-19,Southampton,L 0-2,0,2,-2,45,0,0,0,0,272,1251,505,8,5,1,21,12,298,26,Match Report
+281,Manchester City,2022-02-19,Tottenham,L 2-3,2,3,-1,71,1,1,1,0,555,3194,1941,39,28,12,16,5,717,113,Match Report
+282,Chelsea,2022-02-19,Crystal Palace,W 1-0,1,0,+1,58,1,0,0,0,307,1752,1032,18,16,4,17,13,455,44,Match Report
+283,Newcastle Utd,2022-02-19,West Ham,D 1-1,1,1,0,53,1,0,0,0,300,2055,1170,26,14,4,15,8,362,35,Match Report
+284,Norwich City,2022-02-19,Liverpool,L 1-3,1,3,-2,31,1,0,0,0,214,1478,736,19,11,5,14,8,231,20,Match Report
+285,Watford,2022-02-19,Aston Villa,W 1-0,1,0,+1,41,1,0,0,0,328,1540,747,12,7,5,12,7,314,29,Match Report
+286,Brighton,2022-02-19,Burnley,L 0-3,0,3,-3,68,0,0,0,0,343,2204,1133,22,15,2,13,12,518,43,Match Report
+287,West Ham,2022-02-19,Newcastle Utd,D 1-1,1,1,0,47,1,0,0,0,282,1529,756,21,8,6,18,8,316,37,Match Report
+288,Arsenal,2022-02-19,Brentford,W 2-1,2,1,+1,66,2,0,0,0,433,2133,1027,25,13,7,15,9,511,59,Match Report
+289,Crystal Palace,2022-02-19,Chelsea,L 0-1,0,1,-1,42,0,0,0,0,298,1551,689,12,11,2,24,7,314,24,Match Report
+290,Burnley,2022-02-19,Brighton,W 3-0,3,0,+3,32,3,0,0,0,166,888,425,9,8,3,6,8,174,23,Match Report
+291,Southampton,2022-02-19,Everton,W 2-0,2,0,+2,55,2,0,0,0,343,1936,1023,24,20,8,27,9,417,61,Match Report
+292,Tottenham,2022-02-19,Manchester City,W 3-2,3,2,+1,29,3,0,0,0,207,1439,771,11,3,2,19,5,265,16,Match Report
+293,Brighton,2022-02-15,Manchester Utd,L 0-2,0,2,-2,50,0,0,0,0,346,1837,927,12,10,2,19,9,458,37,Match Report
+294,Manchester Utd,2022-02-15,Brighton,W 2-0,2,0,+2,50,2,0,0,0,314,1987,1132,27,14,11,13,11,435,24,Match Report
+295,Wolves,2022-02-13,Tottenham,W 2-0,2,0,+2,42,2,0,0,0,272,1472,781,15,10,3,16,8,334,22,Match Report
+296,Leicester City,2022-02-13,West Ham,D 2-2,2,2,0,55,1,1,1,0,415,2123,1065,22,10,7,11,7,472,26,Match Report
+297,Burnley,2022-02-13,Liverpool,L 0-1,0,1,-1,34,0,0,0,0,194,912,505,12,7,2,13,10,222,14,Match Report
+298,Newcastle Utd,2022-02-13,Aston Villa,W 1-0,1,0,+1,38,1,0,0,0,182,1143,538,14,9,5,18,4,187,21,Match Report
+299,Tottenham,2022-02-13,Wolves,L 0-2,0,2,-2,58,0,0,0,0,503,2793,1439,34,23,7,15,8,500,46,Match Report
+300,Liverpool,2022-02-13,Burnley,W 1-0,1,0,+1,66,1,0,0,0,483,1899,1016,14,14,3,15,8,556,56,Match Report
+301,West Ham,2022-02-13,Leicester City,D 2-2,2,2,0,45,2,0,0,0,352,1874,833,16,12,5,16,11,357,36,Match Report
+302,Aston Villa,2022-02-13,Newcastle Utd,L 0-1,0,1,-1,62,0,0,0,0,336,1833,845,17,6,3,11,5,349,46,Match Report
+303,Southampton,2022-02-12,Manchester Utd,D 1-1,1,1,0,47,1,0,0,0,356,1955,986,23,15,6,10,6,358,28,Match Report
+304,Manchester City,2022-02-12,Norwich City,W 4-0,4,0,+4,71,4,0,1,1,591,3108,1723,33,17,10,15,8,658,75,Match Report
+305,Brighton,2022-02-12,Watford,W 2-0,2,0,+2,64,2,0,0,0,432,2049,946,17,15,4,16,8,498,43,Match Report
+306,Manchester Utd,2022-02-12,Southampton,D 1-1,1,1,0,53,1,0,0,0,311,1715,959,12,8,2,14,7,405,38,Match Report
+307,Brentford,2022-02-12,Crystal Palace,D 0-0,0,0,0,42,0,0,0,0,249,1307,620,16,14,5,19,12,282,27,Match Report
+308,Everton,2022-02-12,Leeds United,W 3-0,3,0,+3,42,3,0,0,0,244,1293,624,16,13,9,26,16,285,36,Match Report
+309,Crystal Palace,2022-02-12,Brentford,D 0-0,0,0,0,58,0,0,0,0,329,1747,912,25,14,10,20,16,418,40,Match Report
+310,Watford,2022-02-12,Brighton,L 0-2,0,2,-2,36,0,0,0,0,237,1390,705,14,12,4,25,13,234,27,Match Report
+311,Leeds United,2022-02-12,Everton,L 0-3,0,3,-3,58,0,0,0,0,436,2272,1319,17,12,2,32,4,416,42,Match Report
+312,Norwich City,2022-02-12,Manchester City,L 0-4,0,4,-4,29,0,0,0,0,240,1368,646,11,13,6,16,1,229,12,Match Report
+313,Wolves,2022-02-10,Arsenal,L 0-1,0,1,-1,58,0,0,0,0,436,2320,1259,30,20,7,15,3,429,56,Match Report
+314,Leicester City,2022-02-10,Liverpool,L 0-2,0,2,-2,36,0,0,0,0,268,1283,588,16,10,2,25,12,282,29,Match Report
+315,Arsenal,2022-02-10,Wolves,W 1-0,1,0,+1,42,1,0,0,0,284,1601,771,10,7,3,21,8,294,40,Match Report
+316,Liverpool,2022-02-10,Leicester City,W 2-0,2,0,+2,64,2,0,0,0,490,2690,1386,23,23,11,20,9,586,76,Match Report
+317,Crystal Palace,2022-02-09,Norwich City,D 1-1,1,1,0,70,1,0,1,1,523,2869,1400,20,15,5,20,9,592,46,Match Report
+318,Tottenham,2022-02-09,Southampton,L 2-3,2,3,-1,48,1,0,0,0,364,1832,827,16,11,4,16,5,374,38,Match Report
+319,Southampton,2022-02-09,Tottenham,W 3-2,3,2,+1,52,3,0,0,0,377,1859,928,19,18,6,12,13,408,35,Match Report
+320,Norwich City,2022-02-09,Crystal Palace,D 1-1,1,1,0,30,1,0,0,0,198,908,438,7,1,2,19,7,181,11,Match Report
+321,Aston Villa,2022-02-09,Leeds United,D 3-3,3,3,0,40,3,0,0,0,254,1431,776,16,10,7,18,1,248,27,Match Report
+322,Leeds United,2022-02-09,Aston Villa,D 3-3,3,3,0,60,3,0,0,0,351,2060,1129,13,10,1,12,6,408,54,Match Report
+323,Manchester City,2022-02-09,Brentford,W 2-0,2,0,+2,74,1,1,1,0,647,3013,1718,31,36,4,12,3,645,55,Match Report
+324,Brentford,2022-02-09,Manchester City,L 0-2,0,2,-2,26,0,0,0,0,165,813,288,4,4,2,11,2,150,9,Match Report
+325,Burnley,2022-02-08,Manchester Utd,D 1-1,1,1,0,37,1,0,0,0,175,943,451,7,13,2,25,10,218,22,Match Report
+326,West Ham,2022-02-08,Watford,W 1-0,1,0,+1,64,1,0,0,0,477,2240,886,12,13,1,16,10,530,46,Match Report
+327,Watford,2022-02-08,West Ham,L 0-1,0,1,-1,36,0,0,0,0,199,1342,610,14,14,5,18,7,250,27,Match Report
+328,Manchester Utd,2022-02-08,Burnley,D 1-1,1,1,0,63,1,0,0,0,390,2316,1220,27,23,11,17,14,448,56,Match Report
+329,Everton,2022-02-08,Newcastle Utd,L 1-3,1,3,-2,60,0,0,0,0,310,1507,749,14,8,5,13,11,377,31,Match Report
+330,Newcastle Utd,2022-02-08,Everton,W 3-1,3,1,+2,40,2,0,0,0,192,1187,523,16,9,3,14,10,217,24,Match Report
+331,Burnley,2022-02-05,Watford,D 0-0,0,0,0,53,0,0,0,0,241,1175,619,9,8,1,17,6,296,20,Match Report
+332,Watford,2022-02-05,Burnley,D 0-0,0,0,0,47,0,0,0,0,304,1753,743,15,13,3,23,6,266,30,Match Report
+333,Burnley,2022-01-23,Arsenal,D 0-0,0,0,0,25,0,0,0,0,150,857,370,6,7,3,11,4,140,13,Match Report
+334,Chelsea,2022-01-23,Tottenham,W 2-0,2,0,+2,64,2,0,0,0,556,2336,1237,23,9,9,9,7,552,57,Match Report
+335,Liverpool,2022-01-23,Crystal Palace,W 3-1,3,1,+2,57,2,1,1,0,430,1660,846,10,9,0,15,7,493,59,Match Report
+336,Crystal Palace,2022-01-23,Liverpool,L 1-3,1,3,-2,43,1,0,0,0,252,1438,852,14,7,4,19,7,355,20,Match Report
+337,Arsenal,2022-01-23,Burnley,D 0-0,0,0,0,75,0,0,0,0,542,2668,1597,35,21,18,8,10,581,61,Match Report
+338,Brighton,2022-01-23,Leicester City,D 1-1,1,1,0,56,1,0,0,0,463,2455,1431,28,21,8,20,11,497,39,Match Report
+339,Tottenham,2022-01-23,Chelsea,L 0-2,0,2,-2,36,0,0,0,0,227,1425,819,13,13,1,16,10,285,27,Match Report
+340,Leicester City,2022-01-23,Brighton,D 1-1,1,1,0,44,1,0,0,0,264,1500,818,13,8,2,23,9,380,38,Match Report
+341,West Ham,2022-01-22,Manchester Utd,L 0-1,0,1,-1,43,0,0,0,0,288,1809,653,10,13,4,16,8,326,34,Match Report
+342,Manchester City,2022-01-22,Southampton,D 1-1,1,1,0,74,1,0,0,0,715,3625,1858,43,35,11,16,8,722,85,Match Report
+343,Newcastle Utd,2022-01-22,Leeds United,W 1-0,1,0,+1,38,1,0,0,0,214,1204,546,16,9,7,14,10,209,27,Match Report
+344,Manchester Utd,2022-01-22,West Ham,W 1-0,1,0,+1,57,1,0,0,0,402,2304,1191,18,9,9,18,6,476,53,Match Report
+345,Everton,2022-01-22,Aston Villa,L 0-1,0,1,-1,50,0,0,0,0,238,1335,500,6,11,4,13,13,263,31,Match Report
+346,Brentford,2022-01-22,Wolves,L 1-2,1,2,-1,50,1,0,0,0,288,1279,693,13,11,2,12,19,358,40,Match Report
+347,Leeds United,2022-01-22,Newcastle Utd,L 0-1,0,1,-1,62,0,0,0,0,410,2633,1693,34,23,11,15,6,406,55,Match Report
+348,Wolves,2022-01-22,Brentford,W 2-1,2,1,+1,50,2,0,0,0,301,1420,731,15,17,2,18,9,381,29,Match Report
+349,Aston Villa,2022-01-22,Everton,W 1-0,1,0,+1,50,1,0,0,0,237,1347,688,13,18,1,24,14,277,36,Match Report
+350,Southampton,2022-01-22,Manchester City,D 1-1,1,1,0,26,1,0,0,0,205,1083,445,10,7,1,15,12,205,11,Match Report
+351,Watford,2022-01-21,Norwich City,L 0-3,0,3,-3,67,0,0,0,0,432,1939,926,19,14,5,16,9,481,40,Match Report
+352,Norwich City,2022-01-21,Watford,W 3-0,3,0,+3,33,2,0,0,0,157,923,464,8,4,1,16,7,178,17,Match Report
+353,Brentford,2022-01-19,Manchester Utd,L 1-3,1,3,-2,44,1,0,0,0,296,1170,663,6,6,2,16,13,306,44,Match Report
+354,Leicester City,2022-01-19,Tottenham,L 2-3,2,3,-1,49,2,0,0,0,417,1830,965,15,11,3,14,12,502,39,Match Report
+355,Tottenham,2022-01-19,Leicester City,W 3-2,3,2,+1,51,3,0,0,0,538,2939,1691,29,24,6,15,9,540,48,Match Report
+356,Manchester Utd,2022-01-19,Brentford,W 3-1,3,1,+2,56,3,0,0,0,359,2061,1080,24,20,5,12,8,423,45,Match Report
+357,Brighton,2022-01-18,Chelsea,D 1-1,1,1,0,44,1,0,0,0,294,1709,912,17,14,4,24,7,384,41,Match Report
+358,Chelsea,2022-01-18,Brighton,D 1-1,1,1,0,56,1,0,0,0,406,2368,1260,26,16,10,14,8,525,53,Match Report
+359,West Ham,2022-01-16,Leeds United,L 2-3,2,3,-1,48,2,0,0,0,308,1754,890,27,20,6,15,14,308,35,Match Report
+360,Leeds United,2022-01-16,West Ham,W 3-2,3,2,+1,52,3,0,0,0,317,1591,815,16,14,5,16,10,352,22,Match Report
+361,Brentford,2022-01-16,Liverpool,L 0-3,0,3,-3,32,0,0,0,0,184,962,386,6,10,1,11,3,226,21,Match Report
+362,Liverpool,2022-01-16,Brentford,W 3-0,3,0,+3,68,3,0,0,0,378,1754,873,27,20,5,13,10,613,44,Match Report
+363,Aston Villa,2022-01-15,Manchester Utd,D 2-2,2,2,0,54,2,0,0,0,380,2376,1172,26,14,3,7,17,475,48,Match Report
+364,Everton,2022-01-15,Norwich City,L 1-2,1,2,-1,59,1,0,0,0,299,1741,924,11,11,4,16,11,369,45,Match Report
+365,Newcastle Utd,2022-01-15,Watford,D 1-1,1,1,0,52,1,0,0,0,294,1628,803,17,18,7,19,15,340,26,Match Report
+366,Wolves,2022-01-15,Southampton,W 3-1,3,1,+2,43,2,1,1,0,230,1265,611,12,4,3,18,4,264,23,Match Report
+367,Manchester Utd,2022-01-15,Aston Villa,D 2-2,2,2,0,46,2,0,0,0,368,2069,1113,25,19,9,16,12,394,29,Match Report
+368,Southampton,2022-01-15,Wolves,L 1-3,1,3,-2,57,1,0,0,0,323,1568,769,22,12,4,12,18,370,42,Match Report
+369,Watford,2022-01-15,Newcastle Utd,D 1-1,1,1,0,48,1,0,0,0,224,1291,618,17,16,5,15,17,322,40,Match Report
+370,Manchester City,2022-01-15,Chelsea,W 1-0,1,0,+1,56,1,0,0,0,473,2691,1432,26,17,9,16,13,520,33,Match Report
+371,Norwich City,2022-01-15,Everton,W 2-1,2,1,+1,41,1,0,0,0,178,1121,518,13,6,2,18,11,229,25,Match Report
+372,Chelsea,2022-01-15,Manchester City,L 0-1,0,1,-1,44,0,0,0,0,370,1647,764,13,8,2,19,5,408,27,Match Report
+373,Brighton,2022-01-14,Crystal Palace,D 1-1,1,1,0,63,0,0,1,1,445,1980,1038,13,12,2,13,7,498,54,Match Report
+374,Crystal Palace,2022-01-14,Brighton,D 1-1,1,1,0,37,1,0,0,0,273,1099,501,5,10,0,22,10,268,22,Match Report
+375,West Ham,2022-01-12,Norwich City,W 2-0,2,0,+2,62,2,0,0,0,379,2241,1187,26,12,8,10,7,494,49,Match Report
+376,Norwich City,2022-01-12,West Ham,L 0-2,0,2,-2,38,0,0,0,0,294,1668,655,16,8,6,9,4,261,15,Match Report
+377,Brentford,2022-01-11,Southampton,L 1-4,1,4,-3,52,1,0,0,0,334,1355,698,9,10,2,21,9,341,34,Match Report
+378,Southampton,2022-01-11,Brentford,W 4-1,4,1,+3,48,3,0,0,0,296,1499,645,18,14,6,15,10,312,28,Match Report
+379,Wolves,2022-01-03,Manchester Utd,W 1-0,1,0,+1,49,1,0,0,0,330,2198,1102,22,23,6,15,5,401,49,Match Report
+380,Manchester Utd,2022-01-03,Wolves,L 0-1,0,1,-1,51,0,0,0,0,340,2025,1112,24,12,4,13,7,422,35,Match Report
+381,Burnley,2022-01-02,Leeds United,L 1-3,1,3,-2,45,1,0,0,0,151,910,366,8,1,2,19,13,205,23,Match Report
+382,Chelsea,2022-01-02,Liverpool,D 2-2,2,2,0,54,2,0,0,0,490,2100,949,14,8,6,19,8,489,51,Match Report
+383,Brentford,2022-01-02,Aston Villa,W 2-1,2,1,+1,45,2,0,0,0,272,1309,670,8,5,1,11,6,317,34,Match Report
+384,Leeds United,2022-01-02,Burnley,W 3-1,3,1,+2,55,3,0,0,0,239,1691,980,17,12,2,15,7,283,47,Match Report
+385,Aston Villa,2022-01-02,Brentford,L 1-2,1,2,-1,55,1,0,0,0,396,2005,893,16,13,4,21,10,426,40,Match Report
+386,Liverpool,2022-01-02,Chelsea,D 2-2,2,2,0,46,2,0,0,0,346,1432,684,11,4,4,16,10,386,38,Match Report
+387,Everton,2022-01-02,Brighton,L 2-3,2,3,-1,50,2,0,1,1,342,2400,1156,28,17,4,16,11,323,30,Match Report
+388,Brighton,2022-01-02,Everton,W 3-2,3,2,+1,50,3,0,0,0,317,1234,584,9,11,1,14,8,325,38,Match Report
+389,Manchester City,2022-01-01,Arsenal,W 2-1,2,1,+1,71,1,1,1,0,559,2691,1428,22,22,10,18,8,587,51,Match Report
+390,Tottenham,2022-01-01,Watford,W 1-0,1,0,+1,74,1,0,0,0,635,3508,2113,41,37,6,16,7,664,100,Match Report
+391,Watford,2022-01-01,Tottenham,L 0-1,0,1,-1,26,0,0,0,0,168,1236,602,7,5,0,19,7,179,9,Match Report
+392,West Ham,2022-01-01,Crystal Palace,W 3-2,3,2,+1,38,2,1,1,0,285,1623,746,17,13,3,14,11,275,30,Match Report
+393,Crystal Palace,2022-01-01,West Ham,L 2-3,2,3,-1,62,2,0,0,0,419,2238,1268,28,18,2,24,16,531,54,Match Report
+394,Arsenal,2022-01-01,Manchester City,L 1-2,1,2,-1,29,1,0,0,0,169,888,441,9,8,4,11,6,185,26,Match Report
+395,Burnley,2021-12-30,Manchester Utd,L 1-3,1,3,-2,43,1,0,0,0,294,1415,705,15,8,4,19,4,293,27,Match Report
+396,Manchester Utd,2021-12-30,Burnley,W 3-1,3,1,+2,57,2,0,0,0,342,2022,1083,23,14,8,9,11,402,43,Match Report
+397,Manchester City,2021-12-29,Brentford,W 1-0,1,0,+1,76,1,0,0,0,640,2829,1615,30,42,5,7,12,660,62,Match Report
+398,Brighton,2021-12-29,Chelsea,D 1-1,1,1,0,53,1,0,0,0,393,2141,1135,25,15,1,11,16,405,38,Match Report
+399,Chelsea,2021-12-29,Brighton,D 1-1,1,1,0,47,1,0,0,0,351,1881,825,18,18,11,12,16,365,36,Match Report
+400,Brentford,2021-12-29,Manchester City,L 0-1,0,1,-1,24,0,0,0,0,156,642,278,2,1,1,8,7,144,7,Match Report
+401,Crystal Palace,2021-12-28,Norwich City,W 3-0,3,0,+3,51,2,1,1,0,332,1778,914,16,11,5,12,11,336,34,Match Report
+402,West Ham,2021-12-28,Watford,W 4-1,4,1,+3,57,3,1,1,0,300,1509,767,16,11,8,18,8,336,38,Match Report
+403,Tottenham,2021-12-28,Southampton,D 1-1,1,1,0,65,0,1,1,0,485,2679,1435,27,22,7,16,10,485,67,Match Report
+404,Southampton,2021-12-28,Tottenham,D 1-1,1,1,0,35,1,0,0,0,229,1344,625,11,14,2,13,6,212,19,Match Report
+405,Norwich City,2021-12-28,Crystal Palace,L 0-3,0,3,-3,49,0,0,0,0,303,1436,638,7,7,3,15,14,320,34,Match Report
+406,Watford,2021-12-28,West Ham,L 1-4,1,4,-3,43,1,0,0,0,204,1294,783,20,13,6,21,8,232,34,Match Report
+407,Leicester City,2021-12-28,Liverpool,W 1-0,1,0,+1,37,1,0,0,0,203,977,438,10,7,5,15,8,275,25,Match Report
+408,Liverpool,2021-12-28,Leicester City,L 0-1,0,1,-1,63,0,0,1,1,517,3070,1541,36,27,6,18,9,511,77,Match Report
+409,Newcastle Utd,2021-12-27,Manchester Utd,D 1-1,1,1,0,32,1,0,0,0,171,992,577,12,11,4,20,9,190,22,Match Report
+410,Manchester Utd,2021-12-27,Newcastle Utd,D 1-1,1,1,0,68,1,0,0,0,493,2478,1359,16,15,3,15,4,491,64,Match Report
+411,Norwich City,2021-12-26,Arsenal,L 0-5,0,5,-5,36,0,0,0,0,246,1435,684,12,14,2,13,8,244,18,Match Report
+412,Arsenal,2021-12-26,Norwich City,W 5-0,5,0,+5,64,4,1,1,0,405,1892,1011,15,10,4,16,8,514,48,Match Report
+413,West Ham,2021-12-26,Southampton,L 2-3,2,3,-1,56,2,0,0,0,254,1657,810,21,13,8,16,13,381,47,Match Report
+414,Crystal Palace,2021-12-26,Tottenham,L 0-3,0,3,-3,40,0,0,0,0,364,1372,618,8,8,1,14,11,353,15,Match Report
+415,Tottenham,2021-12-26,Crystal Palace,W 3-0,3,0,+3,60,3,0,0,0,555,3073,1392,26,32,5,17,9,567,64,Match Report
+416,Southampton,2021-12-26,West Ham,W 3-2,3,2,+1,44,2,1,1,0,210,1606,875,23,17,4,18,10,306,21,Match Report
+417,Chelsea,2021-12-26,Aston Villa,W 3-1,3,1,+2,58,1,2,2,0,408,1897,1026,16,15,6,9,11,568,69,Match Report
+418,Manchester City,2021-12-26,Leicester City,W 6-3,6,3,+3,72,4,2,2,0,624,2894,1500,21,23,7,13,8,716,45,Match Report
+419,Brighton,2021-12-26,Brentford,W 2-0,2,0,+2,50,2,0,0,0,355,1669,833,17,11,5,23,9,391,46,Match Report
+420,Aston Villa,2021-12-26,Chelsea,L 1-3,1,3,-2,42,0,0,0,0,380,2189,1047,19,17,5,13,7,398,38,Match Report
+421,Brentford,2021-12-26,Brighton,L 0-2,0,2,-2,50,0,0,0,0,319,1828,1021,17,8,4,15,10,370,35,Match Report
+422,Leicester City,2021-12-26,Manchester City,L 3-6,3,6,-3,28,3,0,0,0,272,1136,587,14,10,5,11,5,258,24,Match Report
+423,Liverpool,2021-12-19,Tottenham,D 2-2,2,2,0,56,2,0,0,0,394,1721,875,26,14,8,23,9,454,50,Match Report
+424,Tottenham,2021-12-19,Liverpool,D 2-2,2,2,0,44,2,0,0,0,291,1833,827,20,6,5,23,15,340,27,Match Report
+425,Chelsea,2021-12-19,Wolves,D 0-0,0,0,0,63,0,0,0,0,555,2751,1440,25,23,5,10,8,675,63,Match Report
+426,Manchester City,2021-12-19,Newcastle Utd,W 4-0,4,0,+4,71,4,0,0,0,531,2521,1414,22,12,9,12,6,667,49,Match Report
+427,Wolves,2021-12-19,Chelsea,D 0-0,0,0,0,37,0,0,0,0,272,1273,535,7,8,4,10,10,359,22,Match Report
+428,Newcastle Utd,2021-12-19,Manchester City,L 0-4,0,4,-4,29,0,0,0,0,223,1242,450,7,7,3,13,12,232,18,Match Report
+429,Leeds United,2021-12-18,Arsenal,L 1-4,1,4,-3,51,0,1,1,0,292,1427,695,12,7,2,18,9,340,29,Match Report
+430,Arsenal,2021-12-18,Leeds United,W 4-1,4,1,+3,49,4,0,0,0,350,1861,1057,22,9,8,17,7,323,33,Match Report
+431,Newcastle Utd,2021-12-16,Liverpool,L 1-3,1,3,-2,26,1,0,0,0,173,878,344,8,5,2,19,8,165,11,Match Report
+432,Liverpool,2021-12-16,Newcastle Utd,W 3-1,3,1,+2,74,3,0,0,0,578,2863,1616,30,20,14,6,19,657,77,Match Report
+433,Everton,2021-12-16,Chelsea,D 1-1,1,1,0,20,1,0,0,0,106,890,512,11,5,3,18,7,116,15,Match Report
+434,Chelsea,2021-12-16,Everton,D 1-1,1,1,0,80,1,0,0,0,561,2926,1755,26,24,3,24,8,737,78,Match Report
+435,West Ham,2021-12-15,Arsenal,L 0-2,0,2,-2,45,0,0,0,0,294,1261,467,14,9,1,17,17,336,20,Match Report
+436,Crystal Palace,2021-12-15,Southampton,D 2-2,2,2,0,59,2,0,0,0,314,1513,695,12,8,4,15,13,366,40,Match Report
+437,Southampton,2021-12-15,Crystal Palace,D 2-2,2,2,0,41,2,0,0,0,170,1346,691,25,14,8,18,16,209,25,Match Report
+438,Arsenal,2021-12-15,West Ham,W 2-0,2,0,+2,55,2,0,1,1,385,1823,1062,26,17,9,14,12,437,44,Match Report
+439,Brighton,2021-12-15,Wolves,L 0-1,0,1,-1,59,0,0,0,0,443,2286,1014,26,9,3,20,10,469,46,Match Report
+440,Wolves,2021-12-15,Brighton,W 1-0,1,0,+1,41,1,0,0,0,310,1569,820,18,12,4,16,10,295,21,Match Report
+441,Aston Villa,2021-12-14,Norwich City,W 2-0,2,0,+2,50,2,0,0,0,334,1937,1058,26,17,4,12,10,389,46,Match Report
+442,Manchester City,2021-12-14,Leeds United,W 7-0,7,0,+7,63,7,0,0,0,549,3575,2242,35,33,12,9,1,569,59,Match Report
+443,Norwich City,2021-12-14,Aston Villa,L 0-2,0,2,-2,50,0,0,0,0,346,1926,961,17,6,1,8,12,400,33,Match Report
+444,Leeds United,2021-12-14,Manchester City,L 0-7,0,7,-7,37,0,0,0,0,255,1543,777,13,10,3,9,9,295,18,Match Report
+445,Everton,2021-12-12,Crystal Palace,L 1-3,1,3,-2,39,1,0,0,0,186,1254,667,15,10,1,15,8,236,27,Match Report
+446,Burnley,2021-12-12,West Ham,D 0-0,0,0,0,40,0,0,0,0,194,1005,483,9,6,1,10,7,213,26,Match Report
+447,West Ham,2021-12-12,Burnley,D 0-0,0,0,0,60,0,0,0,0,341,1933,947,29,17,15,6,9,374,42,Match Report
+448,Newcastle Utd,2021-12-12,Leicester City,L 0-4,0,4,-4,53,0,0,0,0,297,1989,866,21,17,9,16,12,370,35,Match Report
+449,Leicester City,2021-12-12,Newcastle Utd,W 4-0,4,0,+4,47,3,1,1,0,294,1169,605,8,4,1,17,22,333,26,Match Report
+450,Crystal Palace,2021-12-12,Everton,W 3-1,3,1,+2,61,3,0,0,0,324,1670,936,15,4,5,22,16,440,39,Match Report
+451,Southampton,2021-12-11,Arsenal,L 0-3,0,3,-3,39,0,0,0,0,222,940,417,5,12,2,24,5,246,31,Match Report
+452,Norwich City,2021-12-11,Manchester Utd,L 0-1,0,1,-1,48,0,0,0,0,365,1680,828,16,9,1,16,15,375,34,Match Report
+453,Manchester Utd,2021-12-11,Norwich City,W 1-0,1,0,+1,52,0,1,1,0,333,2214,1309,23,15,6,17,3,434,47,Match Report
+454,Arsenal,2021-12-11,Southampton,W 3-0,3,0,+3,61,3,0,0,0,385,1499,664,14,11,9,22,7,423,44,Match Report
+455,Chelsea,2021-12-11,Leeds United,W 3-2,3,2,+1,57,1,2,2,0,250,1840,1039,18,18,5,17,15,384,45,Match Report
+456,Aston Villa,2021-12-11,Liverpool,L 0-1,0,1,-1,38,0,0,0,0,236,1138,462,6,4,1,14,11,254,29,Match Report
+457,Liverpool,2021-12-11,Aston Villa,W 1-0,1,0,+1,62,0,1,1,0,427,2197,1156,28,16,12,19,12,483,85,Match Report
+458,Manchester City,2021-12-11,Wolves,W 1-0,1,0,+1,71,0,1,1,0,513,2714,1417,31,24,5,12,5,707,90,Match Report
+459,Leeds United,2021-12-11,Chelsea,L 2-3,2,3,-1,43,1,1,1,0,225,1414,813,14,10,5,13,10,252,25,Match Report
+460,Wolves,2021-12-11,Manchester City,L 0-1,0,1,-1,29,0,0,0,0,248,1190,630,3,2,1,14,3,249,14,Match Report
+461,Brentford,2021-12-10,Watford,W 2-1,2,1,+1,63,1,1,1,0,369,1816,1002,21,19,3,16,10,377,55,Match Report
+462,Watford,2021-12-10,Brentford,L 1-2,1,2,-1,37,1,0,0,0,195,824,356,6,5,0,23,11,183,19,Match Report
+463,Everton,2021-12-06,Arsenal,W 2-1,2,1,+1,37,2,0,0,0,249,1319,665,12,8,1,17,11,254,28,Match Report
+464,Arsenal,2021-12-06,Everton,L 1-2,1,2,-1,63,1,0,0,0,402,2313,1108,21,10,4,12,12,513,47,Match Report
+465,Crystal Palace,2021-12-05,Manchester Utd,L 0-1,0,1,-1,39,0,0,0,0,211,944,374,7,8,2,14,20,262,13,Match Report
+466,Tottenham,2021-12-05,Norwich City,W 3-0,3,0,+3,41,3,0,0,0,412,2359,1162,20,24,4,13,11,412,26,Match Report
+467,Norwich City,2021-12-05,Tottenham,L 0-3,0,3,-3,59,0,0,0,0,570,2413,928,11,10,2,18,5,615,38,Match Report
+468,Manchester Utd,2021-12-05,Crystal Palace,W 1-0,1,0,+1,61,1,0,0,0,359,1834,1000,19,15,5,14,14,472,45,Match Report
+469,Brentford,2021-12-05,Leeds United,D 2-2,2,2,0,37,2,0,0,0,192,1214,663,16,11,4,16,11,219,24,Match Report
+470,Leicester City,2021-12-05,Aston Villa,L 1-2,1,2,-1,59,1,0,0,0,478,2108,1079,23,12,4,16,15,458,50,Match Report
+471,Aston Villa,2021-12-05,Leicester City,W 2-1,2,1,+1,41,2,0,0,0,286,1542,754,16,9,6,19,15,295,32,Match Report
+472,Leeds United,2021-12-05,Brentford,D 2-2,2,2,0,63,2,0,0,0,439,2207,1179,22,20,2,12,11,438,50,Match Report
+473,Manchester City,2021-12-04,Watford,W 3-1,3,1,+2,77,3,0,0,0,719,3297,1862,33,23,18,21,3,779,73,Match Report
+474,Brighton,2021-12-04,Southampton,D 1-1,1,1,0,56,1,0,0,0,300,1281,572,10,10,0,14,10,320,30,Match Report
+475,Chelsea,2021-12-04,West Ham,L 2-3,2,3,-1,63,2,0,0,0,485,2628,1477,47,28,17,13,7,533,58,Match Report
+476,Wolves,2021-12-04,Liverpool,L 0-1,0,1,-1,34,0,0,0,0,231,1137,556,14,6,3,21,10,249,9,Match Report
+477,Liverpool,2021-12-04,Wolves,W 1-0,1,0,+1,66,1,0,0,0,417,2411,1304,20,18,3,12,17,577,86,Match Report
+478,Newcastle Utd,2021-12-04,Burnley,W 1-0,1,0,+1,48,1,0,0,0,220,1449,635,14,10,5,17,13,229,31,Match Report
+479,Burnley,2021-12-04,Newcastle Utd,L 0-1,0,1,-1,52,0,0,0,0,254,1274,475,8,7,0,20,7,274,30,Match Report
+480,West Ham,2021-12-04,Chelsea,W 3-2,3,2,+1,37,2,1,1,0,271,1445,496,9,5,2,13,5,275,18,Match Report
+481,Southampton,2021-12-04,Brighton,D 1-1,1,1,0,44,1,0,0,0,259,1451,668,21,11,8,18,13,225,29,Match Report
+482,Watford,2021-12-04,Manchester City,L 1-3,1,3,-2,23,1,0,0,0,177,927,453,8,4,1,15,6,171,21,Match Report
+483,Manchester Utd,2021-12-02,Arsenal,W 3-2,3,2,+1,44,2,1,1,0,289,1703,947,21,18,5,11,5,366,42,Match Report
+484,Arsenal,2021-12-02,Manchester Utd,L 2-3,2,3,-1,56,2,0,0,0,368,2288,1110,16,21,2,9,13,473,28,Match Report
+485,Brentford,2021-12-02,Tottenham,L 0-2,0,2,-2,53,0,0,0,0,396,1552,687,12,8,1,12,6,433,27,Match Report
+486,Tottenham,2021-12-02,Brentford,W 2-0,2,0,+2,47,1,0,0,0,379,1849,911,20,12,5,14,3,375,29,Match Report
+487,Chelsea,2021-12-01,Watford,W 2-1,2,1,+1,49,2,0,0,0,225,1217,578,14,6,3,22,8,319,26,Match Report
+488,Leicester City,2021-12-01,Southampton,D 2-2,2,2,0,55,2,0,0,0,318,1332,640,16,10,9,21,7,355,32,Match Report
+489,Brighton,2021-12-01,West Ham,D 1-1,1,1,0,65,1,0,0,0,469,2553,1357,22,25,3,23,5,485,46,Match Report
+490,Everton,2021-12-01,Liverpool,L 1-4,1,4,-3,33,1,0,0,0,206,1021,437,7,8,4,24,7,186,24,Match Report
+491,Manchester City,2021-12-01,Aston Villa,W 2-1,2,1,+1,64,2,0,0,0,520,2568,1358,32,21,16,8,14,560,56,Match Report
+492,Burnley,2021-12-01,Wolves,D 0-0,0,0,0,35,0,0,0,0,212,1418,665,20,13,1,16,8,209,26,Match Report
+493,Wolves,2021-12-01,Burnley,D 0-0,0,0,0,65,0,0,0,0,415,2078,1147,32,22,7,21,8,495,59,Match Report
+494,Southampton,2021-12-01,Leicester City,D 2-2,2,2,0,45,2,0,0,0,200,1399,616,14,18,3,16,7,260,34,Match Report
+495,Watford,2021-12-01,Chelsea,L 1-2,1,2,-1,51,1,0,0,0,264,1190,603,21,10,5,20,6,302,41,Match Report
+496,West Ham,2021-12-01,Brighton,D 1-1,1,1,0,35,1,0,0,0,216,1268,697,13,15,5,9,13,217,30,Match Report
+497,Liverpool,2021-12-01,Everton,W 4-1,4,1,+3,67,4,0,0,0,439,1593,736,15,7,6,17,2,508,62,Match Report
+498,Aston Villa,2021-12-01,Manchester City,L 1-2,1,2,-1,36,1,0,0,0,245,1318,662,13,9,2,12,6,292,21,Match Report
+499,Newcastle Utd,2021-11-30,Norwich City,D 1-1,1,1,0,32,0,1,1,0,195,1028,511,7,8,2,15,10,202,16,Match Report
+500,Leeds United,2021-11-30,Crystal Palace,W 1-0,1,0,+1,61,0,1,1,0,390,2089,1184,15,6,5,20,7,397,50,Match Report
+501,Crystal Palace,2021-11-30,Leeds United,L 0-1,0,1,-1,39,0,0,0,0,241,1211,650,18,8,3,30,15,218,19,Match Report
+502,Norwich City,2021-11-30,Newcastle Utd,D 1-1,1,1,0,68,1,0,0,0,456,2687,1669,30,19,4,12,5,516,63,Match Report
+503,Chelsea,2021-11-28,Manchester Utd,D 1-1,1,1,0,65,0,1,1,0,538,2540,1333,35,25,10,21,10,533,55,Match Report
+504,Leicester City,2021-11-28,Watford,W 4-2,4,2,+2,56,4,0,0,0,291,1447,680,12,12,5,15,11,307,24,Match Report
+505,Manchester City,2021-11-28,West Ham,W 2-1,2,1,+1,68,2,0,0,0,648,3140,1672,20,12,5,14,7,671,68,Match Report
+506,Watford,2021-11-28,Leicester City,L 2-4,2,4,-2,44,1,1,1,0,224,1166,510,12,18,5,15,16,208,29,Match Report
+507,Everton,2021-11-28,Brentford,L 0-1,0,1,-1,60,0,0,0,0,459,2604,1214,30,23,4,22,8,470,61,Match Report
+508,Manchester Utd,2021-11-28,Chelsea,D 1-1,1,1,0,35,1,0,0,0,197,1137,548,8,6,4,20,6,250,13,Match Report
+509,Brentford,2021-11-28,Everton,W 1-0,1,0,+1,40,0,1,1,0,230,1008,508,9,6,0,16,8,259,19,Match Report
+510,West Ham,2021-11-28,Manchester City,L 1-2,1,2,-1,32,1,0,0,0,276,1465,562,14,9,3,18,9,268,28,Match Report
+511,Newcastle Utd,2021-11-27,Arsenal,L 0-2,0,2,-2,34,0,0,0,0,294,1749,845,14,16,3,17,7,276,16,Match Report
+512,Wolves,2021-11-27,Norwich City,D 0-0,0,0,0,57,0,0,0,0,381,2023,1050,11,10,4,12,12,536,37,Match Report
+513,Liverpool,2021-11-27,Southampton,W 4-0,4,0,+4,64,4,0,0,0,348,1553,875,26,17,10,20,8,527,51,Match Report
+514,Aston Villa,2021-11-27,Crystal Palace,W 2-1,2,1,+1,36,2,0,0,0,279,1570,657,16,5,5,18,19,282,23,Match Report
+515,Brighton,2021-11-27,Leeds United,D 0-0,0,0,0,57,0,0,0,0,390,2352,1347,26,15,5,22,13,402,62,Match Report
+516,Southampton,2021-11-27,Liverpool,L 0-4,0,4,-4,36,0,0,0,0,237,1168,524,15,6,4,16,2,241,20,Match Report
+517,Crystal Palace,2021-11-27,Aston Villa,L 1-2,1,2,-1,64,1,0,0,0,460,1974,1093,23,13,5,12,12,530,54,Match Report
+518,Norwich City,2021-11-27,Wolves,D 0-0,0,0,0,43,0,0,0,0,359,2102,1155,23,12,5,8,8,383,48,Match Report
+519,Arsenal,2021-11-27,Newcastle Utd,W 2-0,2,0,+2,66,2,0,0,0,538,3175,1780,34,25,6,10,8,580,68,Match Report
+520,Leeds United,2021-11-27,Brighton,D 0-0,0,0,0,43,0,0,0,0,245,1477,805,17,8,4,25,6,278,31,Match Report
+521,Leeds United,2021-11-21,Tottenham,L 1-2,1,2,-1,57,1,0,0,0,435,2489,1219,31,15,11,18,7,461,35,Match Report
+522,Tottenham,2021-11-21,Leeds United,W 2-1,2,1,+1,43,2,0,0,0,290,2013,945,19,22,2,26,4,332,42,Match Report
+523,Manchester City,2021-11-21,Everton,W 3-0,3,0,+3,77,3,0,0,0,602,3072,1595,27,20,5,22,11,823,82,Match Report
+524,Everton,2021-11-21,Manchester City,L 0-3,0,3,-3,23,0,0,0,0,180,915,375,7,7,2,15,7,182,13,Match Report
+525,Liverpool,2021-11-20,Arsenal,W 4-0,4,0,+4,62,4,0,0,0,441,1878,984,21,15,11,14,3,585,43,Match Report
+526,Watford,2021-11-20,Manchester Utd,W 4-1,4,1,+3,39,4,0,1,1,176,1035,569,24,9,9,9,6,245,30,Match Report
+527,Southampton,2021-11-20,Norwich City,L 1-2,1,2,-1,62,1,0,0,0,410,2350,1269,26,17,7,19,8,490,59,Match Report
+528,Manchester Utd,2021-11-20,Watford,L 1-4,1,4,-3,61,1,0,0,0,362,1955,1059,19,7,6,12,13,461,37,Match Report
+529,Norwich City,2021-11-20,Southampton,W 2-1,2,1,+1,38,2,0,0,0,232,1347,558,14,11,3,17,6,242,25,Match Report
+530,Burnley,2021-11-20,Crystal Palace,D 3-3,3,3,0,40,3,0,0,0,199,738,342,10,6,1,17,2,239,27,Match Report
+531,Wolves,2021-11-20,West Ham,W 1-0,1,0,+1,52,1,0,0,0,420,2265,1150,28,13,7,8,5,476,46,Match Report
+532,Arsenal,2021-11-20,Liverpool,L 0-4,0,4,-4,38,0,0,0,0,294,1184,497,12,4,1,16,8,328,24,Match Report
+533,Brighton,2021-11-20,Aston Villa,L 0-2,0,2,-2,62,0,0,0,0,308,1755,836,19,12,2,12,6,564,41,Match Report
+534,West Ham,2021-11-20,Wolves,L 0-1,0,1,-1,48,0,0,0,0,396,2049,994,16,15,2,10,5,438,40,Match Report
+535,Crystal Palace,2021-11-20,Burnley,D 3-3,3,3,0,60,3,0,0,0,394,1893,1017,22,11,5,13,7,421,45,Match Report
+536,Chelsea,2021-11-20,Leicester City,W 3-0,3,0,+3,61,3,0,0,0,402,1953,1010,22,16,5,22,13,541,41,Match Report
+537,Brentford,2021-11-20,Newcastle Utd,D 3-3,3,3,0,47,2,0,0,0,261,1013,548,6,13,0,12,7,248,26,Match Report
+538,Newcastle Utd,2021-11-20,Brentford,D 3-3,3,3,0,53,3,0,0,0,283,1404,670,18,16,7,23,9,295,27,Match Report
+539,Leicester City,2021-11-20,Chelsea,L 0-3,0,3,-3,39,0,0,0,0,316,1440,648,9,4,1,16,7,308,14,Match Report
+540,Aston Villa,2021-11-20,Brighton,W 2-0,2,0,+2,38,2,0,0,0,304,1575,689,13,11,2,14,10,311,28,Match Report
+541,Watford,2021-11-07,Arsenal,L 0-1,0,1,-1,40,0,0,0,0,237,1462,574,11,10,3,18,13,249,27,Match Report
+542,Arsenal,2021-11-07,Watford,W 1-0,1,0,+1,60,1,0,1,1,398,2308,1470,30,15,4,22,6,431,54,Match Report
+543,Everton,2021-11-07,Tottenham,D 0-0,0,0,0,45,0,0,0,0,342,1730,759,14,6,3,11,8,369,35,Match Report
+544,Leicester City,2021-11-07,Leeds United,D 1-1,1,1,0,44,1,0,0,0,248,1187,604,7,5,3,19,5,265,27,Match Report
+545,Liverpool,2021-11-07,West Ham,L 2-3,2,3,-1,69,2,0,0,0,541,2683,1440,30,26,9,20,3,613,73,Match Report
+546,West Ham,2021-11-07,Liverpool,W 3-2,3,2,+1,31,2,0,0,0,193,1217,607,12,5,4,18,3,228,25,Match Report
+547,Leeds United,2021-11-07,Leicester City,D 1-1,1,1,0,56,1,0,0,0,375,1783,804,19,8,6,20,14,368,52,Match Report
+548,Tottenham,2021-11-07,Everton,D 0-0,0,0,0,55,0,0,0,0,330,1911,1060,22,11,6,16,15,485,42,Match Report
+549,Manchester City,2021-11-06,Manchester Utd,W 2-0,2,0,+2,67,1,0,0,0,651,2808,1351,23,21,12,13,10,773,68,Match Report
+550,Brentford,2021-11-06,Norwich City,L 1-2,1,2,-1,64,1,0,0,0,402,1907,1019,18,9,6,20,11,470,48,Match Report
+551,Wolves,2021-11-06,Crystal Palace,L 0-2,0,2,-2,40,0,0,0,0,234,1261,587,7,9,4,21,15,289,21,Match Report
+552,Crystal Palace,2021-11-06,Wolves,W 2-0,2,0,+2,60,2,0,0,0,423,1984,1067,15,12,4,17,26,489,42,Match Report
+553,Chelsea,2021-11-06,Burnley,D 1-1,1,1,0,70,1,0,0,0,350,2284,1345,28,18,9,21,13,600,71,Match Report
+554,Brighton,2021-11-06,Newcastle Utd,D 1-1,1,1,0,65,0,1,1,0,546,2052,1074,13,14,8,8,16,619,47,Match Report
+555,Norwich City,2021-11-06,Brentford,W 2-1,2,1,+1,36,1,1,1,0,219,1127,578,16,7,7,22,8,230,25,Match Report
+556,Burnley,2021-11-06,Chelsea,D 1-1,1,1,0,30,1,0,0,0,179,880,265,4,6,1,7,6,210,21,Match Report
+557,Newcastle Utd,2021-11-06,Brighton,D 1-1,1,1,0,35,1,0,0,0,262,1228,584,8,4,2,15,10,285,17,Match Report
+558,Manchester Utd,2021-11-06,Manchester City,L 0-2,0,2,-2,33,0,0,0,0,231,1369,587,6,11,0,10,6,341,18,Match Report
+559,Aston Villa,2021-11-05,Southampton,L 0-1,0,1,-1,44,0,0,0,0,267,1348,670,17,7,7,20,9,260,34,Match Report
+560,Southampton,2021-11-05,Aston Villa,W 1-0,1,0,+1,56,1,0,0,0,258,1610,841,20,14,4,21,15,367,39,Match Report
+561,Everton,2021-11-01,Wolves,L 1-2,1,2,-1,39,1,0,0,0,248,1472,790,15,10,4,18,10,299,35,Match Report
+562,Wolves,2021-11-01,Everton,W 2-1,2,1,+1,61,2,0,0,0,516,2334,1304,21,14,6,26,13,546,41,Match Report
+563,Leeds United,2021-10-31,Norwich City,W 2-1,2,1,+1,52,2,0,0,0,222,1505,699,12,7,7,21,8,282,27,Match Report
+564,Norwich City,2021-10-31,Leeds United,L 1-2,1,2,-1,48,1,0,0,0,205,1551,855,14,10,2,13,12,234,21,Match Report
+565,Aston Villa,2021-10-31,West Ham,L 1-4,1,4,-3,43,1,0,0,0,223,1225,639,12,5,3,18,8,262,22,Match Report
+566,West Ham,2021-10-31,Aston Villa,W 4-1,4,1,+3,57,4,0,0,0,258,1552,888,20,13,7,17,7,400,40,Match Report
+567,Leicester City,2021-10-30,Arsenal,L 0-2,0,2,-2,64,0,0,0,0,411,1940,960,11,19,5,22,1,573,62,Match Report
+568,Tottenham,2021-10-30,Manchester Utd,L 0-3,0,3,-3,58,0,0,0,0,424,2227,1138,20,21,3,12,5,503,42,Match Report
+569,Southampton,2021-10-30,Watford,W 1-0,1,0,+1,60,1,0,0,0,279,1736,1132,21,11,7,2,8,383,50,Match Report
+570,Watford,2021-10-30,Southampton,L 0-1,0,1,-1,40,0,0,0,0,213,1146,500,10,9,1,17,9,218,33,Match Report
+571,Manchester Utd,2021-10-30,Tottenham,W 3-0,3,0,+3,42,3,0,0,0,354,1721,787,17,6,5,14,15,359,26,Match Report
+572,Manchester City,2021-10-30,Crystal Palace,L 0-2,0,2,-2,68,0,0,0,0,416,2712,1522,34,24,11,12,12,600,68,Match Report
+573,Brighton,2021-10-30,Liverpool,D 2-2,2,2,0,42,2,0,0,0,289,1442,801,15,11,6,14,8,380,28,Match Report
+574,Brentford,2021-10-30,Burnley,L 1-3,1,3,-2,59,1,0,0,0,326,1636,1008,11,10,0,16,3,418,33,Match Report
+575,Arsenal,2021-10-30,Leicester City,W 2-0,2,0,+2,36,2,0,0,0,259,1493,817,16,12,4,8,5,280,21,Match Report
+576,Chelsea,2021-10-30,Newcastle Utd,W 3-0,3,0,+3,79,2,1,1,0,573,3012,1680,30,28,3,11,1,708,66,Match Report
+577,Burnley,2021-10-30,Brentford,W 3-1,3,1,+2,41,3,0,0,0,260,1276,593,14,6,2,19,4,269,31,Match Report
+578,Newcastle Utd,2021-10-30,Chelsea,L 0-3,0,3,-3,21,0,0,0,0,152,717,240,4,4,1,18,8,138,7,Match Report
+579,Liverpool,2021-10-30,Brighton,D 2-2,2,2,0,58,2,0,0,0,387,2156,1141,23,17,13,12,16,581,53,Match Report
+580,Crystal Palace,2021-10-30,Manchester City,W 2-0,2,0,+2,32,2,0,0,0,243,1058,508,11,5,2,11,9,249,17,Match Report
+581,Liverpool,2021-10-24,Manchester Utd,W 5-0,5,0,+5,62,5,0,0,0,533,1853,877,22,8,8,12,3,666,54,Match Report
+582,West Ham,2021-10-24,Tottenham,W 1-0,1,0,+1,38,1,0,0,0,298,1607,798,19,12,5,22,8,327,38,Match Report
+583,Tottenham,2021-10-24,West Ham,L 0-1,0,1,-1,62,0,0,0,0,459,2476,1249,18,21,3,13,11,565,43,Match Report
+584,Manchester Utd,2021-10-24,Liverpool,L 0-5,0,5,-5,38,0,0,0,0,224,1333,610,16,9,4,8,8,351,30,Match Report
+585,Brentford,2021-10-24,Leicester City,L 1-2,1,2,-1,54,1,0,0,0,379,1918,1056,19,8,4,17,9,361,42,Match Report
+586,Leicester City,2021-10-24,Brentford,W 2-1,2,1,+1,46,2,0,0,0,183,1022,448,8,9,1,15,13,306,24,Match Report
+587,Chelsea,2021-10-23,Norwich City,W 7-0,7,0,+7,62,5,1,1,0,518,2571,1527,28,27,7,15,9,581,55,Match Report
+588,Everton,2021-10-23,Watford,L 2-5,2,5,-3,49,2,0,0,0,300,1550,678,15,8,5,20,4,317,38,Match Report
+589,Burnley,2021-10-23,Southampton,D 2-2,2,2,0,39,2,0,0,0,154,614,261,5,5,1,18,8,197,19,Match Report
+590,Newcastle Utd,2021-10-23,Crystal Palace,D 1-1,1,1,0,26,1,0,0,0,133,608,223,9,3,1,33,4,149,18,Match Report
+591,Wolves,2021-10-23,Leeds United,D 1-1,1,1,0,38,1,0,0,0,215,1089,487,9,6,2,13,15,221,12,Match Report
+592,Leeds United,2021-10-23,Wolves,D 1-1,1,1,0,62,0,1,1,0,383,2414,1451,28,16,7,17,11,424,50,Match Report
+593,Southampton,2021-10-23,Burnley,D 2-2,2,2,0,61,2,0,0,0,394,2264,1220,29,22,6,19,4,378,48,Match Report
+594,Crystal Palace,2021-10-23,Newcastle Utd,D 1-1,1,1,0,74,1,0,0,0,507,2669,1481,28,22,8,23,8,603,52,Match Report
+595,Norwich City,2021-10-23,Chelsea,L 0-7,0,7,-7,38,0,0,0,0,241,1253,465,8,3,1,18,14,324,15,Match Report
+596,Manchester City,2021-10-23,Brighton,W 4-1,4,1,+3,52,4,0,0,0,381,2258,1219,27,20,10,12,6,514,35,Match Report
+597,Watford,2021-10-23,Everton,W 5-2,5,2,+3,51,5,0,0,0,277,1168,510,9,9,2,15,13,322,36,Match Report
+598,Brighton,2021-10-23,Manchester City,L 1-4,1,4,-3,48,0,1,1,0,341,1742,938,20,11,6,15,5,451,31,Match Report
+599,Aston Villa,2021-10-22,Arsenal,L 1-3,1,3,-2,47,1,0,0,0,341,1876,1043,23,9,4,16,7,326,27,Match Report
+600,Arsenal,2021-10-22,Aston Villa,W 3-1,3,1,+2,53,3,0,1,1,371,2206,1372,32,20,8,13,6,391,42,Match Report
+601,Crystal Palace,2021-10-18,Arsenal,D 2-2,2,2,0,46,2,0,0,0,427,1942,1025,19,9,4,18,4,423,34,Match Report
+602,Arsenal,2021-10-18,Crystal Palace,D 2-2,2,2,0,54,2,0,0,0,353,2182,1122,19,17,3,18,10,503,35,Match Report
+603,Newcastle Utd,2021-10-17,Tottenham,L 2-3,2,3,-1,36,1,0,0,0,292,1609,724,14,13,3,16,16,284,26,Match Report
+604,Everton,2021-10-17,West Ham,L 0-1,0,1,-1,39,0,0,0,0,239,1494,774,21,11,2,19,4,267,39,Match Report
+605,Tottenham,2021-10-17,Newcastle Utd,W 3-2,3,2,+1,64,3,0,0,0,431,2473,1341,31,19,8,16,12,555,35,Match Report
+606,West Ham,2021-10-17,Everton,W 1-0,1,0,+1,61,1,0,0,0,415,2291,1097,17,13,4,14,6,475,52,Match Report
+607,Leicester City,2021-10-16,Manchester Utd,W 4-2,4,2,+2,49,4,0,0,0,416,1683,839,16,8,8,18,3,438,36,Match Report
+608,Brighton,2021-10-16,Norwich City,D 0-0,0,0,0,64,0,0,0,0,452,2017,1035,13,14,3,14,5,508,50,Match Report
+609,Liverpool,2021-10-16,Watford,W 5-0,5,0,+5,75,5,0,0,0,500,2290,1412,28,21,11,16,9,736,60,Match Report
+610,Leeds United,2021-10-16,Southampton,L 0-1,0,1,-1,54,0,0,0,0,296,1788,872,10,7,4,20,14,373,28,Match Report
+611,Southampton,2021-10-16,Leeds United,W 1-0,1,0,+1,46,1,0,0,0,278,1843,794,19,20,8,19,12,301,32,Match Report
+612,Watford,2021-10-16,Liverpool,L 0-5,0,5,-5,25,0,0,0,0,188,988,421,9,10,2,18,7,175,14,Match Report
+613,Wolves,2021-10-16,Aston Villa,W 3-2,3,2,+1,52,3,0,0,0,267,1750,897,13,13,5,17,7,349,32,Match Report
+614,Aston Villa,2021-10-16,Wolves,L 2-3,2,3,-1,48,2,0,0,0,267,1284,721,14,12,4,8,2,326,38,Match Report
+615,Manchester City,2021-10-16,Burnley,W 2-0,2,0,+2,70,2,0,0,0,517,3183,1745,32,20,14,16,8,702,75,Match Report
+616,Manchester Utd,2021-10-16,Leicester City,L 2-4,2,4,-2,51,2,0,0,0,389,1913,1123,21,18,6,17,4,462,40,Match Report
+617,Chelsea,2021-10-16,Brentford,W 1-0,1,0,+1,55,1,0,0,0,400,2019,1099,24,22,5,10,8,469,44,Match Report
+618,Brentford,2021-10-16,Chelsea,L 0-1,0,1,-1,45,0,0,0,0,276,1131,580,12,7,1,18,13,339,36,Match Report
+619,Norwich City,2021-10-16,Brighton,D 0-0,0,0,0,36,0,0,0,0,183,1115,588,14,4,5,15,14,230,17,Match Report
+620,Burnley,2021-10-16,Manchester City,L 0-2,0,2,-2,30,0,0,0,0,246,798,256,3,1,1,12,4,246,23,Match Report
+621,Aston Villa,2021-10-03,Tottenham,L 1-2,1,2,-1,44,1,0,0,0,239,1240,648,11,10,4,21,4,245,35,Match Report
+622,Leicester City,2021-10-03,Crystal Palace,D 2-2,2,2,0,40,2,0,0,0,204,1046,462,13,6,4,21,13,274,25,Match Report
+623,Brentford,2021-10-03,West Ham,W 2-1,2,1,+1,41,2,0,0,0,197,872,391,8,6,5,14,8,203,31,Match Report
+624,Manchester City,2021-10-03,Liverpool,D 2-2,2,2,0,51,2,0,0,0,451,2276,1263,29,14,7,16,12,473,37,Match Report
+625,Tottenham,2021-10-03,Aston Villa,W 2-1,2,1,+1,56,1,0,0,0,281,1549,827,18,11,7,16,12,366,26,Match Report
+626,Crystal Palace,2021-10-03,Leicester City,D 2-2,2,2,0,60,2,0,0,0,461,2249,1135,24,11,7,21,25,485,49,Match Report
+627,West Ham,2021-10-03,Brentford,L 1-2,1,2,-1,59,1,0,0,0,333,1802,801,22,12,5,12,2,335,47,Match Report
+628,Liverpool,2021-10-03,Manchester City,D 2-2,2,2,0,49,2,0,0,0,382,2181,1248,15,17,2,20,7,453,33,Match Report
+629,Brighton,2021-10-02,Arsenal,D 0-0,0,0,0,58,0,0,0,0,280,1521,819,15,18,2,18,6,441,48,Match Report
+630,Everton,2021-10-02,Manchester Utd,D 1-1,1,1,0,28,1,0,0,0,172,1141,562,17,10,4,10,2,196,34,Match Report
+631,Burnley,2021-10-02,Norwich City,D 0-0,0,0,0,56,0,0,0,0,318,1596,800,15,11,3,15,8,375,46,Match Report
+632,Leeds United,2021-10-02,Watford,W 1-0,1,0,+1,66,1,0,0,0,386,1850,1004,19,17,5,18,9,428,55,Match Report
+633,Chelsea,2021-10-02,Southampton,W 3-1,3,1,+2,62,3,0,0,0,297,1864,1134,27,16,9,18,19,501,52,Match Report
+634,Watford,2021-10-02,Leeds United,L 0-1,0,1,-1,34,0,0,0,0,174,1098,587,10,8,2,19,5,180,24,Match Report
+635,Newcastle Utd,2021-10-02,Wolves,L 1-2,1,2,-1,48,1,0,0,0,351,1295,554,16,14,6,13,10,353,21,Match Report
+636,Norwich City,2021-10-02,Burnley,D 0-0,0,0,0,44,0,0,0,0,280,1492,845,16,7,4,16,3,280,23,Match Report
+637,Wolves,2021-10-02,Newcastle Utd,W 2-1,2,1,+1,52,2,0,0,0,412,1995,916,15,24,7,19,8,411,24,Match Report
+638,Southampton,2021-10-02,Chelsea,L 1-3,1,3,-2,38,0,1,1,0,260,1530,682,17,15,5,24,9,273,34,Match Report
+639,Arsenal,2021-10-02,Brighton,D 0-0,0,0,0,42,0,0,0,0,271,1281,659,19,11,3,24,8,292,33,Match Report
+640,Manchester Utd,2021-10-02,Everton,D 1-1,1,1,0,72,1,0,0,0,479,2985,1658,28,23,2,10,7,645,70,Match Report
+641,Brighton,2021-09-27,Crystal Palace,D 1-1,1,1,0,53,1,0,0,0,464,2028,1024,16,11,5,10,7,487,36,Match Report
+642,Crystal Palace,2021-09-27,Brighton,D 1-1,1,1,0,47,0,1,1,0,378,1859,854,17,12,4,13,23,439,33,Match Report
+643,Tottenham,2021-09-26,Arsenal,L 1-3,1,3,-2,54,1,0,0,0,326,1827,929,18,21,3,15,16,441,27,Match Report
+644,Wolves,2021-09-26,Southampton,W 1-0,1,0,+1,43,1,0,0,0,227,1258,708,15,7,4,18,7,307,25,Match Report
+645,Arsenal,2021-09-26,Tottenham,W 3-1,3,1,+2,46,3,0,0,0,345,1584,768,13,19,4,14,9,375,36,Match Report
+646,Southampton,2021-09-26,Wolves,L 0-1,0,1,-1,57,0,0,0,0,329,2044,1050,23,21,6,18,5,435,42,Match Report
+647,Aston Villa,2021-09-25,Manchester Utd,W 1-0,1,0,+1,41,1,0,0,0,180,949,403,7,7,2,16,4,213,24,Match Report
+648,Everton,2021-09-25,Norwich City,W 2-0,2,0,+2,47,1,1,1,0,265,1644,907,27,19,5,11,5,365,35,Match Report
+649,Newcastle Utd,2021-09-25,Watford,D 1-1,1,1,0,47,1,0,0,0,202,1147,567,14,9,5,15,6,269,32,Match Report
+650,West Ham,2021-09-25,Leeds United,W 2-1,2,1,+1,47,1,0,0,0,272,1924,1035,27,11,9,8,5,295,34,Match Report
+651,Leeds United,2021-09-25,West Ham,L 1-2,1,2,-1,53,1,0,0,0,303,1938,1098,20,13,5,13,5,353,39,Match Report
+652,Brentford,2021-09-25,Liverpool,D 3-3,3,3,0,33,3,0,0,0,184,949,400,10,5,4,9,8,198,25,Match Report
+653,Manchester Utd,2021-09-25,Aston Villa,L 0-1,0,1,-1,59,0,0,1,1,310,1651,979,30,15,13,12,5,341,45,Match Report
+654,Leicester City,2021-09-25,Burnley,D 2-2,2,2,0,66,2,0,0,0,400,2484,1257,27,26,10,12,10,513,63,Match Report
+655,Burnley,2021-09-25,Leicester City,D 2-2,2,2,0,34,1,0,0,0,162,685,272,5,4,0,16,8,213,22,Match Report
+656,Watford,2021-09-25,Newcastle Utd,D 1-1,1,1,0,53,1,0,0,0,285,1921,1078,23,11,7,19,11,306,44,Match Report
+657,Liverpool,2021-09-25,Brentford,D 3-3,3,3,0,67,3,0,0,0,415,1816,952,23,17,5,14,4,490,45,Match Report
+658,Manchester City,2021-09-25,Chelsea,W 1-0,1,0,+1,59,1,0,0,0,386,2257,1188,35,20,13,14,7,543,50,Match Report
+659,Norwich City,2021-09-25,Everton,L 0-2,0,2,-2,53,0,0,0,0,382,1910,1013,15,16,4,15,6,437,44,Match Report
+660,Chelsea,2021-09-25,Manchester City,L 0-1,0,1,-1,41,0,0,0,0,298,1635,818,14,9,3,16,8,359,20,Match Report
+661,West Ham,2021-09-19,Manchester Utd,L 1-2,1,2,-1,40,1,0,1,1,331,1983,917,14,12,0,8,11,365,39,Match Report
+662,Chelsea,2021-09-19,Tottenham,W 3-0,3,0,+3,53,3,0,0,0,409,1650,819,17,18,5,16,10,472,48,Match Report
+663,Manchester Utd,2021-09-19,West Ham,W 2-1,2,1,+1,60,2,0,0,0,495,2627,1539,29,23,6,19,9,585,47,Match Report
+664,Brighton,2021-09-19,Leicester City,W 2-1,2,1,+1,37,1,1,1,0,214,987,446,10,6,2,12,6,265,25,Match Report
+665,Tottenham,2021-09-19,Chelsea,L 0-3,0,3,-3,47,0,0,0,0,408,1740,687,10,13,3,20,8,409,23,Match Report
+666,Leicester City,2021-09-19,Brighton,L 1-2,1,2,-1,63,1,0,0,0,376,2048,1132,20,14,6,14,15,496,52,Match Report
+667,Burnley,2021-09-18,Arsenal,L 0-1,0,1,-1,46,0,0,0,0,284,1302,704,11,9,1,11,15,325,37,Match Report
+668,Watford,2021-09-18,Norwich City,W 3-1,3,1,+2,51,3,0,0,0,280,1564,929,26,12,6,18,9,336,31,Match Report
+669,Norwich City,2021-09-18,Watford,L 1-3,1,3,-2,49,1,0,0,0,295,1669,881,14,11,2,23,6,331,44,Match Report
+670,Manchester City,2021-09-18,Southampton,D 0-0,0,0,0,64,0,0,0,0,428,2503,1441,30,17,8,18,9,512,42,Match Report
+671,Liverpool,2021-09-18,Crystal Palace,W 3-0,3,0,+3,59,3,0,0,0,386,1796,965,16,11,4,14,15,441,54,Match Report
+672,Crystal Palace,2021-09-18,Liverpool,L 0-3,0,3,-3,41,0,0,0,0,294,1260,584,9,10,3,20,11,273,24,Match Report
+673,Everton,2021-09-18,Aston Villa,L 0-3,0,3,-3,45,0,0,0,0,197,1240,630,15,13,6,17,5,242,28,Match Report
+674,Brentford,2021-09-18,Wolves,W 2-0,2,0,+2,38,1,1,1,0,207,1254,719,11,8,4,14,3,255,18,Match Report
+675,Arsenal,2021-09-18,Burnley,W 1-0,1,0,+1,54,1,0,0,0,352,1941,1162,26,20,6,19,6,442,38,Match Report
+676,Wolves,2021-09-18,Brentford,L 0-2,0,2,-2,62,0,0,0,0,411,2443,1343,39,23,11,16,8,462,52,Match Report
+677,Aston Villa,2021-09-18,Everton,W 3-0,3,0,+3,55,2,0,0,0,340,1669,865,16,12,5,13,9,331,48,Match Report
+678,Southampton,2021-09-18,Manchester City,D 0-0,0,0,0,36,0,0,0,0,219,1379,742,26,16,9,14,8,249,29,Match Report
+679,Newcastle Utd,2021-09-17,Leeds United,D 1-1,1,1,0,35,1,0,0,0,247,1422,704,15,12,10,14,11,222,28,Match Report
+680,Leeds United,2021-09-17,Newcastle Utd,D 1-1,1,1,0,65,1,0,0,0,423,2485,1487,21,15,7,14,8,493,60,Match Report
+681,Everton,2021-09-13,Burnley,W 3-1,3,1,+2,52,3,0,0,0,342,1387,700,11,11,2,24,5,336,46,Match Report
+682,Burnley,2021-09-13,Everton,L 1-3,1,3,-2,48,1,0,0,0,251,1407,547,5,9,1,12,8,297,26,Match Report
+683,Liverpool,2021-09-12,Leeds United,W 3-0,3,0,+3,56,3,0,0,0,480,2647,1455,29,15,12,19,7,475,47,Match Report
+684,Leeds United,2021-09-12,Liverpool,L 0-3,0,3,-3,44,0,0,0,0,392,1850,1127,21,7,6,25,4,352,29,Match Report
+685,Norwich City,2021-09-11,Arsenal,L 0-1,0,1,-1,49,0,0,0,0,338,1684,722,9,9,4,14,0,344,26,Match Report
+686,Newcastle Utd,2021-09-11,Manchester Utd,L 1-4,1,4,-3,37,1,0,0,0,269,1565,747,14,14,6,9,11,317,19,Match Report
+687,Arsenal,2021-09-11,Norwich City,W 1-0,1,0,+1,51,1,0,0,0,357,1912,1103,23,9,13,17,9,395,51,Match Report
+688,Wolves,2021-09-11,Watford,W 2-0,2,0,+2,55,1,0,0,0,431,2352,1355,31,18,6,16,9,449,41,Match Report
+689,West Ham,2021-09-11,Southampton,D 0-0,0,0,0,58,0,0,0,0,435,2249,1119,17,17,4,20,3,483,44,Match Report
+690,Crystal Palace,2021-09-11,Tottenham,W 3-0,3,0,+3,62,2,1,1,0,345,1984,1076,24,13,5,23,8,436,44,Match Report
+691,Tottenham,2021-09-11,Crystal Palace,L 0-3,0,3,-3,38,0,0,0,0,250,1053,452,4,8,0,16,7,249,23,Match Report
+692,Southampton,2021-09-11,West Ham,D 0-0,0,0,0,42,0,0,0,0,353,2236,1346,26,14,5,20,10,327,40,Match Report
+693,Chelsea,2021-09-11,Aston Villa,W 3-0,3,0,+3,57,3,0,0,0,311,1848,1086,18,18,5,16,6,413,29,Match Report
+694,Watford,2021-09-11,Wolves,L 0-2,0,2,-2,45,0,0,0,0,322,1769,988,19,6,5,14,9,332,29,Match Report
+695,Manchester City,2021-09-11,Leicester City,W 1-0,1,0,+1,61,1,0,0,0,464,2854,1689,23,14,8,16,9,532,76,Match Report
+696,Manchester Utd,2021-09-11,Newcastle Utd,W 4-1,4,1,+3,63,4,0,0,0,446,2741,1851,35,29,10,15,8,597,66,Match Report
+697,Brighton,2021-09-11,Brentford,W 1-0,1,0,+1,59,1,0,0,0,408,1469,556,8,11,3,13,12,420,40,Match Report
+698,Aston Villa,2021-09-11,Chelsea,L 0-3,0,3,-3,43,0,0,0,0,261,1361,719,16,6,6,17,3,290,35,Match Report
+699,Brentford,2021-09-11,Brighton,L 0-1,0,1,-1,41,0,0,0,0,239,1296,563,14,8,3,20,15,267,21,Match Report
+700,Leicester City,2021-09-11,Manchester City,L 0-1,0,1,-1,39,0,0,0,0,279,1374,741,14,8,3,20,8,322,20,Match Report
+701,Wolves,2021-08-29,Manchester Utd,L 0-1,0,1,-1,44,0,0,0,0,243,1593,947,23,12,2,11,4,362,27,Match Report
+702,Tottenham,2021-08-29,Watford,W 1-0,1,0,+1,57,1,0,0,0,302,1691,889,21,12,5,10,11,462,44,Match Report
+703,Watford,2021-08-29,Tottenham,L 0-1,0,1,-1,43,0,0,0,0,241,1389,758,19,10,5,18,10,334,21,Match Report
+704,Burnley,2021-08-29,Leeds United,D 1-1,1,1,0,36,1,0,0,0,214,1050,456,13,9,4,16,12,210,19,Match Report
+705,Manchester Utd,2021-08-29,Wolves,W 1-0,1,0,+1,56,1,0,0,0,384,2123,1162,24,17,4,11,13,495,47,Match Report
+706,Leeds United,2021-08-29,Burnley,D 1-1,1,1,0,64,1,0,0,0,347,2005,1178,31,13,3,21,13,454,50,Match Report
+707,Manchester City,2021-08-28,Arsenal,W 5-0,5,0,+5,80,5,0,0,0,559,2749,1574,32,27,13,8,2,710,69,Match Report
+708,Leicester City,2021-08-28,Norwich City,W 2-1,2,1,+1,55,2,0,0,0,308,1805,984,28,12,4,7,9,388,32,Match Report
+709,Newcastle Utd,2021-08-28,Southampton,D 2-2,2,2,0,37,2,0,0,0,200,1275,665,16,11,7,18,12,221,17,Match Report
+710,West Ham,2021-08-28,Crystal Palace,D 2-2,2,2,0,47,2,0,0,0,286,1557,629,11,7,5,16,8,330,51,Match Report
+711,Crystal Palace,2021-08-28,West Ham,D 2-2,2,2,0,53,2,0,0,0,309,1657,918,17,11,5,21,10,408,34,Match Report
+712,Chelsea,2021-08-28,Liverpool,D 1-1,1,1,0,35,1,0,0,0,224,1091,525,9,7,3,21,13,292,18,Match Report
+713,Brentford,2021-08-28,Aston Villa,D 1-1,1,1,0,54,1,0,0,0,317,1489,853,9,4,2,13,6,355,28,Match Report
+714,Norwich City,2021-08-28,Leicester City,L 1-2,1,2,-1,45,0,1,1,0,306,1555,877,13,13,0,20,9,311,26,Match Report
+715,Southampton,2021-08-28,Newcastle Utd,D 2-2,2,2,0,63,1,1,1,0,394,2695,1640,42,33,8,13,19,464,51,Match Report
+716,Aston Villa,2021-08-28,Brentford,D 1-1,1,1,0,46,1,0,0,0,275,1366,605,18,6,1,17,12,291,30,Match Report
+717,Liverpool,2021-08-28,Chelsea,D 1-1,1,1,0,65,0,1,1,0,442,2365,1287,25,33,4,17,18,627,69,Match Report
+718,Everton,2021-08-28,Brighton,W 2-0,2,0,+2,35,1,1,1,0,280,1517,795,16,16,9,20,14,261,25,Match Report
+719,Brighton,2021-08-28,Everton,L 0-2,0,2,-2,65,0,0,0,0,455,1926,1056,23,18,3,18,11,549,50,Match Report
+720,Arsenal,2021-08-28,Manchester City,L 0-5,0,5,-5,20,0,0,0,0,142,666,274,2,4,3,9,8,141,11,Match Report
+721,Leicester City,2021-08-23,West Ham,L 1-4,1,4,-3,48,1,0,0,0,417,1934,924,13,12,3,8,8,437,29,Match Report
+722,West Ham,2021-08-23,Leicester City,W 4-1,4,1,+3,52,4,0,0,0,413,1997,900,16,19,3,10,11,464,50,Match Report
+723,Chelsea,2021-08-22,Arsenal,W 2-0,2,0,+2,65,2,0,0,0,493,1992,1121,22,14,8,11,11,603,49,Match Report
+724,Southampton,2021-08-22,Manchester Utd,D 1-1,1,1,0,37,0,0,0,0,167,1157,500,15,13,4,18,9,215,19,Match Report
+725,Manchester Utd,2021-08-22,Southampton,D 1-1,1,1,0,63,1,0,0,0,353,1890,986,15,19,3,12,19,437,47,Match Report
+726,Wolves,2021-08-22,Tottenham,L 0-1,0,1,-1,58,0,0,0,0,349,2026,1135,38,22,10,16,14,429,61,Match Report
+727,Tottenham,2021-08-22,Wolves,W 1-0,1,0,+1,42,0,1,1,0,231,1280,654,13,4,4,19,16,300,15,Match Report
+728,Arsenal,2021-08-22,Chelsea,L 0-2,0,2,-2,35,0,0,0,0,235,1370,734,13,10,4,16,7,284,23,Match Report
+729,Manchester City,2021-08-21,Norwich City,W 5-0,5,0,+5,67,4,0,0,0,563,3169,1862,30,15,16,13,12,706,75,Match Report
+730,Brighton,2021-08-21,Watford,W 2-0,2,0,+2,56,2,0,0,0,366,1740,984,19,11,7,18,12,521,43,Match Report
+731,Brentford,2021-08-21,Crystal Palace,D 0-0,0,0,0,47,0,0,0,0,247,988,513,11,4,1,21,11,292,25,Match Report
+732,Everton,2021-08-21,Leeds United,D 2-2,2,2,0,31,1,1,1,0,164,1150,433,6,6,1,18,10,189,22,Match Report
+733,Burnley,2021-08-21,Liverpool,L 0-2,0,2,-2,35,0,0,0,0,130,881,372,11,11,3,16,9,201,18,Match Report
+734,Newcastle Utd,2021-08-21,Aston Villa,L 0-2,0,2,-2,53,0,0,0,0,261,1451,780,17,8,4,8,5,284,17,Match Report
+735,Liverpool,2021-08-21,Burnley,W 2-0,2,0,+2,65,2,0,0,0,415,2031,1171,26,12,9,12,10,468,50,Match Report
+736,Aston Villa,2021-08-21,Newcastle Utd,W 2-0,2,0,+2,47,1,1,1,0,237,877,383,7,11,2,18,10,253,37,Match Report
+737,Crystal Palace,2021-08-21,Brentford,D 0-0,0,0,0,53,0,0,0,0,235,1400,616,15,8,1,26,16,358,35,Match Report
+738,Watford,2021-08-21,Brighton,L 0-2,0,2,-2,44,0,0,0,0,316,1532,782,16,10,5,13,12,386,49,Match Report
+739,Leeds United,2021-08-21,Everton,D 2-2,2,2,0,69,2,0,0,0,454,2312,1353,26,19,3,22,6,543,53,Match Report
+740,Norwich City,2021-08-21,Manchester City,L 0-5,0,5,-5,33,0,0,0,0,266,1369,603,6,8,1,6,7,325,13,Match Report
+741,Manchester City,2021-08-15,Tottenham,L 0-1,0,1,-1,65,0,0,0,0,439,2716,1609,34,21,15,13,8,488,58,Match Report
+742,Newcastle Utd,2021-08-15,West Ham,L 2-4,2,4,-2,46,2,0,0,0,345,1942,1097,23,15,5,15,14,357,29,Match Report
+743,West Ham,2021-08-15,Newcastle Utd,W 4-2,4,2,+2,54,4,0,1,1,365,2122,1207,29,17,7,16,4,429,42,Match Report
+744,Tottenham,2021-08-15,Manchester City,W 1-0,1,0,+1,35,1,0,0,0,257,1523,639,11,12,2,15,11,242,30,Match Report
+745,Leeds United,2021-08-14,Manchester Utd,L 1-5,1,5,-4,51,1,0,0,0,342,1527,707,6,6,0,20,3,371,32,Match Report
+746,Liverpool,2021-08-14,Norwich City,W 3-0,3,0,+3,50,3,0,0,0,392,1912,1061,25,16,9,15,6,455,45,Match Report
+747,Aston Villa,2021-08-14,Watford,L 2-3,2,3,-1,62,1,1,1,0,462,2309,1218,24,18,6,24,13,463,42,Match Report
+748,Everton,2021-08-14,Southampton,W 3-1,3,1,+2,48,3,0,0,0,238,1368,693,14,7,2,18,14,268,34,Match Report
+749,Chelsea,2021-08-14,Crystal Palace,W 3-0,3,0,+3,62,3,0,0,0,432,1927,1005,12,10,3,10,5,645,61,Match Report
+750,Manchester Utd,2021-08-14,Leeds United,W 5-1,5,1,+4,49,5,0,0,0,299,2093,1206,20,14,7,20,11,359,39,Match Report
+751,Norwich City,2021-08-14,Liverpool,L 0-3,0,3,-3,50,0,0,0,0,431,2000,936,16,10,5,15,8,464,29,Match Report
+752,Watford,2021-08-14,Aston Villa,W 3-2,3,2,+1,38,3,0,0,0,265,1374,769,22,7,11,16,8,251,26,Match Report
+753,Leicester City,2021-08-14,Wolves,W 1-0,1,0,+1,56,1,0,0,0,485,2041,1052,19,14,4,18,7,531,36,Match Report
+754,Brighton,2021-08-14,Burnley,W 2-1,2,1,+1,63,2,0,0,0,368,2003,1120,19,13,2,10,12,454,37,Match Report
+755,Wolves,2021-08-14,Leicester City,L 0-1,0,1,-1,44,0,0,0,0,348,2084,1117,24,10,7,16,4,395,42,Match Report
+756,Crystal Palace,2021-08-14,Chelsea,L 0-3,0,3,-3,38,0,0,0,0,351,1880,836,8,9,2,17,14,385,19,Match Report
+757,Burnley,2021-08-14,Brighton,L 1-2,1,2,-1,37,1,0,0,0,196,1243,535,16,12,0,10,10,209,33,Match Report
+758,Southampton,2021-08-14,Everton,L 1-3,1,3,-2,52,1,0,0,0,281,1429,740,13,11,7,15,10,282,21,Match Report
+759,Brentford,2021-08-13,Arsenal,W 2-0,2,0,+2,36,2,0,0,0,165,1010,450,9,10,4,16,5,216,22,Match Report
+760,Arsenal,2021-08-13,Brentford,L 0-2,0,2,-2,64,0,0,0,0,455,2435,1319,21,22,8,24,9,520,62,Match Report

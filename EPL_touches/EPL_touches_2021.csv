@@ -1,0 +1,761 @@
+Rk,Team,Date,Opp,Comp,Result,GF,GA,GD,Poss,G-PK,PK,PKatt,PKm,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Match Report
+1,Manchester Utd,2021-05-23,Wolves,eng Premier League,W 2-1,2,1,+1,43,1,1,1,0,603,74,209,255,130,15,602,Match Report
+2,Brighton,2021-05-23,Arsenal,eng Premier League,L 0-2,0,2,-2,46,0,0,0,0,610,100,255,211,115,9,610,Match Report
+3,Southampton,2021-05-23,West Ham,eng Premier League,L 0-3,0,3,-3,62,0,0,0,0,685,54,204,255,126,23,685,Match Report
+4,Fulham,2021-05-23,Newcastle Utd,eng Premier League,L 0-2,0,2,-2,64,0,0,0,0,750,43,189,255,241,23,750,Match Report
+5,Aston Villa,2021-05-23,Chelsea,eng Premier League,W 2-1,2,1,+1,29,1,1,1,0,394,89,195,140,68,17,393,Match Report
+6,Everton,2021-05-23,Manchester City,eng Premier League,L 0-5,0,5,-5,33,0,0,1,1,458,63,150,231,87,11,457,Match Report
+7,West Brom,2021-05-23,Leeds United,eng Premier League,L 1-3,1,3,-2,36,1,0,0,0,420,69,144,166,116,19,420,Match Report
+8,Wolves,2021-05-23,Manchester Utd,eng Premier League,L 1-2,1,2,-1,57,1,0,0,0,723,40,188,255,214,26,723,Match Report
+9,Manchester City,2021-05-23,Everton,eng Premier League,W 5-0,5,0,+5,67,5,0,0,0,859,67,247,255,156,37,859,Match Report
+10,Liverpool,2021-05-23,Crystal Palace,eng Premier League,W 2-0,2,0,+2,69,2,0,0,0,744,41,146,255,236,47,744,Match Report
+11,Chelsea,2021-05-23,Aston Villa,eng Premier League,L 1-2,1,2,-1,71,1,0,0,0,769,45,148,255,255,48,769,Match Report
+12,Newcastle Utd,2021-05-23,Fulham,eng Premier League,W 2-0,2,0,+2,36,1,1,1,0,491,94,255,144,86,12,490,Match Report
+13,Leicester City,2021-05-23,Tottenham,eng Premier League,L 2-4,2,4,-2,47,0,2,2,0,614,60,230,254,131,13,612,Match Report
+14,Arsenal,2021-05-23,Brighton,eng Premier League,W 2-0,2,0,+2,54,2,0,0,0,698,65,246,245,212,38,698,Match Report
+15,Tottenham,2021-05-23,Leicester City,eng Premier League,W 4-2,4,2,+2,53,3,0,0,0,660,70,231,255,158,21,660,Match Report
+16,Burnley,2021-05-23,Sheffield Utd,eng Premier League,L 0-1,0,1,-1,57,0,0,0,0,624,57,172,255,172,28,624,Match Report
+17,Leeds United,2021-05-23,West Brom,eng Premier League,W 3-1,3,1,+2,64,2,1,1,0,656,61,208,255,169,28,655,Match Report
+18,Crystal Palace,2021-05-23,Liverpool,eng Premier League,L 0-2,0,2,-2,31,0,0,0,0,395,84,191,160,47,5,395,Match Report
+19,West Ham,2021-05-23,Southampton,eng Premier League,W 3-0,3,0,+3,38,3,0,0,0,453,59,120,209,128,19,453,Match Report
+20,Sheffield Utd,2021-05-23,Burnley,eng Premier League,W 1-0,1,0,+1,43,1,0,0,0,527,86,214,175,143,21,527,Match Report
+21,Arsenal,2021-05-19,Crystal Palace,eng Premier League,W 3-1,3,1,+2,68,3,0,0,0,756,69,223,255,224,17,756,Match Report
+22,Tottenham,2021-05-19,Aston Villa,eng Premier League,L 1-2,1,2,-1,60,1,0,0,0,728,83,253,255,162,28,728,Match Report
+23,Crystal Palace,2021-05-19,Arsenal,eng Premier League,L 1-3,1,3,-2,32,1,0,0,0,434,55,139,196,105,25,434,Match Report
+24,Aston Villa,2021-05-19,Tottenham,eng Premier League,W 2-1,2,1,+1,40,1,0,0,0,518,67,158,205,166,34,518,Match Report
+25,Sheffield Utd,2021-05-19,Newcastle Utd,eng Premier League,L 0-1,0,1,-1,49,0,0,0,0,599,51,117,255,205,13,599,Match Report
+26,West Brom,2021-05-19,West Ham,eng Premier League,L 1-3,1,3,-2,52,1,0,0,0,518,63,154,199,175,22,517,Match Report
+27,Wolves,2021-05-19,Everton,eng Premier League,L 0-1,0,1,-1,59,0,0,0,0,699,48,182,255,172,17,699,Match Report
+28,Liverpool,2021-05-19,Burnley,eng Premier League,W 3-0,3,0,+3,59,3,0,0,0,737,94,230,255,214,31,737,Match Report
+29,Newcastle Utd,2021-05-19,Sheffield Utd,eng Premier League,W 1-0,1,0,+1,51,1,0,0,0,639,74,255,255,124,17,639,Match Report
+30,Burnley,2021-05-19,Liverpool,eng Premier League,L 0-3,0,3,-3,41,0,0,0,0,534,47,154,221,163,25,534,Match Report
+31,West Ham,2021-05-19,West Brom,eng Premier League,W 3-1,3,1,+2,48,3,0,1,1,506,69,189,175,148,27,505,Match Report
+32,Everton,2021-05-19,Wolves,eng Premier League,W 1-0,1,0,+1,41,1,0,0,0,544,69,217,202,135,15,544,Match Report
+33,Southampton,2021-05-18,Leeds United,eng Premier League,L 0-2,0,2,-2,51,0,0,0,0,572,54,161,255,167,20,572,Match Report
+34,Leicester City,2021-05-18,Chelsea,eng Premier League,L 1-2,1,2,-1,42,1,0,0,0,536,66,199,232,113,11,536,Match Report
+35,Fulham,2021-05-18,Manchester Utd,eng Premier League,D 1-1,1,1,0,43,1,0,0,0,561,102,255,181,81,12,561,Match Report
+36,Leeds United,2021-05-18,Southampton,eng Premier League,W 2-0,2,0,+2,49,2,0,0,0,554,75,243,223,91,17,554,Match Report
+37,Brighton,2021-05-18,Manchester City,eng Premier League,W 3-2,3,2,+1,63,3,0,0,0,744,51,175,255,190,37,744,Match Report
+38,Manchester Utd,2021-05-18,Fulham,eng Premier League,D 1-1,1,1,0,57,1,0,0,0,682,39,168,255,197,16,682,Match Report
+39,Manchester City,2021-05-18,Brighton,eng Premier League,L 2-3,2,3,-1,37,2,0,0,0,490,82,218,210,71,13,490,Match Report
+40,Chelsea,2021-05-18,Leicester City,eng Premier League,W 2-1,2,1,+1,58,1,1,1,0,715,53,237,255,160,29,714,Match Report
+41,Aston Villa,2021-05-16,Crystal Palace,eng Premier League,L 2-3,2,3,-1,55,2,0,0,0,584,77,198,205,185,27,584,Match Report
+42,Sheffield Utd,2021-05-16,Everton,eng Premier League,W 1-0,1,0,+1,38,1,0,0,0,539,73,183,225,136,15,539,Match Report
+43,Wolves,2021-05-16,Tottenham,eng Premier League,L 0-2,0,2,-2,38,0,0,0,0,509,66,185,240,87,21,509,Match Report
+44,Crystal Palace,2021-05-16,Aston Villa,eng Premier League,W 3-2,3,2,+1,45,3,0,0,0,494,52,139,207,154,33,494,Match Report
+45,Tottenham,2021-05-16,Wolves,eng Premier League,W 2-0,2,0,+2,62,2,0,0,0,720,59,187,255,189,29,720,Match Report
+46,Everton,2021-05-16,Sheffield Utd,eng Premier League,L 0-1,0,1,-1,62,0,0,0,0,792,64,251,255,175,21,792,Match Report
+47,West Brom,2021-05-16,Liverpool,eng Premier League,L 1-2,1,2,-1,24,1,0,0,0,369,82,165,120,86,16,369,Match Report
+48,Liverpool,2021-05-16,West Brom,eng Premier League,W 2-1,2,1,+1,76,2,0,0,0,862,61,197,255,255,46,862,Match Report
+49,Brighton,2021-05-15,West Ham,eng Premier League,D 1-1,1,1,0,51,1,0,0,0,708,100,255,255,139,12,708,Match Report
+50,Southampton,2021-05-15,Fulham,eng Premier League,W 3-1,3,1,+2,47,3,0,0,0,630,61,181,255,116,21,630,Match Report
+51,Burnley,2021-05-15,Leeds United,eng Premier League,L 0-4,0,4,-4,48,0,0,0,0,558,53,133,252,177,30,558,Match Report
+52,West Ham,2021-05-15,Brighton,eng Premier League,D 1-1,1,1,0,49,1,0,0,0,680,48,148,255,180,28,680,Match Report
+53,Leeds United,2021-05-15,Burnley,eng Premier League,W 4-0,4,0,+4,52,4,0,0,0,584,92,255,196,122,18,584,Match Report
+54,Fulham,2021-05-15,Southampton,eng Premier League,L 1-3,1,3,-2,53,1,0,0,0,692,69,255,255,107,17,692,Match Report
+55,Manchester City,2021-05-14,Newcastle Utd,eng Premier League,W 4-3,4,3,+1,82,4,0,0,0,1063,39,88,255,255,34,1063,Match Report
+56,Newcastle Utd,2021-05-14,Manchester City,eng Premier League,L 3-4,3,4,-1,18,2,1,2,1,318,58,160,107,55,18,316,Match Report
+57,Everton,2021-05-13,Aston Villa,eng Premier League,D 0-0,0,0,0,42,0,0,0,0,492,58,167,225,113,24,492,Match Report
+58,Aston Villa,2021-05-13,Everton,eng Premier League,D 0-0,0,0,0,58,0,0,0,0,632,71,206,255,135,18,632,Match Report
+59,Liverpool,2021-05-13,Manchester Utd,eng Premier League,W 4-2,4,2,+2,47,4,0,0,0,625,64,223,243,167,36,625,Match Report
+60,Manchester Utd,2021-05-13,Liverpool,eng Premier League,L 2-4,2,4,-2,53,2,0,0,0,672,78,245,255,155,26,672,Match Report
+61,Chelsea,2021-05-12,Arsenal,eng Premier League,L 0-1,0,1,-1,67,0,0,0,0,909,60,204,255,255,49,909,Match Report
+62,Arsenal,2021-05-12,Chelsea,eng Premier League,W 1-0,1,0,+1,33,1,0,0,0,521,106,255,176,83,8,521,Match Report
+63,Manchester Utd,2021-05-11,Leicester City,eng Premier League,L 1-2,1,2,-1,53,1,0,0,0,684,83,255,255,94,8,684,Match Report
+64,Southampton,2021-05-11,Crystal Palace,eng Premier League,W 3-1,3,1,+2,62,3,0,0,0,684,55,174,255,122,16,684,Match Report
+65,Leicester City,2021-05-11,Manchester Utd,eng Premier League,W 2-1,2,1,+1,47,2,0,0,0,622,35,141,255,162,16,622,Match Report
+66,Crystal Palace,2021-05-11,Southampton,eng Premier League,L 1-3,1,3,-2,38,1,0,1,1,459,53,149,194,120,20,458,Match Report
+67,Burnley,2021-05-10,Fulham,eng Premier League,W 2-0,2,0,+2,32,2,0,0,0,421,86,190,151,87,20,421,Match Report
+68,Fulham,2021-05-10,Burnley,eng Premier League,L 0-2,0,2,-2,68,0,0,0,0,713,72,235,255,224,39,713,Match Report
+69,West Brom,2021-05-09,Arsenal,eng Premier League,L 1-3,1,3,-2,35,1,0,0,0,432,52,151,170,118,14,432,Match Report
+70,Manchester Utd,2021-05-09,Aston Villa,eng Premier League,W 3-1,3,1,+2,59,2,1,1,0,704,74,235,255,217,38,703,Match Report
+71,West Ham,2021-05-09,Everton,eng Premier League,L 0-1,0,1,-1,68,0,0,0,0,777,37,132,255,222,19,777,Match Report
+72,Everton,2021-05-09,West Ham,eng Premier League,W 1-0,1,0,+1,32,1,0,0,0,439,75,208,172,68,12,439,Match Report
+73,Arsenal,2021-05-09,West Brom,eng Premier League,W 3-1,3,1,+2,65,3,0,0,0,717,83,244,255,165,22,717,Match Report
+74,Wolves,2021-05-09,Brighton,eng Premier League,W 2-1,2,1,+1,61,2,0,0,0,717,48,156,255,247,32,717,Match Report
+75,Aston Villa,2021-05-09,Manchester Utd,eng Premier League,L 1-3,1,3,-2,41,1,0,0,0,520,87,205,220,100,22,520,Match Report
+76,Brighton,2021-05-09,Wolves,eng Premier League,L 1-2,1,2,-1,39,1,0,0,0,525,96,209,182,139,18,525,Match Report
+77,Sheffield Utd,2021-05-08,Crystal Palace,eng Premier League,L 0-2,0,2,-2,50,0,0,0,0,582,66,209,255,114,16,582,Match Report
+78,Leeds United,2021-05-08,Tottenham,eng Premier League,W 3-1,3,1,+2,53,3,0,0,0,624,63,226,232,170,30,624,Match Report
+79,Chelsea,2021-05-08,Manchester City,eng Premier League,W 2-1,2,1,+1,52,2,0,0,0,702,83,255,255,134,17,702,Match Report
+80,Southampton,2021-05-08,Liverpool,eng Premier League,L 0-2,0,2,-2,46,0,0,0,0,631,76,253,255,121,17,631,Match Report
+81,Liverpool,2021-05-08,Southampton,eng Premier League,W 2-0,2,0,+2,54,2,0,0,0,726,65,196,255,194,31,726,Match Report
+82,Crystal Palace,2021-05-08,Sheffield Utd,eng Premier League,W 2-0,2,0,+2,50,2,0,0,0,577,54,163,255,154,37,577,Match Report
+83,Manchester City,2021-05-08,Chelsea,eng Premier League,L 1-2,1,2,-1,48,1,0,1,1,676,58,199,255,125,25,675,Match Report
+84,Tottenham,2021-05-08,Leeds United,eng Premier League,L 1-3,1,3,-2,47,1,0,0,0,570,73,178,255,143,19,570,Match Report
+85,Leicester City,2021-05-07,Newcastle Utd,eng Premier League,L 2-4,2,4,-2,68,2,0,0,0,756,39,130,255,211,32,756,Match Report
+86,Newcastle Utd,2021-05-07,Leicester City,eng Premier League,W 4-2,4,2,+2,32,4,0,0,0,437,87,188,188,67,13,437,Match Report
+87,West Brom,2021-05-03,Wolves,eng Premier League,D 1-1,1,1,0,43,1,0,0,0,511,60,178,217,118,23,511,Match Report
+88,West Ham,2021-05-03,Burnley,eng Premier League,W 2-1,2,1,+1,55,2,0,0,0,711,67,235,255,206,32,711,Match Report
+89,Wolves,2021-05-03,West Brom,eng Premier League,D 1-1,1,1,0,57,1,0,0,0,624,58,156,255,152,25,624,Match Report
+90,Burnley,2021-05-03,West Ham,eng Premier League,L 1-2,1,2,-1,45,0,1,1,0,566,54,138,255,151,16,565,Match Report
+91,Arsenal,2021-05-02,Newcastle Utd,eng Premier League,W 2-0,2,0,+2,61,2,0,0,0,754,56,152,255,255,24,754,Match Report
+92,Newcastle Utd,2021-05-02,Arsenal,eng Premier League,L 0-2,0,2,-2,39,0,0,0,0,508,71,232,198,82,8,508,Match Report
+93,Sheffield Utd,2021-05-02,Tottenham,eng Premier League,L 0-4,0,4,-4,34,0,0,0,0,478,68,212,161,110,20,478,Match Report
+94,Tottenham,2021-05-02,Sheffield Utd,eng Premier League,W 4-0,4,0,+4,66,4,0,0,0,854,61,217,255,171,19,854,Match Report
+95,Crystal Palace,2021-05-01,Manchester City,eng Premier League,L 0-2,0,2,-2,32,0,0,0,0,472,67,179,199,101,14,472,Match Report
+96,Manchester City,2021-05-01,Crystal Palace,eng Premier League,W 2-0,2,0,+2,68,2,0,0,0,847,47,195,255,227,35,847,Match Report
+97,Aston Villa,2021-05-01,Everton,eng Premier League,W 2-1,2,1,+1,53,2,0,0,0,626,79,230,254,145,27,626,Match Report
+98,Everton,2021-05-01,Aston Villa,eng Premier League,L 1-2,1,2,-1,47,1,0,0,0,580,69,207,249,128,19,580,Match Report
+99,Fulham,2021-05-01,Chelsea,eng Premier League,L 0-2,0,2,-2,51,0,0,0,0,689,49,184,255,168,23,689,Match Report
+100,Chelsea,2021-05-01,Fulham,eng Premier League,W 2-0,2,0,+2,49,2,0,0,0,676,81,241,255,157,26,676,Match Report
+101,Brighton,2021-05-01,Leeds United,eng Premier League,W 2-0,2,0,+2,42,1,1,1,0,500,69,158,225,122,23,499,Match Report
+102,Leeds United,2021-05-01,Brighton,eng Premier League,L 0-2,0,2,-2,58,0,0,0,0,625,71,222,255,139,12,625,Match Report
+103,Southampton,2021-04-30,Leicester City,eng Premier League,D 1-1,1,1,0,30,0,1,1,0,420,85,231,150,43,8,419,Match Report
+104,Leicester City,2021-04-30,Southampton,eng Premier League,D 1-1,1,1,0,70,1,0,0,0,797,23,108,255,255,32,797,Match Report
+105,Crystal Palace,2021-04-26,Leicester City,eng Premier League,L 1-2,1,2,-1,34,1,0,0,0,435,46,147,199,96,6,435,Match Report
+106,Leicester City,2021-04-26,Crystal Palace,eng Premier League,W 2-1,2,1,+1,66,2,0,0,0,746,36,150,255,195,27,746,Match Report
+107,Aston Villa,2021-04-25,West Brom,eng Premier League,D 2-2,2,2,0,70,1,1,1,0,728,57,175,255,255,48,727,Match Report
+108,Burnley,2021-04-25,Wolves,eng Premier League,W 4-0,4,0,+4,42,4,0,0,0,485,45,117,234,137,17,485,Match Report
+109,Wolves,2021-04-25,Burnley,eng Premier League,L 0-4,0,4,-4,58,0,0,0,0,627,59,231,255,113,11,627,Match Report
+110,West Brom,2021-04-25,Aston Villa,eng Premier League,D 2-2,2,2,0,30,0,1,1,0,386,91,177,132,81,14,385,Match Report
+111,Leeds United,2021-04-25,Manchester Utd,eng Premier League,D 0-0,0,0,0,44,0,0,0,0,535,77,255,178,91,13,535,Match Report
+112,Manchester Utd,2021-04-25,Leeds United,eng Premier League,D 0-0,0,0,0,56,0,0,0,0,666,46,183,255,217,23,666,Match Report
+113,Sheffield Utd,2021-04-24,Brighton,eng Premier League,W 1-0,1,0,+1,32,1,0,0,0,428,69,159,174,99,11,428,Match Report
+114,Liverpool,2021-04-24,Newcastle Utd,eng Premier League,D 1-1,1,1,0,68,1,0,0,0,950,63,200,255,255,33,950,Match Report
+115,Chelsea,2021-04-24,West Ham,eng Premier League,W 1-0,1,0,+1,55,1,0,0,0,738,53,237,255,184,30,738,Match Report
+116,West Ham,2021-04-24,Chelsea,eng Premier League,L 0-1,0,1,-1,45,0,0,0,0,595,54,159,255,160,10,595,Match Report
+117,Newcastle Utd,2021-04-24,Liverpool,eng Premier League,D 1-1,1,1,0,32,1,0,0,0,517,94,255,187,75,18,517,Match Report
+118,Brighton,2021-04-24,Sheffield Utd,eng Premier League,L 0-1,0,1,-1,68,0,0,0,0,788,58,236,255,206,27,788,Match Report
+119,Everton,2021-04-23,Arsenal,eng Premier League,W 1-0,1,0,+1,41,0,0,0,0,551,100,255,210,63,10,551,Match Report
+120,Arsenal,2021-04-23,Everton,eng Premier League,L 0-1,0,1,-1,59,0,0,0,0,774,45,186,255,230,28,774,Match Report
+121,Leicester City,2021-04-22,West Brom,eng Premier League,W 3-0,3,0,+3,72,3,0,0,0,832,42,169,255,174,22,832,Match Report
+122,West Brom,2021-04-22,Leicester City,eng Premier League,L 0-3,0,3,-3,28,0,0,0,0,392,59,158,158,79,10,392,Match Report
+123,Tottenham,2021-04-21,Southampton,eng Premier League,W 2-1,2,1,+1,62,1,1,1,0,785,56,221,255,165,34,784,Match Report
+124,Aston Villa,2021-04-21,Manchester City,eng Premier League,L 1-2,1,2,-1,28,1,0,0,0,417,71,186,159,76,13,417,Match Report
+125,Manchester City,2021-04-21,Aston Villa,eng Premier League,W 2-1,2,1,+1,72,2,0,0,0,914,53,191,255,255,38,914,Match Report
+126,Southampton,2021-04-21,Tottenham,eng Premier League,L 1-2,1,2,-1,38,1,0,0,0,550,67,198,255,98,12,550,Match Report
+127,Chelsea,2021-04-20,Brighton,eng Premier League,D 0-0,0,0,0,64,0,0,0,0,881,86,255,255,176,18,881,Match Report
+128,Brighton,2021-04-20,Chelsea,eng Premier League,D 0-0,0,0,0,36,0,0,0,0,544,57,212,223,117,13,544,Match Report
+129,Leeds United,2021-04-19,Liverpool,eng Premier League,D 1-1,1,1,0,61,1,0,0,0,696,101,255,231,120,25,696,Match Report
+130,Liverpool,2021-04-19,Leeds United,eng Premier League,D 1-1,1,1,0,39,1,0,0,0,510,73,151,209,157,41,510,Match Report
+131,Arsenal,2021-04-18,Fulham,eng Premier League,D 1-1,1,1,0,69,1,0,0,0,770,32,134,255,239,34,770,Match Report
+132,Fulham,2021-04-18,Arsenal,eng Premier League,D 1-1,1,1,0,31,0,1,1,0,414,97,216,143,62,10,413,Match Report
+133,Manchester Utd,2021-04-18,Burnley,eng Premier League,W 3-1,3,1,+2,69,3,0,0,0,749,46,204,255,255,41,749,Match Report
+134,Burnley,2021-04-18,Manchester Utd,eng Premier League,L 1-3,1,3,-2,31,1,0,0,0,407,62,144,151,116,16,407,Match Report
+135,Sheffield Utd,2021-04-17,Wolves,eng Premier League,L 0-1,0,1,-1,52,0,0,0,0,652,41,131,255,200,18,652,Match Report
+136,West Ham,2021-04-17,Newcastle Utd,eng Premier League,L 2-3,2,3,-1,66,1,1,1,0,677,52,148,255,193,22,676,Match Report
+137,Newcastle Utd,2021-04-17,West Ham,eng Premier League,W 3-2,3,2,+1,34,2,0,0,0,435,76,209,153,79,12,435,Match Report
+138,Wolves,2021-04-17,Sheffield Utd,eng Premier League,W 1-0,1,0,+1,48,1,0,0,0,629,57,250,255,113,20,629,Match Report
+139,Everton,2021-04-16,Tottenham,eng Premier League,D 2-2,2,2,0,53,1,1,1,0,671,77,211,255,146,24,670,Match Report
+140,Tottenham,2021-04-16,Everton,eng Premier League,D 2-2,2,2,0,47,2,0,0,0,611,69,200,255,109,13,611,Match Report
+141,Brighton,2021-04-12,Everton,eng Premier League,D 0-0,0,0,0,55,0,0,0,0,650,53,198,255,174,34,650,Match Report
+142,West Brom,2021-04-12,Southampton,eng Premier League,W 3-0,3,0,+3,40,2,1,1,0,451,74,164,149,146,33,450,Match Report
+143,Everton,2021-04-12,Brighton,eng Premier League,D 0-0,0,0,0,45,0,0,0,0,551,81,210,255,89,13,551,Match Report
+144,Southampton,2021-04-12,West Brom,eng Premier League,L 0-3,0,3,-3,60,0,0,1,1,595,56,174,248,184,32,594,Match Report
+145,Newcastle Utd,2021-04-11,Burnley,eng Premier League,W 2-1,2,1,+1,44,2,0,0,0,527,91,226,213,92,17,527,Match Report
+146,Leicester City,2021-04-11,West Ham,eng Premier League,L 2-3,2,3,-1,63,2,0,0,0,783,55,244,255,216,45,783,Match Report
+147,Sheffield Utd,2021-04-11,Arsenal,eng Premier League,L 0-3,0,3,-3,45,0,0,0,0,587,78,228,255,92,11,587,Match Report
+148,Arsenal,2021-04-11,Sheffield Utd,eng Premier League,W 3-0,3,0,+3,55,3,0,0,0,703,57,200,255,146,29,703,Match Report
+149,Manchester Utd,2021-04-11,Tottenham,eng Premier League,W 3-1,3,1,+2,53,3,0,0,0,666,48,195,255,182,25,666,Match Report
+150,Tottenham,2021-04-11,Manchester Utd,eng Premier League,L 1-3,1,3,-2,47,1,0,0,0,599,61,232,248,124,20,599,Match Report
+151,Burnley,2021-04-11,Newcastle Utd,eng Premier League,L 1-2,1,2,-1,56,1,0,0,0,619,38,123,255,197,42,619,Match Report
+152,West Ham,2021-04-11,Leicester City,eng Premier League,W 3-2,3,2,+1,37,3,0,0,0,513,84,220,234,64,9,513,Match Report
+153,Chelsea,2021-04-10,Crystal Palace,eng Premier League,W 4-1,4,1,+3,64,4,0,0,0,931,36,197,255,255,35,931,Match Report
+154,Aston Villa,2021-04-10,Liverpool,eng Premier League,L 1-2,1,2,-1,35,1,0,0,0,479,89,182,203,96,15,479,Match Report
+155,Crystal Palace,2021-04-10,Chelsea,eng Premier League,L 1-4,1,4,-3,36,1,0,0,0,563,80,239,244,84,7,563,Match Report
+156,Leeds United,2021-04-10,Manchester City,eng Premier League,W 2-1,2,1,+1,29,2,0,0,0,393,109,227,119,52,7,393,Match Report
+157,Liverpool,2021-04-10,Aston Villa,eng Premier League,W 2-1,2,1,+1,65,2,0,0,0,734,62,248,255,194,43,734,Match Report
+158,Manchester City,2021-04-10,Leeds United,eng Premier League,L 1-2,1,2,-1,71,1,0,0,0,780,28,103,255,255,45,780,Match Report
+159,Fulham,2021-04-09,Wolves,eng Premier League,L 0-1,0,1,-1,50,0,0,0,0,610,40,160,255,159,25,610,Match Report
+160,Wolves,2021-04-09,Fulham,eng Premier League,W 1-0,1,0,+1,50,1,0,0,0,623,88,255,255,103,9,623,Match Report
+161,Everton,2021-04-05,Crystal Palace,eng Premier League,D 1-1,1,1,0,48,1,0,0,0,609,71,215,255,137,22,609,Match Report
+162,Wolves,2021-04-05,West Ham,eng Premier League,L 2-3,2,3,-1,65,2,0,0,0,785,42,212,255,157,28,785,Match Report
+163,West Ham,2021-04-05,Wolves,eng Premier League,W 3-2,3,2,+1,35,3,0,0,0,466,58,172,190,112,14,466,Match Report
+164,Crystal Palace,2021-04-05,Everton,eng Premier League,D 1-1,1,1,0,52,1,0,0,0,654,46,224,255,164,26,654,Match Report
+165,Burnley,2021-04-04,Southampton,eng Premier League,L 2-3,2,3,-1,47,1,1,1,0,520,73,160,217,147,21,519,Match Report
+166,Southampton,2021-04-04,Burnley,eng Premier League,W 3-2,3,2,+1,53,3,0,0,0,594,75,206,241,155,28,594,Match Report
+167,Tottenham,2021-04-04,Newcastle Utd,eng Premier League,D 2-2,2,2,0,58,2,0,0,0,672,74,216,255,107,19,672,Match Report
+168,Brighton,2021-04-04,Manchester Utd,eng Premier League,L 1-2,1,2,-1,43,1,0,0,0,594,88,238,251,109,15,594,Match Report
+169,Fulham,2021-04-04,Aston Villa,eng Premier League,L 1-3,1,3,-2,47,1,0,0,0,541,82,246,207,97,15,541,Match Report
+170,Manchester Utd,2021-04-04,Brighton,eng Premier League,W 2-1,2,1,+1,57,2,0,0,0,763,47,173,255,239,30,763,Match Report
+171,Aston Villa,2021-04-04,Fulham,eng Premier League,W 3-1,3,1,+2,53,3,0,0,0,590,57,188,249,160,22,590,Match Report
+172,Newcastle Utd,2021-04-04,Tottenham,eng Premier League,D 2-2,2,2,0,42,2,0,0,0,516,65,173,197,149,31,516,Match Report
+173,Chelsea,2021-04-03,West Brom,eng Premier League,L 2-5,2,5,-3,65,2,0,0,0,723,72,216,255,205,31,723,Match Report
+174,Liverpool,2021-04-03,Arsenal,eng Premier League,W 3-0,3,0,+3,64,3,0,0,0,830,53,225,255,183,28,830,Match Report
+175,Sheffield Utd,2021-04-03,Leeds United,eng Premier League,L 1-2,1,2,-1,46,1,0,0,0,571,81,247,199,131,8,571,Match Report
+176,Leicester City,2021-04-03,Manchester City,eng Premier League,L 0-2,0,2,-2,44,0,0,0,0,581,98,255,187,67,6,581,Match Report
+177,Arsenal,2021-04-03,Liverpool,eng Premier League,L 0-3,0,3,-3,36,0,0,0,0,520,71,237,210,79,6,520,Match Report
+178,Leeds United,2021-04-03,Sheffield Utd,eng Premier League,W 2-1,2,1,+1,54,1,0,0,0,653,50,210,254,195,29,653,Match Report
+179,West Brom,2021-04-03,Chelsea,eng Premier League,W 5-2,5,2,+3,35,5,0,0,0,462,69,181,204,81,14,462,Match Report
+180,Manchester City,2021-04-03,Leicester City,eng Premier League,W 2-0,2,0,+2,56,2,0,0,0,698,26,86,255,182,24,698,Match Report
+181,West Ham,2021-03-21,Arsenal,eng Premier League,D 3-3,3,3,0,38,3,0,0,0,487,68,163,196,133,25,487,Match Report
+182,Arsenal,2021-03-21,West Ham,eng Premier League,D 3-3,3,3,0,62,1,0,0,0,749,55,188,255,242,26,749,Match Report
+183,Aston Villa,2021-03-21,Tottenham,eng Premier League,L 0-2,0,2,-2,50,0,0,0,0,576,56,192,255,130,18,576,Match Report
+184,Tottenham,2021-03-21,Aston Villa,eng Premier League,W 2-0,2,0,+2,50,1,1,1,0,586,61,192,255,151,22,585,Match Report
+185,Brighton,2021-03-20,Newcastle Utd,eng Premier League,W 3-0,3,0,+3,65,3,0,0,0,840,47,255,255,155,22,840,Match Report
+186,Newcastle Utd,2021-03-20,Brighton,eng Premier League,L 0-3,0,3,-3,35,0,0,0,0,497,73,193,239,70,4,497,Match Report
+187,Fulham,2021-03-19,Leeds United,eng Premier League,L 1-2,1,2,-1,51,1,0,0,0,548,62,170,243,142,30,548,Match Report
+188,Leeds United,2021-03-19,Fulham,eng Premier League,W 2-1,2,1,+1,49,2,0,0,0,532,77,181,226,133,20,532,Match Report
+189,Liverpool,2021-03-15,Wolves,eng Premier League,W 1-0,1,0,+1,47,1,0,0,0,622,66,167,255,138,24,622,Match Report
+190,Wolves,2021-03-15,Liverpool,eng Premier League,L 0-1,0,1,-1,53,0,0,0,0,674,60,219,255,134,22,674,Match Report
+191,Leicester City,2021-03-14,Sheffield Utd,eng Premier League,W 5-0,5,0,+5,71,4,0,0,0,884,43,249,255,165,25,884,Match Report
+192,Tottenham,2021-03-14,Arsenal,eng Premier League,L 1-2,1,2,-1,48,1,0,0,0,626,81,255,255,87,8,626,Match Report
+193,Arsenal,2021-03-14,Tottenham,eng Premier League,W 2-1,2,1,+1,52,1,1,1,0,660,29,148,255,192,22,659,Match Report
+194,West Ham,2021-03-14,Manchester Utd,eng Premier League,L 0-1,0,1,-1,39,0,0,0,0,562,66,213,234,122,16,562,Match Report
+195,Southampton,2021-03-14,Brighton,eng Premier League,L 1-2,1,2,-1,59,1,0,0,0,654,69,239,255,135,25,654,Match Report
+196,Manchester Utd,2021-03-14,West Ham,eng Premier League,W 1-0,1,0,+1,61,0,0,0,0,821,62,184,255,255,30,821,Match Report
+197,Brighton,2021-03-14,Southampton,eng Premier League,W 2-1,2,1,+1,41,2,0,0,0,501,52,146,224,132,13,501,Match Report
+198,Sheffield Utd,2021-03-14,Leicester City,eng Premier League,L 0-5,0,5,-5,29,0,0,0,0,417,55,181,166,77,3,417,Match Report
+199,Chelsea,2021-03-13,Leeds United,eng Premier League,D 0-0,0,0,0,62,0,0,0,0,754,76,219,255,219,25,754,Match Report
+200,Fulham,2021-03-13,Manchester City,eng Premier League,L 0-3,0,3,-3,46,0,0,0,0,588,76,246,235,109,13,588,Match Report
+201,Crystal Palace,2021-03-13,West Brom,eng Premier League,W 1-0,1,0,+1,45,0,1,1,0,486,72,207,186,97,14,485,Match Report
+202,Everton,2021-03-13,Burnley,eng Premier League,L 1-2,1,2,-1,65,1,0,0,0,701,66,183,255,183,22,701,Match Report
+203,Leeds United,2021-03-13,Chelsea,eng Premier League,D 0-0,0,0,0,38,0,0,0,0,512,72,230,193,93,14,512,Match Report
+204,Burnley,2021-03-13,Everton,eng Premier League,W 2-1,2,1,+1,35,2,0,0,0,444,60,156,188,105,19,444,Match Report
+205,Manchester City,2021-03-13,Fulham,eng Premier League,W 3-0,3,0,+3,54,2,1,1,0,673,66,206,255,123,20,672,Match Report
+206,Fulham,2021-03-13,Manchester City,eng Premier League,L 0-3,0,3,-3,46,0,0,0,0,588,76,246,235,109,13,588,Match Report
+207,Newcastle Utd,2021-03-12,Aston Villa,eng Premier League,D 1-1,1,1,0,49,1,0,0,0,561,55,150,254,161,21,561,Match Report
+208,Aston Villa,2021-03-12,Newcastle Utd,eng Premier League,D 1-1,1,1,0,51,0,0,0,0,593,84,197,248,155,21,593,Match Report
+209,Manchester City,2021-03-10,Southampton,eng Premier League,W 5-2,5,2,+3,58,5,0,0,0,811,67,236,255,178,32,811,Match Report
+210,Southampton,2021-03-10,Manchester City,eng Premier League,L 2-5,2,5,-3,42,1,1,1,0,596,80,222,255,98,14,595,Match Report
+211,West Ham,2021-03-08,Leeds United,eng Premier League,W 2-0,2,0,+2,35,2,0,1,1,426,67,179,157,96,19,425,Match Report
+212,Leeds United,2021-03-08,West Ham,eng Premier League,L 0-2,0,2,-2,65,0,0,0,0,686,67,198,255,141,24,686,Match Report
+213,Everton,2021-03-08,Chelsea,eng Premier League,L 0-2,0,2,-2,35,0,0,0,0,488,77,196,201,95,6,488,Match Report
+214,Chelsea,2021-03-08,Everton,eng Premier League,W 2-0,2,0,+2,65,0,1,1,0,844,68,255,255,158,19,843,Match Report
+215,Manchester City,2021-03-07,Manchester Utd,eng Premier League,L 0-2,0,2,-2,66,0,0,0,0,870,44,146,255,255,37,870,Match Report
+216,Crystal Palace,2021-03-07,Tottenham,eng Premier League,L 1-4,1,4,-3,37,1,0,0,0,494,52,146,255,96,8,494,Match Report
+217,Tottenham,2021-03-07,Crystal Palace,eng Premier League,W 4-1,4,1,+3,63,4,0,0,0,847,49,236,255,161,22,847,Match Report
+218,Newcastle Utd,2021-03-07,West Brom,eng Premier League,D 0-0,0,0,0,47,0,0,0,0,533,89,255,173,107,19,533,Match Report
+219,Fulham,2021-03-07,Liverpool,eng Premier League,W 1-0,1,0,+1,37,1,0,0,0,589,95,255,243,86,16,589,Match Report
+220,West Brom,2021-03-07,Newcastle Utd,eng Premier League,D 0-0,0,0,0,53,0,0,0,0,578,68,181,181,223,30,578,Match Report
+221,Liverpool,2021-03-07,Fulham,eng Premier League,L 0-1,0,1,-1,63,0,0,0,0,865,56,193,255,255,27,865,Match Report
+222,Manchester Utd,2021-03-07,Manchester City,eng Premier League,W 2-0,2,0,+2,34,1,1,1,0,507,101,255,168,88,14,506,Match Report
+223,Burnley,2021-03-06,Arsenal,eng Premier League,D 1-1,1,1,0,41,1,0,0,0,558,53,158,255,132,14,558,Match Report
+224,Southampton,2021-03-06,Sheffield Utd,eng Premier League,W 2-0,2,0,+2,49,1,1,1,0,550,70,225,227,107,24,549,Match Report
+225,Sheffield Utd,2021-03-06,Southampton,eng Premier League,L 0-2,0,2,-2,51,0,0,0,0,562,64,190,207,169,16,562,Match Report
+226,Wolves,2021-03-06,Aston Villa,eng Premier League,D 0-0,0,0,0,51,0,0,0,0,584,59,162,255,134,12,584,Match Report
+227,Aston Villa,2021-03-06,Wolves,eng Premier League,D 0-0,0,0,0,49,0,0,0,0,556,56,191,248,120,13,556,Match Report
+228,Arsenal,2021-03-06,Burnley,eng Premier League,D 1-1,1,1,0,59,1,0,0,0,748,69,255,255,177,35,748,Match Report
+229,Brighton,2021-03-06,Leicester City,eng Premier League,L 1-2,1,2,-1,37,1,0,0,0,512,53,176,199,146,24,512,Match Report
+230,Leicester City,2021-03-06,Brighton,eng Premier League,W 2-1,2,1,+1,63,2,0,0,0,779,79,255,255,118,12,779,Match Report
+231,Fulham,2021-03-04,Tottenham,eng Premier League,L 0-1,0,1,-1,60,0,0,0,0,714,58,244,255,163,29,714,Match Report
+232,Everton,2021-03-04,West Brom,eng Premier League,W 1-0,1,0,+1,51,1,0,0,0,674,80,243,255,134,21,674,Match Report
+233,Chelsea,2021-03-04,Liverpool,eng Premier League,W 1-0,1,0,+1,46,1,0,0,0,708,100,255,255,100,17,708,Match Report
+234,Liverpool,2021-03-04,Chelsea,eng Premier League,L 0-1,0,1,-1,54,0,0,0,0,810,63,217,255,203,22,810,Match Report
+235,West Brom,2021-03-04,Everton,eng Premier League,L 0-1,0,1,-1,49,0,0,0,0,635,54,215,255,173,21,635,Match Report
+236,Tottenham,2021-03-04,Fulham,eng Premier League,W 1-0,1,0,+1,40,0,0,0,0,529,81,222,229,87,12,529,Match Report
+237,Crystal Palace,2021-03-03,Manchester Utd,eng Premier League,D 0-0,0,0,0,37,0,0,0,0,512,70,216,203,96,12,512,Match Report
+238,Aston Villa,2021-03-03,Sheffield Utd,eng Premier League,L 0-1,0,1,-1,72,0,0,0,0,794,49,219,255,255,33,794,Match Report
+239,Manchester Utd,2021-03-03,Crystal Palace,eng Premier League,D 0-0,0,0,0,63,0,0,0,0,757,37,182,255,216,24,757,Match Report
+240,Sheffield Utd,2021-03-03,Aston Villa,eng Premier League,W 1-0,1,0,+1,28,1,0,0,0,427,88,181,177,72,10,427,Match Report
+241,Leicester City,2021-03-03,Burnley,eng Premier League,D 1-1,1,1,0,61,1,0,0,0,727,83,255,255,141,24,727,Match Report
+242,Burnley,2021-03-03,Leicester City,eng Premier League,D 1-1,1,1,0,39,1,0,0,0,491,46,104,250,143,18,491,Match Report
+243,Manchester City,2021-03-02,Wolves,eng Premier League,W 4-1,4,1,+3,72,3,0,0,0,919,40,147,255,255,53,919,Match Report
+244,Wolves,2021-03-02,Manchester City,eng Premier League,L 1-4,1,4,-3,28,1,0,0,0,450,98,218,186,53,6,450,Match Report
+245,Everton,2021-03-01,Southampton,eng Premier League,W 1-0,1,0,+1,47,1,0,0,0,574,70,229,253,100,13,574,Match Report
+246,Southampton,2021-03-01,Everton,eng Premier League,L 0-1,0,1,-1,53,0,0,0,0,637,48,200,255,143,17,637,Match Report
+247,Leicester City,2021-02-28,Arsenal,eng Premier League,L 1-3,1,3,-2,44,1,0,0,0,540,73,239,229,79,15,540,Match Report
+248,Chelsea,2021-02-28,Manchester Utd,eng Premier League,D 0-0,0,0,0,57,0,0,0,0,776,92,255,255,172,13,776,Match Report
+249,Liverpool,2021-02-28,Sheffield Utd,eng Premier League,W 2-0,2,0,+2,60,1,0,0,0,776,76,244,255,170,25,776,Match Report
+250,Burnley,2021-02-28,Tottenham,eng Premier League,L 0-4,0,4,-4,42,0,0,0,0,572,45,139,255,154,16,572,Match Report
+251,Fulham,2021-02-28,Crystal Palace,eng Premier League,D 0-0,0,0,0,60,0,0,0,0,693,35,156,255,153,17,693,Match Report
+252,Sheffield Utd,2021-02-28,Liverpool,eng Premier League,L 0-2,0,2,-2,40,0,0,0,0,552,64,184,225,146,11,552,Match Report
+253,Tottenham,2021-02-28,Burnley,eng Premier League,W 4-0,4,0,+4,58,4,0,0,0,778,74,255,255,114,13,778,Match Report
+254,Arsenal,2021-02-28,Leicester City,eng Premier League,W 3-1,3,1,+2,56,2,1,1,0,654,43,189,255,174,21,653,Match Report
+255,Manchester Utd,2021-02-28,Chelsea,eng Premier League,D 0-0,0,0,0,43,0,0,0,0,597,74,191,232,178,8,597,Match Report
+256,Crystal Palace,2021-02-28,Fulham,eng Premier League,D 0-0,0,0,0,40,0,0,0,0,529,70,207,230,94,7,529,Match Report
+257,Aston Villa,2021-02-27,Leeds United,eng Premier League,W 1-0,1,0,+1,31,1,0,0,0,388,68,173,142,83,11,388,Match Report
+258,Brighton,2021-02-27,West Brom,eng Premier League,L 0-1,0,1,-1,68,0,0,2,2,701,62,250,255,168,24,699,Match Report
+259,Manchester City,2021-02-27,West Ham,eng Premier League,W 2-1,2,1,+1,63,2,0,0,0,805,52,169,255,232,21,805,Match Report
+260,Leeds United,2021-02-27,Aston Villa,eng Premier League,L 0-1,0,1,-1,69,0,0,0,0,669,50,219,255,178,20,669,Match Report
+261,Newcastle Utd,2021-02-27,Wolves,eng Premier League,D 1-1,1,1,0,48,1,0,0,0,538,53,174,255,113,28,538,Match Report
+262,Wolves,2021-02-27,Newcastle Utd,eng Premier League,D 1-1,1,1,0,52,1,0,0,0,556,58,180,225,156,25,556,Match Report
+263,West Brom,2021-02-27,Brighton,eng Premier League,W 1-0,1,0,+1,32,1,0,0,0,398,62,166,133,103,11,398,Match Report
+264,West Ham,2021-02-27,Manchester City,eng Premier League,L 1-2,1,2,-1,37,1,0,0,0,504,66,202,223,88,15,504,Match Report
+265,Leeds United,2021-02-23,Southampton,eng Premier League,W 3-0,3,0,+3,46,3,0,0,0,477,69,253,159,71,22,477,Match Report
+266,Southampton,2021-02-23,Leeds United,eng Premier League,L 0-3,0,3,-3,54,0,0,0,0,519,39,132,255,135,18,519,Match Report
+267,Brighton,2021-02-22,Crystal Palace,eng Premier League,L 1-2,1,2,-1,74,1,0,0,0,878,14,123,255,255,51,878,Match Report
+268,Crystal Palace,2021-02-22,Brighton,eng Premier League,W 2-1,2,1,+1,26,2,0,0,0,410,89,236,154,25,2,410,Match Report
+269,Manchester City,2021-02-21,Arsenal,eng Premier League,W 1-0,1,0,+1,55,1,0,0,0,703,57,160,255,190,33,703,Match Report
+270,Newcastle Utd,2021-02-21,Manchester Utd,eng Premier League,L 1-3,1,3,-2,29,1,0,0,0,407,54,164,150,95,13,407,Match Report
+271,West Ham,2021-02-21,Tottenham,eng Premier League,W 2-1,2,1,+1,32,2,0,0,0,411,68,146,173,98,12,411,Match Report
+272,Tottenham,2021-02-21,West Ham,eng Premier League,L 1-2,1,2,-1,68,1,0,0,0,728,54,194,255,177,34,728,Match Report
+273,Leicester City,2021-02-21,Aston Villa,eng Premier League,W 2-1,2,1,+1,49,2,0,0,0,604,61,194,255,140,18,604,Match Report
+274,Aston Villa,2021-02-21,Leicester City,eng Premier League,L 1-2,1,2,-1,51,1,0,0,0,593,66,207,237,156,20,593,Match Report
+275,Manchester Utd,2021-02-21,Newcastle Utd,eng Premier League,W 3-1,3,1,+2,71,2,1,1,0,814,70,231,255,215,24,813,Match Report
+276,Arsenal,2021-02-21,Manchester City,eng Premier League,L 0-1,0,1,-1,45,0,0,0,0,581,91,246,234,104,18,581,Match Report
+277,Fulham,2021-02-20,Sheffield Utd,eng Premier League,W 1-0,1,0,+1,64,1,0,0,0,750,56,244,255,193,26,750,Match Report
+278,Chelsea,2021-02-20,Southampton,eng Premier League,D 1-1,1,1,0,70,0,1,1,0,875,62,238,255,156,21,874,Match Report
+279,Burnley,2021-02-20,West Brom,eng Premier League,D 0-0,0,0,0,62,0,0,0,0,585,45,134,255,165,14,585,Match Report
+280,Everton,2021-02-20,Liverpool,eng Premier League,W 2-0,2,0,+2,29,1,1,1,0,423,86,200,152,74,8,422,Match Report
+281,West Brom,2021-02-20,Burnley,eng Premier League,D 0-0,0,0,0,38,0,0,0,0,401,56,167,167,74,10,401,Match Report
+282,Southampton,2021-02-20,Chelsea,eng Premier League,D 1-1,1,1,0,30,1,0,0,0,463,63,178,217,74,5,463,Match Report
+283,Liverpool,2021-02-20,Everton,eng Premier League,L 0-2,0,2,-2,71,0,0,0,0,854,42,186,255,249,32,854,Match Report
+284,Sheffield Utd,2021-02-20,Fulham,eng Premier League,L 0-1,0,1,-1,36,0,0,0,0,469,62,183,185,105,8,469,Match Report
+285,Wolves,2021-02-19,Leeds United,eng Premier League,W 1-0,1,0,+1,42,0,0,0,0,464,60,139,221,111,9,464,Match Report
+286,Leeds United,2021-02-19,Wolves,eng Premier League,L 0-1,0,1,-1,58,0,0,0,0,598,55,233,232,135,27,598,Match Report
+287,Fulham,2021-02-17,Burnley,eng Premier League,D 1-1,1,1,0,53,1,0,0,0,619,55,241,255,83,13,619,Match Report
+288,Manchester City,2021-02-17,Everton,eng Premier League,W 3-1,3,1,+2,71,3,0,0,0,884,39,147,255,255,40,884,Match Report
+289,Burnley,2021-02-17,Fulham,eng Premier League,D 1-1,1,1,0,47,1,0,0,0,555,36,138,255,133,17,555,Match Report
+290,Everton,2021-02-17,Manchester City,eng Premier League,L 1-3,1,3,-2,29,1,0,0,0,438,97,218,159,65,8,438,Match Report
+291,West Ham,2021-02-15,Sheffield Utd,eng Premier League,W 3-0,3,0,+3,46,2,1,1,0,553,57,165,255,120,18,552,Match Report
+292,Sheffield Utd,2021-02-15,West Ham,eng Premier League,L 0-3,0,3,-3,54,0,0,0,0,644,58,151,255,191,24,644,Match Report
+293,Chelsea,2021-02-15,Newcastle Utd,eng Premier League,W 2-0,2,0,+2,64,2,0,0,0,714,55,212,255,161,35,714,Match Report
+294,Newcastle Utd,2021-02-15,Chelsea,eng Premier League,L 0-2,0,2,-2,36,0,0,0,0,444,64,150,173,123,11,444,Match Report
+295,Leeds United,2021-02-14,Arsenal,eng Premier League,L 2-4,2,4,-2,54,2,0,0,0,634,101,254,255,124,17,634,Match Report
+296,West Brom,2021-02-14,Manchester Utd,eng Premier League,D 1-1,1,1,0,27,1,0,0,0,401,88,202,120,81,10,401,Match Report
+297,Wolves,2021-02-14,Southampton,eng Premier League,W 2-1,2,1,+1,49,1,1,1,0,600,46,177,255,132,14,599,Match Report
+298,Arsenal,2021-02-14,Leeds United,eng Premier League,W 4-2,4,2,+2,46,3,1,1,0,569,60,190,255,112,33,568,Match Report
+299,Manchester Utd,2021-02-14,West Brom,eng Premier League,D 1-1,1,1,0,73,1,0,0,0,836,38,167,255,255,36,836,Match Report
+300,Southampton,2021-02-14,Wolves,eng Premier League,L 1-2,1,2,-1,51,1,0,0,0,633,53,194,255,83,16,633,Match Report
+301,Fulham,2021-02-14,Everton,eng Premier League,W 2-0,2,0,+2,50,2,0,0,0,680,51,198,255,188,27,680,Match Report
+302,Everton,2021-02-14,Fulham,eng Premier League,L 0-2,0,2,-2,50,0,0,0,0,664,67,255,255,109,8,664,Match Report
+303,Manchester City,2021-02-13,Tottenham,eng Premier League,W 3-0,3,0,+3,60,2,1,1,0,825,41,149,255,232,41,824,Match Report
+304,Burnley,2021-02-13,Crystal Palace,eng Premier League,W 3-0,3,0,+3,46,3,0,0,0,533,58,178,229,131,19,533,Match Report
+305,Leicester City,2021-02-13,Liverpool,eng Premier League,W 3-1,3,1,+2,38,3,0,0,0,544,102,255,206,57,12,544,Match Report
+306,Brighton,2021-02-13,Aston Villa,eng Premier League,D 0-0,0,0,0,58,0,0,0,0,659,73,255,179,226,33,659,Match Report
+307,Crystal Palace,2021-02-13,Burnley,eng Premier League,L 0-3,0,3,-3,54,0,0,0,0,586,50,175,219,196,29,586,Match Report
+308,Liverpool,2021-02-13,Leicester City,eng Premier League,L 1-3,1,3,-2,62,1,0,0,0,743,38,145,255,231,31,743,Match Report
+309,Aston Villa,2021-02-13,Brighton,eng Premier League,D 0-0,0,0,0,42,0,0,0,0,523,77,221,209,99,10,523,Match Report
+310,Tottenham,2021-02-13,Manchester City,eng Premier League,L 0-3,0,3,-3,40,0,0,0,0,580,74,223,255,82,6,580,Match Report
+311,Leeds United,2021-02-08,Crystal Palace,eng Premier League,W 2-0,2,0,+2,67,2,0,0,0,854,74,255,255,188,26,854,Match Report
+312,Crystal Palace,2021-02-08,Leeds United,eng Premier League,L 0-2,0,2,-2,33,0,0,0,0,462,55,188,179,108,16,462,Match Report
+313,Chelsea,2021-02-07,Sheffield Utd,eng Premier League,W 2-1,2,1,+1,68,1,1,1,0,897,84,255,255,215,26,896,Match Report
+314,West Brom,2021-02-07,Tottenham,eng Premier League,L 0-2,0,2,-2,35,0,0,0,0,459,72,206,194,64,14,459,Match Report
+315,Tottenham,2021-02-07,West Brom,eng Premier League,W 2-0,2,0,+2,65,2,0,0,0,723,33,125,255,182,24,723,Match Report
+316,Manchester City,2021-02-07,Liverpool,eng Premier League,W 4-1,4,1,+3,44,4,0,1,1,652,69,255,255,118,19,651,Match Report
+317,Leicester City,2021-02-07,Wolves,eng Premier League,D 0-0,0,0,0,56,0,0,0,0,722,57,161,255,159,24,722,Match Report
+318,Wolves,2021-02-07,Leicester City,eng Premier League,D 0-0,0,0,0,44,0,0,0,0,580,48,195,255,130,19,580,Match Report
+319,Sheffield Utd,2021-02-07,Chelsea,eng Premier League,L 1-2,1,2,-1,32,0,0,0,0,480,58,157,186,141,17,480,Match Report
+320,Liverpool,2021-02-07,Manchester City,eng Premier League,L 1-4,1,4,-3,56,0,1,1,0,789,61,233,255,195,16,788,Match Report
+321,Aston Villa,2021-02-06,Arsenal,eng Premier League,W 1-0,1,0,+1,35,1,0,0,0,477,90,182,172,128,19,477,Match Report
+322,Everton,2021-02-06,Manchester Utd,eng Premier League,D 3-3,3,3,0,39,3,0,0,0,540,72,255,199,89,18,540,Match Report
+323,Newcastle Utd,2021-02-06,Southampton,eng Premier League,W 3-2,3,2,+1,27,3,0,0,0,371,74,169,140,65,14,371,Match Report
+324,Fulham,2021-02-06,West Ham,eng Premier League,D 0-0,0,0,0,60,0,0,0,0,689,53,239,255,156,28,689,Match Report
+325,Arsenal,2021-02-06,Aston Villa,eng Premier League,L 0-1,0,1,-1,65,0,0,0,0,761,39,198,255,245,41,761,Match Report
+326,Brighton,2021-02-06,Burnley,eng Premier League,D 1-1,1,1,0,45,1,0,0,0,512,83,214,215,88,11,512,Match Report
+327,Southampton,2021-02-06,Newcastle Utd,eng Premier League,L 2-3,2,3,-1,73,2,0,0,0,757,33,146,255,252,36,757,Match Report
+328,Burnley,2021-02-06,Brighton,eng Premier League,D 1-1,1,1,0,55,1,0,0,0,597,38,143,255,178,38,597,Match Report
+329,Manchester Utd,2021-02-06,Everton,eng Premier League,D 3-3,3,3,0,61,3,0,0,0,787,48,170,255,220,20,787,Match Report
+330,West Ham,2021-02-06,Fulham,eng Premier League,D 0-0,0,0,0,40,0,0,0,0,494,67,187,210,100,16,494,Match Report
+331,Chelsea,2021-02-04,Tottenham,eng Premier League,W 1-0,1,0,+1,58,0,1,1,0,754,52,176,255,217,32,753,Match Report
+332,Tottenham,2021-02-04,Chelsea,eng Premier League,L 0-1,0,1,-1,43,0,0,0,0,583,86,245,225,118,12,583,Match Report
+333,Everton,2021-02-03,Leeds United,eng Premier League,W 2-1,2,1,+1,37,2,0,0,0,501,70,180,211,119,14,501,Match Report
+334,Aston Villa,2021-02-03,West Ham,eng Premier League,L 1-3,1,3,-2,56,1,0,0,0,626,67,179,255,176,24,626,Match Report
+335,Brighton,2021-02-03,Liverpool,eng Premier League,W 1-0,1,0,+1,37,1,0,0,0,556,93,250,206,107,19,556,Match Report
+336,West Ham,2021-02-03,Aston Villa,eng Premier League,W 3-1,3,1,+2,44,3,0,0,0,516,66,167,193,159,25,516,Match Report
+337,Manchester City,2021-02-03,Burnley,eng Premier League,W 2-0,2,0,+2,74,2,0,0,0,914,59,181,255,255,26,914,Match Report
+338,Fulham,2021-02-03,Leicester City,eng Premier League,L 0-2,0,2,-2,57,0,0,0,0,762,70,227,255,187,23,762,Match Report
+339,Liverpool,2021-02-03,Brighton,eng Premier League,L 0-1,0,1,-1,63,0,0,0,0,858,53,190,255,255,20,858,Match Report
+340,Leeds United,2021-02-03,Everton,eng Premier League,L 1-2,1,2,-1,63,1,0,0,0,730,57,222,255,223,31,730,Match Report
+341,Leicester City,2021-02-03,Fulham,eng Premier League,W 2-0,2,0,+2,43,2,0,0,0,608,70,255,222,108,18,608,Match Report
+342,Burnley,2021-02-03,Manchester City,eng Premier League,L 0-2,0,2,-2,26,0,0,0,0,374,53,147,179,53,9,374,Match Report
+343,Wolves,2021-02-02,Arsenal,eng Premier League,W 2-1,2,1,+1,55,1,1,1,0,709,51,186,255,175,19,708,Match Report
+344,Southampton,2021-02-02,Manchester Utd,eng Premier League,L 0-9,0,9,-9,26,0,0,0,0,360,90,197,139,25,2,360,Match Report
+345,West Brom,2021-02-02,Sheffield Utd,eng Premier League,L 1-2,1,2,-1,32,1,0,0,0,431,68,178,154,100,22,431,Match Report
+346,Manchester Utd,2021-02-02,Southampton,eng Premier League,W 9-0,9,0,+9,74,7,1,1,0,758,18,75,255,255,50,757,Match Report
+347,Newcastle Utd,2021-02-02,Crystal Palace,eng Premier League,L 1-2,1,2,-1,61,1,0,0,0,766,32,185,255,203,34,766,Match Report
+348,Sheffield Utd,2021-02-02,West Brom,eng Premier League,W 2-1,2,1,+1,68,2,0,0,0,765,52,187,255,246,29,765,Match Report
+349,Arsenal,2021-02-02,Wolves,eng Premier League,L 1-2,1,2,-1,45,1,0,0,0,609,66,179,255,113,19,609,Match Report
+350,Crystal Palace,2021-02-02,Newcastle Utd,eng Premier League,W 2-1,2,1,+1,39,2,0,0,0,531,67,170,248,120,12,531,Match Report
+351,Brighton,2021-01-31,Tottenham,eng Premier League,W 1-0,1,0,+1,43,1,0,0,0,590,57,194,205,196,46,590,Match Report
+352,Leicester City,2021-01-31,Leeds United,eng Premier League,L 1-3,1,3,-2,51,1,0,0,0,583,41,151,255,132,14,583,Match Report
+353,Liverpool,2021-01-31,West Ham,eng Premier League,W 3-1,3,1,+2,67,3,0,0,0,898,53,182,255,176,25,898,Match Report
+354,West Ham,2021-01-31,Liverpool,eng Premier League,L 1-3,1,3,-2,33,1,0,0,0,496,68,216,199,89,14,496,Match Report
+355,Chelsea,2021-01-31,Burnley,eng Premier League,W 2-0,2,0,+2,70,2,0,0,0,861,56,248,255,255,46,861,Match Report
+356,Leeds United,2021-01-31,Leicester City,eng Premier League,W 3-1,3,1,+2,49,3,0,0,0,570,76,245,255,66,14,570,Match Report
+357,Burnley,2021-01-31,Chelsea,eng Premier League,L 0-2,0,2,-2,30,0,0,0,0,412,69,153,182,79,10,412,Match Report
+358,Tottenham,2021-01-31,Brighton,eng Premier League,L 0-1,0,1,-1,57,0,0,0,0,711,82,222,255,175,14,711,Match Report
+359,Manchester Utd,2021-01-30,Arsenal,eng Premier League,D 0-0,0,0,0,57,0,0,0,0,715,70,215,255,195,29,715,Match Report
+360,Arsenal,2021-01-30,Manchester Utd,eng Premier League,D 0-0,0,0,0,43,0,0,0,0,562,75,225,204,141,17,562,Match Report
+361,Manchester City,2021-01-30,Sheffield Utd,eng Premier League,W 1-0,1,0,+1,75,1,0,0,0,915,30,145,255,255,28,915,Match Report
+362,Aston Villa,2021-01-30,Southampton,eng Premier League,W 1-0,1,0,+1,41,1,0,0,0,504,78,186,187,135,18,504,Match Report
+363,Wolves,2021-01-30,Crystal Palace,eng Premier League,L 0-1,0,1,-1,52,0,0,0,0,698,43,201,255,136,14,698,Match Report
+364,Fulham,2021-01-30,West Brom,eng Premier League,D 2-2,2,2,0,62,2,0,0,0,713,56,255,255,151,18,713,Match Report
+365,Southampton,2021-01-30,Aston Villa,eng Premier League,L 0-1,0,1,-1,59,0,0,0,0,659,54,236,255,173,36,659,Match Report
+366,Crystal Palace,2021-01-30,Wolves,eng Premier League,W 1-0,1,0,+1,48,1,0,0,0,641,48,178,255,139,17,641,Match Report
+367,Everton,2021-01-30,Newcastle Utd,eng Premier League,L 0-2,0,2,-2,60,0,0,0,0,645,75,227,255,147,24,645,Match Report
+368,Newcastle Utd,2021-01-30,Everton,eng Premier League,W 2-0,2,0,+2,40,2,0,0,0,457,55,148,168,148,15,457,Match Report
+369,West Brom,2021-01-30,Fulham,eng Premier League,D 2-2,2,2,0,38,2,0,0,0,473,59,170,195,112,13,473,Match Report
+370,Sheffield Utd,2021-01-30,Manchester City,eng Premier League,L 0-1,0,1,-1,25,0,0,0,0,395,70,206,135,60,9,395,Match Report
+371,Liverpool,2021-01-28,Tottenham,eng Premier League,W 3-1,3,1,+2,50,3,0,0,0,714,45,141,255,207,28,714,Match Report
+372,Tottenham,2021-01-28,Liverpool,eng Premier League,L 1-3,1,3,-2,50,1,0,0,0,712,73,236,255,112,9,712,Match Report
+373,Sheffield Utd,2021-01-27,Manchester Utd,eng Premier League,W 2-1,2,1,+1,25,2,0,0,0,407,62,173,142,97,8,407,Match Report
+374,Manchester Utd,2021-01-27,Sheffield Utd,eng Premier League,L 1-2,1,2,-1,75,1,0,0,0,943,35,240,255,255,27,943,Match Report
+375,Burnley,2021-01-27,Aston Villa,eng Premier League,W 3-2,3,2,+1,39,3,0,0,0,430,56,134,190,111,11,430,Match Report
+376,Chelsea,2021-01-27,Wolves,eng Premier League,D 0-0,0,0,0,78,0,0,0,0,1028,29,90,255,255,31,1028,Match Report
+377,Aston Villa,2021-01-27,Burnley,eng Premier League,L 2-3,2,3,-1,61,2,0,0,0,629,60,245,225,164,32,629,Match Report
+378,Everton,2021-01-27,Leicester City,eng Premier League,D 1-1,1,1,0,35,1,0,0,0,465,80,216,132,123,14,465,Match Report
+379,Wolves,2021-01-27,Chelsea,eng Premier League,D 0-0,0,0,0,22,0,0,0,0,360,78,208,113,41,5,360,Match Report
+380,Fulham,2021-01-27,Brighton,eng Premier League,D 0-0,0,0,0,50,0,0,0,0,595,71,216,255,102,15,595,Match Report
+381,Leicester City,2021-01-27,Everton,eng Premier League,D 1-1,1,1,0,65,1,0,0,0,737,57,228,255,189,25,737,Match Report
+382,Brighton,2021-01-27,Fulham,eng Premier League,D 0-0,0,0,0,50,0,0,0,0,573,41,135,255,182,35,573,Match Report
+383,Southampton,2021-01-26,Arsenal,eng Premier League,L 1-3,1,3,-2,58,1,0,0,0,650,64,254,255,128,18,650,Match Report
+384,Arsenal,2021-01-26,Southampton,eng Premier League,W 3-1,3,1,+2,42,3,0,0,0,500,51,171,189,143,21,500,Match Report
+385,West Ham,2021-01-26,Crystal Palace,eng Premier League,W 3-2,3,2,+1,46,3,0,0,0,605,48,165,255,154,21,605,Match Report
+386,Newcastle Utd,2021-01-26,Leeds United,eng Premier League,L 1-2,1,2,-1,42,1,0,0,0,471,50,135,215,133,18,471,Match Report
+387,Manchester City,2021-01-26,West Brom,eng Premier League,W 5-0,5,0,+5,77,5,0,0,0,1009,50,185,255,255,35,1009,Match Report
+388,Crystal Palace,2021-01-26,West Ham,eng Premier League,L 2-3,2,3,-1,54,2,0,0,0,693,42,215,255,159,18,693,Match Report
+389,Leeds United,2021-01-26,Newcastle Utd,eng Premier League,W 2-1,2,1,+1,58,2,0,0,0,599,86,255,220,119,23,599,Match Report
+390,West Brom,2021-01-26,Manchester City,eng Premier League,L 0-5,0,5,-5,23,0,0,0,0,370,74,173,136,68,10,370,Match Report
+391,Newcastle Utd,2021-01-23,Aston Villa,eng Premier League,L 0-2,0,2,-2,42,0,0,0,0,518,48,162,217,145,8,518,Match Report
+392,Aston Villa,2021-01-23,Newcastle Utd,eng Premier League,W 2-0,2,0,+2,58,2,0,0,0,725,77,251,255,154,18,725,Match Report
+393,Burnley,2021-01-21,Liverpool,eng Premier League,W 1-0,1,0,+1,28,0,1,1,0,423,107,218,157,54,11,422,Match Report
+394,Liverpool,2021-01-21,Burnley,eng Premier League,L 0-1,0,1,-1,72,0,0,0,0,829,55,188,255,255,48,829,Match Report
+395,Fulham,2021-01-20,Manchester Utd,eng Premier League,L 1-2,1,2,-1,38,1,0,0,0,569,86,255,228,87,13,569,Match Report
+396,Manchester City,2021-01-20,Aston Villa,eng Premier League,W 2-0,2,0,+2,69,1,1,1,0,772,46,174,255,255,64,771,Match Report
+397,Manchester Utd,2021-01-20,Fulham,eng Premier League,W 2-1,2,1,+1,62,2,0,0,0,808,51,165,255,255,25,808,Match Report
+398,Aston Villa,2021-01-20,Manchester City,eng Premier League,L 0-2,0,2,-2,31,0,0,0,0,425,110,205,141,84,15,425,Match Report
+399,West Ham,2021-01-19,West Brom,eng Premier League,W 2-1,2,1,+1,59,2,0,0,0,687,55,173,255,203,20,687,Match Report
+400,West Brom,2021-01-19,West Ham,eng Premier League,L 1-2,1,2,-1,41,1,0,0,0,515,55,170,241,109,17,515,Match Report
+401,Chelsea,2021-01-19,Leicester City,eng Premier League,L 0-2,0,2,-2,64,0,0,0,0,782,74,255,255,166,14,782,Match Report
+402,Leicester City,2021-01-19,Chelsea,eng Premier League,W 2-0,2,0,+2,36,2,0,0,0,479,61,178,179,129,19,479,Match Report
+403,Newcastle Utd,2021-01-18,Arsenal,eng Premier League,L 0-3,0,3,-3,34,0,0,0,0,441,63,191,169,87,7,441,Match Report
+404,Arsenal,2021-01-18,Newcastle Utd,eng Premier League,W 3-0,3,0,+3,66,3,0,0,0,764,45,197,255,198,34,764,Match Report
+405,Liverpool,2021-01-17,Manchester Utd,eng Premier League,D 0-0,0,0,0,65,0,0,0,0,819,58,218,255,255,39,819,Match Report
+406,Tottenham,2021-01-17,Sheffield Utd,eng Premier League,W 3-1,3,1,+2,57,3,0,0,0,730,71,255,255,141,24,730,Match Report
+407,Sheffield Utd,2021-01-17,Tottenham,eng Premier League,L 1-3,1,3,-2,43,1,0,0,0,584,48,148,255,161,17,584,Match Report
+408,Manchester City,2021-01-17,Crystal Palace,eng Premier League,W 4-0,4,0,+4,71,4,0,0,0,889,29,113,255,242,21,889,Match Report
+409,Manchester Utd,2021-01-17,Liverpool,eng Premier League,D 0-0,0,0,0,35,0,0,0,0,508,94,228,198,93,16,508,Match Report
+410,Crystal Palace,2021-01-17,Manchester City,eng Premier League,L 0-4,0,4,-4,29,0,0,0,0,434,80,224,146,68,8,434,Match Report
+411,Leicester City,2021-01-16,Southampton,eng Premier League,W 2-0,2,0,+2,47,2,0,0,0,600,68,210,255,131,26,600,Match Report
+412,Brighton,2021-01-16,Leeds United,eng Premier League,W 1-0,1,0,+1,34,1,0,0,0,445,73,168,168,122,17,445,Match Report
+413,Wolves,2021-01-16,West Brom,eng Premier League,L 2-3,2,3,-1,67,2,0,0,0,717,36,148,255,200,31,717,Match Report
+414,Burnley,2021-01-16,West Ham,eng Premier League,L 0-1,0,1,-1,55,0,0,0,0,611,55,169,255,140,17,611,Match Report
+415,West Brom,2021-01-16,Wolves,eng Premier League,W 3-2,3,2,+1,33,1,2,2,0,425,77,184,157,87,16,423,Match Report
+416,West Ham,2021-01-16,Burnley,eng Premier League,W 1-0,1,0,+1,45,1,0,0,0,537,64,171,223,148,28,537,Match Report
+417,Southampton,2021-01-16,Leicester City,eng Premier League,L 0-2,0,2,-2,53,0,0,0,0,655,55,180,255,146,20,655,Match Report
+418,Fulham,2021-01-16,Chelsea,eng Premier League,L 0-1,0,1,-1,31,0,0,0,0,511,73,188,209,121,18,511,Match Report
+419,Leeds United,2021-01-16,Brighton,eng Premier League,L 0-1,0,1,-1,66,0,0,0,0,753,62,233,255,177,21,753,Match Report
+420,Chelsea,2021-01-16,Fulham,eng Premier League,W 1-0,1,0,+1,69,1,0,0,0,934,72,228,255,253,39,934,Match Report
+421,Crystal Palace,2021-01-14,Arsenal,eng Premier League,D 0-0,0,0,0,33,0,0,0,0,485,57,204,189,97,18,485,Match Report
+422,Arsenal,2021-01-14,Crystal Palace,eng Premier League,D 0-0,0,0,0,67,0,0,0,0,831,47,204,255,226,24,831,Match Report
+423,Fulham,2021-01-13,Tottenham,eng Premier League,D 1-1,1,1,0,47,1,0,0,0,616,58,173,255,138,20,616,Match Report
+424,Manchester City,2021-01-13,Brighton,eng Premier League,W 1-0,1,0,+1,65,1,0,1,1,872,55,195,255,255,38,871,Match Report
+425,Tottenham,2021-01-13,Fulham,eng Premier League,D 1-1,1,1,0,53,1,0,0,0,671,62,168,255,140,25,671,Match Report
+426,Brighton,2021-01-13,Manchester City,eng Premier League,L 0-1,0,1,-1,35,0,0,0,0,510,101,225,188,103,12,510,Match Report
+427,Burnley,2021-01-12,Manchester Utd,eng Premier League,L 0-1,0,1,-1,38,0,0,0,0,479,60,176,192,111,16,479,Match Report
+428,Newcastle Utd,2021-01-12,Sheffield Utd,eng Premier League,L 0-1,0,1,-1,35,0,0,0,0,436,70,189,181,75,9,436,Match Report
+429,Everton,2021-01-12,Wolves,eng Premier League,W 2-1,2,1,+1,48,2,0,0,0,633,62,182,255,136,13,633,Match Report
+430,Manchester Utd,2021-01-12,Burnley,eng Premier League,W 1-0,1,0,+1,62,1,0,0,0,727,57,208,255,221,29,727,Match Report
+431,Sheffield Utd,2021-01-12,Newcastle Utd,eng Premier League,W 1-0,1,0,+1,65,0,1,1,0,725,35,132,255,255,37,724,Match Report
+432,Wolves,2021-01-12,Everton,eng Premier League,L 1-2,1,2,-1,52,1,0,0,0,700,51,183,255,180,16,700,Match Report
+433,Liverpool,2021-01-04,Southampton,eng Premier League,L 0-1,0,1,-1,66,0,0,0,0,842,45,209,255,243,52,842,Match Report
+434,Southampton,2021-01-04,Liverpool,eng Premier League,W 1-0,1,0,+1,34,1,0,0,0,531,102,246,239,51,4,531,Match Report
+435,Newcastle Utd,2021-01-03,Leicester City,eng Premier League,L 1-2,1,2,-1,44,1,0,0,0,523,54,168,239,124,12,523,Match Report
+436,Leicester City,2021-01-03,Newcastle Utd,eng Premier League,W 2-1,2,1,+1,56,2,0,0,0,651,57,237,255,112,16,651,Match Report
+437,Manchester City,2021-01-03,Chelsea,eng Premier League,W 3-1,3,1,+2,46,3,0,0,0,688,68,210,255,137,28,688,Match Report
+438,Chelsea,2021-01-03,Manchester City,eng Premier League,L 1-3,1,3,-2,54,1,0,0,0,778,63,230,255,192,20,778,Match Report
+439,West Brom,2021-01-02,Arsenal,eng Premier League,L 0-4,0,4,-4,39,0,0,0,0,528,62,145,241,148,12,528,Match Report
+440,Crystal Palace,2021-01-02,Sheffield Utd,eng Premier League,W 2-0,2,0,+2,44,2,0,0,0,589,52,191,251,153,16,589,Match Report
+441,Leeds United,2021-01-02,Tottenham,eng Premier League,L 0-3,0,3,-3,63,0,0,0,0,751,80,255,255,164,30,751,Match Report
+442,Sheffield Utd,2021-01-02,Crystal Palace,eng Premier League,L 0-2,0,2,-2,56,0,0,0,0,698,55,224,255,172,16,698,Match Report
+443,Tottenham,2021-01-02,Leeds United,eng Premier League,W 3-0,3,0,+3,37,2,1,1,0,499,71,168,213,126,28,498,Match Report
+444,Arsenal,2021-01-02,West Brom,eng Premier League,W 4-0,4,0,+4,61,4,0,0,0,785,61,255,255,185,32,785,Match Report
+445,Brighton,2021-01-02,Wolves,eng Premier League,D 3-3,3,3,0,54,2,1,1,0,694,44,182,255,144,27,693,Match Report
+446,Wolves,2021-01-02,Brighton,eng Premier League,D 3-3,3,3,0,46,1,1,1,0,602,65,218,255,124,13,601,Match Report
+447,Aston Villa,2021-01-01,Manchester Utd,eng Premier League,L 1-2,1,2,-1,52,1,0,0,0,577,70,201,222,159,24,577,Match Report
+448,Everton,2021-01-01,West Ham,eng Premier League,L 0-1,0,1,-1,60,0,0,0,0,727,63,216,255,157,17,727,Match Report
+449,Manchester Utd,2021-01-01,Aston Villa,eng Premier League,W 2-1,2,1,+1,48,1,1,1,0,553,61,177,210,172,35,552,Match Report
+450,West Ham,2021-01-01,Everton,eng Premier League,W 1-0,1,0,+1,40,1,0,0,0,547,53,201,223,130,24,547,Match Report
+451,Newcastle Utd,2020-12-30,Liverpool,eng Premier League,D 0-0,0,0,0,28,0,0,0,0,407,74,170,158,84,13,407,Match Report
+452,Liverpool,2020-12-30,Newcastle Utd,eng Premier League,D 0-0,0,0,0,72,0,0,0,0,836,43,206,255,202,31,836,Match Report
+453,Brighton,2020-12-29,Arsenal,eng Premier League,L 0-1,0,1,-1,50,0,0,0,0,624,64,207,255,157,22,624,Match Report
+454,Wolves,2020-12-29,Manchester Utd,eng Premier League,L 0-1,0,1,-1,42,0,0,0,0,576,73,254,214,110,18,576,Match Report
+455,Burnley,2020-12-29,Sheffield Utd,eng Premier League,W 1-0,1,0,+1,37,1,0,0,0,451,54,163,212,79,13,451,Match Report
+456,West Ham,2020-12-29,Southampton,eng Premier League,D 0-0,0,0,0,38,0,0,0,0,483,58,162,212,115,17,483,Match Report
+457,West Brom,2020-12-29,Leeds United,eng Premier League,L 0-5,0,5,-5,25,0,0,0,0,371,66,164,120,92,9,371,Match Report
+458,Leeds United,2020-12-29,West Brom,eng Premier League,W 5-0,5,0,+5,75,4,0,0,0,898,63,255,255,210,23,898,Match Report
+459,Southampton,2020-12-29,West Ham,eng Premier League,D 0-0,0,0,0,62,0,0,0,0,727,53,183,255,157,21,727,Match Report
+460,Manchester Utd,2020-12-29,Wolves,eng Premier League,W 1-0,1,0,+1,58,1,0,0,0,754,37,154,255,255,26,754,Match Report
+461,Sheffield Utd,2020-12-29,Burnley,eng Premier League,L 0-1,0,1,-1,63,0,0,0,0,680,40,140,255,202,11,680,Match Report
+462,Arsenal,2020-12-29,Brighton,eng Premier League,W 1-0,1,0,+1,50,1,0,0,0,648,78,232,255,112,15,648,Match Report
+463,Leicester City,2020-12-28,Crystal Palace,eng Premier League,D 1-1,1,1,0,66,1,0,1,1,776,41,177,255,195,17,775,Match Report
+464,Chelsea,2020-12-28,Aston Villa,eng Premier League,D 1-1,1,1,0,63,1,0,0,0,725,69,255,255,197,28,725,Match Report
+465,Crystal Palace,2020-12-28,Leicester City,eng Premier League,D 1-1,1,1,0,34,1,0,0,0,469,66,212,192,70,6,469,Match Report
+466,Aston Villa,2020-12-28,Chelsea,eng Premier League,D 1-1,1,1,0,37,1,0,0,0,488,67,158,206,128,17,488,Match Report
+467,Wolves,2020-12-27,Tottenham,eng Premier League,D 1-1,1,1,0,55,1,0,0,0,711,44,156,255,199,26,711,Match Report
+468,Burnley,2020-12-27,Leeds United,eng Premier League,L 0-1,0,1,-1,49,0,0,0,0,533,44,108,229,199,35,533,Match Report
+469,Liverpool,2020-12-27,West Brom,eng Premier League,D 1-1,1,1,0,77,1,0,0,0,951,38,143,255,255,39,951,Match Report
+470,Brighton,2020-12-27,West Ham,eng Premier League,D 2-2,2,2,0,56,2,0,0,0,715,81,215,255,157,19,715,Match Report
+471,West Brom,2020-12-27,Liverpool,eng Premier League,D 1-1,1,1,0,23,1,0,0,0,386,96,179,131,81,9,386,Match Report
+472,Tottenham,2020-12-27,Wolves,eng Premier League,D 1-1,1,1,0,45,1,0,0,0,595,78,179,255,98,14,595,Match Report
+473,Leeds United,2020-12-27,Burnley,eng Premier League,W 1-0,1,0,+1,51,0,1,1,0,584,84,255,255,68,16,583,Match Report
+474,West Ham,2020-12-27,Brighton,eng Premier League,D 2-2,2,2,0,44,2,0,0,0,559,43,169,255,140,26,559,Match Report
+475,Chelsea,2020-12-26,Arsenal,eng Premier League,L 1-3,1,3,-2,60,1,0,1,1,679,67,227,255,185,32,678,Match Report
+476,Leicester City,2020-12-26,Manchester Utd,eng Premier League,D 2-2,2,2,0,54,1,0,0,0,656,63,251,255,156,17,656,Match Report
+477,Everton,2020-12-26,Sheffield Utd,eng Premier League,W 1-0,1,0,+1,56,1,0,0,0,697,68,247,255,120,18,697,Match Report
+478,Fulham,2020-12-26,Southampton,eng Premier League,D 0-0,0,0,0,47,0,0,0,0,523,52,188,189,157,20,523,Match Report
+479,Aston Villa,2020-12-26,Crystal Palace,eng Premier League,W 3-0,3,0,+3,39,3,0,0,0,452,57,139,180,139,31,452,Match Report
+480,Crystal Palace,2020-12-26,Aston Villa,eng Premier League,L 0-3,0,3,-3,61,0,0,0,0,622,53,172,255,174,22,622,Match Report
+481,Manchester Utd,2020-12-26,Leicester City,eng Premier League,D 2-2,2,2,0,46,2,0,0,0,590,59,202,255,95,16,590,Match Report
+482,Manchester City,2020-12-26,Newcastle Utd,eng Premier League,W 2-0,2,0,+2,74,2,0,0,0,978,41,156,255,228,37,978,Match Report
+483,Arsenal,2020-12-26,Chelsea,eng Premier League,W 3-1,3,1,+2,40,2,1,1,0,477,67,186,164,130,23,476,Match Report
+484,Sheffield Utd,2020-12-26,Everton,eng Premier League,L 0-1,0,1,-1,44,0,0,0,0,576,44,160,255,146,19,576,Match Report
+485,Southampton,2020-12-26,Fulham,eng Premier League,D 0-0,0,0,0,53,0,0,0,0,567,61,190,255,102,7,567,Match Report
+486,Newcastle Utd,2020-12-26,Manchester City,eng Premier League,L 0-2,0,2,-2,26,0,0,0,0,404,56,151,167,91,9,404,Match Report
+487,Chelsea,2020-12-21,West Ham,eng Premier League,W 3-0,3,0,+3,53,3,0,0,0,693,78,255,255,149,22,693,Match Report
+488,Burnley,2020-12-21,Wolves,eng Premier League,W 2-1,2,1,+1,37,2,0,0,0,390,51,125,166,104,19,390,Match Report
+489,Wolves,2020-12-21,Burnley,eng Premier League,L 1-2,1,2,-1,63,0,1,1,0,611,57,179,255,156,16,610,Match Report
+490,West Ham,2020-12-21,Chelsea,eng Premier League,L 0-3,0,3,-3,47,0,0,0,0,581,58,173,255,146,27,581,Match Report
+491,Leeds United,2020-12-20,Manchester Utd,eng Premier League,L 2-6,2,6,-4,59,2,0,0,0,667,74,251,236,182,27,667,Match Report
+492,Brighton,2020-12-20,Sheffield Utd,eng Premier League,D 1-1,1,1,0,73,1,0,0,0,693,50,176,255,238,36,693,Match Report
+493,Leicester City,2020-12-20,Tottenham,eng Premier League,W 2-0,2,0,+2,44,0,1,1,0,581,73,225,195,166,28,580,Match Report
+494,Manchester Utd,2020-12-20,Leeds United,eng Premier League,W 6-2,6,2,+4,41,5,1,1,0,528,85,203,177,158,29,527,Match Report
+495,Aston Villa,2020-12-20,West Brom,eng Premier League,W 3-0,3,0,+3,67,2,1,1,0,724,25,157,255,244,39,723,Match Report
+496,West Brom,2020-12-20,Aston Villa,eng Premier League,L 0-3,0,3,-3,33,0,0,0,0,416,75,187,171,61,5,416,Match Report
+497,Tottenham,2020-12-20,Leicester City,eng Premier League,L 0-2,0,2,-2,56,0,0,0,0,662,53,197,255,159,27,662,Match Report
+498,Sheffield Utd,2020-12-20,Brighton,eng Premier League,D 1-1,1,1,0,27,1,0,0,0,342,70,158,96,90,11,342,Match Report
+499,Everton,2020-12-19,Arsenal,eng Premier League,W 2-1,2,1,+1,43,1,0,0,0,528,79,188,227,114,12,528,Match Report
+500,Manchester City,2020-12-19,Southampton,eng Premier League,W 1-0,1,0,+1,52,1,0,0,0,701,63,196,255,142,18,701,Match Report
+501,Liverpool,2020-12-19,Crystal Palace,eng Premier League,W 7-0,7,0,+7,64,7,0,0,0,873,46,255,255,138,15,873,Match Report
+502,Crystal Palace,2020-12-19,Liverpool,eng Premier League,L 0-7,0,7,-7,36,0,0,0,0,518,46,162,252,113,14,518,Match Report
+503,Fulham,2020-12-19,Newcastle Utd,eng Premier League,D 1-1,1,1,0,51,0,0,0,0,617,55,194,255,148,19,617,Match Report
+504,Arsenal,2020-12-19,Everton,eng Premier League,L 1-2,1,2,-1,57,0,1,1,0,684,55,182,255,193,37,683,Match Report
+505,Newcastle Utd,2020-12-19,Fulham,eng Premier League,D 1-1,1,1,0,49,0,1,1,0,606,63,203,255,118,11,605,Match Report
+506,Southampton,2020-12-19,Manchester City,eng Premier League,L 0-1,0,1,-1,48,0,0,0,0,644,62,233,255,127,20,644,Match Report
+507,Sheffield Utd,2020-12-17,Manchester Utd,eng Premier League,L 2-3,2,3,-1,40,2,0,0,0,511,53,139,205,170,24,511,Match Report
+508,Manchester Utd,2020-12-17,Sheffield Utd,eng Premier League,W 3-2,3,2,+1,60,3,0,0,0,715,74,255,255,140,16,715,Match Report
+509,Burnley,2020-12-17,Aston Villa,eng Premier League,D 0-0,0,0,0,41,0,0,0,0,421,77,165,185,74,9,421,Match Report
+510,Aston Villa,2020-12-17,Burnley,eng Premier League,D 0-0,0,0,0,59,0,0,0,0,541,45,139,235,172,38,541,Match Report
+511,Southampton,2020-12-16,Arsenal,eng Premier League,D 1-1,1,1,0,64,1,0,0,0,765,47,197,255,203,22,765,Match Report
+512,Arsenal,2020-12-16,Southampton,eng Premier League,D 1-1,1,1,0,36,1,0,0,0,483,63,207,203,79,15,483,Match Report
+513,Liverpool,2020-12-16,Tottenham,eng Premier League,W 2-1,2,1,+1,75,2,0,0,0,960,37,176,255,255,37,960,Match Report
+514,West Ham,2020-12-16,Crystal Palace,eng Premier League,D 1-1,1,1,0,52,1,0,0,0,614,51,200,255,135,14,614,Match Report
+515,Newcastle Utd,2020-12-16,Leeds United,eng Premier League,L 2-5,2,5,-3,32,2,0,0,0,410,78,169,156,93,19,410,Match Report
+516,Crystal Palace,2020-12-16,West Ham,eng Premier League,D 1-1,1,1,0,48,1,0,0,0,547,49,141,255,143,22,547,Match Report
+517,Tottenham,2020-12-16,Liverpool,eng Premier League,L 1-2,1,2,-1,25,1,0,0,0,416,75,204,160,58,6,416,Match Report
+518,Everton,2020-12-16,Leicester City,eng Premier League,W 2-0,2,0,+2,39,2,0,0,0,490,63,191,205,102,14,490,Match Report
+519,Leeds United,2020-12-16,Newcastle Utd,eng Premier League,W 5-2,5,2,+3,68,5,0,0,0,697,56,173,255,240,46,697,Match Report
+520,Fulham,2020-12-16,Brighton,eng Premier League,D 0-0,0,0,0,46,0,0,0,0,594,61,224,230,147,12,594,Match Report
+521,Leicester City,2020-12-16,Everton,eng Premier League,L 0-2,0,2,-2,61,0,0,0,0,695,49,198,255,149,18,695,Match Report
+522,Brighton,2020-12-16,Fulham,eng Premier League,D 0-0,0,0,0,54,0,0,0,0,646,61,221,255,147,17,646,Match Report
+523,Manchester City,2020-12-15,West Brom,eng Premier League,D 1-1,1,1,0,77,1,0,0,0,902,26,108,255,255,46,902,Match Report
+524,Chelsea,2020-12-15,Wolves,eng Premier League,L 1-2,1,2,-1,55,1,0,0,0,661,59,154,255,205,34,661,Match Report
+525,Wolves,2020-12-15,Chelsea,eng Premier League,W 2-1,2,1,+1,45,2,0,0,0,584,75,211,253,127,15,584,Match Report
+526,West Brom,2020-12-15,Manchester City,eng Premier League,D 1-1,1,1,0,23,0,0,0,0,358,91,185,127,51,6,358,Match Report
+527,Burnley,2020-12-13,Arsenal,eng Premier League,W 1-0,1,0,+1,35,0,0,0,0,470,81,172,198,103,16,470,Match Report
+528,Southampton,2020-12-13,Sheffield Utd,eng Premier League,W 3-0,3,0,+3,67,3,0,0,0,723,56,223,255,139,26,723,Match Report
+529,Sheffield Utd,2020-12-13,Southampton,eng Premier League,L 0-3,0,3,-3,33,0,0,0,0,394,62,124,158,113,6,394,Match Report
+530,Crystal Palace,2020-12-13,Tottenham,eng Premier League,D 1-1,1,1,0,44,1,0,0,0,513,64,186,202,128,26,513,Match Report
+531,Tottenham,2020-12-13,Crystal Palace,eng Premier League,D 1-1,1,1,0,56,1,0,0,0,607,51,151,255,185,16,607,Match Report
+532,Fulham,2020-12-13,Liverpool,eng Premier League,D 1-1,1,1,0,26,1,0,0,0,416,76,188,105,127,21,416,Match Report
+533,Arsenal,2020-12-13,Burnley,eng Premier League,L 0-1,0,1,-1,65,0,0,0,0,729,70,245,255,218,36,729,Match Report
+534,Brighton,2020-12-13,Leicester City,eng Premier League,L 0-3,0,3,-3,46,0,0,0,0,594,76,251,233,114,11,594,Match Report
+535,Leicester City,2020-12-13,Brighton,eng Premier League,W 3-0,3,0,+3,54,3,0,0,0,687,59,191,255,192,28,687,Match Report
+536,Liverpool,2020-12-13,Fulham,eng Premier League,D 1-1,1,1,0,74,0,1,1,0,884,55,203,255,228,25,883,Match Report
+537,Manchester City,2020-12-12,Manchester Utd,eng Premier League,D 0-0,0,0,0,54,0,0,0,0,673,46,188,255,157,20,673,Match Report
+538,Newcastle Utd,2020-12-12,West Brom,eng Premier League,W 2-1,2,1,+1,46,2,0,0,0,561,67,200,254,111,18,561,Match Report
+539,Wolves,2020-12-12,Aston Villa,eng Premier League,L 0-1,0,1,-1,50,0,0,0,0,522,73,215,177,135,23,522,Match Report
+540,Aston Villa,2020-12-12,Wolves,eng Premier League,W 1-0,1,0,+1,50,0,1,1,0,501,64,134,219,153,30,500,Match Report
+541,West Brom,2020-12-12,Newcastle Utd,eng Premier League,L 1-2,1,2,-1,54,1,0,0,0,630,37,121,255,171,10,630,Match Report
+542,Everton,2020-12-12,Chelsea,eng Premier League,W 1-0,1,0,+1,29,0,1,1,0,432,60,166,164,109,15,431,Match Report
+543,Chelsea,2020-12-12,Everton,eng Premier League,L 0-1,0,1,-1,71,0,0,0,0,815,49,240,255,190,20,815,Match Report
+544,Manchester Utd,2020-12-12,Manchester City,eng Premier League,D 0-0,0,0,0,46,0,0,0,0,613,81,255,255,71,9,613,Match Report
+545,West Ham,2020-12-11,Leeds United,eng Premier League,W 2-1,2,1,+1,37,2,0,0,0,458,65,168,153,143,24,458,Match Report
+546,Leeds United,2020-12-11,West Ham,eng Premier League,L 1-2,1,2,-1,63,0,1,1,0,710,80,255,255,171,20,709,Match Report
+547,Brighton,2020-12-07,Southampton,eng Premier League,L 1-2,1,2,-1,48,0,1,1,0,542,66,198,230,121,27,541,Match Report
+548,Southampton,2020-12-07,Brighton,eng Premier League,W 2-1,2,1,+1,52,1,1,1,0,578,53,170,255,138,18,577,Match Report
+549,Tottenham,2020-12-06,Arsenal,eng Premier League,W 2-0,2,0,+2,31,2,0,0,0,430,93,245,148,42,5,430,Match Report
+550,Leicester City,2020-12-06,Sheffield Utd,eng Premier League,W 2-1,2,1,+1,69,2,0,0,0,829,45,184,255,216,22,829,Match Report
+551,Arsenal,2020-12-06,Tottenham,eng Premier League,L 0-2,0,2,-2,69,0,0,0,0,789,37,98,255,255,36,789,Match Report
+552,West Brom,2020-12-06,Crystal Palace,eng Premier League,L 1-5,1,5,-4,50,1,0,0,0,628,55,158,255,117,18,628,Match Report
+553,Crystal Palace,2020-12-06,West Brom,eng Premier League,W 5-1,5,1,+4,50,4,0,0,0,626,46,171,255,175,31,626,Match Report
+554,Wolves,2020-12-06,Liverpool,eng Premier League,L 0-4,0,4,-4,40,0,0,0,0,533,44,153,245,141,19,533,Match Report
+555,Liverpool,2020-12-06,Wolves,eng Premier League,W 4-0,4,0,+4,60,3,0,0,0,742,45,167,255,145,21,742,Match Report
+556,Sheffield Utd,2020-12-06,Leicester City,eng Premier League,L 1-2,1,2,-1,31,1,0,0,0,438,64,161,150,128,12,438,Match Report
+557,West Ham,2020-12-05,Manchester Utd,eng Premier League,L 1-3,1,3,-2,40,1,0,0,0,535,37,151,245,144,27,535,Match Report
+558,Chelsea,2020-12-05,Leeds United,eng Premier League,W 3-1,3,1,+2,46,3,0,0,0,581,46,153,255,181,34,581,Match Report
+559,Manchester Utd,2020-12-05,West Ham,eng Premier League,W 3-1,3,1,+2,60,3,0,0,0,774,72,219,255,108,14,774,Match Report
+560,Everton,2020-12-05,Burnley,eng Premier League,D 1-1,1,1,0,58,1,0,0,0,734,78,254,255,143,24,734,Match Report
+561,Leeds United,2020-12-05,Chelsea,eng Premier League,L 1-3,1,3,-2,54,1,0,0,0,659,78,242,255,114,15,659,Match Report
+562,Burnley,2020-12-05,Everton,eng Premier League,D 1-1,1,1,0,42,1,0,0,0,564,56,157,255,133,15,564,Match Report
+563,Manchester City,2020-12-05,Fulham,eng Premier League,W 2-0,2,0,+2,69,1,1,1,0,919,50,169,255,204,35,918,Match Report
+564,Fulham,2020-12-05,Manchester City,eng Premier League,L 0-2,0,2,-2,31,0,0,0,0,491,87,201,211,90,6,491,Match Report
+565,Aston Villa,2020-11-30,West Ham,eng Premier League,L 1-2,1,2,-1,66,1,0,1,1,661,49,175,255,190,23,660,Match Report
+566,West Ham,2020-11-30,Aston Villa,eng Premier League,W 2-1,2,1,+1,34,2,0,0,0,404,70,161,198,53,10,404,Match Report
+567,Fulham,2020-11-30,Leicester City,eng Premier League,W 2-1,2,1,+1,32,1,1,1,0,464,58,167,199,107,14,463,Match Report
+568,Leicester City,2020-11-30,Fulham,eng Premier League,L 1-2,1,2,-1,68,1,0,0,0,825,39,161,255,177,22,825,Match Report
+569,Wolves,2020-11-29,Arsenal,eng Premier League,W 2-1,2,1,+1,44,2,0,0,0,568,95,213,255,103,21,568,Match Report
+570,Southampton,2020-11-29,Manchester Utd,eng Premier League,L 2-3,2,3,-1,50,2,0,0,0,690,72,225,255,103,15,690,Match Report
+571,Manchester Utd,2020-11-29,Southampton,eng Premier League,W 3-2,3,2,+1,50,3,0,0,0,685,52,221,255,158,27,685,Match Report
+572,Chelsea,2020-11-29,Tottenham,eng Premier League,D 0-0,0,0,0,60,0,0,0,0,788,50,166,255,202,18,788,Match Report
+573,Arsenal,2020-11-29,Wolves,eng Premier League,L 1-2,1,2,-1,56,1,0,0,0,651,35,129,255,219,35,651,Match Report
+574,Tottenham,2020-11-29,Chelsea,eng Premier League,D 0-0,0,0,0,40,0,0,0,0,546,84,210,227,116,12,546,Match Report
+575,West Brom,2020-11-28,Sheffield Utd,eng Premier League,W 1-0,1,0,+1,49,1,0,0,0,522,66,174,225,128,18,522,Match Report
+576,Everton,2020-11-28,Leeds United,eng Premier League,L 0-1,0,1,-1,41,0,0,0,0,555,77,212,211,139,23,555,Match Report
+577,Sheffield Utd,2020-11-28,West Brom,eng Premier League,L 0-1,0,1,-1,51,0,0,0,0,566,62,157,249,166,34,566,Match Report
+578,Brighton,2020-11-28,Liverpool,eng Premier League,D 1-1,1,1,0,40,0,1,2,1,502,53,202,202,107,15,500,Match Report
+579,Manchester City,2020-11-28,Burnley,eng Premier League,W 5-0,5,0,+5,68,5,0,0,0,858,71,237,255,176,28,858,Match Report
+580,Liverpool,2020-11-28,Brighton,eng Premier League,D 1-1,1,1,0,60,1,0,0,0,663,56,191,255,132,12,663,Match Report
+581,Leeds United,2020-11-28,Everton,eng Premier League,W 1-0,1,0,+1,59,1,0,0,0,720,64,183,255,209,36,720,Match Report
+582,Burnley,2020-11-28,Manchester City,eng Premier League,L 0-5,0,5,-5,32,0,0,0,0,449,52,125,217,114,12,449,Match Report
+583,Newcastle Utd,2020-11-27,Crystal Palace,eng Premier League,W 2-0,2,0,+2,43,2,0,0,0,524,62,150,255,108,14,524,Match Report
+584,Crystal Palace,2020-11-27,Newcastle Utd,eng Premier League,L 0-2,0,2,-2,57,0,0,0,0,657,38,207,255,149,28,657,Match Report
+585,Wolves,2020-11-23,Southampton,eng Premier League,D 1-1,1,1,0,46,1,0,0,0,576,42,132,255,141,30,576,Match Report
+586,Burnley,2020-11-23,Crystal Palace,eng Premier League,W 1-0,1,0,+1,46,1,0,0,0,552,66,155,255,88,15,552,Match Report
+587,Southampton,2020-11-23,Wolves,eng Premier League,D 1-1,1,1,0,54,1,0,0,0,659,65,169,255,81,19,659,Match Report
+588,Crystal Palace,2020-11-23,Burnley,eng Premier League,L 0-1,0,1,-1,54,0,0,0,0,623,47,174,255,157,25,623,Match Report
+589,Leeds United,2020-11-22,Arsenal,eng Premier League,D 0-0,0,0,0,66,0,0,0,0,752,45,165,255,242,36,752,Match Report
+590,West Ham,2020-11-22,Sheffield Utd,eng Premier League,W 1-0,1,0,+1,49,1,0,0,0,663,43,182,255,189,29,663,Match Report
+591,Arsenal,2020-11-22,Leeds United,eng Premier League,D 0-0,0,0,0,34,0,0,0,0,444,94,200,184,69,13,444,Match Report
+592,Sheffield Utd,2020-11-22,West Ham,eng Premier League,L 0-1,0,1,-1,51,0,0,0,0,674,60,184,255,169,14,674,Match Report
+593,Leicester City,2020-11-22,Liverpool,eng Premier League,L 0-3,0,3,-3,44,0,0,0,0,606,87,236,252,124,19,606,Match Report
+594,Liverpool,2020-11-22,Leicester City,eng Premier League,W 3-0,3,0,+3,56,2,0,0,0,731,48,159,255,156,31,731,Match Report
+595,Fulham,2020-11-22,Everton,eng Premier League,L 2-3,2,3,-1,54,2,0,1,1,779,55,206,255,245,21,778,Match Report
+596,Everton,2020-11-22,Fulham,eng Premier League,W 3-2,3,2,+1,46,3,0,0,0,661,69,255,255,132,23,661,Match Report
+597,West Brom,2020-11-21,Manchester Utd,eng Premier League,L 0-1,0,1,-1,37,0,0,0,0,542,77,217,250,79,9,542,Match Report
+598,Manchester City,2020-11-21,Tottenham,eng Premier League,L 0-2,0,2,-2,66,0,0,0,0,743,31,116,255,255,43,743,Match Report
+599,Manchester Utd,2020-11-21,West Brom,eng Premier League,W 1-0,1,0,+1,63,0,1,1,0,802,31,174,255,222,31,801,Match Report
+600,Brighton,2020-11-21,Aston Villa,eng Premier League,W 2-1,2,1,+1,44,2,0,0,0,557,121,255,211,80,21,557,Match Report
+601,Chelsea,2020-11-21,Newcastle Utd,eng Premier League,W 2-0,2,0,+2,70,1,0,0,0,881,64,188,255,194,28,881,Match Report
+602,Newcastle Utd,2020-11-21,Chelsea,eng Premier League,L 0-2,0,2,-2,30,0,0,0,0,421,55,142,179,107,9,421,Match Report
+603,Aston Villa,2020-11-21,Brighton,eng Premier League,L 1-2,1,2,-1,56,1,0,0,0,609,47,130,255,229,29,609,Match Report
+604,Tottenham,2020-11-21,Manchester City,eng Premier League,W 2-0,2,0,+2,34,2,0,0,0,452,108,223,184,54,8,452,Match Report
+605,Aston Villa,2020-11-08,Arsenal,eng Premier League,W 3-0,3,0,+3,41,2,0,0,0,517,70,155,220,152,33,517,Match Report
+606,West Brom,2020-11-08,Tottenham,eng Premier League,L 0-1,0,1,-1,42,0,0,0,0,508,51,143,213,157,22,508,Match Report
+607,Tottenham,2020-11-08,West Brom,eng Premier League,W 1-0,1,0,+1,58,1,0,0,0,672,69,195,255,145,20,672,Match Report
+608,Manchester City,2020-11-08,Liverpool,eng Premier League,D 1-1,1,1,0,54,1,0,1,1,673,66,207,255,100,14,672,Match Report
+609,Arsenal,2020-11-08,Aston Villa,eng Premier League,L 0-3,0,3,-3,59,0,0,0,0,679,76,239,255,153,25,679,Match Report
+610,Leicester City,2020-11-08,Wolves,eng Premier League,W 1-0,1,0,+1,49,0,1,2,1,636,52,148,255,153,11,634,Match Report
+611,Wolves,2020-11-08,Leicester City,eng Premier League,L 0-1,0,1,-1,51,0,0,0,0,651,42,155,255,145,18,651,Match Report
+612,Liverpool,2020-11-08,Manchester City,eng Premier League,D 1-1,1,1,0,46,0,1,1,0,581,66,228,255,98,21,580,Match Report
+613,Everton,2020-11-07,Manchester Utd,eng Premier League,L 1-3,1,3,-2,55,1,0,0,0,696,63,231,255,167,21,696,Match Report
+614,Chelsea,2020-11-07,Sheffield Utd,eng Premier League,W 4-1,4,1,+3,69,4,0,0,0,922,55,240,255,203,34,922,Match Report
+615,Leeds United,2020-11-07,Crystal Palace,eng Premier League,L 1-4,1,4,-3,64,1,0,0,0,771,64,201,255,193,20,771,Match Report
+616,Crystal Palace,2020-11-07,Leeds United,eng Premier League,W 4-1,4,1,+3,36,3,0,0,0,499,62,203,189,110,20,499,Match Report
+617,Fulham,2020-11-07,West Ham,eng Premier League,L 0-1,0,1,-1,47,0,0,1,1,596,60,173,255,163,22,595,Match Report
+618,Sheffield Utd,2020-11-07,Chelsea,eng Premier League,L 1-4,1,4,-3,31,1,0,0,0,464,56,137,214,118,8,464,Match Report
+619,Manchester Utd,2020-11-07,Everton,eng Premier League,W 3-1,3,1,+2,45,3,0,0,0,604,60,182,255,139,18,604,Match Report
+620,West Ham,2020-11-07,Fulham,eng Premier League,W 1-0,1,0,+1,53,1,0,0,0,676,56,161,255,163,25,676,Match Report
+621,Newcastle Utd,2020-11-06,Southampton,eng Premier League,L 0-2,0,2,-2,39,0,0,0,0,505,62,202,213,98,3,505,Match Report
+622,Brighton,2020-11-06,Burnley,eng Premier League,D 0-0,0,0,0,59,0,0,0,0,673,47,176,255,211,46,673,Match Report
+623,Southampton,2020-11-06,Newcastle Utd,eng Premier League,W 2-0,2,0,+2,61,2,0,0,0,714,47,192,255,124,18,714,Match Report
+624,Burnley,2020-11-06,Brighton,eng Premier League,D 0-0,0,0,0,41,0,0,0,0,525,77,199,254,75,10,525,Match Report
+625,Leicester City,2020-11-02,Leeds United,eng Premier League,W 4-1,4,1,+3,33,3,1,1,0,468,71,205,170,98,22,467,Match Report
+626,Fulham,2020-11-02,West Brom,eng Premier League,W 2-0,2,0,+2,47,2,0,0,0,577,54,168,250,170,15,577,Match Report
+627,Leeds United,2020-11-02,Leicester City,eng Premier League,L 1-4,1,4,-3,67,1,0,0,0,799,42,174,255,208,23,799,Match Report
+628,West Brom,2020-11-02,Fulham,eng Premier League,L 0-2,0,2,-2,53,0,0,0,0,648,66,235,255,126,16,648,Match Report
+629,Manchester Utd,2020-11-01,Arsenal,eng Premier League,L 0-1,0,1,-1,54,0,0,0,0,700,58,212,255,154,24,700,Match Report
+630,Arsenal,2020-11-01,Manchester Utd,eng Premier League,W 1-0,1,0,+1,46,0,1,1,0,645,82,222,255,130,14,644,Match Report
+631,Aston Villa,2020-11-01,Southampton,eng Premier League,L 3-4,3,4,-1,56,2,1,1,0,527,33,139,216,179,34,526,Match Report
+632,Brighton,2020-11-01,Tottenham,eng Premier League,L 1-2,1,2,-1,56,1,0,0,0,647,55,177,255,128,25,647,Match Report
+633,Southampton,2020-11-01,Aston Villa,eng Premier League,W 4-3,4,3,+1,44,4,0,0,0,453,76,182,205,68,6,453,Match Report
+634,Everton,2020-11-01,Newcastle Utd,eng Premier League,L 1-2,1,2,-1,61,1,0,0,0,774,49,180,255,166,23,774,Match Report
+635,Tottenham,2020-11-01,Brighton,eng Premier League,W 2-1,2,1,+1,44,1,1,1,0,526,52,170,241,119,15,525,Match Report
+636,Newcastle Utd,2020-11-01,Everton,eng Premier League,W 2-1,2,1,+1,39,1,1,1,0,521,67,213,226,86,14,520,Match Report
+637,Manchester City,2020-10-31,Sheffield Utd,eng Premier League,W 1-0,1,0,+1,65,1,0,0,0,855,56,221,255,196,32,855,Match Report
+638,Liverpool,2020-10-31,West Ham,eng Premier League,W 2-1,2,1,+1,72,1,1,1,0,947,34,124,255,230,31,946,Match Report
+639,West Ham,2020-10-31,Liverpool,eng Premier League,L 1-2,1,2,-1,28,1,0,0,0,440,86,201,166,78,8,440,Match Report
+640,Chelsea,2020-10-31,Burnley,eng Premier League,W 3-0,3,0,+3,63,3,0,0,0,827,55,205,255,179,24,827,Match Report
+641,Burnley,2020-10-31,Chelsea,eng Premier League,L 0-3,0,3,-3,37,0,0,0,0,506,56,144,255,82,7,506,Match Report
+642,Sheffield Utd,2020-10-31,Manchester City,eng Premier League,L 0-1,0,1,-1,35,0,0,0,0,515,65,173,206,139,13,515,Match Report
+643,Wolves,2020-10-30,Crystal Palace,eng Premier League,W 2-0,2,0,+2,45,2,0,0,0,587,52,144,255,170,28,587,Match Report
+644,Crystal Palace,2020-10-30,Wolves,eng Premier League,L 0-2,0,2,-2,55,0,0,0,0,686,55,161,255,131,18,686,Match Report
+645,Burnley,2020-10-26,Tottenham,eng Premier League,L 0-1,0,1,-1,39,0,0,0,0,503,58,153,239,117,10,503,Match Report
+646,Brighton,2020-10-26,West Brom,eng Premier League,D 1-1,1,1,0,50,0,0,0,0,621,66,218,255,131,14,621,Match Report
+647,Tottenham,2020-10-26,Burnley,eng Premier League,W 1-0,1,0,+1,61,1,0,0,0,738,58,212,255,145,23,738,Match Report
+648,West Brom,2020-10-26,Brighton,eng Premier League,D 1-1,1,1,0,50,1,0,0,0,644,62,202,255,171,17,644,Match Report
+649,Leicester City,2020-10-25,Arsenal,eng Premier League,W 1-0,1,0,+1,44,1,0,0,0,579,76,198,255,106,7,579,Match Report
+650,Everton,2020-10-25,Southampton,eng Premier League,L 0-2,0,2,-2,46,0,0,0,0,647,50,205,255,108,15,647,Match Report
+651,Newcastle Utd,2020-10-25,Wolves,eng Premier League,D 1-1,1,1,0,37,1,0,0,0,526,67,235,213,85,7,526,Match Report
+652,Arsenal,2020-10-25,Leicester City,eng Premier League,L 0-1,0,1,-1,56,0,0,0,0,724,34,138,255,153,21,724,Match Report
+653,Wolves,2020-10-25,Newcastle Utd,eng Premier League,D 1-1,1,1,0,63,1,0,0,0,834,32,194,255,207,15,834,Match Report
+654,Southampton,2020-10-25,Everton,eng Premier League,W 2-0,2,0,+2,54,2,0,0,0,762,57,191,255,148,23,762,Match Report
+655,Chelsea,2020-10-24,Manchester Utd,eng Premier League,D 0-0,0,0,0,49,0,0,0,0,753,76,255,255,136,11,753,Match Report
+656,Liverpool,2020-10-24,Sheffield Utd,eng Premier League,W 2-1,2,1,+1,62,2,0,0,0,843,82,218,255,215,29,843,Match Report
+657,Fulham,2020-10-24,Crystal Palace,eng Premier League,L 1-2,1,2,-1,64,1,0,0,0,800,46,167,255,242,27,800,Match Report
+658,Manchester City,2020-10-24,West Ham,eng Premier League,D 1-1,1,1,0,69,1,0,0,0,897,48,153,255,245,31,897,Match Report
+659,Sheffield Utd,2020-10-24,Liverpool,eng Premier League,L 1-2,1,2,-1,38,0,1,1,0,577,68,176,223,186,29,576,Match Report
+660,Manchester Utd,2020-10-24,Chelsea,eng Premier League,D 0-0,0,0,0,51,0,0,0,0,750,60,185,255,195,20,750,Match Report
+661,Crystal Palace,2020-10-24,Fulham,eng Premier League,W 2-1,2,1,+1,36,2,0,0,0,523,66,212,215,102,24,523,Match Report
+662,West Ham,2020-10-24,Manchester City,eng Premier League,D 1-1,1,1,0,31,1,0,0,0,452,92,211,173,74,10,452,Match Report
+663,Aston Villa,2020-10-23,Leeds United,eng Premier League,L 0-3,0,3,-3,41,0,0,0,0,444,77,162,170,116,23,444,Match Report
+664,Leeds United,2020-10-23,Aston Villa,eng Premier League,W 3-0,3,0,+3,59,3,0,0,0,616,60,196,241,190,45,616,Match Report
+665,Wolves,2020-10-19,Leeds United,eng Premier League,W 1-0,1,0,+1,34,1,0,0,0,422,76,189,158,80,13,422,Match Report
+666,Burnley,2020-10-19,West Brom,eng Premier League,D 0-0,0,0,0,43,0,0,0,0,496,56,160,230,113,16,496,Match Report
+667,Leeds United,2020-10-19,Wolves,eng Premier League,L 0-1,0,1,-1,66,0,0,0,0,699,51,179,255,208,34,699,Match Report
+668,West Brom,2020-10-19,Burnley,eng Premier League,D 0-0,0,0,0,57,0,0,0,0,634,80,225,255,140,20,634,Match Report
+669,Fulham,2020-10-18,Sheffield Utd,eng Premier League,D 1-1,1,1,0,58,1,0,1,1,709,65,232,255,134,19,708,Match Report
+670,West Ham,2020-10-18,Tottenham,eng Premier League,D 3-3,3,3,0,50,2,0,0,0,620,38,138,255,181,26,620,Match Report
+671,Brighton,2020-10-18,Crystal Palace,eng Premier League,D 1-1,1,1,0,66,1,0,0,0,711,41,164,255,195,33,711,Match Report
+672,Tottenham,2020-10-18,West Ham,eng Premier League,D 3-3,3,3,0,50,3,0,0,0,674,80,240,255,106,13,674,Match Report
+673,Leicester City,2020-10-18,Aston Villa,eng Premier League,L 0-1,0,1,-1,50,0,0,0,0,566,70,209,238,128,22,566,Match Report
+674,Aston Villa,2020-10-18,Leicester City,eng Premier League,W 1-0,1,0,+1,50,1,0,0,0,550,70,180,229,146,32,550,Match Report
+675,Crystal Palace,2020-10-18,Brighton,eng Premier League,D 1-1,1,1,0,34,0,1,1,0,420,62,176,183,65,4,419,Match Report
+676,Sheffield Utd,2020-10-18,Fulham,eng Premier League,D 1-1,1,1,0,42,0,1,1,0,544,49,129,255,136,14,543,Match Report
+677,Manchester City,2020-10-17,Arsenal,eng Premier League,W 1-0,1,0,+1,58,1,0,0,0,771,66,169,255,204,24,771,Match Report
+678,Newcastle Utd,2020-10-17,Manchester Utd,eng Premier League,L 1-4,1,4,-3,37,0,0,0,0,507,83,209,246,62,13,507,Match Report
+679,Chelsea,2020-10-17,Southampton,eng Premier League,D 3-3,3,3,0,53,3,0,0,0,751,76,255,255,156,28,751,Match Report
+680,Everton,2020-10-17,Liverpool,eng Premier League,D 2-2,2,2,0,42,2,0,0,0,522,89,198,225,102,12,522,Match Report
+681,Manchester Utd,2020-10-17,Newcastle Utd,eng Premier League,W 4-1,4,1,+3,63,4,0,1,1,786,39,186,255,228,39,785,Match Report
+682,Southampton,2020-10-17,Chelsea,eng Premier League,D 3-3,3,3,0,47,3,0,0,0,657,61,167,255,174,19,657,Match Report
+683,Liverpool,2020-10-17,Everton,eng Premier League,D 2-2,2,2,0,58,2,0,0,0,676,54,150,255,185,37,676,Match Report
+684,Arsenal,2020-10-17,Manchester City,eng Premier League,L 0-1,0,1,-1,42,0,0,0,0,587,91,255,239,92,13,587,Match Report
+685,Sheffield Utd,2020-10-04,Arsenal,eng Premier League,L 1-2,1,2,-1,36,1,0,0,0,507,56,137,219,157,15,507,Match Report
+686,Tottenham,2020-10-04,Manchester Utd,eng Premier League,W 6-1,6,1,+5,61,5,1,1,0,818,63,231,255,141,24,817,Match Report
+687,Arsenal,2020-10-04,Sheffield Utd,eng Premier League,W 2-1,2,1,+1,64,2,0,0,0,827,81,250,255,169,14,827,Match Report
+688,West Brom,2020-10-04,Southampton,eng Premier League,L 0-2,0,2,-2,38,0,0,0,0,487,54,166,232,93,9,487,Match Report
+689,Manchester Utd,2020-10-04,Tottenham,eng Premier League,L 1-6,1,6,-5,39,0,1,1,0,545,50,159,255,138,12,544,Match Report
+690,Southampton,2020-10-04,West Brom,eng Premier League,W 2-0,2,0,+2,62,2,0,0,0,669,48,191,255,136,21,669,Match Report
+691,Leicester City,2020-10-04,West Ham,eng Premier League,L 0-3,0,3,-3,69,0,0,0,0,822,45,190,255,194,21,822,Match Report
+692,Aston Villa,2020-10-04,Liverpool,eng Premier League,W 7-2,7,2,+5,31,7,0,0,0,447,71,160,186,108,30,447,Match Report
+693,Liverpool,2020-10-04,Aston Villa,eng Premier League,L 2-7,2,7,-5,69,2,0,0,0,817,70,232,255,218,43,817,Match Report
+694,Fulham,2020-10-04,Wolves,eng Premier League,L 0-1,0,1,-1,52,0,0,0,0,673,49,209,255,153,16,673,Match Report
+695,West Ham,2020-10-04,Leicester City,eng Premier League,W 3-0,3,0,+3,31,3,0,0,0,450,70,187,187,85,20,450,Match Report
+696,Wolves,2020-10-04,Fulham,eng Premier League,W 1-0,1,0,+1,48,1,0,0,0,614,55,183,255,131,15,614,Match Report
+697,Chelsea,2020-10-03,Crystal Palace,eng Premier League,W 4-0,4,0,+4,70,2,2,2,0,853,64,235,255,193,17,851,Match Report
+698,Manchester City,2020-10-03,Leeds United,eng Premier League,D 1-1,1,1,0,49,1,0,0,0,562,54,132,248,197,45,562,Match Report
+699,Newcastle Utd,2020-10-03,Burnley,eng Premier League,W 3-1,3,1,+2,48,2,1,1,0,567,69,196,255,122,16,566,Match Report
+700,Burnley,2020-10-03,Newcastle Utd,eng Premier League,L 1-3,1,3,-2,52,1,0,0,0,589,43,165,255,118,30,589,Match Report
+701,Crystal Palace,2020-10-03,Chelsea,eng Premier League,L 0-4,0,4,-4,30,0,0,0,0,422,49,137,196,90,12,422,Match Report
+702,Everton,2020-10-03,Brighton,eng Premier League,W 4-2,4,2,+2,43,4,0,0,0,624,74,213,255,117,17,624,Match Report
+703,Brighton,2020-10-03,Everton,eng Premier League,L 2-4,2,4,-2,57,2,0,0,0,754,49,197,255,221,23,754,Match Report
+704,Leeds United,2020-10-03,Manchester City,eng Premier League,D 1-1,1,1,0,51,1,0,0,0,600,104,255,229,104,21,600,Match Report
+705,Liverpool,2020-09-28,Arsenal,eng Premier League,W 3-1,3,1,+2,66,3,0,0,0,920,50,185,255,218,32,920,Match Report
+706,Arsenal,2020-09-28,Liverpool,eng Premier League,L 1-3,1,3,-2,34,1,0,0,0,532,119,255,174,44,10,532,Match Report
+707,Fulham,2020-09-28,Aston Villa,eng Premier League,L 0-3,0,3,-3,64,0,0,0,0,712,53,203,255,202,30,712,Match Report
+708,Aston Villa,2020-09-28,Fulham,eng Premier League,W 3-0,3,0,+3,36,3,0,0,0,471,89,214,159,109,25,471,Match Report
+709,Leeds United,2020-09-27,Sheffield Utd,eng Premier League,W 1-0,1,0,+1,64,1,0,0,0,755,69,244,255,192,20,755,Match Report
+710,Newcastle Utd,2020-09-27,Tottenham,eng Premier League,D 1-1,1,1,0,34,0,1,1,0,465,75,195,187,91,13,464,Match Report
+711,Sheffield Utd,2020-09-27,Leeds United,eng Premier League,L 0-1,0,1,-1,36,0,0,0,0,508,72,166,219,131,29,508,Match Report
+712,Wolves,2020-09-27,West Ham,eng Premier League,L 0-4,0,4,-4,63,0,0,0,0,771,40,165,255,154,17,771,Match Report
+713,West Ham,2020-09-27,Wolves,eng Premier League,W 4-0,4,0,+4,37,3,0,0,0,512,67,175,252,92,19,512,Match Report
+714,Manchester City,2020-09-27,Leicester City,eng Premier League,L 2-5,2,5,-3,72,2,0,0,0,817,25,85,255,255,17,817,Match Report
+715,Tottenham,2020-09-27,Newcastle Utd,eng Premier League,D 1-1,1,1,0,66,1,0,0,0,788,38,129,255,226,35,788,Match Report
+716,Leicester City,2020-09-27,Manchester City,eng Premier League,W 5-2,5,2,+3,28,2,3,3,0,397,77,214,132,56,9,394,Match Report
+717,Brighton,2020-09-26,Manchester Utd,eng Premier League,L 2-3,2,3,-1,53,1,1,1,0,628,61,222,228,190,28,627,Match Report
+718,Burnley,2020-09-26,Southampton,eng Premier League,L 0-1,0,1,-1,53,0,0,0,0,696,51,191,255,140,24,696,Match Report
+719,Everton,2020-09-26,Crystal Palace,eng Premier League,W 2-1,2,1,+1,58,1,1,1,0,697,76,255,255,112,14,696,Match Report
+720,Chelsea,2020-09-26,West Brom,eng Premier League,D 3-3,3,3,0,75,3,0,0,0,960,44,181,255,255,36,960,Match Report
+721,Southampton,2020-09-26,Burnley,eng Premier League,W 1-0,1,0,+1,47,1,0,0,0,652,64,177,255,87,12,652,Match Report
+722,West Brom,2020-09-26,Chelsea,eng Premier League,D 3-3,3,3,0,25,3,0,0,0,415,76,178,150,92,11,415,Match Report
+723,Manchester Utd,2020-09-26,Brighton,eng Premier League,W 3-2,3,2,+1,47,1,1,1,0,581,68,209,255,103,17,580,Match Report
+724,Crystal Palace,2020-09-26,Everton,eng Premier League,L 1-2,1,2,-1,42,1,0,0,0,537,35,143,250,150,19,537,Match Report
+725,Aston Villa,2020-09-21,Sheffield Utd,eng Premier League,W 1-0,1,0,+1,71,1,0,0,0,707,61,159,255,255,44,707,Match Report
+726,Sheffield Utd,2020-09-21,Aston Villa,eng Premier League,L 0-1,0,1,-1,29,0,0,1,1,347,77,159,125,67,10,346,Match Report
+727,Manchester City,2020-09-21,Wolves,eng Premier League,W 3-1,3,1,+2,65,2,1,1,0,823,57,191,255,182,19,822,Match Report
+728,Wolves,2020-09-21,Manchester City,eng Premier League,L 1-3,1,3,-2,35,1,0,0,0,510,57,178,255,68,14,510,Match Report
+729,Tottenham,2020-09-20,Southampton,eng Premier League,W 5-2,5,2,+3,49,5,0,0,0,549,59,229,255,55,8,549,Match Report
+730,Southampton,2020-09-20,Tottenham,eng Premier League,L 2-5,2,5,-3,51,1,1,1,0,576,28,143,255,135,18,575,Match Report
+731,Chelsea,2020-09-20,Liverpool,eng Premier League,L 0-2,0,2,-2,39,0,0,1,1,637,138,255,235,49,12,636,Match Report
+732,Leicester City,2020-09-20,Burnley,eng Premier League,W 4-2,4,2,+2,67,3,0,0,0,766,68,229,255,217,36,766,Match Report
+733,Burnley,2020-09-20,Leicester City,eng Premier League,L 2-4,2,4,-2,33,2,0,0,0,448,63,134,207,108,24,448,Match Report
+734,Brighton,2020-09-20,Newcastle Utd,eng Premier League,W 3-0,3,0,+3,53,2,1,1,0,567,67,208,251,116,12,566,Match Report
+735,Liverpool,2020-09-20,Chelsea,eng Premier League,W 2-0,2,0,+2,61,2,0,0,0,900,29,114,255,255,38,900,Match Report
+736,Newcastle Utd,2020-09-20,Brighton,eng Premier League,L 0-3,0,3,-3,47,0,0,0,0,504,42,147,248,110,10,504,Match Report
+737,West Ham,2020-09-19,Arsenal,eng Premier League,L 1-2,1,2,-1,38,1,0,0,0,540,68,178,238,129,19,540,Match Report
+738,Crystal Palace,2020-09-19,Manchester Utd,eng Premier League,W 3-1,3,1,+2,25,2,1,1,0,401,61,192,133,89,18,400,Match Report
+739,Manchester Utd,2020-09-19,Crystal Palace,eng Premier League,L 1-3,1,3,-2,75,1,0,0,0,870,45,165,255,255,34,870,Match Report
+740,Fulham,2020-09-19,Leeds United,eng Premier League,L 3-4,3,4,-1,49,2,1,1,0,615,55,195,255,151,13,614,Match Report
+741,Everton,2020-09-19,West Brom,eng Premier League,W 5-2,5,2,+3,71,5,0,0,0,944,62,255,255,188,37,944,Match Report
+742,Arsenal,2020-09-19,West Ham,eng Premier League,W 2-1,2,1,+1,62,2,0,0,0,804,70,219,255,166,28,804,Match Report
+743,West Brom,2020-09-19,Everton,eng Premier League,L 2-5,2,5,-3,29,2,0,0,0,461,70,207,174,82,14,461,Match Report
+744,Leeds United,2020-09-19,Fulham,eng Premier League,W 4-3,4,3,+1,51,3,1,1,0,601,64,245,242,121,17,600,Match Report
+745,Wolves,2020-09-14,Sheffield Utd,eng Premier League,W 2-0,2,0,+2,45,2,0,0,0,559,74,255,223,75,12,559,Match Report
+746,Sheffield Utd,2020-09-14,Wolves,eng Premier League,L 0-2,0,2,-2,55,0,0,0,0,620,32,108,248,255,28,620,Match Report
+747,Brighton,2020-09-14,Chelsea,eng Premier League,L 1-3,1,3,-2,52,1,0,0,0,648,66,225,255,157,14,648,Match Report
+748,Chelsea,2020-09-14,Brighton,eng Premier League,W 3-1,3,1,+2,48,2,1,1,0,614,60,248,255,110,18,613,Match Report
+749,Everton,2020-09-13,Tottenham,eng Premier League,W 1-0,1,0,+1,48,1,0,0,0,684,80,242,255,94,18,684,Match Report
+750,Leicester City,2020-09-13,West Brom,eng Premier League,W 3-0,3,0,+3,64,1,2,2,0,751,47,233,255,127,21,749,Match Report
+751,West Brom,2020-09-13,Leicester City,eng Premier League,L 0-3,0,3,-3,36,0,0,0,0,466,62,169,200,102,9,466,Match Report
+752,Tottenham,2020-09-13,Everton,eng Premier League,L 0-1,0,1,-1,52,0,0,0,0,695,58,168,255,167,19,695,Match Report
+753,Fulham,2020-09-12,Arsenal,eng Premier League,L 0-3,0,3,-3,46,0,0,0,0,638,72,221,255,133,3,638,Match Report
+754,Crystal Palace,2020-09-12,Southampton,eng Premier League,W 1-0,1,0,+1,31,1,0,0,0,400,53,141,173,91,14,400,Match Report
+755,Southampton,2020-09-12,Crystal Palace,eng Premier League,L 0-1,0,1,-1,69,0,0,0,0,746,49,233,255,152,21,746,Match Report
+756,Liverpool,2020-09-12,Leeds United,eng Premier League,W 4-3,4,3,+1,49,2,2,2,0,612,35,131,255,220,44,610,Match Report
+757,Newcastle Utd,2020-09-12,West Ham,eng Premier League,W 2-0,2,0,+2,42,2,0,0,0,495,60,164,225,117,24,495,Match Report
+758,Leeds United,2020-09-12,Liverpool,eng Premier League,L 3-4,3,4,-1,51,3,0,0,0,660,127,255,224,82,13,660,Match Report
+759,West Ham,2020-09-12,Newcastle Utd,eng Premier League,L 0-2,0,2,-2,58,0,0,0,0,620,51,150,255,140,27,620,Match Report
+760,Arsenal,2020-09-12,Fulham,eng Premier League,W 3-0,3,0,+3,54,3,0,0,0,742,59,255,255,145,26,742,Match Report
