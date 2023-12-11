@@ -1,6 +1,6 @@
 # Project for Introduction to Data Science 
 University of Tartu 2023
-Author: Erko Olumets
+Author: Erko Olumets, team C-13
 
 Project uses data from the English Premier League (EPL) seasons 19/20 to 22/23 first ten gameweeks, to predict match outcomes of season 22/23 gameweeks 11-38.
 These probabilities are taken and compared to historical betting data odds from 22/23 season to see if the model would be profitable.
